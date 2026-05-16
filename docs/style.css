@@ -99,6 +99,10 @@ main {
   background: #a855f7;
 }
 
+.entergy-lines {
+  background: linear-gradient(90deg, #16a34a 0 48%, #f8fafc 48% 52%, #dc2626 52% 100%);
+}
+
 hr {
   border: none;
   border-top: 1px solid #334155;
