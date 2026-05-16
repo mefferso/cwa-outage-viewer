@@ -18,9 +18,12 @@ const ENTERGY_COUNTY_URL = "data/entergy_county.json";
 
 const REFRESH_MS = 5 * 60 * 1000;
 
+const INITIAL_MAP_CENTER = [30.55, -90.75];
+const INITIAL_MAP_ZOOM = 7;
+
 const map = L.map("map", {
   preferCanvas: true
-}).setView([30.55, -90.75], 9);
+}).setView(INITIAL_MAP_CENTER, INITIAL_MAP_ZOOM);
 
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
@@ -137,8 +140,9 @@ function getEntergyClusters(payload) {
 }
 
 function getEntergyCountyAffected(payload) {
-  if (!Array.isArray(payload)) return 0;
-  return payload.reduce((total, row) => total + Number(row.customersAffected || 0), 0);
+  const rows = Array.isArray(payload) ? payload : payload?.data;
+  if (!Array.isArray(rows)) return 0;
+  return rows.reduce((total, row) => total + Number(row.customersAffected || 0), 0);
 }
 
 function demcoPopupHtml(line, layerName) {
@@ -296,24 +300,7 @@ function drawEntergyClusters(features) {
   }
 }
 
-function fitToOutagesIfAvailable() {
-  const featureGroups = [
-    demcoTempLayerGroup,
-    clecoLayerGroup,
-    entergyLayerGroup,
-    demcoBaseLayerGroup
-  ];
-
-  for (const group of featureGroups) {
-    const bounds = group.getBounds?.();
-    if (bounds && bounds.isValid()) {
-      map.fitBounds(bounds.pad(0.35));
-      return;
-    }
-  }
-}
-
-async function loadData({ fitMap = false } = {}) {
+async function loadData() {
   els.statusText.textContent = "Loading outage data...";
   const warnings = [];
 
@@ -330,7 +317,7 @@ async function loadData({ fitMap = false } = {}) {
   const demcoTempData = getSettledValue(demcoTempResult, { lines: [] }, "DEMCO outage", warnings);
   const clecoData = getSettledValue(clecoResult, { data: [] }, "Cleco cached outages", warnings);
   const entergyClusterData = getSettledValue(entergyClusterResult, { features: [] }, "Entergy clusters", warnings);
-  const entergyCountyData = getSettledValue(entergyCountyResult, [], "Entergy county summary", warnings);
+  const entergyCountyData = getSettledValue(entergyCountyResult, { data: [] }, "Entergy county summary", warnings);
 
   const demcoBaseLines = Array.isArray(demcoBaseData.lines) ? demcoBaseData.lines : [];
   const demcoTempLines = Array.isArray(demcoTempData.lines) ? demcoTempData.lines : [];
@@ -365,8 +352,6 @@ async function loadData({ fitMap = false } = {}) {
   els.statusText.textContent = warnings.length
     ? `${status} Missing: ${warnings.join(", ")}.`
     : status;
-
-  if (fitMap) fitToOutagesIfAvailable();
 }
 
 function wireLayerToggle(checkbox, layerGroup) {
@@ -382,8 +367,8 @@ wireLayerToggle(els.toggleCleco, clecoLayerGroup);
 wireLayerToggle(els.toggleEntergy, entergyLayerGroup);
 
 els.refreshBtn.addEventListener("click", () => {
-  loadData({ fitMap: true });
+  loadData();
 });
 
-loadData({ fitMap: true });
-setInterval(() => loadData({ fitMap: false }), REFRESH_MS);
+loadData();
+setInterval(loadData, REFRESH_MS);
