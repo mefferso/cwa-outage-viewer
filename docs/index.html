@@ -18,7 +18,7 @@
     <header class="topbar">
       <div>
         <h1>CWA Outage Viewer</h1>
-        <p>DEMCO conductor-line outage viewer</p>
+        <p>DEMCO conductor lines + Cleco outage locations</p>
       </div>
 
       <div class="status-card">
@@ -32,39 +32,56 @@
         <h2>Layers</h2>
 
         <label class="layer-toggle">
-          <input type="checkbox" id="toggleBase" checked />
+          <input type="checkbox" id="toggleDemcoBase" checked />
           <span class="swatch green"></span>
           DEMCO normal/base lines
         </label>
 
         <label class="layer-toggle">
-          <input type="checkbox" id="toggleTemp" checked />
+          <input type="checkbox" id="toggleDemcoTemp" checked />
           <span class="swatch red"></span>
           DEMCO outage/temp lines
+        </label>
+
+        <label class="layer-toggle">
+          <input type="checkbox" id="toggleCleco" checked />
+          <span class="swatch cleco"></span>
+          Cleco outage locations
         </label>
 
         <hr />
 
         <div class="metric">
-          <span>Base lines</span>
-          <strong id="baseCount">--</strong>
+          <span>DEMCO base lines</span>
+          <strong id="demcoBaseCount">--</strong>
         </div>
 
         <div class="metric">
-          <span>Outage lines</span>
-          <strong id="tempCount">--</strong>
+          <span>DEMCO outage lines</span>
+          <strong id="demcoTempCount">--</strong>
         </div>
 
         <div class="metric">
-          <span>Data zoom</span>
+          <span>Cleco outage incidents</span>
+          <strong id="clecoIncidentCount">--</strong>
+        </div>
+
+        <div class="metric">
+          <span>Cleco customers affected</span>
+          <strong id="clecoAffectedCount">--</strong>
+        </div>
+
+        <div class="metric">
+          <span>DEMCO data zoom</span>
           <strong id="dataZoom">10</strong>
         </div>
 
         <button id="refreshBtn">Refresh now</button>
 
         <p class="note">
-          Green = DEMCO base conductor layer. Red = DEMCO temp/outage overlay.
-          This is utility outage data, not confirmed storm damage.
+          Green = DEMCO base conductor layer. Red lines = DEMCO temp/outage overlay.
+          Red/orange circles = Cleco-reported outage locations. Utility outage data is
+          not confirmed storm damage.
         </p>
       </aside>
 
