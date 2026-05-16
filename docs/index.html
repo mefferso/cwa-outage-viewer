@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>CWA Outage Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="app">
+    <header class="topbar">
+      <div>
+        <h1>CWA Outage Viewer</h1>
+        <p>DEMCO conductor-line outage viewer</p>
+      </div>
+
+      <div class="status-card">
+        <div id="statusText">Loading...</div>
+        <div id="lastUpdated">Last update: --</div>
+      </div>
+    </header>
+
+    <main>
+      <aside class="sidebar">
+        <h2>Layers</h2>
+
+        <label class="layer-toggle">
+          <input type="checkbox" id="toggleBase" checked />
+          <span class="swatch green"></span>
+          DEMCO normal/base lines
+        </label>
+
+        <label class="layer-toggle">
+          <input type="checkbox" id="toggleTemp" checked />
+          <span class="swatch red"></span>
+          DEMCO outage/temp lines
+        </label>
+
+        <hr />
+
+        <div class="metric">
+          <span>Base lines</span>
+          <strong id="baseCount">--</strong>
+        </div>
+
+        <div class="metric">
+          <span>Outage lines</span>
+          <strong id="tempCount">--</strong>
+        </div>
+
+        <div class="metric">
+          <span>Data zoom</span>
+          <strong id="dataZoom">10</strong>
+        </div>
+
+        <button id="refreshBtn">Refresh now</button>
+
+        <p class="note">
+          Green = DEMCO base conductor layer. Red = DEMCO temp/outage overlay.
+          This is utility outage data, not confirmed storm damage.
+        </p>
+      </aside>
+
+      <section id="map"></section>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
