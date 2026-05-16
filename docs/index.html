@@ -18,7 +18,7 @@
     <header class="topbar">
       <div>
         <h1>CWA Outage Viewer</h1>
-        <p>DEMCO conductor lines + Cleco/Entergy outage locations</p>
+        <p>DEMCO conductor lines + Entergy red/green line tiles + Cleco/Entergy outage locations</p>
       </div>
 
       <div class="status-card">
@@ -41,6 +41,12 @@
           <input type="checkbox" id="toggleDemcoTemp" checked />
           <span class="swatch red"></span>
           DEMCO outage/temp lines
+        </label>
+
+        <label class="layer-toggle">
+          <input type="checkbox" id="toggleEntergyLines" checked />
+          <span class="swatch entergy-lines"></span>
+          Entergy red/green line tiles
         </label>
 
         <label class="layer-toggle">
@@ -96,8 +102,10 @@
 
         <p class="note">
           Green = DEMCO base conductor layer. Red lines = DEMCO temp/outage overlay.
-          Orange circles = Cleco-reported outage locations. Purple circles = Entergy
-          outage clusters. Utility outage data is not confirmed storm damage.
+          Entergy red/green line tiles are public PNG raster tiles, so they are visual-only
+          and not clickable/queryable like DEMCO conductor geometry. Orange circles =
+          Cleco-reported outage locations. Purple circles = Entergy outage clusters.
+          Utility outage data is not confirmed storm damage.
         </p>
       </aside>
 
