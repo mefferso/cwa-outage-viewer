@@ -1,4 +1,4 @@
-name: Update Cleco outage cache
+name: Update utility outage caches
 
 on:
   workflow_dispatch:
@@ -9,11 +9,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-cleco-cache
+  group: update-utility-outage-caches
   cancel-in-progress: true
 
 jobs:
-  update-cleco-cache:
+  update-outage-caches:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,43 +25,102 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Fetch Cleco outage data
+      - name: Fetch utility outage data
         run: |
           python - <<'PY'
           import json
           import pathlib
+          import urllib.parse
           import urllib.request
           from datetime import datetime, timezone
 
-          url = "https://cleco-prod.azure-api.net/outage/api/1/outage/alloutages/2/1"
-          out_path = pathlib.Path("docs/data/cleco_outages.json")
-          out_path.parent.mkdir(parents=True, exist_ok=True)
+          data_dir = pathlib.Path("docs/data")
+          data_dir.mkdir(parents=True, exist_ok=True)
 
-          request = urllib.request.Request(
-              url,
+          def fetch_json(url, headers=None, timeout=30):
+              request = urllib.request.Request(
+                  url,
+                  headers=headers or {
+                      "Accept": "application/json, text/plain, */*",
+                      "User-Agent": "Mozilla/5.0 GitHubActions cwa-outage-viewer",
+                  },
+              )
+              with urllib.request.urlopen(request, timeout=timeout) as response:
+                  return json.loads(response.read().decode("utf-8"))
+
+          def write_json(path, payload):
+              payload["cachedAtUtc"] = datetime.now(timezone.utc).isoformat()
+              path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
+              print(f"Wrote {path}")
+
+          cleco_url = "https://cleco-prod.azure-api.net/outage/api/1/outage/alloutages/2/1"
+          cleco_payload = fetch_json(
+              cleco_url,
               headers={
                   "Accept": "application/json, text/plain, */*",
                   "User-Agent": "Mozilla/5.0 GitHubActions cwa-outage-viewer",
                   "Referer": "https://myaccount.cleco.com/",
               },
           )
+          cleco_payload["sourceName"] = "Cleco outage map API"
+          write_json(data_dir / "cleco_outages.json", cleco_payload)
+          print(f"Cleco incidents: {len(cleco_payload.get('data', []))}")
 
-          with urllib.request.urlopen(request, timeout=30) as response:
-              payload = json.loads(response.read().decode("utf-8"))
+          entergy_cluster_params = {
+              "geometry": json.dumps({
+                  "spatialReference": {"latestWkid": 3857, "wkid": 102100},
+                  "xmin": -10362720.64213487,
+                  "xmax": -9953629.666752627,
+                  "ymin": 3417039.9970682003,
+                  "ymax": 3906236.9780933037,
+              }, separators=(",", ":")),
+              "outFields": "clustercount,numpeople,objectid,id,xminimum,xmaximum,yminimum,ymaximum",
+              "where": "1=1 AND ((zoomLevel = 6) AND ((zoomLevel = 6 ) OR (zoomLevel =6 AND id IS NULL)))",
+              "outSR": "4326",
+              "f": "json",
+          }
+          entergy_cluster_url = (
+              "https://arcgis.entergy.datacapable.com/arcgis/rest/services/Public/MapServer/2/query?"
+              + urllib.parse.urlencode(entergy_cluster_params)
+          )
+          entergy_clusters = fetch_json(
+              entergy_cluster_url,
+              headers={
+                  "Accept": "application/json, text/plain, */*",
+                  "User-Agent": "Mozilla/5.0 GitHubActions cwa-outage-viewer",
+                  "Referer": "https://www.etrviewoutage.com/",
+              },
+          )
+          entergy_clusters["sourceName"] = "Entergy outage cluster ArcGIS layer"
+          write_json(data_dir / "entergy_clusters.json", entergy_clusters)
+          print(f"Entergy clusters: {len(entergy_clusters.get('features', []))}")
 
-          payload["cachedAtUtc"] = datetime.now(timezone.utc).isoformat()
-          payload["sourceName"] = "Cleco outage map API"
-
-          out_path.write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n", encoding="utf-8")
-          print(f"Wrote {out_path}")
-          print(f"Incidents: {len(payload.get('data', []))}")
+          entergy_county_url = "https://entergy.datacapable.com/datacapable/v1/entergy/EntergyLouisiana/county"
+          entergy_counties = fetch_json(
+              entergy_county_url,
+              headers={
+                  "Accept": "application/json, text/plain, */*",
+                  "User-Agent": "Mozilla/5.0 GitHubActions cwa-outage-viewer",
+                  "Referer": "https://www.etrviewoutage.com/",
+              },
+          )
+          if isinstance(entergy_counties, list):
+              county_payload = {
+                  "data": entergy_counties,
+                  "sourceName": "Entergy Louisiana county outage summary",
+              }
+          else:
+              county_payload = entergy_counties
+              county_payload["sourceName"] = "Entergy Louisiana county outage summary"
+          write_json(data_dir / "entergy_county.json", county_payload)
+          print(f"Entergy county rows: {len(county_payload.get('data', []))}")
           PY
 
-      - name: Commit updated Cleco cache
+      - name: Commit updated utility caches
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/cleco_outages.json
-          git diff --cached --quiet && echo "No Cleco cache changes" && exit 0
-          git commit -m "Update Cleco outage cache"
+          git add docs/data/cleco_outages.json docs/data/entergy_clusters.json docs/data/entergy_county.json
+          git diff --cached --quiet && echo "No utility cache changes" && exit 0
+          git commit -m "Update utility outage caches"
           git push
