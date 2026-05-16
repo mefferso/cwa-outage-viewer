@@ -13,10 +13,9 @@ const DEMCO_BASE_URL =
 const DEMCO_TEMP_URL =
   `https://cache.sienatech.com/apex/siena_ords/webmaps/lines/DEMCO/temp?zoom=${DATA_ZOOM}`;
 
-// Cleco public outage API discovered from Cleco outage map XHR calls.
-// alloutages/2/1 returns mapped incident/location records with lat/lon.
-const CLECO_OUTAGES_URL =
-  "https://cleco-prod.azure-api.net/outage/api/1/outage/alloutages/2/1";
+// Cleco blocks browser-side cross-origin fetches from GitHub Pages, so the
+// GitHub Action caches this API response into docs/data/cleco_outages.json.
+const CLECO_OUTAGES_URL = "data/cleco_outages.json";
 
 const REFRESH_MS = 5 * 60 * 1000;
 
@@ -30,9 +29,9 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors"
 }).addTo(map);
 
-const demcoBaseLayerGroup = L.layerGroup().addTo(map);
-const demcoTempLayerGroup = L.layerGroup().addTo(map);
-const clecoLayerGroup = L.layerGroup().addTo(map);
+const demcoBaseLayerGroup = L.featureGroup().addTo(map);
+const demcoTempLayerGroup = L.featureGroup().addTo(map);
+const clecoLayerGroup = L.featureGroup().addTo(map);
 
 const els = {
   statusText: document.getElementById("statusText"),
@@ -92,7 +91,8 @@ function decodePolyline(encoded, precision = 5) {
 }
 
 async function fetchJson(url) {
-  const response = await fetch(url, {
+  const cacheBust = url.includes("?") ? `&v=${Date.now()}` : `?v=${Date.now()}`;
+  const response = await fetch(`${url}${cacheBust}`, {
     cache: "no-store"
   });
 
@@ -111,6 +111,16 @@ function formatNumber(value) {
 function formatClecoTime(value) {
   if (!value) return "Unknown";
   return String(value).replace(/^0/, "");
+}
+
+function getSettledValue(result, fallback, label, warnings) {
+  if (result.status === "fulfilled") {
+    return result.value;
+  }
+
+  console.warn(`${label} failed to load`, result.reason);
+  warnings.push(label);
+  return fallback;
 }
 
 function getClecoIncidents(payload) {
@@ -258,57 +268,69 @@ function fitToOutagesIfAvailable() {
 }
 
 async function loadData({ fitMap = false } = {}) {
-  try {
-    els.statusText.textContent = "Loading outage data...";
+  els.statusText.textContent = "Loading outage data...";
 
-    const [demcoBaseData, demcoTempData, clecoData] = await Promise.all([
-      fetchJson(DEMCO_BASE_URL),
-      fetchJson(DEMCO_TEMP_URL),
-      fetchJson(CLECO_OUTAGES_URL)
-    ]);
+  const warnings = [];
 
-    const demcoBaseLines = Array.isArray(demcoBaseData.lines)
-      ? demcoBaseData.lines
-      : [];
-    const demcoTempLines = Array.isArray(demcoTempData.lines)
-      ? demcoTempData.lines
-      : [];
-    const clecoIncidents = getClecoIncidents(clecoData);
-    const clecoAffected = clecoIncidents.reduce(
-      (total, incident) => total + Number(incident.affectedCount || 0),
-      0
-    );
+  const [demcoBaseResult, demcoTempResult, clecoResult] = await Promise.allSettled([
+    fetchJson(DEMCO_BASE_URL),
+    fetchJson(DEMCO_TEMP_URL),
+    fetchJson(CLECO_OUTAGES_URL)
+  ]);
 
-    drawDemcoBaseLines(demcoBaseLines);
-    drawDemcoTempLines(demcoTempLines);
-    drawClecoOutages(clecoIncidents);
+  const demcoBaseData = getSettledValue(
+    demcoBaseResult,
+    { lines: [] },
+    "DEMCO base",
+    warnings
+  );
+  const demcoTempData = getSettledValue(
+    demcoTempResult,
+    { lines: [] },
+    "DEMCO outage",
+    warnings
+  );
+  const clecoData = getSettledValue(
+    clecoResult,
+    { data: [] },
+    "Cleco cached outages",
+    warnings
+  );
 
-    els.demcoBaseCount.textContent = demcoBaseLines.length.toLocaleString();
-    els.demcoTempCount.textContent = demcoTempLines.length.toLocaleString();
-    els.clecoIncidentCount.textContent = clecoIncidents.length.toLocaleString();
-    els.clecoAffectedCount.textContent = clecoAffected.toLocaleString();
+  const demcoBaseLines = Array.isArray(demcoBaseData.lines)
+    ? demcoBaseData.lines
+    : [];
+  const demcoTempLines = Array.isArray(demcoTempData.lines)
+    ? demcoTempData.lines
+    : [];
+  const clecoIncidents = getClecoIncidents(clecoData);
+  const clecoAffected = clecoIncidents.reduce(
+    (total, incident) => total + Number(incident.affectedCount || 0),
+    0
+  );
 
-    const now = new Date();
-    els.lastUpdated.textContent = `Last update: ${now.toLocaleString()}`;
+  drawDemcoBaseLines(demcoBaseLines);
+  drawDemcoTempLines(demcoTempLines);
+  drawClecoOutages(clecoIncidents);
 
-    els.statusText.textContent =
-      `Loaded. DEMCO outage lines: ${demcoTempLines.length}; ` +
-      `Cleco incidents: ${clecoIncidents.length}.`;
+  els.demcoBaseCount.textContent = demcoBaseLines.length.toLocaleString();
+  els.demcoTempCount.textContent = demcoTempLines.length.toLocaleString();
+  els.clecoIncidentCount.textContent = clecoIncidents.length.toLocaleString();
+  els.clecoAffectedCount.textContent = clecoAffected.toLocaleString();
 
-    if (fitMap) {
-      fitToOutagesIfAvailable();
-    }
-  } catch (error) {
-    console.error(error);
+  const now = new Date();
+  els.lastUpdated.textContent = `Last update: ${now.toLocaleString()}`;
 
-    els.statusText.textContent = "Error loading outage data";
-    els.lastUpdated.textContent = error.message;
+  const status =
+    `Loaded. DEMCO outage lines: ${demcoTempLines.length}; ` +
+    `Cleco incidents: ${clecoIncidents.length}.`;
 
-    alert(
-      "Could not load outage data.\n\n" +
-      "If this works on the utility page but not here, it may be a CORS/browser security issue. " +
-      "That is fixable with a GitHub Action data-cache step."
-    );
+  els.statusText.textContent = warnings.length
+    ? `${status} Missing: ${warnings.join(", ")}.`
+    : status;
+
+  if (fitMap) {
+    fitToOutagesIfAvailable();
   }
 }
 
