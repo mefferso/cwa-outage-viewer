@@ -1,8 +1,9 @@
 // ================================
-// DEMCO Outage Viewer - V1
+// CWA Outage Viewer
+// DEMCO line-level outage viewer + Cleco outage locations
 // ================================
 
-// Start conservative. zoom=10 works and keeps the data manageable.
+// Start conservative. zoom=10 works and keeps the DEMCO data manageable.
 // Later we can experiment with zoom=14/16/20 if we want finer street detail.
 const DATA_ZOOM = 10;
 
@@ -12,9 +13,14 @@ const DEMCO_BASE_URL =
 const DEMCO_TEMP_URL =
   `https://cache.sienatech.com/apex/siena_ords/webmaps/lines/DEMCO/temp?zoom=${DATA_ZOOM}`;
 
+// Cleco public outage API discovered from Cleco outage map XHR calls.
+// alloutages/2/1 returns mapped incident/location records with lat/lon.
+const CLECO_OUTAGES_URL =
+  "https://cleco-prod.azure-api.net/outage/api/1/outage/alloutages/2/1";
+
 const REFRESH_MS = 5 * 60 * 1000;
 
-// Map centered over SE Louisiana / DEMCO-ish area.
+// Map centered over SE Louisiana / DEMCO + Cleco area.
 const map = L.map("map", {
   preferCanvas: true
 }).setView([30.55, -90.75], 9);
@@ -24,17 +30,21 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors"
 }).addTo(map);
 
-const baseLayerGroup = L.layerGroup().addTo(map);
-const tempLayerGroup = L.layerGroup().addTo(map);
+const demcoBaseLayerGroup = L.layerGroup().addTo(map);
+const demcoTempLayerGroup = L.layerGroup().addTo(map);
+const clecoLayerGroup = L.layerGroup().addTo(map);
 
 const els = {
   statusText: document.getElementById("statusText"),
   lastUpdated: document.getElementById("lastUpdated"),
-  baseCount: document.getElementById("baseCount"),
-  tempCount: document.getElementById("tempCount"),
+  demcoBaseCount: document.getElementById("demcoBaseCount"),
+  demcoTempCount: document.getElementById("demcoTempCount"),
+  clecoIncidentCount: document.getElementById("clecoIncidentCount"),
+  clecoAffectedCount: document.getElementById("clecoAffectedCount"),
   dataZoom: document.getElementById("dataZoom"),
-  toggleBase: document.getElementById("toggleBase"),
-  toggleTemp: document.getElementById("toggleTemp"),
+  toggleDemcoBase: document.getElementById("toggleDemcoBase"),
+  toggleDemcoTemp: document.getElementById("toggleDemcoTemp"),
+  toggleCleco: document.getElementById("toggleCleco"),
   refreshBtn: document.getElementById("refreshBtn")
 };
 
@@ -93,7 +103,27 @@ async function fetchJson(url) {
   return response.json();
 }
 
-function popupHtml(line, layerName) {
+function formatNumber(value) {
+  const numericValue = Number(value || 0);
+  return numericValue.toLocaleString();
+}
+
+function formatClecoTime(value) {
+  if (!value) return "Unknown";
+  return String(value).replace(/^0/, "");
+}
+
+function getClecoIncidents(payload) {
+  if (!payload || !Array.isArray(payload.data)) return [];
+
+  return payload.data.filter((incident) => {
+    const lat = Number(incident.lat);
+    const lon = Number(incident.lon);
+    return Number.isFinite(lat) && Number.isFinite(lon);
+  });
+}
+
+function demcoPopupHtml(line, layerName) {
   return `
     <strong>DEMCO ${layerName}</strong><br>
     Feature ID: ${line.f || "unknown"}<br>
@@ -102,8 +132,34 @@ function popupHtml(line, layerName) {
   `;
 }
 
-function drawBaseLines(lines) {
-  baseLayerGroup.clearLayers();
+function clecoPopupHtml(incident) {
+  const affected = Number(incident.affectedCount || 0);
+  const affectedAreas = Array.isArray(incident.affectedAreas)
+    ? incident.affectedAreas
+    : [];
+
+  const areaText = affectedAreas
+    .map((area) => {
+      const zip = area.zipCode || area.zipcode || "";
+      const location = area.location || "Unknown area";
+      return zip ? `${location} (${zip})` : location;
+    })
+    .join("<br>");
+
+  return `
+    <strong>Cleco outage location</strong><br>
+    Location: ${incident.location || "Unknown"}<br>
+    Customers affected: ${formatNumber(affected)}<br>
+    Start: ${formatClecoTime(incident.startTime)}<br>
+    Estimated restoration: ${formatClecoTime(incident.restorationTime)}<br>
+    Last updated: ${formatClecoTime(incident.lastUpdateTime)}<br>
+    Incident ID: ${incident.incidentId || "unknown"}
+    ${areaText ? `<hr><strong>Affected area(s)</strong><br>${areaText}` : ""}
+  `;
+}
+
+function drawDemcoBaseLines(lines) {
+  demcoBaseLayerGroup.clearLayers();
 
   for (const line of lines) {
     if (!line.g) continue;
@@ -117,13 +173,13 @@ function drawBaseLines(lines) {
       interactive: true
     });
 
-    polyline.bindPopup(popupHtml(line, "base line"));
-    polyline.addTo(baseLayerGroup);
+    polyline.bindPopup(demcoPopupHtml(line, "base line"));
+    polyline.addTo(demcoBaseLayerGroup);
   }
 }
 
-function drawTempLines(lines) {
-  tempLayerGroup.clearLayers();
+function drawDemcoTempLines(lines) {
+  demcoTempLayerGroup.clearLayers();
 
   for (const line of lines) {
     if (!line.g) continue;
@@ -145,53 +201,99 @@ function drawTempLines(lines) {
       interactive: true
     });
 
-    redLine.bindPopup(popupHtml(line, "outage/temp line"));
+    redLine.bindPopup(demcoPopupHtml(line, "outage/temp line"));
 
-    glow.addTo(tempLayerGroup);
-    redLine.addTo(tempLayerGroup);
+    glow.addTo(demcoTempLayerGroup);
+    redLine.addTo(demcoTempLayerGroup);
+  }
+}
+
+function getClecoRadius(affectedCount) {
+  const affected = Number(affectedCount || 0);
+  if (affected <= 1) return 7;
+  if (affected <= 5) return 9;
+  if (affected <= 25) return 12;
+  if (affected <= 100) return 16;
+  return 22;
+}
+
+function drawClecoOutages(incidents) {
+  clecoLayerGroup.clearLayers();
+
+  for (const incident of incidents) {
+    const lat = Number(incident.lat);
+    const lon = Number(incident.lon);
+    const affected = Number(incident.affectedCount || 0);
+
+    if (!Number.isFinite(lat) || !Number.isFinite(lon)) continue;
+
+    const marker = L.circleMarker([lat, lon], {
+      radius: getClecoRadius(affected),
+      color: "#7f1d1d",
+      weight: 2,
+      fillColor: affected > 1 ? "#f97316" : "#ef4444",
+      fillOpacity: 0.85,
+      opacity: 0.95
+    });
+
+    marker.bindPopup(clecoPopupHtml(incident));
+    marker.addTo(clecoLayerGroup);
   }
 }
 
 function fitToOutagesIfAvailable() {
-  const tempBounds = tempLayerGroup.getBounds?.();
+  const featureGroups = [
+    demcoTempLayerGroup,
+    clecoLayerGroup,
+    demcoBaseLayerGroup
+  ];
 
-  if (tempBounds && tempBounds.isValid()) {
-    map.fitBounds(tempBounds.pad(0.35));
-    return;
-  }
-
-  const baseBounds = baseLayerGroup.getBounds?.();
-
-  if (baseBounds && baseBounds.isValid()) {
-    map.fitBounds(baseBounds.pad(0.1));
+  for (const group of featureGroups) {
+    const bounds = group.getBounds?.();
+    if (bounds && bounds.isValid()) {
+      map.fitBounds(bounds.pad(0.35));
+      return;
+    }
   }
 }
 
 async function loadData({ fitMap = false } = {}) {
   try {
-    els.statusText.textContent = "Loading DEMCO data...";
+    els.statusText.textContent = "Loading outage data...";
 
-    const [baseData, tempData] = await Promise.all([
+    const [demcoBaseData, demcoTempData, clecoData] = await Promise.all([
       fetchJson(DEMCO_BASE_URL),
-      fetchJson(DEMCO_TEMP_URL)
+      fetchJson(DEMCO_TEMP_URL),
+      fetchJson(CLECO_OUTAGES_URL)
     ]);
 
-    const baseLines = Array.isArray(baseData.lines) ? baseData.lines : [];
-    const tempLines = Array.isArray(tempData.lines) ? tempData.lines : [];
+    const demcoBaseLines = Array.isArray(demcoBaseData.lines)
+      ? demcoBaseData.lines
+      : [];
+    const demcoTempLines = Array.isArray(demcoTempData.lines)
+      ? demcoTempData.lines
+      : [];
+    const clecoIncidents = getClecoIncidents(clecoData);
+    const clecoAffected = clecoIncidents.reduce(
+      (total, incident) => total + Number(incident.affectedCount || 0),
+      0
+    );
 
-    drawBaseLines(baseLines);
-    drawTempLines(tempLines);
+    drawDemcoBaseLines(demcoBaseLines);
+    drawDemcoTempLines(demcoTempLines);
+    drawClecoOutages(clecoIncidents);
 
-    els.baseCount.textContent = baseLines.length.toLocaleString();
-    els.tempCount.textContent = tempLines.length.toLocaleString();
+    els.demcoBaseCount.textContent = demcoBaseLines.length.toLocaleString();
+    els.demcoTempCount.textContent = demcoTempLines.length.toLocaleString();
+    els.clecoIncidentCount.textContent = clecoIncidents.length.toLocaleString();
+    els.clecoAffectedCount.textContent = clecoAffected.toLocaleString();
 
     const now = new Date();
     els.lastUpdated.textContent = `Last update: ${now.toLocaleString()}`;
 
     els.statusText.textContent =
-      tempLines.length > 0
-        ? `Loaded. ${tempLines.length} outage line(s).`
-        : "Loaded. No temp outage lines.";
+      `Loaded. DEMCO outage lines: ${demcoTempLines.length}; ` +
+      `Cleco incidents: ${clecoIncidents.length}.`;
 
     if (fitMap) {
       fitToOutagesIfAvailable();
@@ -203,28 +305,26 @@ async function loadData({ fitMap = false } = {}) {
     els.lastUpdated.textContent = error.message;
 
     alert(
-      "Could not load DEMCO outage data.\n\n" +
-      "If this works in the DEMCO page but not here, it may be a CORS/browser security issue. " +
+      "Could not load outage data.\n\n" +
+      "If this works on the utility page but not here, it may be a CORS/browser security issue. " +
       "That is fixable with a GitHub Action data-cache step."
     );
   }
 }
 
-els.toggleBase.addEventListener("change", () => {
-  if (els.toggleBase.checked) {
-    baseLayerGroup.addTo(map);
-  } else {
-    map.removeLayer(baseLayerGroup);
-  }
-});
+function wireLayerToggle(checkbox, layerGroup) {
+  checkbox.addEventListener("change", () => {
+    if (checkbox.checked) {
+      layerGroup.addTo(map);
+    } else {
+      map.removeLayer(layerGroup);
+    }
+  });
+}
 
-els.toggleTemp.addEventListener("change", () => {
-  if (els.toggleTemp.checked) {
-    tempLayerGroup.addTo(map);
-  } else {
-    map.removeLayer(tempLayerGroup);
-  }
-});
+wireLayerToggle(els.toggleDemcoBase, demcoBaseLayerGroup);
+wireLayerToggle(els.toggleDemcoTemp, demcoTempLayerGroup);
+wireLayerToggle(els.toggleCleco, clecoLayerGroup);
 
 els.refreshBtn.addEventListener("click", () => {
   loadData({ fitMap: true });
