@@ -1,6 +1,6 @@
 // ================================
 // CWA Outage Viewer
-// DEMCO line-level outage viewer + Cleco/Entergy outage locations
+// DEMCO line-level outage viewer + Entergy red/green raster line tiles + Cleco/Entergy outage locations
 // ================================
 
 const DATA_ZOOM = 10;
@@ -10,6 +10,11 @@ const DEMCO_BASE_URL =
 
 const DEMCO_TEMP_URL =
   `https://cache.sienatech.com/apex/siena_ords/webmaps/lines/DEMCO/temp?zoom=${DATA_ZOOM}`;
+
+// Entergy red/green line tiles are public PNG raster tiles using quadkey filenames.
+// These are visual-only tiles, not queryable conductor/feeder/circuit geometry.
+const ENTERGY_RED_GREEN_TILE_URL =
+  "https://entergy-prod-red-green-external.s3-us-west-2.amazonaws.com/phase1/red_green/current";
 
 // Cleco and Entergy are cached by GitHub Actions to avoid browser/CORS foolishness.
 const CLECO_OUTAGES_URL = "data/cleco_outages.json";
@@ -30,6 +35,38 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors"
 }).addTo(map);
 
+function tileXYToQuadKey(x, y, z) {
+  let quadKey = "";
+
+  for (let i = z; i > 0; i--) {
+    let digit = 0;
+    const mask = 1 << (i - 1);
+
+    if ((x & mask) !== 0) digit += 1;
+    if ((y & mask) !== 0) digit += 2;
+
+    quadKey += digit.toString();
+  }
+
+  return quadKey;
+}
+
+const EntergyRedGreenTileLayer = L.TileLayer.extend({
+  getTileUrl(coords) {
+    const quadKey = tileXYToQuadKey(coords.x, coords.y, coords.z);
+    return `${ENTERGY_RED_GREEN_TILE_URL}/${quadKey}.png`;
+  }
+});
+
+const entergyRedGreenTileLayer = new EntergyRedGreenTileLayer("", {
+  minZoom: 5,
+  maxZoom: 18,
+  maxNativeZoom: 18,
+  opacity: 0.78,
+  zIndex: 250,
+  attribution: "Entergy red/green line tiles"
+}).addTo(map);
+
 const demcoBaseLayerGroup = L.featureGroup().addTo(map);
 const demcoTempLayerGroup = L.featureGroup().addTo(map);
 const clecoLayerGroup = L.featureGroup().addTo(map);
@@ -47,6 +84,7 @@ const els = {
   dataZoom: document.getElementById("dataZoom"),
   toggleDemcoBase: document.getElementById("toggleDemcoBase"),
   toggleDemcoTemp: document.getElementById("toggleDemcoTemp"),
+  toggleEntergyLines: document.getElementById("toggleEntergyLines"),
   toggleCleco: document.getElementById("toggleCleco"),
   toggleEntergy: document.getElementById("toggleEntergy"),
   refreshBtn: document.getElementById("refreshBtn")
@@ -363,6 +401,7 @@ function wireLayerToggle(checkbox, layerGroup) {
 
 wireLayerToggle(els.toggleDemcoBase, demcoBaseLayerGroup);
 wireLayerToggle(els.toggleDemcoTemp, demcoTempLayerGroup);
+wireLayerToggle(els.toggleEntergyLines, entergyRedGreenTileLayer);
 wireLayerToggle(els.toggleCleco, clecoLayerGroup);
 wireLayerToggle(els.toggleEntergy, entergyLayerGroup);
 
