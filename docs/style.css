@@ -91,6 +91,10 @@ main {
   background: #ef4444;
 }
 
+.cleco {
+  background: #f97316;
+}
+
 hr {
   border: none;
   border-top: 1px solid #334155;
@@ -140,6 +144,12 @@ button:hover {
 
 .leaflet-popup-content {
   font-size: 13px;
+}
+
+.leaflet-popup-content hr {
+  border: none;
+  border-top: 1px solid #d1d5db;
+  margin: 8px 0;
 }
 
 @media (max-width: 800px) {
