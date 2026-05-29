@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-05-28T22:54:36.142736+00:00",
+  "cachedAtUtc": "2026-05-29T00:14:22.858605+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -8,38 +8,27 @@
             "outageDetailAttribute1": null,
             "outageDetailAttribute2": null
           },
-          "lat": 29.685628,
+          "lat": 29.67304,
           "location": "ST. MARY",
           "locationType": 2,
-          "lon": -91.224938,
-          "zipCode": "70342"
+          "lon": -91.141,
+          "zipCode": "70380"
         },
         {
           "extension": {
             "outageDetailAttribute1": null,
             "outageDetailAttribute2": null
           },
-          "lat": 29.6856,
+          "lat": 29.67363,
           "location": "ST. MARY",
           "locationType": 2,
-          "lon": -91.22494,
-          "zipCode": "70342"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.68501,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.22354,
-          "zipCode": "70342"
+          "lon": -91.1398,
+          "zipCode": "70380"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "5/28/2026 6:15:00 PM",
+      "endTime": "5/29/2026 3:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -47,18 +36,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105369694",
-      "lastUpdateTime": "05/28/2026 17:41:12",
-      "lat": 29.685412666666668,
+      "incidentId": "INC 8105369745",
+      "lastUpdateTime": "05/28/2026 19:01:12",
+      "lat": 29.673335,
       "location": "Ramos 138",
       "locationType": 5,
-      "lon": -91.22447266666667,
+      "lon": -91.1404,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:15",
+      "restorationTime": "15:30",
       "serviceType": 1,
-      "startTime": "05/28/2026 14:06:49",
+      "startTime": "05/28/2026 16:29:53",
       "status": 1,
       "zipCode": null
     },
@@ -111,7 +100,7 @@
       ],
       "affectedCount": 4,
       "description": null,
-      "endTime": "5/28/2026 7:30:00 PM",
+      "endTime": "5/28/2026 7:49:16 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -120,7 +109,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105369750",
-      "lastUpdateTime": "05/28/2026 17:41:12",
+      "lastUpdateTime": "05/28/2026 19:01:12",
       "lat": 31.107899999999997,
       "location": "Marksville",
       "locationType": 5,
@@ -128,9 +117,131 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:30",
+      "restorationTime": "19:49",
       "serviceType": 1,
       "startTime": "05/28/2026 17:18:16",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.13966,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.75869,
+          "zipCode": "71438"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.138872,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.758988,
+          "zipCode": "71438"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.139152,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.75917,
+          "zipCode": "71438"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "5/28/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105369758",
+      "lastUpdateTime": "05/28/2026 19:01:12",
+      "lat": 31.139228000000003,
+      "location": "Hineston",
+      "locationType": 5,
+      "lon": -92.75894933333332,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "05/28/2026 18:45:46",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.685628,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.224938,
+          "zipCode": "70342"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.6856,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.22494,
+          "zipCode": "70342"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.68501,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.22354,
+          "zipCode": "70342"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "5/28/2026 8:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105369694",
+      "lastUpdateTime": "05/28/2026 19:01:12",
+      "lat": 29.685412666666668,
+      "location": "Ramos 138",
+      "locationType": 5,
+      "lon": -91.22447266666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:15",
+      "serviceType": 1,
+      "startTime": "05/28/2026 14:06:49",
       "status": 1,
       "zipCode": null
     },
@@ -236,8 +347,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105369743",
-      "lastUpdateTime": "05/28/2026 17:41:12",
-      "lat": 29.686094625,
+      "lastUpdateTime": "05/28/2026 19:01:12",
+      "lat": 29.686094625000003,
       "location": "Ramos 138",
       "locationType": 5,
       "lon": -91.201629125,
@@ -247,128 +358,6 @@
       "restorationTime": "15:30",
       "serviceType": 1,
       "startTime": "05/28/2026 16:29:08",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.67304,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.141,
-          "zipCode": "70380"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.67363,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.1398,
-          "zipCode": "70380"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "5/29/2026 3:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105369745",
-      "lastUpdateTime": "05/28/2026 17:41:12",
-      "lat": 29.673335,
-      "location": "Ramos 138",
-      "locationType": 5,
-      "lon": -91.1404,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "15:30",
-      "serviceType": 1,
-      "startTime": "05/28/2026 16:29:53",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.485255,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.070503,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.485112,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.07059,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.48536,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.07032,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.485662,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.07051,
-          "zipCode": "70435"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "5/28/2026 6:17:35 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105369747",
-      "lastUpdateTime": "05/28/2026 17:41:12",
-      "lat": 30.48534725,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.07048074999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:17",
-      "serviceType": 1,
-      "startTime": "05/28/2026 16:48:23",
       "status": 1,
       "zipCode": null
     }
