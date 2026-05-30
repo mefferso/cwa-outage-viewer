@@ -1,6 +1,46 @@
 {
-  "cachedAtUtc": "2026-05-30T09:28:34.794819+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-05-30T11:02:16.968458+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.289043,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.313312,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "5/30/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105369979",
+      "lastUpdateTime": "05/30/2026 05:51:15",
+      "lat": 31.289043,
+      "location": "Libuse",
+      "locationType": 5,
+      "lon": -92.313312,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "05/30/2026 05:38:04",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
