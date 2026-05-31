@@ -1,45 +1,6 @@
 {
-  "cachedAtUtc": "2026-05-31T12:51:16.737751+00:00",
+  "cachedAtUtc": "2026-05-31T14:28:16.788209+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": null,
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.171636,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.463064,
-          "zipCode": "71485"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "5/31/2026 8:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105370097",
-      "lastUpdateTime": "05/31/2026 07:30:56",
-      "lat": 31.171636,
-      "location": "Coulee Crossing",
-      "locationType": 5,
-      "lon": -92.463064,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "08:45",
-      "serviceType": 1,
-      "startTime": "05/31/2026 06:33:51",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -122,7 +83,7 @@
       ],
       "affectedCount": 7,
       "description": null,
-      "endTime": "5/31/2026 9:30:00 AM",
+      "endTime": "5/31/2026 10:08:21 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -131,7 +92,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105370100",
-      "lastUpdateTime": "05/31/2026 07:30:56",
+      "lastUpdateTime": "05/31/2026 09:10:56",
       "lat": 30.871706857142858,
       "location": "Pine Prarie",
       "locationType": 5,
@@ -139,9 +100,81 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:30",
+      "restorationTime": "10:08",
       "serviceType": 1,
       "startTime": "05/31/2026 07:27:07",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.976877,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.97513,
+          "zipCode": "71362"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.977563,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.975847,
+          "zipCode": "71362"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.977048,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.975332,
+          "zipCode": "71362"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.977188,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.975112,
+          "zipCode": "71362"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "5/31/2026 10:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105370106",
+      "lastUpdateTime": "05/31/2026 09:10:56",
+      "lat": 30.977169,
+      "location": "Longbridge",
+      "locationType": 5,
+      "lon": -91.97535524999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:45",
+      "serviceType": 1,
+      "startTime": "05/31/2026 08:34:20",
       "status": 1,
       "zipCode": null
     }
