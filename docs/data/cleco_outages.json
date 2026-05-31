@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-05-31T18:16:04.026308+00:00",
+  "cachedAtUtc": "2026-05-31T19:45:15.623874+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -8,16 +8,49 @@
             "outageDetailAttribute1": null,
             "outageDetailAttribute2": null
           },
-          "lat": 30.804685,
-          "location": "ALLEN",
+          "lat": 31.14465,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.661852,
-          "zipCode": "71463"
+          "lon": -92.49793,
+          "zipCode": "71485"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.144348,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.497762,
+          "zipCode": "71485"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.144495,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.498533,
+          "zipCode": "71485"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.144348,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.497762,
+          "zipCode": "71485"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "5/31/2026 2:45:00 PM",
+      "endTime": "5/31/2026 3:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +58,118 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105370126",
-      "lastUpdateTime": "05/31/2026 13:00:56",
-      "lat": 30.804685,
-      "location": "Oakdale",
+      "incidentId": "INC 8105370128",
+      "lastUpdateTime": "05/31/2026 14:30:56",
+      "lat": 31.144460249999998,
+      "location": "Coulee Crossing",
       "locationType": 5,
-      "lon": -92.661852,
+      "lon": -92.49799675,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "14:45",
+      "restorationTime": "15:30",
       "serviceType": 1,
-      "startTime": "05/31/2026 12:44:33",
+      "startTime": "05/31/2026 13:26:47",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.785395,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.496093,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.784802,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.496463,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.784613,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.496958,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "5/31/2026 2:37:34 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105370131",
+      "lastUpdateTime": "05/31/2026 14:30:56",
+      "lat": 29.784936666666667,
+      "location": "Third St. Franklin Diesel",
+      "locationType": 5,
+      "lon": -91.49650466666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:37",
+      "serviceType": 1,
+      "startTime": "05/31/2026 13:39:05",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.00436,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.18015,
+          "zipCode": "71322"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "5/31/2026 4:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105370133",
+      "lastUpdateTime": "05/31/2026 14:30:56",
+      "lat": 31.00436,
+      "location": "Hwy. 71 (Bunkie)",
+      "locationType": 5,
+      "lon": -92.18015,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:30",
+      "serviceType": 1,
+      "startTime": "05/31/2026 14:21:51",
       "status": 1,
       "zipCode": null
     }
