@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-06-04T22:50:17.924298+00:00",
+  "cachedAtUtc": "2026-06-05T00:00:04.206341+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -8,16 +8,16 @@
             "outageDetailAttribute1": null,
             "outageDetailAttribute2": null
           },
-          "lat": 31.070753,
-          "location": "AVOYELLES",
+          "lat": 30.275335,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.909498,
-          "zipCode": "71355"
+          "lon": -89.812795,
+          "zipCode": "70460"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "6/4/2026 6:45:00 PM",
+      "endTime": "6/4/2026 8:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +25,118 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105371940",
-      "lastUpdateTime": "06/04/2026 17:31:04",
-      "lat": 31.070753,
-      "location": "Bordelonville",
+      "incidentId": "INC 8105371984",
+      "lastUpdateTime": "06/04/2026 18:41:04",
+      "lat": 30.275335,
+      "location": "Bayou Liberty",
       "locationType": 5,
-      "lon": -91.909498,
+      "lon": -89.812795,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:45",
+      "restorationTime": "20:00",
       "serviceType": 1,
-      "startTime": "06/04/2026 14:39:14",
+      "startTime": "06/04/2026 17:56:30",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.442672,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114936,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44286,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11513,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/4/2026 8:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105371985",
+      "lastUpdateTime": "06/04/2026 18:41:04",
+      "lat": 30.442766,
+      "location": "Eighth Avenue",
+      "locationType": 5,
+      "lon": -90.115033,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:30",
+      "serviceType": 1,
+      "startTime": "06/04/2026 18:28:01",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.138848,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.289078,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.139106,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.289084,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/4/2026 8:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105371986",
+      "lastUpdateTime": "06/04/2026 18:41:04",
+      "lat": 31.138977,
+      "location": "South Lee Hills",
+      "locationType": 5,
+      "lon": -93.28908100000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:45",
+      "serviceType": 1,
+      "startTime": "06/04/2026 18:35:12",
       "status": 1,
       "zipCode": null
     },
@@ -65,7 +165,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105371797",
-      "lastUpdateTime": "06/04/2026 17:31:04",
+      "lastUpdateTime": "06/04/2026 18:41:04",
       "lat": 29.684196,
       "location": "Bayou Vista 138",
       "locationType": 5,
