@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-06-08T06:23:18.668757+00:00",
+  "cachedAtUtc": "2026-06-08T11:25:59.277762+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -8,16 +8,38 @@
             "outageDetailAttribute1": null,
             "outageDetailAttribute2": null
           },
-          "lat": 30.787257,
-          "location": "EVANGELINE",
+          "lat": 30.527148,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -92.419107,
-          "zipCode": "70576"
+          "lon": -92.08128,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.527118,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081148,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.527117,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081147,
+          "zipCode": "70570"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "6/8/2026 2:15:00 AM",
+      "endTime": "6/8/2026 7:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +47,162 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105374200",
-      "lastUpdateTime": "06/08/2026 01:11:09",
-      "lat": 30.787257,
-      "location": "Pine Prarie",
+      "incidentId": "INC 8105374210",
+      "lastUpdateTime": "06/08/2026 06:11:10",
+      "lat": 30.52712766666667,
+      "location": "Guidry Street",
       "locationType": 5,
-      "lon": -92.419107,
+      "lon": -92.08119166666667,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:15",
+      "restorationTime": "07:45",
       "serviceType": 1,
-      "startTime": "06/08/2026 00:07:41",
+      "startTime": "06/08/2026 05:33:50",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476818,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.083513,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476863,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.083652,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476872,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.08356,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.47677,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.083468,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476835,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.08357,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "6/8/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105374211",
+      "lastUpdateTime": "06/08/2026 06:11:10",
+      "lat": 30.476831600000004,
+      "location": "Three Rivers Rd.",
+      "locationType": 5,
+      "lon": -90.08355259999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "06/08/2026 06:03:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.455763,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.060575,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.455869,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.060296,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": null,
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.455869,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.060296,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "6/8/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105374212",
+      "lastUpdateTime": "06/08/2026 06:11:10",
+      "lat": 30.455833666666667,
+      "location": "Three Rivers Rd.",
+      "locationType": 5,
+      "lon": -90.06038899999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "06/08/2026 06:10:02",
       "status": 1,
       "zipCode": null
     }
