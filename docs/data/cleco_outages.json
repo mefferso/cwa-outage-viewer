@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-06-10T23:47:28.278559+00:00",
+  "cachedAtUtc": "2026-06-11T02:06:32.165039+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000003790",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.568813,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469122,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000256476",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.568853,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.468495,
+          "zipCode": "71449"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/10/2026 10:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105375236",
+      "lastUpdateTime": "06/10/2026 20:51:15",
+      "lat": 31.568832999999998,
+      "location": "Many 138",
+      "locationType": 5,
+      "lon": -93.4688085,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "22:30",
+      "serviceType": 1,
+      "startTime": "06/10/2026 20:23:57",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -224,7 +274,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105375198",
-      "lastUpdateTime": "06/10/2026 18:31:14",
+      "lastUpdateTime": "06/10/2026 20:51:15",
       "lat": 30.30858045,
       "location": "Brown Switch Rd.",
       "locationType": 5,
@@ -236,6 +286,117 @@
       "serviceType": 1,
       "startTime": "06/10/2026 14:35:01",
       "status": 0,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146736",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310767,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.7191,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000293008",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310247,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.718892,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205996",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310247,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.718892,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "6/10/2026 10:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105375234",
+      "lastUpdateTime": "06/10/2026 20:51:15",
+      "lat": 31.310420333333337,
+      "location": "Gardner",
+      "locationType": 5,
+      "lon": -92.71896133333333,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "22:15",
+      "serviceType": 1,
+      "startTime": "06/10/2026 20:13:26",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000171826",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.776028,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.364923,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352534",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.776028,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.364923,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/10/2026 10:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105375237",
+      "lastUpdateTime": "06/10/2026 20:51:15",
+      "lat": 30.776028,
+      "location": "Chicot Road",
+      "locationType": 5,
+      "lon": -92.364923,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "22:45",
+      "serviceType": 1,
+      "startTime": "06/10/2026 20:31:43",
+      "status": 1,
       "zipCode": null
     }
   ],
