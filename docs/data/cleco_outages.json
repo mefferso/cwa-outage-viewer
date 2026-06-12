@@ -1,6 +1,57 @@
 {
-  "cachedAtUtc": "2026-06-11T22:58:39.260142+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-06-12T00:23:50.650562+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000047415",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.21506,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.814755,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000336311",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.214375,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.815332,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/11/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105375429",
+      "lastUpdateTime": "06/11/2026 19:11:16",
+      "lat": 31.2147175,
+      "location": "Hineston",
+      "locationType": 5,
+      "lon": -92.8150435,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "06/11/2026 18:53:28",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
