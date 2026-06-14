@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-06-14T13:10:39.158052+00:00",
+  "cachedAtUtc": "2026-06-14T15:18:57.136030+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -94,7 +94,7 @@
       ],
       "affectedCount": 8,
       "description": null,
-      "endTime": "6/14/2026 9:15:00 AM",
+      "endTime": "6/14/2026 11:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -103,7 +103,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105375625",
-      "lastUpdateTime": "06/14/2026 07:51:21",
+      "lastUpdateTime": "06/14/2026 10:01:21",
       "lat": 30.440088375,
       "location": "Madisonville 230",
       "locationType": 5,
@@ -111,7 +111,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:15",
+      "restorationTime": "11:15",
       "serviceType": 1,
       "startTime": "06/13/2026 06:22:02",
       "status": 1,
@@ -121,19 +121,69 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000022814",
+            "outageDetailAttribute1": "6000317234",
             "outageDetailAttribute2": null
           },
-          "lat": 31.136314,
-          "location": "RAPIDES",
+          "lat": 29.952003,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.685377,
-          "zipCode": "71424"
+          "lon": -91.809653,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000187027",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952032,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.809902,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/14/2026 12:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105375753",
+      "lastUpdateTime": "06/14/2026 10:01:21",
+      "lat": 29.9520175,
+      "location": "Duboin",
+      "locationType": 5,
+      "lon": -91.8097775,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:00",
+      "serviceType": 1,
+      "startTime": "06/14/2026 09:48:40",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000064955",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.958168,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.189103,
+          "zipCode": "71322"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "6/14/2026 8:30:00 AM",
+      "endTime": "6/14/2026 12:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -141,18 +191,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105375735",
-      "lastUpdateTime": "06/14/2026 07:51:21",
-      "lat": 31.136314,
-      "location": "Alexandria Water Well A",
+      "incidentId": "INC 8105375754",
+      "lastUpdateTime": "06/14/2026 10:01:21",
+      "lat": 30.958168,
+      "location": "Hwy. 71 (Bunkie)",
       "locationType": 5,
-      "lon": -92.685377,
+      "lon": -92.189103,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:30",
+      "restorationTime": "12:00",
       "serviceType": 1,
-      "startTime": "06/14/2026 06:24:49",
+      "startTime": "06/14/2026 09:56:26",
       "status": 1,
       "zipCode": null
     },
@@ -160,96 +210,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000215547",
+            "outageDetailAttribute1": "6000110437",
             "outageDetailAttribute2": null
           },
-          "lat": 30.74162,
-          "location": "EVANGELINE",
+          "lat": 30.959564,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.29716,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000249152",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.7453,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.29993,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000045271",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.749807,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.297288,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000153270",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.74239,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.304138,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000326365",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.748266,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.298335,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000336238",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.7491,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.29772,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000309030",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.749112,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.297798,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000155269",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.742973,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.302001,
-          "zipCode": "70586"
+          "lon": -92.599363,
+          "zipCode": "71433"
         }
       ],
-      "affectedCount": 8,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "6/14/2026 10:00:00 AM",
+      "endTime": "6/14/2026 11:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -257,18 +230,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105375738",
-      "lastUpdateTime": "06/14/2026 07:51:21",
-      "lat": 30.746071,
-      "location": "Chicot Road",
+      "incidentId": "INC 8105375751",
+      "lastUpdateTime": "06/14/2026 10:01:21",
+      "lat": 30.959564,
+      "location": "Oakdale 138",
       "locationType": 5,
-      "lon": -92.29929625000001,
+      "lon": -92.599363,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "10:00",
+      "restorationTime": "11:15",
       "serviceType": 1,
-      "startTime": "06/14/2026 07:09:06",
+      "startTime": "06/14/2026 09:00:55",
       "status": 1,
       "zipCode": null
     },
@@ -276,41 +249,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000109071",
+            "outageDetailAttribute1": "6000080647",
             "outageDetailAttribute2": null
           },
-          "lat": 31.36748,
+          "lat": 31.33143,
           "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.16237,
-          "zipCode": "71328"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000275928",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.366485,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.162273,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000248396",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.36794,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.16304,
-          "zipCode": "71328"
+          "lon": -92.494068,
+          "zipCode": "71303"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "6/14/2026 9:45:00 AM",
+      "endTime": "6/14/2026 11:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -318,18 +269,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105375741",
-      "lastUpdateTime": "06/14/2026 07:51:21",
-      "lat": 31.367301666666666,
-      "location": "Deville",
+      "incidentId": "INC 8105375752",
+      "lastUpdateTime": "06/14/2026 10:01:21",
+      "lat": 31.33143,
+      "location": "Boyce Road",
       "locationType": 5,
-      "lon": -92.16256099999998,
+      "lon": -92.494068,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:45",
+      "restorationTime": "11:30",
       "serviceType": 1,
-      "startTime": "06/14/2026 07:31:37",
+      "startTime": "06/14/2026 09:19:43",
       "status": 1,
       "zipCode": null
     }
