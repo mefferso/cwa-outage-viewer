@@ -1,6 +1,78 @@
 {
-  "cachedAtUtc": "2026-06-14T08:47:36.451994+00:00",
+  "cachedAtUtc": "2026-06-14T11:19:41.345381+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000242120",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.277184,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.897577,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000192014",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.27694,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.89795,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000171066",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.276973,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.897977,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268948",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.276981,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.897457,
+          "zipCode": "70517"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "6/14/2026 7:35:57 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105375727",
+      "lastUpdateTime": "06/14/2026 06:01:21",
+      "lat": 30.2770195,
+      "location": "Breaux Bridge",
+      "locationType": 5,
+      "lon": -91.89774025,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:35",
+      "serviceType": 1,
+      "startTime": "06/14/2026 03:06:26",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -94,7 +166,7 @@
       ],
       "affectedCount": 8,
       "description": null,
-      "endTime": "6/14/2026 5:15:00 AM",
+      "endTime": "6/14/2026 7:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -103,7 +175,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105375625",
-      "lastUpdateTime": "06/14/2026 03:31:20",
+      "lastUpdateTime": "06/14/2026 06:01:21",
       "lat": 30.440088375,
       "location": "Madisonville 230",
       "locationType": 5,
@@ -111,7 +183,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:15",
+      "restorationTime": "07:15",
       "serviceType": 1,
       "startTime": "06/13/2026 06:22:02",
       "status": 1,
@@ -121,30 +193,85 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000306101",
+            "outageDetailAttribute1": "6000235242",
             "outageDetailAttribute2": null
           },
-          "lat": 29.694003,
-          "location": "ST. MARY",
+          "lat": 30.288535,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.262727,
-          "zipCode": "70380"
+          "lon": -89.785966,
+          "zipCode": "70460"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000100857",
+            "outageDetailAttribute1": "6000069070",
             "outageDetailAttribute2": null
           },
-          "lat": 29.694044,
-          "location": "ST. MARY",
+          "lat": 30.288708,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.262573,
-          "zipCode": "70380"
+          "lon": -89.786177,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000008966",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.288535,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.785966,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000235502",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.288535,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.785966,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000327369",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.2882,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.7863,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163774",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.28857,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.785953,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353823",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.288535,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.785966,
+          "zipCode": "70460"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 7,
       "description": null,
-      "endTime": "6/14/2026 4:45:00 AM",
+      "endTime": "6/14/2026 7:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -152,18 +279,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105375710",
-      "lastUpdateTime": "06/14/2026 03:31:20",
-      "lat": 29.6940235,
-      "location": "Bayou Vista",
+      "incidentId": "INC 8105375729",
+      "lastUpdateTime": "06/14/2026 06:01:21",
+      "lat": 30.288516857142856,
+      "location": "Carnation St.",
       "locationType": 5,
-      "lon": -91.26265000000001,
+      "lon": -89.78604199999998,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:45",
+      "restorationTime": "07:00",
       "serviceType": 1,
-      "startTime": "06/13/2026 20:40:59",
+      "startTime": "06/14/2026 04:57:31",
       "status": 1,
       "zipCode": null
     },
@@ -171,19 +298,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000022814",
+            "outageDetailAttribute1": "6000208343",
             "outageDetailAttribute2": null
           },
-          "lat": 31.136314,
-          "location": "RAPIDES",
+          "lat": 31.061038,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -92.685377,
-          "zipCode": "71424"
+          "lon": -92.052469,
+          "zipCode": "71350"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "6/14/2026 4:00:00 AM",
+      "endTime": "6/14/2026 7:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -191,90 +318,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105375720",
-      "lastUpdateTime": "06/14/2026 03:31:20",
-      "lat": 31.136314,
-      "location": "Alexandria Water Well A",
+      "incidentId": "INC 8105375730",
+      "lastUpdateTime": "06/14/2026 06:01:21",
+      "lat": 31.061038,
+      "location": "Mansura Industrial",
       "locationType": 5,
-      "lon": -92.685377,
+      "lon": -92.052469,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:00",
+      "restorationTime": "07:15",
       "serviceType": 1,
-      "startTime": "06/13/2026 21:57:47",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000242120",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.277184,
-          "location": "ST. MARTIN",
-          "locationType": 2,
-          "lon": -91.897577,
-          "zipCode": "70517"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000192014",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.27694,
-          "location": "ST. MARTIN",
-          "locationType": 2,
-          "lon": -91.89795,
-          "zipCode": "70517"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000171066",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.276973,
-          "location": "ST. MARTIN",
-          "locationType": 2,
-          "lon": -91.897977,
-          "zipCode": "70517"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000268948",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.276981,
-          "location": "ST. MARTIN",
-          "locationType": 2,
-          "lon": -91.897457,
-          "zipCode": "70517"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "6/14/2026 5:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105375727",
-      "lastUpdateTime": "06/14/2026 03:31:20",
-      "lat": 30.2770195,
-      "location": "Breaux Bridge",
-      "locationType": 5,
-      "lon": -91.89774025,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "05:15",
-      "serviceType": 1,
-      "startTime": "06/14/2026 03:06:26",
+      "startTime": "06/14/2026 05:03:46",
       "status": 1,
       "zipCode": null
     }
