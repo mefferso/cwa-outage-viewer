@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-06-17T22:22:33.175753+00:00",
+  "cachedAtUtc": "2026-06-17T23:56:07.083157+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000032587",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33096,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.679388,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180119",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33052,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.67932,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/17/2026 8:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377740",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 31.33074,
+      "location": "Boyce",
+      "locationType": 5,
+      "lon": -92.679354,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:45",
+      "serviceType": 1,
+      "startTime": "06/17/2026 18:33:29",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -70,7 +120,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105377674",
-      "lastUpdateTime": "06/17/2026 17:11:27",
+      "lastUpdateTime": "06/17/2026 18:41:27",
       "lat": 31.2675404,
       "location": "Rapides",
       "locationType": 5,
@@ -81,166 +131,6 @@
       "restorationTime": "19:15",
       "serviceType": 1,
       "startTime": "06/17/2026 15:09:13",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000099678",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.191408,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.166792,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000207852",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.198435,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.162727,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000158326",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.1945,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.16468,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000001341",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.200823,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.161797,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000025839",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.20031,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.16164,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000314972",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.20025,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.16236,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000300757",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.19803,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.16264,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000317821",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.190777,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.167297,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000227049",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.18782,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.16908,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000237770",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.195489,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.162514,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000343440",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.192859,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.166189,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000247577",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.199622,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.162475,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 12,
-      "description": null,
-      "endTime": "6/17/2026 6:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105377706",
-      "lastUpdateTime": "06/17/2026 17:11:27",
-      "lat": 31.19586025,
-      "location": "Effie",
-      "locationType": 5,
-      "lon": -92.16418258333334,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:45",
-      "serviceType": 1,
-      "startTime": "06/17/2026 16:31:00",
       "status": 1,
       "zipCode": null
     },
@@ -269,7 +159,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105377710",
-      "lastUpdateTime": "06/17/2026 17:11:27",
+      "lastUpdateTime": "06/17/2026 18:41:27",
       "lat": 31.406298,
       "location": "Holloway",
       "locationType": 5,
@@ -280,56 +170,6 @@
       "restorationTime": "19:00",
       "serviceType": 1,
       "startTime": "06/17/2026 16:56:31",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000249690",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.414403,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.194099,
-          "zipCode": "71328"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000187455",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.415083,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.194291,
-          "zipCode": "71328"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "6/17/2026 7:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105377711",
-      "lastUpdateTime": "06/17/2026 17:11:27",
-      "lat": 31.414743,
-      "location": "Holloway",
-      "locationType": 5,
-      "lon": -92.19419500000001,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "19:00",
-      "serviceType": 1,
-      "startTime": "06/17/2026 16:57:46",
       "status": 1,
       "zipCode": null
     },
@@ -358,7 +198,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105377713",
-      "lastUpdateTime": "06/17/2026 17:11:27",
+      "lastUpdateTime": "06/17/2026 18:41:27",
       "lat": 31.352436,
       "location": "Deville",
       "locationType": 5,
@@ -369,6 +209,2374 @@
       "restorationTime": "19:00",
       "serviceType": 1,
       "startTime": "06/17/2026 16:58:31",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000119194",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.437592,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.528422,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "6/17/2026 8:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377738",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 31.437592,
+      "location": "Kings Walk",
+      "locationType": 5,
+      "lon": -92.528422,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:30",
+      "serviceType": 1,
+      "startTime": "06/17/2026 18:23:55",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239961",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.334392,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.720099,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000147113",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.334647,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.719433,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310652",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.334399,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.720102,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "6/17/2026 7:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377715",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 31.334479333333334,
+      "location": "Gardner",
+      "locationType": 5,
+      "lon": -92.719878,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:15",
+      "serviceType": 1,
+      "startTime": "06/17/2026 17:13:07",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155959",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.254933,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.143799,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000119425",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25695,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138848,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237823",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.235063,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14678,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214797",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25371,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138633,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000009394",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.234,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148513,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300841",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.222125,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.152756,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300866",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.234798,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.150203,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057271",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.267245,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.143495,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000090360",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.228281,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.149101,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001452",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.220168,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.152948,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209731",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.219687,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.152527,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237838",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.266488,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.137462,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000177087",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.266267,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.136635,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264027",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.220551,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.153092,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005355",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.236013,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14619,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001502",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.23544,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.146567,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121626",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.227355,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.151585,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282160",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.226922,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.15063,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246117",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.261817,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138508,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000081244",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.262217,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.13833,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000250748",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.235321,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.147067,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000285337",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.225135,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.149643,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000141474",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.226291,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.152898,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000062558",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.22687,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.15167,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072449",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.22671,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.15274,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045097",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.229828,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148157,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072456",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.234447,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.146377,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168499",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.268267,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.137677,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072475",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.219048,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.153663,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000031611",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25646,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.13807,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093882",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.224562,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.153508,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000056084",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.258627,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.13727,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000053253",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25749,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138681,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099820",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.230359,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148983,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099842",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.253925,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138423,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072465",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.253336,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.140982,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075452",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.221924,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.154802,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168478",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.221984,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.155011,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000141497",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25169,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.143467,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201078",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.273733,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.137046,
+          "zipCode": "71351"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045161",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.263649,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.136846,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000232539",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.243914,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.149655,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000242123",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.233257,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.150423,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116903",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.23388,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148807,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027663",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.228772,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.149197,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085303",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.235295,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14834,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219972",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.223473,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.151362,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172183",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.229072,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148572,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168487",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.231838,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.147456,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308935",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.234447,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.146377,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000119277",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.232029,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.147594,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197657",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.252771,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138885,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237830",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.257362,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.137795,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306725",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.253675,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.139577,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000122921",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.225626,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.150234,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197632",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.250787,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.143845,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000218785",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.223842,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.150725,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193127",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.22342,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.151946,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065115",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.245598,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148163,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237816",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.230711,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.147647,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237843",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.219718,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.154778,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121833",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.226263,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148915,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045139",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25402,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.138198,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000313323",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.269247,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.13865,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150720",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.225473,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.153108,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343554",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.250787,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.143845,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000326114",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.2202,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.154468,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000326558",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.218948,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.154125,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000329895",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.24123,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14856,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.230374,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148976,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099772",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.21924,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.155959,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000337069",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.273733,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.137046,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000337929",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.223898,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.151862,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197602",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.222144,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.152782,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343896",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.230563,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.149114,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000141452",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.223533,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.15169,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264060",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.24187,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.13991,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264022",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.21663,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148137,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000319805",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.224484,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.15095,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001525",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.253145,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14084,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072431",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.219996,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.154327,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085459",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.2211,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.15409,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353247",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.25864,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.137269,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353895",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.224743,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14948,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197577",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.220464,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.150741,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355067",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.26706,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.14398,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000354760",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.234447,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.146369,
+          "zipCode": "71331"
+        }
+      ],
+      "affectedCount": 87,
+      "description": null,
+      "endTime": "6/17/2026 8:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377727",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 31.237874730337065,
+      "location": "Effie",
+      "locationType": 5,
+      "lon": -92.14687528089887,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:15",
+      "serviceType": 1,
+      "startTime": "06/17/2026 18:06:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097882",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50143,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11409,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227792",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50132,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000322887",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50143,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11416,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097889",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50144,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000132648",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50134,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11413,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264725",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50144,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185786",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50144,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11417,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097934",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50136,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264747",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50135,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039691",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50139,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11413,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264768",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50133,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11413,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287957",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50137,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287820",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50141,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264570",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50143,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11414,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059009",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50129,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287864",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.5014,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11409,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155827",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50143,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227819",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50134,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155670",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50141,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000058791",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50147,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11424,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287945",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50135,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264704",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50131,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039508",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50142,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11408,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000132641",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50134,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11413,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000058962",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50139,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155650",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50144,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11415,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097895",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.5014,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185923",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50133,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227712",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.5014,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11409,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185964",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50127,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000058983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50131,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11415,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227660",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.5014,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287841",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.501344,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113925,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227695",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50143,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11427,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000132529",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.5014,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11407,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312984",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50133,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11413,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039468",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50144,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11417,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097939",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50142,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11413,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039486",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50144,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11417,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039671",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50135,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11412,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314003",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50126,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097902",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.501344,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113925,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314027",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50132,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11415,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227803",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50127,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185807",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50147,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50146,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11422,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000058810",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50143,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155627",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50142,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11409,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185942",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50134,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11414,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 49,
+      "description": null,
+      "endTime": "6/17/2026 8:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377728",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 30.50138057142857,
+      "location": "Hwy 25",
+      "locationType": 5,
+      "lon": -90.11411877551019,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:15",
+      "serviceType": 1,
+      "startTime": "06/17/2026 18:07:43",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201123",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.755512,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40541,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183287",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756325,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406605,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178347",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757865,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.411688,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000171898",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757252,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406277,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224679",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756075,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405135,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302201",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756482,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.404242,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048217",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758715,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412183,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048203",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757548,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40765,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241528",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75656,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406705,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289075",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.7582,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40809,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000199621",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758323,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.41009,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074339",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756465,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.404762,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048284",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75831,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40767,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005600",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75772,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.41003,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005723",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75803,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.409652,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048257",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758534,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412887,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103713",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756916,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407751,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074349",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75771,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.408625,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005744",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75641,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.404488,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302173",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758845,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412197,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266462",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756612,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40445,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074418",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757965,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.410621,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252505",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.759157,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412748,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000199687",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757142,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.403832,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000199698",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758278,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407343,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227601",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.755525,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405156,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239744",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758737,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412797,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000199723",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758957,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412963,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178325",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757408,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407005,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000273138",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75625,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406385,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000217336",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.755185,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405988,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302159",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756952,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405476,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100354",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.759422,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.411562,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239711",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756624,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405703,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239730",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757265,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406055,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005585",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75684,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.404198,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000145671",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75857,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.41329,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074367",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.759418,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.413417,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126193",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757645,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.408047,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103740",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756245,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406903,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306805",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756758,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407368,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183321",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.755817,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405812,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183258",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757096,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407891,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306827",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.756397,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.406547,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005637",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757837,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.411536,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252568",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.755957,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405273,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000176579",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757625,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407997,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.7554,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.405588,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000127320",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757752,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412873,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005615",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758242,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.408337,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074358",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757718,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.410033,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306779",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757664,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412563,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000199760",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.758317,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.408275,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241515",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75788,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412675,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000199709",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75801,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40968,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153568",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.755512,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40541,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075338",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757866,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.412677,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100341",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757533,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.407508,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000145648",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.757002,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.40419,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 59,
+      "description": null,
+      "endTime": "6/17/2026 8:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377730",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 29.75738142622951,
+      "location": "Verdunville",
+      "locationType": 5,
+      "lon": -91.4083715409836,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:15",
+      "serviceType": 1,
+      "startTime": "06/17/2026 18:09:47",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079295",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.771323,
+          "location": "WASHINGTON",
+          "locationType": 2,
+          "lon": -90.128773,
+          "zipCode": "70438"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "6/17/2026 8:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105377741",
+      "lastUpdateTime": "06/17/2026 18:41:27",
+      "lat": 30.771323,
+      "location": "Pine Clif (Franklinton)",
+      "locationType": 5,
+      "lon": -90.128773,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:45",
+      "serviceType": 1,
+      "startTime": "06/17/2026 18:33:33",
       "status": 1,
       "zipCode": null
     }
