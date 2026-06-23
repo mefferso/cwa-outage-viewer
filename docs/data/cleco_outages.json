@@ -1,56 +1,6 @@
 {
-  "cachedAtUtc": "2026-06-23T05:46:14.309741+00:00",
+  "cachedAtUtc": "2026-06-23T08:50:38.181886+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000165203",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.477256,
-          "location": "CALCASIEU",
-          "locationType": 2,
-          "lon": -93.431332,
-          "zipCode": "70633"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000195884",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.477256,
-          "location": "CALCASIEU",
-          "locationType": 2,
-          "lon": -93.431332,
-          "zipCode": "70633"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "6/23/2026 2:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105380786",
-      "lastUpdateTime": "06/23/2026 00:31:36",
-      "lat": 30.477256,
-      "location": "Anise Street",
-      "locationType": 5,
-      "lon": -93.431332,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:30",
-      "serviceType": 1,
-      "startTime": "06/23/2026 00:19:34",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -67,7 +17,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "6/23/2026 2:45:00 AM",
+      "endTime": "6/23/2026 4:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -76,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105380784",
-      "lastUpdateTime": "06/23/2026 00:31:36",
+      "lastUpdateTime": "06/23/2026 03:41:37",
       "lat": 31.331719,
       "location": "Deville",
       "locationType": 5,
@@ -84,9 +34,153 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "04:45",
       "serviceType": 1,
       "startTime": "06/22/2026 22:33:01",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208401",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152294,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257745,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152474,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257921,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15296,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257542,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000347273",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152296,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257745,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234627",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152474,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257921,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315148",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152837,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257855,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253534",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152301,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257742,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "6/23/2026 4:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105380789",
+      "lastUpdateTime": "06/23/2026 03:41:37",
+      "lat": 31.15251942857143,
+      "location": "Leesville Plant",
+      "locationType": 5,
+      "lon": -93.25778157142858,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:15",
+      "serviceType": 1,
+      "startTime": "06/23/2026 02:02:36",
+      "status": 0,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257447",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.0357,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.751447,
+          "zipCode": "70563"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "6/23/2026 4:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105380790",
+      "lastUpdateTime": "06/23/2026 03:41:37",
+      "lat": 30.0357,
+      "location": "Belle Place",
+      "locationType": 5,
+      "lon": -91.751447,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:15",
+      "serviceType": 1,
+      "startTime": "06/23/2026 02:05:38",
       "status": 1,
       "zipCode": null
     },
@@ -159,7 +253,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105380726",
-      "lastUpdateTime": "06/23/2026 00:31:36",
+      "lastUpdateTime": "06/23/2026 03:41:37",
       "lat": 30.0016658,
       "location": "Dale St.",
       "locationType": 5,
