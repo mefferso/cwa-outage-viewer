@@ -1,23 +1,161 @@
 {
-  "cachedAtUtc": "2026-06-23T08:50:38.181886+00:00",
+  "cachedAtUtc": "2026-06-23T11:54:41.551894+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000244507",
+            "outageDetailAttribute1": "6000296661",
             "outageDetailAttribute2": null
           },
-          "lat": 31.331719,
+          "lat": 30.362726,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.069024,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155084",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.362792,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.06919,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000189106",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.362753,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.069381,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101853",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.363182,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.069287,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000296675",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.362961,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.069796,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000037320",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.362848,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.06952,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253723",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.362749,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.069367,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059713",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.36284,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.06909,
+          "zipCode": "70448"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "6/23/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105380801",
+      "lastUpdateTime": "06/23/2026 06:41:37",
+      "lat": 30.362856375,
+      "location": "Penn St.",
+      "locationType": 5,
+      "lon": -90.069331875,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "06/23/2026 06:17:36",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038166",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354377,
           "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.166018,
-          "zipCode": "71328"
+          "lon": -92.368782,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185250",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354122,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.369305,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000110812",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354517,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.369173,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "6/23/2026 4:45:00 AM",
+      "endTime": "6/23/2026 8:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +163,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105380784",
-      "lastUpdateTime": "06/23/2026 03:41:37",
-      "lat": 31.331719,
-      "location": "Deville",
+      "incidentId": "INC 8105380803",
+      "lastUpdateTime": "06/23/2026 06:41:37",
+      "lat": 31.354338666666667,
+      "location": "Shady Oaks",
       "locationType": 5,
-      "lon": -92.166018,
+      "lon": -92.36908666666666,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:45",
+      "restorationTime": "08:45",
       "serviceType": 1,
-      "startTime": "06/22/2026 22:33:01",
+      "startTime": "06/23/2026 06:31:28",
       "status": 1,
       "zipCode": null
     },
@@ -44,85 +182,789 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000208401",
+            "outageDetailAttribute1": "6000213556",
             "outageDetailAttribute2": null
           },
-          "lat": 31.152294,
-          "location": "VERNON",
+          "lat": 31.80073,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257745,
-          "zipCode": "71446"
+          "lon": -93.80141,
+          "zipCode": "71419"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000016983",
+            "outageDetailAttribute1": "6000178802",
             "outageDetailAttribute2": null
           },
-          "lat": 31.152474,
-          "location": "VERNON",
+          "lat": 31.799987,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257921,
-          "zipCode": "71446"
+          "lon": -93.806583,
+          "zipCode": "71419"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000085624",
+            "outageDetailAttribute1": "6000152417",
             "outageDetailAttribute2": null
           },
-          "lat": 31.15296,
-          "location": "VERNON",
+          "lat": 31.806868,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257542,
-          "zipCode": "71446"
+          "lon": -93.81227,
+          "zipCode": "71419"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000347273",
+            "outageDetailAttribute1": "6000132735",
             "outageDetailAttribute2": null
           },
-          "lat": 31.152296,
-          "location": "VERNON",
+          "lat": 31.804876,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257745,
-          "zipCode": "71446"
+          "lon": -93.813053,
+          "zipCode": "71419"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000234627",
+            "outageDetailAttribute1": "6000085413",
             "outageDetailAttribute2": null
           },
-          "lat": 31.152474,
-          "location": "VERNON",
+          "lat": 31.805992,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257921,
-          "zipCode": "71446"
+          "lon": -93.812088,
+          "zipCode": "71419"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000315148",
+            "outageDetailAttribute1": "6000127972",
             "outageDetailAttribute2": null
           },
-          "lat": 31.152837,
-          "location": "VERNON",
+          "lat": 31.812601,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257855,
-          "zipCode": "71446"
+          "lon": -93.820767,
+          "zipCode": "71419"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000253534",
+            "outageDetailAttribute1": "6000252362",
             "outageDetailAttribute2": null
           },
-          "lat": 31.152301,
-          "location": "VERNON",
+          "lat": 31.81235,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -93.257742,
-          "zipCode": "71446"
+          "lon": -93.82116,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000137227",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.804876,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.813053,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129148",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.800035,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.804092,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181978",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808783,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.812038,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000286657",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808455,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811484,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173210",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.797204,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.809536,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106770",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.797577,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.810502,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000012601",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808832,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.816152,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000292101",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812662,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.819968,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227160",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.81406,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81925,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205161",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.806156,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.810486,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000174477",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.804712,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81044,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205095",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.801377,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.801865,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205046",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.811343,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.816265,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106710",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.810246,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.817823,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229961",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.799345,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811505,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289909",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80962,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.81275,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000077982",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812368,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.818539,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123828",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80903,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81685,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000292132",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.805548,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.814057,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000292215",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.805593,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.812285,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034072",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.798277,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811638,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106755",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.804467,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.812693,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129019",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.79825,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811525,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279779",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808289,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811301,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000286180",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.81305,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.8207,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106813",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.806333,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.814658,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106830",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.805812,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811337,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115676",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.814221,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.817766,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289713",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.81124,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81811,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126118",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80525,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81072,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000286209",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.805367,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.810883,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129064",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.799983,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.800962,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000012744",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812601,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.820767,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331849",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.810944,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81752,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331724",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812219,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.816706,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000338344",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80481,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81299,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205144",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.799687,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.806538,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025448",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80369,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811763,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034048",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80618,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.814328,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000262501",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.799868,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811548,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000339372",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.807015,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.810078,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000333383",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.811604,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.818067,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173144",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.810229,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.816986,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205080",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.797773,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811197,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229907",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812062,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.820698,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173183",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.798877,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811184,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000012676",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.800534,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81064,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000347570",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.800376,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.810448,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000347559",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.800557,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.804669,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034154",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.807015,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.810078,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146188",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812486,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.819776,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287673",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80913,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.8165,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350262",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.80104,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.800037,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229937",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.805181,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.813275,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163171",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812256,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.816094,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000130013",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.814357,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81721,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173165",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.804291,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.812501,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306557",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.806097,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.81245,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000341768",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812234,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.816656,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034023",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812368,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.818539,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000012627",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.812647,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.817523,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205063",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.799407,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.811191,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000012699",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.797016,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.809665,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356739",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.811134,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.818251,
+          "zipCode": "71419"
         }
       ],
-      "affectedCount": 7,
+      "affectedCount": 71,
       "description": null,
-      "endTime": "6/23/2026 4:15:00 AM",
+      "endTime": "6/23/2026 8:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -130,140 +972,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105380789",
-      "lastUpdateTime": "06/23/2026 03:41:37",
-      "lat": 31.15251942857143,
-      "location": "Leesville Plant",
+      "incidentId": "INC 8105380793",
+      "lastUpdateTime": "06/23/2026 06:41:37",
+      "lat": 31.806302112676047,
+      "location": "Zwolle",
       "locationType": 5,
-      "lon": -93.25778157142858,
+      "lon": -93.81316108450707,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:15",
+      "restorationTime": "08:45",
       "serviceType": 1,
-      "startTime": "06/23/2026 02:02:36",
-      "status": 0,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000257447",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.0357,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.751447,
-          "zipCode": "70563"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "6/23/2026 4:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105380790",
-      "lastUpdateTime": "06/23/2026 03:41:37",
-      "lat": 30.0357,
-      "location": "Belle Place",
-      "locationType": 5,
-      "lon": -91.751447,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "04:15",
-      "serviceType": 1,
-      "startTime": "06/23/2026 02:05:38",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124641",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.001692,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.826087,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000306996",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.001605,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.825468,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000314278",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.00154,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.82584,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124739",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.001542,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.82584,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000091544",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.00195,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.82524,
-          "zipCode": "70560"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "6/23/2026 12:48:18 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105380726",
-      "lastUpdateTime": "06/23/2026 03:41:37",
-      "lat": 30.0016658,
-      "location": "Dale St.",
-      "locationType": 5,
-      "lon": -91.825695,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "00:48",
-      "serviceType": 1,
-      "startTime": "06/22/2026 15:07:03",
+      "startTime": "06/23/2026 05:47:15",
       "status": 1,
       "zipCode": null
     }
