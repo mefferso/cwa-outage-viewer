@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-06-25T04:40:06.564398+00:00",
+  "cachedAtUtc": "2026-06-25T08:04:58.670255+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105381580",
-      "lastUpdateTime": "06/24/2026 23:21:40",
+      "lastUpdateTime": "06/25/2026 02:51:40",
       "lat": 30.450658,
       "location": "Galatas Rd.",
       "locationType": 5,
@@ -44,58 +44,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000215755",
+            "outageDetailAttribute1": "6000196109",
             "outageDetailAttribute2": null
           },
-          "lat": 30.375107,
-          "location": "ST. TAMMANY",
+          "lat": 29.920912,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -89.76562,
-          "zipCode": "70452"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "6/25/2026 1:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105381576",
-      "lastUpdateTime": "06/24/2026 23:21:40",
-      "lat": 30.375107,
-      "location": "Pearl River",
-      "locationType": 5,
-      "lon": -89.76562,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:30",
-      "serviceType": 1,
-      "startTime": "06/24/2026 21:28:02",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
+          "lon": -91.6701,
+          "zipCode": "70544"
+        },
         {
           "extension": {
-            "outageDetailAttribute1": "6000049326",
+            "outageDetailAttribute1": "6000279551",
             "outageDetailAttribute2": null
           },
-          "lat": 31.369767,
-          "location": "RAPIDES",
+          "lat": 29.920912,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.476731,
-          "zipCode": "71360"
+          "lon": -91.670024,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300318",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920887,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.669807,
+          "zipCode": "70544"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "6/24/2026 11:45:00 PM",
+      "endTime": "6/25/2026 5:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -103,18 +86,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105381578",
-      "lastUpdateTime": "06/24/2026 23:21:40",
-      "lat": 31.369767,
-      "location": "Rigolette Rd. (Pineville)",
+      "incidentId": "INC 8105381588",
+      "lastUpdateTime": "06/25/2026 02:51:40",
+      "lat": 29.920903666666664,
+      "location": "Hubertville",
       "locationType": 5,
-      "lon": -92.476731,
+      "lon": -91.669977,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "23:45",
+      "restorationTime": "05:00",
       "serviceType": 1,
-      "startTime": "06/24/2026 21:37:53",
+      "startTime": "06/25/2026 02:47:48",
       "status": 1,
       "zipCode": null
     }
