@@ -1,56 +1,34 @@
 {
-  "cachedAtUtc": "2026-06-28T11:26:00.153061+00:00",
+  "cachedAtUtc": "2026-06-28T12:59:27.833158+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000045471",
+            "outageDetailAttribute1": "6000159142",
             "outageDetailAttribute2": null
           },
-          "lat": 30.064582,
-          "location": "IBERIA",
+          "lat": 30.61849,
+          "location": "ALLEN",
           "locationType": 2,
-          "lon": -91.735531,
-          "zipCode": "70552"
+          "lon": -92.767892,
+          "zipCode": "70655"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000168459",
+            "outageDetailAttribute1": "6000038680",
             "outageDetailAttribute2": null
           },
-          "lat": 30.064589,
-          "location": "IBERIA",
+          "lat": 30.618511,
+          "location": "ALLEN",
           "locationType": 2,
-          "lon": -91.735547,
-          "zipCode": "70552"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000333368",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.06457,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.735531,
-          "zipCode": "70552"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000251906",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.064584,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.735527,
-          "zipCode": "70552"
+          "lon": -92.767949,
+          "zipCode": "70655"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "6/28/2026 7:45:00 AM",
+      "endTime": "6/28/2026 9:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +36,268 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105382090",
-      "lastUpdateTime": "06/28/2026 06:11:46",
-      "lat": 30.064579500000004,
-      "location": "Loreauville",
+      "incidentId": "INC 8105382093",
+      "lastUpdateTime": "06/28/2026 07:41:46",
+      "lat": 30.618500500000003,
+      "location": "Oberlin",
       "locationType": 5,
-      "lon": -91.73553299999999,
+      "lon": -92.7679205,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:45",
+      "restorationTime": "09:15",
       "serviceType": 1,
-      "startTime": "06/28/2026 05:32:13",
+      "startTime": "06/28/2026 07:00:13",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224631",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.045398,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.360554,
+          "zipCode": "71346"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "6/28/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382095",
+      "lastUpdateTime": "06/28/2026 07:41:46",
+      "lat": 31.045398,
+      "location": "Lloyds Bridge",
+      "locationType": 5,
+      "lon": -92.360554,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "06/28/2026 07:20:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000188370",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.420058,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.246548,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "6/28/2026 8:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382092",
+      "lastUpdateTime": "06/28/2026 07:41:46",
+      "lat": 31.420058,
+      "location": "Holloway",
+      "locationType": 5,
+      "lon": -92.246548,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:45",
+      "serviceType": 1,
+      "startTime": "06/28/2026 06:40:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034813",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.298787,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.50978,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "6/28/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382096",
+      "lastUpdateTime": "06/28/2026 07:41:46",
+      "lat": 31.298787,
+      "location": "Bayou Rapides",
+      "locationType": 5,
+      "lon": -92.50978,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "06/28/2026 07:25:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000031143",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.299275,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.509493,
+          "zipCode": "71303"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243420",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.299078,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.509152,
+          "zipCode": "71303"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000301097",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.299085,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.5091,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "6/28/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382097",
+      "lastUpdateTime": "06/28/2026 07:41:46",
+      "lat": 31.299145999999997,
+      "location": "Bayou Rapides",
+      "locationType": 5,
+      "lon": -92.50924833333335,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "06/28/2026 07:26:40",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115549",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.423717,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.176833,
+          "zipCode": "70447"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055796",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.423284,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.177693,
+          "zipCode": "70447"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000317331",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.42187,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.17748,
+          "zipCode": "70447"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178691",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.426108,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.177303,
+          "zipCode": "70447"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "6/28/2026 9:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382098",
+      "lastUpdateTime": "06/28/2026 07:41:46",
+      "lat": 30.423744749999997,
+      "location": "Madisonville",
+      "locationType": 5,
+      "lon": -90.17732724999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:45",
+      "serviceType": 1,
+      "startTime": "06/28/2026 07:35:44",
       "status": 1,
       "zipCode": null
     }
