@@ -1,6 +1,79 @@
 {
-  "cachedAtUtc": "2026-06-28T09:43:21.203135+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-06-28T11:26:00.153061+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045471",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.064582,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.735531,
+          "zipCode": "70552"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168459",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.064589,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.735547,
+          "zipCode": "70552"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000333368",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.06457,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.735531,
+          "zipCode": "70552"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251906",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.064584,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.735527,
+          "zipCode": "70552"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "6/28/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382090",
+      "lastUpdateTime": "06/28/2026 06:11:46",
+      "lat": 30.064579500000004,
+      "location": "Loreauville",
+      "locationType": 5,
+      "lon": -91.73553299999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "06/28/2026 05:32:13",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
