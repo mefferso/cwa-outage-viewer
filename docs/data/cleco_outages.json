@@ -1,56 +1,305 @@
 {
-  "cachedAtUtc": "2026-06-29T12:06:16.419582+00:00",
+  "cachedAtUtc": "2026-06-29T16:09:34.739284+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000278516",
+            "outageDetailAttribute1": "6000208401",
             "outageDetailAttribute2": null
           },
-          "lat": 30.619073,
-          "location": "ST. LANDRY",
+          "lat": 31.152294,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -92.060532,
-          "zipCode": "70589"
+          "lon": -93.257745,
+          "zipCode": "71446"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000100790",
+            "outageDetailAttribute1": "6000016983",
             "outageDetailAttribute2": null
           },
-          "lat": 30.619403,
-          "location": "ST. LANDRY",
+          "lat": 31.152474,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -92.060522,
-          "zipCode": "70589"
+          "lon": -93.257921,
+          "zipCode": "71446"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000178439",
+            "outageDetailAttribute1": "6000085624",
             "outageDetailAttribute2": null
           },
-          "lat": 30.619043,
-          "location": "ST. LANDRY",
+          "lat": 31.15296,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -92.060608,
-          "zipCode": "70589"
+          "lon": -93.257542,
+          "zipCode": "71446"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000314024",
+            "outageDetailAttribute1": "6000347273",
             "outageDetailAttribute2": null
           },
-          "lat": 30.619325,
-          "location": "ST. LANDRY",
+          "lat": 31.152296,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -92.060912,
-          "zipCode": "70589"
+          "lon": -93.257745,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234627",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152474,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257921,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315148",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152837,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257855,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253534",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152301,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257742,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "6/29/2026 12:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382242",
+      "lastUpdateTime": "06/29/2026 10:51:48",
+      "lat": 31.15251942857143,
+      "location": "Leesville Plant",
+      "locationType": 5,
+      "lon": -93.25778157142858,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:45",
+      "serviceType": 1,
+      "startTime": "06/29/2026 10:41:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000058965",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.355153,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.335155,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000330389",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.35481,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.33573,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "6/29/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382243",
+      "lastUpdateTime": "06/29/2026 10:51:48",
+      "lat": 31.3549815,
+      "location": "Libuse",
+      "locationType": 5,
+      "lon": -92.3354425,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "06/29/2026 10:46:21",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000160252",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.279282,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773877,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000064144",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.279282,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773877,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065443",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.279282,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773877,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000004267",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.279282,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773877,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099603",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.279207,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.774252,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000318274",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.279268,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773876,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "6/29/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382244",
+      "lastUpdateTime": "06/29/2026 10:51:48",
+      "lat": 30.279267166666667,
+      "location": "Florida Avenue",
+      "locationType": 5,
+      "lon": -89.77393933333332,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "06/29/2026 10:48:07",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126239",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.373658,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.085477,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221199",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37357,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.085704,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000073315",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.373643,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.085807,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000169338",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37341,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.085972,
+          "zipCode": "70448"
         }
       ],
       "affectedCount": 4,
       "description": null,
-      "endTime": "6/29/2026 8:30:00 AM",
+      "endTime": "6/29/2026 11:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +307,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105382173",
-      "lastUpdateTime": "06/29/2026 06:51:47",
-      "lat": 30.619211,
-      "location": "Washington",
+      "incidentId": "INC 8105382184",
+      "lastUpdateTime": "06/29/2026 10:51:48",
+      "lat": 30.37357025,
+      "location": "Lambert Street",
       "locationType": 5,
-      "lon": -92.0606435,
+      "lon": -90.08573999999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:30",
+      "restorationTime": "11:45",
       "serviceType": 1,
-      "startTime": "06/29/2026 06:25:41",
+      "startTime": "06/29/2026 07:42:17",
       "status": 1,
       "zipCode": null
     },
@@ -77,96 +326,514 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000213094",
+            "outageDetailAttribute1": "6000164779",
             "outageDetailAttribute2": null
           },
-          "lat": 30.618161,
-          "location": "ST. LANDRY",
+          "lat": 31.54555,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.062356,
-          "zipCode": "70589"
+          "lon": -92.41315,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000105224",
+            "outageDetailAttribute1": "6000258658",
             "outageDetailAttribute2": null
           },
-          "lat": 30.617972,
-          "location": "ST. LANDRY",
+          "lat": 31.54052,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.062244,
-          "zipCode": "70589"
+          "lon": -92.43089,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000180608",
+            "outageDetailAttribute1": "6000302853",
             "outageDetailAttribute2": null
           },
-          "lat": 30.618577,
-          "location": "ST. LANDRY",
+          "lat": 31.547915,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.062283,
-          "zipCode": "70589"
+          "lon": -92.412091,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000218205",
+            "outageDetailAttribute1": "6000308214",
             "outageDetailAttribute2": null
           },
-          "lat": 30.61814,
-          "location": "ST. LANDRY",
+          "lat": 31.538232,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.06209,
-          "zipCode": "70589"
+          "lon": -92.611912,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000011152",
+            "outageDetailAttribute1": "6000054809",
             "outageDetailAttribute2": null
           },
-          "lat": 30.618393,
-          "location": "ST. LANDRY",
+          "lat": 31.548625,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.062312,
-          "zipCode": "70589"
+          "lon": -92.415683,
+          "zipCode": "71360"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000280035",
+            "outageDetailAttribute1": "6000135436",
             "outageDetailAttribute2": null
           },
-          "lat": 30.61818,
-          "location": "ST. LANDRY",
+          "lat": 31.54157,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.06212,
-          "zipCode": "70589"
+          "lon": -92.4633,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000105521",
+            "outageDetailAttribute1": "6000048096",
             "outageDetailAttribute2": null
           },
-          "lat": 30.618432,
-          "location": "ST. LANDRY",
+          "lat": 31.543903,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.062397,
-          "zipCode": "70589"
+          "lon": -92.409557,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000241921",
+            "outageDetailAttribute1": "6000048357",
             "outageDetailAttribute2": null
           },
-          "lat": 30.618418,
-          "location": "ST. LANDRY",
+          "lat": 31.539742,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.062325,
-          "zipCode": "70589"
+          "lon": -92.436507,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100979",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.541042,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.46409,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100956",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.54091,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.4567,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100835",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.538957,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.43649,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000190156",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.53978,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.43586,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258532",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.539567,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.606636,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007621",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540379,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.41051,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000009768",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.538695,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.436023,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153667",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.544613,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.412922,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057722",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.544523,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.423054,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241111",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.544063,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.424187,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000076633",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540796,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.435546,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000159520",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540793,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.435305,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000276549",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540111,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.613323,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266860",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.541472,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.440895,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000327976",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.543586,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.409883,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000060282",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.539532,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.436018,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000255015",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.542753,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.414673,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209128",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540379,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.410512,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000335604",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.547299,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.414883,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239940",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.550872,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.417357,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178416",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.549349,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.416643,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215101",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.545017,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.414228,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000333430",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.54131,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.43804,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000145248",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540592,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.408342,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048330",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540116,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.421707,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072173",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540607,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.421842,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055421",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.539465,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.435908,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123633",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.54221,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.44239,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000216491",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.539567,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.606636,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184266",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.539103,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.435883,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351597",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.539567,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.606636,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027361",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.54069,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.40831,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288135",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.540747,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.408822,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252420",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.541107,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.408525,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123741",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.541577,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.409845,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227440",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.53768,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.598027,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252090",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.541638,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.441364,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150093",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.54123,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.40835,
+          "zipCode": "71467"
         }
       ],
-      "affectedCount": 8,
+      "affectedCount": 46,
       "description": null,
-      "endTime": "6/29/2026 8:30:00 AM",
+      "endTime": "6/29/2026 12:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -174,18 +841,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105382174",
-      "lastUpdateTime": "06/29/2026 06:51:47",
-      "lat": 30.618284124999995,
-      "location": "Washington",
+      "incidentId": "INC 8105382222",
+      "lastUpdateTime": "06/29/2026 10:51:48",
+      "lat": 31.541907630434793,
+      "location": "Colfax",
       "locationType": 5,
-      "lon": -92.06226587500001,
+      "lon": -92.44911858695654,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:30",
+      "restorationTime": "12:00",
       "serviceType": 1,
-      "startTime": "06/29/2026 06:27:48",
+      "startTime": "06/29/2026 09:53:05",
       "status": 1,
       "zipCode": null
     },
@@ -193,745 +860,228 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000170235",
+            "outageDetailAttribute1": "6000119773",
             "outageDetailAttribute2": null
           },
-          "lat": 32.0104,
-          "location": "RED RIVER",
+          "lat": 31.103843,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.326883,
-          "zipCode": "71019"
+          "lon": -92.77068,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000200414",
+            "outageDetailAttribute1": "6000110488",
             "outageDetailAttribute2": null
           },
-          "lat": 32.010487,
-          "location": "RED RIVER",
+          "lat": 31.102407,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.326353,
-          "zipCode": "71019"
+          "lon": -92.770727,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000200330",
+            "outageDetailAttribute1": "6000208530",
             "outageDetailAttribute2": null
           },
-          "lat": 32.004735,
-          "location": "RED RIVER",
+          "lat": 31.103497,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.328977,
-          "zipCode": "71019"
+          "lon": -92.77403,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000145190",
+            "outageDetailAttribute1": "6000005416",
             "outageDetailAttribute2": null
           },
-          "lat": 32.007155,
-          "location": "RED RIVER",
+          "lat": 31.106036,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.32515,
-          "zipCode": "71019"
+          "lon": -92.775277,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000320448",
+            "outageDetailAttribute1": "6000183128",
             "outageDetailAttribute2": null
           },
-          "lat": 32.006918,
-          "location": "RED RIVER",
+          "lat": 31.105858,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.322325,
-          "zipCode": "71019"
+          "lon": -92.76831,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000157913",
+            "outageDetailAttribute1": "6000157831",
             "outageDetailAttribute2": null
           },
-          "lat": 32.008948,
-          "location": "RED RIVER",
+          "lat": 31.108288,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.324729,
-          "zipCode": "71019"
+          "lon": -92.777904,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000065479",
+            "outageDetailAttribute1": "6000048042",
             "outageDetailAttribute2": null
           },
-          "lat": 32.00647,
-          "location": "RED RIVER",
+          "lat": 31.10572,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.325922,
-          "zipCode": "71019"
+          "lon": -92.769949,
+          "zipCode": "71303"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000145170",
+            "outageDetailAttribute1": "6000176865",
             "outageDetailAttribute2": null
           },
-          "lat": 32.008405,
-          "location": "RED RIVER",
+          "lat": 31.10597,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.326177,
-          "zipCode": "71019"
+          "lon": -92.777077,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000266517",
+            "outageDetailAttribute1": "6000287625",
             "outageDetailAttribute2": null
           },
-          "lat": 32.00748,
-          "location": "RED RIVER",
+          "lat": 31.10585,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.32434,
-          "zipCode": "71019"
+          "lon": -92.77584,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000175876",
+            "outageDetailAttribute1": "6000249539",
             "outageDetailAttribute2": null
           },
-          "lat": 32.008799,
-          "location": "RED RIVER",
+          "lat": 31.1041,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.32763,
-          "zipCode": "71019"
+          "lon": -92.77403,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000074180",
+            "outageDetailAttribute1": "6000082006",
             "outageDetailAttribute2": null
           },
-          "lat": 32.00755,
-          "location": "RED RIVER",
+          "lat": 31.109402,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.32581,
-          "zipCode": "71019"
+          "lon": -92.776318,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000284768",
+            "outageDetailAttribute1": "6000309751",
             "outageDetailAttribute2": null
           },
-          "lat": 32.009878,
-          "location": "RED RIVER",
+          "lat": 31.104064,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.321756,
-          "zipCode": "71019"
+          "lon": -92.772426,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000186495",
+            "outageDetailAttribute1": "6000150195",
             "outageDetailAttribute2": null
           },
-          "lat": 32.008622,
-          "location": "RED RIVER",
+          "lat": 31.106075,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.3267,
-          "zipCode": "71019"
+          "lon": -92.770238,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000280034",
+            "outageDetailAttribute1": "6000327493",
             "outageDetailAttribute2": null
           },
-          "lat": 32.005688,
-          "location": "RED RIVER",
+          "lat": 31.106537,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.327122,
-          "zipCode": "71019"
+          "lon": -92.77574,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000170275",
+            "outageDetailAttribute1": "6000150113",
             "outageDetailAttribute2": null
           },
-          "lat": 32.01115,
-          "location": "RED RIVER",
+          "lat": 31.1055,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.32182,
-          "zipCode": "71019"
+          "lon": -92.775128,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000074141",
+            "outageDetailAttribute1": "6000309744",
             "outageDetailAttribute2": null
           },
-          "lat": 32.007919,
-          "location": "RED RIVER",
+          "lat": 31.107473,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.325686,
-          "zipCode": "71019"
+          "lon": -92.770853,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000194034",
+            "outageDetailAttribute1": "6000176664",
             "outageDetailAttribute2": null
           },
-          "lat": 32.009892,
-          "location": "RED RIVER",
+          "lat": 31.105606,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.321755,
-          "zipCode": "71019"
+          "lon": -92.771152,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000220599",
+            "outageDetailAttribute1": "6000264762",
             "outageDetailAttribute2": null
           },
-          "lat": 32.008752,
-          "location": "RED RIVER",
+          "lat": 31.106435,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.327775,
-          "zipCode": "71019"
+          "lon": -92.768972,
+          "zipCode": "71346"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000026579",
+            "outageDetailAttribute1": "6000356024",
             "outageDetailAttribute2": null
           },
-          "lat": 32.010678,
-          "location": "RED RIVER",
+          "lat": 31.102677,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.32428,
-          "zipCode": "71019"
+          "lon": -92.774365,
+          "zipCode": "71438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000261611",
+            "outageDetailAttribute1": "6000224942",
             "outageDetailAttribute2": null
           },
-          "lat": 32.010608,
-          "location": "RED RIVER",
+          "lat": 31.10256,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.323747,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000200352",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010606,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326104,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000222227",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010606,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326104,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000214457",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008148,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32604,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000304377",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.006783,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.322865,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000304399",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.0064,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.325656,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000304498",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008386,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326807,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000240817",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.005791,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326467,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000076318",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.011773,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32333,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000090910",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010588,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.325482,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266638",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008565,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.325606,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000125609",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008385,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32543,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000074199",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008559,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326996,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266493",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008638,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.327467,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000280023",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.00992,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32165,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000145134",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.01251,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.324399,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000102566",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.009892,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.321755,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000026569",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010528,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.327217,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000102613",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.009025,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.325747,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000091842",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.006707,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.323824,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000027577",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.01068,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32764,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000074160",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.011091,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.323332,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000145240",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.00534,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.328787,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000286638",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.009892,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.321755,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000278835",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.00879,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32423,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000096468",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.01043,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32237,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000181121",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008553,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.324437,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000050114",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.006619,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.324806,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000332321",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.00544,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32671,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000227656",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.005455,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326853,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000339896",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010723,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.325078,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000341125",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.005144,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.328483,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266702",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.006785,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.322849,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000200246",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010555,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.324884,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000343411",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010664,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.322218,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000102522",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010651,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326514,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000304451",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.005137,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.328496,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000348627",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.006619,
-          "location": "NATCHITOCHES",
-          "locationType": 2,
-          "lon": -93.324822,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000333403",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.01064,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.327228,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000240698",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008909,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.324251,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000004246",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.011378,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.324392,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000092733",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010219,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.326465,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000240777",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.00768,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32166,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000329841",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.011081,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.321754,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000074152",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.007108,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.323493,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000161943",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.011773,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.32333,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000356651",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.008559,
-          "location": "NATCHITOCHES",
-          "locationType": 2,
-          "lon": -93.32698,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000004270",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.010958,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.323186,
-          "zipCode": "71019"
+          "lon": -92.773696,
+          "zipCode": "71438"
         }
       ],
-      "affectedCount": 67,
+      "affectedCount": 20,
       "description": null,
-      "endTime": "6/29/2026 7:14:26 AM",
+      "endTime": "6/29/2026 12:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -939,503 +1089,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105382162",
-      "lastUpdateTime": "06/29/2026 06:51:47",
-      "lat": 32.00879428358209,
-      "location": "Carroll",
+      "incidentId": "INC 8105382229",
+      "lastUpdateTime": "06/29/2026 10:51:48",
+      "lat": 31.105394900000004,
+      "location": "Hineston",
       "locationType": 5,
-      "lon": -93.32508785074629,
+      "lon": -92.77313559999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:14",
+      "restorationTime": "12:15",
       "serviceType": 1,
-      "startTime": "06/29/2026 04:18:30",
-      "status": 0,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000166353",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.63561,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.633735,
-          "zipCode": "71486"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000106172",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.635684,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.63371,
-          "zipCode": "71486"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000271647",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.63627,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.63336,
-          "zipCode": "71486"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000091129",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.635573,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.633997,
-          "zipCode": "71486"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "6/29/2026 8:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105382164",
-      "lastUpdateTime": "06/29/2026 06:51:47",
-      "lat": 31.635742,
-      "location": "Zwolle",
-      "locationType": 5,
-      "lon": -93.63375979999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "08:30",
-      "serviceType": 1,
-      "startTime": "06/29/2026 06:18:13",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000046089",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.619067,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.060995,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000241862",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.614505,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.066822,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000241878",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.615712,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.066024,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000320094",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.617573,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061613,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000241936",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618958,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062298,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000151002",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.61736,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062227,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000164542",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.613488,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.066789,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000087031",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.614245,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.066563,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000280627",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.61915,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061731,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000309973",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.617032,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061912,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000105432",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.614762,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.0662,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000105545",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618878,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061715,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000319313",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.614047,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.067334,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000270514",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.617692,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062384,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000087076",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.617652,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062783,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000011695",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618338,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.064598,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000253076",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.612867,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.068634,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000140680",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.614812,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.065832,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000087117",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618127,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061652,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000257302",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.616822,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062238,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000103047",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.617202,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062012,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000259534",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618784,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.063087,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000347303",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.617063,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062733,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000153367",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.616978,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062172,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000213101",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.6185,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.060908,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000140984",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618604,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061405,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000314001",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618702,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062244,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000312880",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.614187,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.067372,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000137581",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.61753,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.06155,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000312915",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.615233,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.066842,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000182563",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618077,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061367,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000087044",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618794,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.063098,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000046079",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.618597,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.062727,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000179740",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.619348,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.061864,
-          "zipCode": "70589"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000357013",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.61989,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.06264,
-          "zipCode": "70589"
-        }
-      ],
-      "affectedCount": 35,
-      "description": null,
-      "endTime": "6/29/2026 8:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105382167",
-      "lastUpdateTime": "06/29/2026 06:51:47",
-      "lat": 30.617193621621624,
-      "location": "Washington",
-      "locationType": 5,
-      "lon": -92.06347462162158,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "08:30",
-      "serviceType": 1,
-      "startTime": "06/29/2026 06:21:29",
+      "startTime": "06/29/2026 10:06:05",
       "status": 1,
       "zipCode": null
     }
