@@ -1,56 +1,89 @@
 {
-  "cachedAtUtc": "2026-06-30T18:11:48.152084+00:00",
+  "cachedAtUtc": "2026-06-30T20:21:09.645220+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000005874",
+            "outageDetailAttribute1": "6000143168",
             "outageDetailAttribute2": null
           },
-          "lat": 30.620917,
-          "location": "ST. LANDRY",
+          "lat": 30.204062,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.055777,
-          "zipCode": "70589"
+          "lon": -92.365728,
+          "zipCode": "70526"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000266507",
+            "outageDetailAttribute1": "6000010463",
             "outageDetailAttribute2": null
           },
-          "lat": 30.621265,
-          "location": "ST. LANDRY",
+          "lat": 30.20389,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.055718,
-          "zipCode": "70589"
+          "lon": -92.364745,
+          "zipCode": "70526"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000343338",
+            "outageDetailAttribute1": "6000260594",
             "outageDetailAttribute2": null
           },
-          "lat": 30.62116,
-          "location": "ST. LANDRY",
+          "lat": 30.204137,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.05581,
-          "zipCode": "70589"
+          "lon": -92.365122,
+          "zipCode": "70526"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000350034",
+            "outageDetailAttribute1": "6000097951",
             "outageDetailAttribute2": null
           },
-          "lat": 30.620884,
-          "location": "ST. LANDRY",
+          "lat": 30.203858,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.055421,
-          "zipCode": "70589"
+          "lon": -92.364348,
+          "zipCode": "70526"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000305932",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.20389,
+          "location": "ACADIA",
+          "locationType": 2,
+          "lon": -92.364745,
+          "zipCode": "70526"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000143066",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.20368,
+          "location": "ACADIA",
+          "locationType": 2,
+          "lon": -92.364593,
+          "zipCode": "70526"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000236169",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.203772,
+          "location": "ACADIA",
+          "locationType": 2,
+          "lon": -92.364402,
+          "zipCode": "70526"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 7,
       "description": null,
-      "endTime": "6/30/2026 3:00:00 PM",
+      "endTime": "6/30/2026 5:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +91,101 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105382491",
-      "lastUpdateTime": "06/30/2026 13:01:50",
-      "lat": 30.6210565,
-      "location": "Washington",
+      "incidentId": "INC 8105382511",
+      "lastUpdateTime": "06/30/2026 15:01:50",
+      "lat": 30.203882625000002,
+      "location": "Kaplan Road",
       "locationType": 5,
-      "lon": -92.0556815,
+      "lon": -92.364760625,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:00",
+      "restorationTime": "17:15",
       "serviceType": 1,
-      "startTime": "06/30/2026 12:46:01",
+      "startTime": "06/30/2026 15:00:46",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000176163",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.515447,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073755,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000309515",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.516745,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073965,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121817",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.515192,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073512,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051611",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.515172,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073467,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051688",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.515377,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073992,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "6/30/2026 4:05:23 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105382495",
+      "lastUpdateTime": "06/30/2026 15:01:50",
+      "lat": 30.5155866,
+      "location": "South Park",
+      "locationType": 5,
+      "lon": -92.07373820000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:05",
+      "serviceType": 1,
+      "startTime": "06/30/2026 13:17:54",
       "status": 1,
       "zipCode": null
     }
