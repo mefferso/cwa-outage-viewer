@@ -1,89 +1,45 @@
 {
-  "cachedAtUtc": "2026-06-30T20:21:09.645220+00:00",
+  "cachedAtUtc": "2026-06-30T21:53:32.833967+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000143168",
+            "outageDetailAttribute1": "6000164704",
             "outageDetailAttribute2": null
           },
-          "lat": 30.204062,
-          "location": "ACADIA",
+          "lat": 30.75198,
+          "location": "BEAUREGARD",
           "locationType": 2,
-          "lon": -92.365728,
-          "zipCode": "70526"
+          "lon": -93.543271,
+          "zipCode": "70653"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000010463",
+            "outageDetailAttribute1": "6000300867",
             "outageDetailAttribute2": null
           },
-          "lat": 30.20389,
-          "location": "ACADIA",
+          "lat": 30.751562,
+          "location": "BEAUREGARD",
           "locationType": 2,
-          "lon": -92.364745,
-          "zipCode": "70526"
+          "lon": -93.543697,
+          "zipCode": "70653"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000260594",
+            "outageDetailAttribute1": "6000034501",
             "outageDetailAttribute2": null
           },
-          "lat": 30.204137,
-          "location": "ACADIA",
+          "lat": 30.75198,
+          "location": "BEAUREGARD",
           "locationType": 2,
-          "lon": -92.365122,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000097951",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.203858,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.364348,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000305932",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.20389,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.364745,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000143066",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.20368,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.364593,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000236169",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.203772,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.364402,
-          "zipCode": "70526"
+          "lon": -93.543271,
+          "zipCode": "70653"
         }
       ],
-      "affectedCount": 7,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "6/30/2026 5:15:00 PM",
+      "endTime": "6/30/2026 6:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -91,101 +47,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105382511",
-      "lastUpdateTime": "06/30/2026 15:01:50",
-      "lat": 30.203882625000002,
-      "location": "Kaplan Road",
+      "incidentId": "INC 8105382517",
+      "lastUpdateTime": "06/30/2026 16:41:50",
+      "lat": 30.751840666666666,
+      "location": "Cole",
       "locationType": 5,
-      "lon": -92.364760625,
+      "lon": -93.543413,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:15",
+      "restorationTime": "18:30",
       "serviceType": 1,
-      "startTime": "06/30/2026 15:00:46",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000176163",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.515447,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073755,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000309515",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.516745,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073965,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000121817",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.515192,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073512,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000051611",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.515172,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073467,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000051688",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.515377,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073992,
-          "zipCode": "70570"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "6/30/2026 4:05:23 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105382495",
-      "lastUpdateTime": "06/30/2026 15:01:50",
-      "lat": 30.5155866,
-      "location": "South Park",
-      "locationType": 5,
-      "lon": -92.07373820000001,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:05",
-      "serviceType": 1,
-      "startTime": "06/30/2026 13:17:54",
+      "startTime": "06/30/2026 16:23:29",
       "status": 1,
       "zipCode": null
     }
