@@ -1,23 +1,34 @@
 {
-  "cachedAtUtc": "2026-07-04T11:50:29.190690+00:00",
+  "cachedAtUtc": "2026-07-04T13:07:01.806788+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000115797",
+            "outageDetailAttribute1": "6000253469",
             "outageDetailAttribute2": null
           },
-          "lat": 29.822005,
-          "location": "ST. MARY",
+          "lat": 30.277043,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.529532,
-          "zipCode": "70538"
+          "lon": -89.794715,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000218491",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.276922,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.794969,
+          "zipCode": "70460"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "7/4/2026 8:00:00 AM",
+      "endTime": "7/4/2026 9:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +36,310 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105383785",
-      "lastUpdateTime": "07/04/2026 06:31:56",
-      "lat": 29.822005,
-      "location": "Turbine Plant (Franklin)",
+      "incidentId": "INC 8105383790",
+      "lastUpdateTime": "07/04/2026 07:51:56",
+      "lat": 30.2769825,
+      "location": "Bayou Liberty",
       "locationType": 5,
-      "lon": -91.529532,
+      "lon": -89.79484199999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:00",
+      "restorationTime": "09:45",
       "serviceType": 1,
-      "startTime": "07/04/2026 05:57:05",
+      "startTime": "07/04/2026 07:30:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241376",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.558245,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.716143,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.549262,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.651619,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310992",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.55986,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.716472,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314064",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.553972,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714663,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000053333",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.55819,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71585,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000125944",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559695,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.716317,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000169426",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.55887,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71625,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079346",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.556881,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71589,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234074",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.55304,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.7146,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227380",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.555374,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714151,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153765",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.553657,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714016,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000037304",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.56068,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71691,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000319164",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.55544,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71431,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153783",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.556393,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.717025,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280953",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.557803,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71595,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000084551",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.555832,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.713892,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150142",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.556035,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.715772,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000225267",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.56006,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.71638,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105028",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.555912,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.715295,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241363",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.555212,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714011,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000354876",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.557966,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.7161,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251251",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.5584,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.716055,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000255640",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.555374,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714151,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057933",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.557352,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714895,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 24,
+      "description": null,
+      "endTime": "7/4/2026 9:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105383791",
+      "lastUpdateTime": "07/04/2026 07:51:56",
+      "lat": 31.5567162,
+      "location": "North Colfax",
+      "locationType": 5,
+      "lon": -92.71291087999998,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:45",
+      "serviceType": 1,
+      "startTime": "07/04/2026 07:33:22",
       "status": 1,
       "zipCode": null
     }
