@@ -1,56 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-04T13:07:01.806788+00:00",
+  "cachedAtUtc": "2026-07-04T14:45:03.133196+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000253469",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.277043,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.794715,
-          "zipCode": "70460"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000218491",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.276922,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.794969,
-          "zipCode": "70460"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "7/4/2026 9:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105383790",
-      "lastUpdateTime": "07/04/2026 07:51:56",
-      "lat": 30.2769825,
-      "location": "Bayou Liberty",
-      "locationType": 5,
-      "lon": -89.79484199999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "09:45",
-      "serviceType": 1,
-      "startTime": "07/04/2026 07:30:52",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -320,7 +270,7 @@
       ],
       "affectedCount": 24,
       "description": null,
-      "endTime": "7/4/2026 9:45:00 AM",
+      "endTime": "7/4/2026 10:56:39 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -329,17 +279,194 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105383791",
-      "lastUpdateTime": "07/04/2026 07:51:56",
-      "lat": 31.5567162,
+      "lastUpdateTime": "07/04/2026 09:31:56",
+      "lat": 31.556716200000004,
       "location": "North Colfax",
       "locationType": 5,
       "lon": -92.71291087999998,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:45",
+      "restorationTime": "10:56",
       "serviceType": 1,
       "startTime": "07/04/2026 07:33:22",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000033947",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.608888,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.672289,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000032615",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.604863,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.66739,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035607",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.608898,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.671422,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000270376",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.606468,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.783894,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314247",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.61004,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.67939,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000135905",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.61083,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.67769,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180473",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.607412,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.670513,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241544",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.604987,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.666653,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000167360",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.61462,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.67922,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "7/4/2026 10:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105383795",
+      "lastUpdateTime": "07/04/2026 09:31:56",
+      "lat": 31.608556222222223,
+      "location": "Colfax",
+      "locationType": 5,
+      "lon": -92.68538455555556,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:45",
+      "serviceType": 1,
+      "startTime": "07/04/2026 07:57:53",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253469",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.277043,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.794715,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000218491",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.276922,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.794969,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/4/2026 11:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105383790",
+      "lastUpdateTime": "07/04/2026 09:31:56",
+      "lat": 30.2769825,
+      "location": "Bayou Liberty",
+      "locationType": 5,
+      "lon": -89.79484199999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:45",
+      "serviceType": 1,
+      "startTime": "07/04/2026 07:30:52",
       "status": 1,
       "zipCode": null
     }
