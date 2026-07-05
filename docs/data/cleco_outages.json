@@ -1,6 +1,57 @@
 {
-  "cachedAtUtc": "2026-07-05T16:44:03.012408+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-07-05T17:49:21.959706+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000322707",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.05715,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.74657,
+          "zipCode": "70563"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000326750",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.057,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.7469,
+          "zipCode": "70563"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/5/2026 12:55:42 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384097",
+      "lastUpdateTime": "07/05/2026 12:31:58",
+      "lat": 30.057074999999998,
+      "location": "Belle Place",
+      "locationType": 5,
+      "lon": -91.746735,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:55",
+      "serviceType": 1,
+      "startTime": "07/05/2026 11:50:57",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
