@@ -1,56 +1,45 @@
 {
-  "cachedAtUtc": "2026-07-06T06:06:11.265357+00:00",
+  "cachedAtUtc": "2026-07-06T11:01:02.678629+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000078760",
+            "outageDetailAttribute1": "6000333620",
             "outageDetailAttribute2": null
           },
-          "lat": 30.633855,
-          "location": "ST. TAMMANY",
+          "lat": 30.71881,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -90.083433,
-          "zipCode": "70435"
+          "lon": -90.09184,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000177094",
+            "outageDetailAttribute1": "6000342603",
             "outageDetailAttribute2": null
           },
-          "lat": 30.633778,
-          "location": "ST. TAMMANY",
+          "lat": 30.720699,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -90.083394,
-          "zipCode": "70435"
+          "lon": -90.092836,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000076321",
+            "outageDetailAttribute1": "6000334124",
             "outageDetailAttribute2": null
           },
-          "lat": 30.63364,
-          "location": "ST. TAMMANY",
+          "lat": 30.718984,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -90.08356,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000123500",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.633823,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.083973,
-          "zipCode": "70435"
+          "lon": -90.091793,
+          "zipCode": "70438"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "7/6/2026 2:30:00 AM",
+      "endTime": "7/6/2026 8:00:15 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +47,140 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105384114",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.633774,
+      "incidentId": "INC 8105384152",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.719497666666665,
       "location": "Pine Clif (Franklinton)",
       "locationType": 5,
-      "lon": -90.08359000000002,
+      "lon": -90.09215633333334,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:30",
+      "restorationTime": "08:00",
       "serviceType": 1,
-      "startTime": "07/05/2026 14:18:34",
+      "startTime": "07/05/2026 14:35:04",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000165362",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.505302,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.056988,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288496",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.505811,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.058241,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/6/2026 6:57:30 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384165",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.5055565,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.0576145,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:57",
+      "serviceType": 1,
+      "startTime": "07/05/2026 14:37:18",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061802",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.88176,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.304942,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194047",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.881853,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.306692,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126250",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.881968,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.305064,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000354906",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.881974,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.305071,
+          "zipCode": "71367"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "7/6/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384848",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.88188875,
+      "location": "Morrison Corner",
+      "locationType": 5,
+      "lon": -92.30544225,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "07/06/2026 02:55:20",
       "status": 1,
       "zipCode": null
     },
@@ -155,7 +266,7 @@
       ],
       "affectedCount": 7,
       "description": null,
-      "endTime": "7/6/2026 2:30:00 AM",
+      "endTime": "7/6/2026 6:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -164,7 +275,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105384135",
-      "lastUpdateTime": "07/06/2026 00:51:59",
+      "lastUpdateTime": "07/06/2026 05:52:00",
       "lat": 30.503781428571433,
       "location": "Hwy 25",
       "locationType": 5,
@@ -172,7 +283,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:30",
+      "restorationTime": "06:30",
       "serviceType": 1,
       "startTime": "07/05/2026 14:29:49",
       "status": 1,
@@ -205,7 +316,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/5/2026 9:48:05 PM",
+      "endTime": "7/6/2026 8:00:05 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -214,7 +325,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105384145",
-      "lastUpdateTime": "07/06/2026 00:51:59",
+      "lastUpdateTime": "07/06/2026 05:52:00",
       "lat": 30.47677,
       "location": "Abita Springs",
       "locationType": 5,
@@ -222,7 +333,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "21:48",
+      "restorationTime": "08:00",
       "serviceType": 1,
       "startTime": "07/05/2026 14:32:48",
       "status": 1,
@@ -232,30 +343,74 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000328666",
+            "outageDetailAttribute1": "6000219302",
             "outageDetailAttribute2": null
           },
-          "lat": 30.71753,
-          "location": "WASHINGTON",
+          "lat": 30.22412,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.0911,
-          "zipCode": "70438"
+          "lon": -89.796977,
+          "zipCode": "70458"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000354998",
+            "outageDetailAttribute1": "6000235381",
             "outageDetailAttribute2": null
           },
-          "lat": 30.71799,
-          "location": "WASHINGTON",
+          "lat": 30.224362,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.091282,
-          "zipCode": "70438"
+          "lon": -89.796727,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303950",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.224132,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.79713,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102844",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.224045,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.797323,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303724",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.224293,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.796753,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172046",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.224115,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.797035,
+          "zipCode": "70458"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 6,
       "description": null,
-      "endTime": "7/6/2026 2:45:00 AM",
+      "endTime": "7/6/2026 8:24:05 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -263,18 +418,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105384149",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.71776,
-      "location": "Pine Clif (Franklinton)",
+      "incidentId": "INC 8105384850",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.22417783333333,
+      "location": "Berkley Street",
       "locationType": 5,
-      "lon": -90.09119100000001,
+      "lon": -89.79699083333333,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "08:24",
       "serviceType": 1,
-      "startTime": "07/05/2026 14:34:18",
+      "startTime": "07/06/2026 03:01:37",
       "status": 1,
       "zipCode": null
     },
@@ -282,41 +437,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000333620",
+            "outageDetailAttribute1": "6000233727",
             "outageDetailAttribute2": null
           },
-          "lat": 30.71881,
-          "location": "WASHINGTON",
+          "lat": 30.495863,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.09184,
-          "zipCode": "70438"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000342603",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.720699,
-          "location": "WASHINGTON",
-          "locationType": 2,
-          "lon": -90.092836,
-          "zipCode": "70438"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334124",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.718984,
-          "location": "WASHINGTON",
-          "locationType": 2,
-          "lon": -90.091793,
-          "zipCode": "70438"
+          "lon": -92.457433,
+          "zipCode": "70535"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "7/6/2026 2:45:00 AM",
+      "endTime": "7/6/2026 7:42:08 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -324,18 +457,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105384152",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.719497666666665,
-      "location": "Pine Clif (Franklinton)",
+      "incidentId": "INC 8105384856",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.495863,
+      "location": "Hwy 757",
       "locationType": 5,
-      "lon": -90.09215633333334,
+      "lon": -92.457433,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "07:42",
       "serviceType": 1,
-      "startTime": "07/05/2026 14:35:04",
+      "startTime": "07/06/2026 04:43:52",
       "status": 1,
       "zipCode": null
     },
@@ -343,30 +476,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000165362",
+            "outageDetailAttribute1": "6000066932",
             "outageDetailAttribute2": null
           },
-          "lat": 30.505302,
+          "lat": 30.486278,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.056988,
-          "zipCode": "70435"
+          "lon": -90.093686,
+          "zipCode": "70433"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000288496",
+            "outageDetailAttribute1": "6000065606",
             "outageDetailAttribute2": null
           },
-          "lat": 30.505811,
+          "lat": 30.486288,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.058241,
+          "lon": -90.09363,
           "zipCode": "70433"
         }
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/6/2026 2:45:00 AM",
+      "endTime": "7/6/2026 7:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -374,18 +507,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105384165",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.5055565,
+      "incidentId": "INC 8105384857",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.486283,
       "location": "Covington",
       "locationType": 5,
-      "lon": -90.0576145,
+      "lon": -90.093658,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "07:45",
       "serviceType": 1,
-      "startTime": "07/05/2026 14:37:18",
+      "startTime": "07/06/2026 05:30:58",
       "status": 1,
       "zipCode": null
     },
@@ -393,109 +526,1291 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000147179",
+            "outageDetailAttribute1": "6000200813",
             "outageDetailAttribute2": null
           },
-          "lat": 30.4697,
+          "lat": 30.326362,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.041643,
-          "zipCode": "70420"
+          "lon": -89.932786,
+          "zipCode": "70445"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000169212",
+            "outageDetailAttribute1": "6000098231",
             "outageDetailAttribute2": null
           },
-          "lat": 30.469855,
+          "lat": 30.327933,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.041532,
-          "zipCode": "70420"
+          "lon": -89.932625,
+          "zipCode": "70445"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000029853",
+            "outageDetailAttribute1": "6000288524",
             "outageDetailAttribute2": null
           },
-          "lat": 30.470532,
+          "lat": 30.326733,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.041772,
-          "zipCode": "70420"
+          "lon": -89.935812,
+          "zipCode": "70445"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000169231",
+            "outageDetailAttribute1": "6000175774",
             "outageDetailAttribute2": null
           },
-          "lat": 30.469808,
+          "lat": 30.328533,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.042142,
-          "zipCode": "70420"
+          "lon": -89.931463,
+          "zipCode": "70445"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000016252",
+            "outageDetailAttribute1": "6000085548",
             "outageDetailAttribute2": null
           },
-          "lat": 30.470273,
+          "lat": 30.323803,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.041716,
-          "zipCode": "70420"
+          "lon": -89.932468,
+          "zipCode": "70445"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000221921",
+            "outageDetailAttribute1": "6000098248",
             "outageDetailAttribute2": null
           },
-          "lat": 30.470083,
+          "lat": 30.321282,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.041626,
-          "zipCode": "70420"
+          "lon": -89.930926,
+          "zipCode": "70445"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000053603",
+            "outageDetailAttribute1": "6000172662",
             "outageDetailAttribute2": null
           },
-          "lat": 30.470335,
+          "lat": 30.325105,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.042168,
-          "zipCode": "70420"
-        }
-      ],
-      "affectedCount": 7,
-      "description": null,
-      "endTime": "7/5/2026 9:00:49 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384223",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.47008371428571,
-      "location": "Abita Springs",
-      "locationType": 5,
-      "lon": -90.04179985714286,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "21:00",
-      "serviceType": 1,
-      "startTime": "07/05/2026 14:58:46",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
+          "lon": -89.933255,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000098219",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325619,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931976,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000260664",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.322025,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931855,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000028639",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325806,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932052,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282906",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329068,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933193,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219160",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32726,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93178,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000313854",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328872,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932908,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000179547",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327773,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.929813,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000069802",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324837,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933022,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005861",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328723,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933688,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055039",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329822,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932943,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000117356",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323272,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932727,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000098241",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326875,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932018,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124029",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328992,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93178,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000098208",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32408,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932647,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000223104",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328457,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933378,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000260677",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324167,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933282,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041588",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32681,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.9399,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212912",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328333,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932653,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181264",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327082,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931797,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000200719",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32582,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932049,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000200787",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324318,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933145,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219091",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325352,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932487,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280024",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328738,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932113,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172417",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327838,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.929797,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253887",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32772,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93011,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000186715",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.322895,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931213,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000010608",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324827,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933105,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163334",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32587,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93316,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115429",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32646,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932797,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000060922",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32813,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932455,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288548",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327645,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931317,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219183",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324887,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930892,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000340487",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324777,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.935,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124026",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325425,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933102,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000021888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328802,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933003,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278972",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327411,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931361,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000010652",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326372,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931582,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000167521",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32646,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93958,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000217591",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32755,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930241,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349790",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323977,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.936491,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000069854",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328735,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930647,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000028661",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327972,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93624,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000037369",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32916,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933392,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000028684",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329128,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93436,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000165655",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.322078,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931815,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271672",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324193,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931267,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000200837",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32776,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930872,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000095186",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328148,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932317,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000069825",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324358,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933725,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146143",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32851,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93346,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000137262",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327763,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.929817,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207595",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325573,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93113,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079552",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328395,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931195,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000010624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324615,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933592,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000161506",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323083,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931635,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000122779",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32949,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933607,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066856",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32516,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93811,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123730",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326428,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.939871,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055603",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325045,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931312,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000156851",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323713,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931602,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000109713",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329091,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932142,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315913",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325022,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931233,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000114977",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324358,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932533,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126178",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329765,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933147,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314675",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32957,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93252,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000165704",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324699,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930836,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092501",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328597,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93224,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000347023",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.322166,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.938682,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288486",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325383,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932393,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244679",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324787,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931832,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092991",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324162,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932038,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000028238",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324147,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932292,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039163",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329158,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.934008,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000165679",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325283,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932165,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000182907",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325577,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931128,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000318882",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324214,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931032,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291223",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326616,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.939927,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000078946",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323615,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932773,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000285450",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326602,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.935263,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000029070",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325631,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931855,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124023",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327648,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931798,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116664",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32846,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93142,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350690",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329325,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.92999,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352104",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327904,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930288,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000149690",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329797,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930885,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214338",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328953,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932322,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251853",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.329089,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932141,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000192091",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32446,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93351,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000311680",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326157,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930892,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000260702",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327088,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930918,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350873",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328362,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.929581,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000117081",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326942,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932042,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000148887",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324442,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931627,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000260689",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32518,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.933563,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000069780",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.321943,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.936031,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306528",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328558,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931338,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150732",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.325639,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930748,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000071000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324882,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930887,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212961",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32313,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.931677,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326347,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930137,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257117",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327962,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.9303,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153897",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323385,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93269,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000010669",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32957,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.930558,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000060976",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323477,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932218,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000222687",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327655,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000135988",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.328869,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.93179,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100710",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.327308,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932298,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000284917",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.324388,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932523,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219135",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.326685,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932684,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166317",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32791,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.932207,
+          "zipCode": "70445"
+        },
         {
           "extension": {
             "outageDetailAttribute1": "6000251776",
@@ -574,9 +1889,9 @@
           "zipCode": "70445"
         }
       ],
-      "affectedCount": 7,
+      "affectedCount": 124,
       "description": null,
-      "endTime": "7/6/2026 2:00:00 AM",
+      "endTime": "7/6/2026 9:19:38 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -585,18 +1900,350 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105384227",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.31864057142857,
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.325980155038767,
       "location": "Lacombe",
       "locationType": 5,
-      "lon": -89.93481514285713,
+      "lon": -89.93262260465116,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:00",
+      "restorationTime": "09:19",
       "serviceType": 1,
       "startTime": "07/05/2026 15:01:19",
       "status": 0,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348990",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.80281,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.125198,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348989",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.806883,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.125703,
+          "zipCode": "71322"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/6/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384858",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.8048465,
+      "location": "Coughlin",
+      "locationType": 5,
+      "lon": -92.1254505,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "07/06/2026 05:43:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219830",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.481513,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.079358,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000220768",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.481183,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.079926,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000283903",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.480994,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.07986,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022052",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.480913,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.079818,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017507",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.481183,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.079926,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "7/6/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384442",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.481157199999995,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.0797776,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/05/2026 17:17:25",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221638",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.294943,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.532505,
+          "zipCode": "71303"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000156610",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.295025,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.532503,
+          "zipCode": "71303"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000235110",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.295063,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.532445,
+          "zipCode": "71303"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049884",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.294813,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.532528,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "7/6/2026 10:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384469",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 31.294961,
+      "location": "Hot Wells",
+      "locationType": 5,
+      "lon": -92.53249525,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:00",
+      "serviceType": 1,
+      "startTime": "07/05/2026 17:36:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020418",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.002659,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.002248,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000179599",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.990181,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.013524,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000255220",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.00139,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.00275,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291059",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.994005,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.991723,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000081976",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.009113,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.994097,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025329",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.994087,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.00763,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162276",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.001427,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.996268,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000089793",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.001106,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.004177,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000326097",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.993919,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.992038,
+          "zipCode": "71327"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "7/6/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384584",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.99865411111111,
+      "location": "Longbridge",
+      "locationType": 5,
+      "lon": -92.00049499999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/05/2026 18:56:54",
+      "status": 1,
       "zipCode": null
     },
     {
@@ -1033,7 +2680,7 @@
       ],
       "affectedCount": 39,
       "description": null,
-      "endTime": "7/6/2026 1:45:00 AM",
+      "endTime": "7/6/2026 5:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -1042,7 +2689,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105384745",
-      "lastUpdateTime": "07/06/2026 00:51:59",
+      "lastUpdateTime": "07/06/2026 05:52:00",
       "lat": 32.051038999999996,
       "location": "Mansfield",
       "locationType": 5,
@@ -1050,1337 +2697,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:45",
+      "restorationTime": "05:30",
       "serviceType": 1,
       "startTime": "07/05/2026 20:57:10",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000313549",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.409825,
-          "location": "CALCASIEU",
-          "locationType": 2,
-          "lon": -93.461525,
-          "zipCode": "70633"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/6/2026 3:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384750",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.409825,
-      "location": "Penton Road",
-      "locationType": 5,
-      "lon": -93.461525,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "03:00",
-      "serviceType": 1,
-      "startTime": "07/05/2026 20:58:35",
-      "status": 0,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000259677",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.499053,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.063538,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000185263",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.501155,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.063787,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000115442",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.499023,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.063497,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000066059",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.49965,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.065541,
-          "zipCode": "70435"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "7/6/2026 1:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384173",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.499720250000003,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.06409074999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:30",
-      "serviceType": 1,
-      "startTime": "07/05/2026 14:40:18",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000175835",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.50117,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.091405,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000179928",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.501385,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.091403,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000140370",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.50166,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.090698,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000150712",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.501385,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.091403,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000356005",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.501385,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.091403,
-          "zipCode": "70435"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "7/5/2026 11:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384406",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.501396999999997,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.0912624,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "23:00",
-      "serviceType": 1,
-      "startTime": "07/05/2026 16:55:30",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000219830",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.481513,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.079358,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000220768",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.481183,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.079926,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000283903",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480994,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.07986,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000022052",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480913,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.079818,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000017507",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.481183,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.079926,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "7/5/2026 9:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384442",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.481157199999995,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.0797776,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "21:30",
-      "serviceType": 1,
-      "startTime": "07/05/2026 17:17:25",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000147708",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.504237,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.056242,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000103670",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.50433,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.05635,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000056341",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.504246,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.056192,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000159930",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.504615,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.056653,
-          "zipCode": "70435"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "7/6/2026 1:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384448",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.504357,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.05635925,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:30",
-      "serviceType": 1,
-      "startTime": "07/05/2026 17:19:39",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000221638",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.294943,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.532505,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000156610",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.295025,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.532503,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000235110",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.295063,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.532445,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000049884",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.294813,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.532528,
-          "zipCode": "71303"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "7/6/2026 10:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384469",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 31.294961,
-      "location": "Hot Wells",
-      "locationType": 5,
-      "lon": -92.53249525,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "10:00",
-      "serviceType": 1,
-      "startTime": "07/05/2026 17:36:37",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000147551",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.98369,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.951683,
-          "zipCode": "70560"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/5/2026 10:58:34 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384499",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 29.98369,
-      "location": "Hwy. 675 (Hopkins)",
-      "locationType": 5,
-      "lon": -91.951683,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "22:58",
-      "serviceType": 1,
-      "startTime": "07/05/2026 17:52:53",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000148257",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.477102,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.075357,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000140722",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.477236,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.075694,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000067273",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.477633,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.07564,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000194565",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.477236,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.075694,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "7/6/2026 2:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384530",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.477301750000002,
-      "location": "Abita Springs",
-      "locationType": 5,
-      "lon": -90.07559625,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:15",
-      "serviceType": 1,
-      "startTime": "07/05/2026 18:02:47",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000027491",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.499222,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.063017,
-          "zipCode": "70435"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/6/2026 2:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384565",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.499222,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.063017,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:45",
-      "serviceType": 1,
-      "startTime": "07/05/2026 18:39:40",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000020418",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.002659,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.002248,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000179599",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.990181,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.013524,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000255220",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.00139,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.00275,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000291059",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.994005,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.991723,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000081976",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.009113,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.994097,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000025329",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.994087,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.00763,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000162276",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.001427,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.996268,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000089793",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.001106,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.004177,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000326097",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.993919,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.992038,
-          "zipCode": "71327"
-        }
-      ],
-      "affectedCount": 9,
-      "description": null,
-      "endTime": "7/6/2026 9:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384584",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.99865411111112,
-      "location": "Longbridge",
-      "locationType": 5,
-      "lon": -92.000495,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "09:30",
-      "serviceType": 1,
-      "startTime": "07/05/2026 18:56:54",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000254797",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480997,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.081869,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000288117",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480548,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.08229,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000165906",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480337,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.08201,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000096843",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480821,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.081789,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000219807",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480663,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.082008,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000224492",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.48101,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.081881,
-          "zipCode": "70435"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000253410",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.481118,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.081895,
-          "zipCode": "70435"
-        }
-      ],
-      "affectedCount": 7,
-      "description": null,
-      "endTime": "7/6/2026 3:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384586",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.480784857142854,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.08196314285715,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "03:00",
-      "serviceType": 1,
-      "startTime": "07/05/2026 18:58:07",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000143813",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.522418,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.599978,
-          "zipCode": "70515"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/6/2026 2:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384685",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.522418,
-      "location": "Rozas",
-      "locationType": 5,
-      "lon": -92.599978,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:00",
-      "serviceType": 1,
-      "startTime": "07/05/2026 19:52:09",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000079105",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.496281,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435878,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000036562",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.495307,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435373,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000114053",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.496598,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435388,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000258879",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.496012,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435232,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000347678",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.496074,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435738,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000352873",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.495213,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.437033,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000058802",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.4956,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435875,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000097438",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.4956,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.435875,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000135504",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.4956,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.435875,
-          "zipCode": "70535"
-        }
-      ],
-      "affectedCount": 9,
-      "description": null,
-      "endTime": "7/6/2026 1:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384720",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.495809444444447,
-      "location": "Hwy 757",
-      "locationType": 5,
-      "lon": -92.43580744444445,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:15",
-      "serviceType": 1,
-      "startTime": "07/05/2026 20:15:24",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000303404",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.387873,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.396524,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000311663",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.322212,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.377735,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000117610",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.42952,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.40696,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000042062",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.357959,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.39621,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000312602",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.358337,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.395943,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000041362",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.35859,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.39594,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000252489",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.355247,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.396773,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000026219",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.394052,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.39814,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000216758",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.39018,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.39762,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000311427",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.322382,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.378041,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000322903",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.37777,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.39551,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000182886",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.356703,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.397037,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000290450",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.355925,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.397083,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000232537",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.354718,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.397098,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000329331",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.36574,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.39926,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000162405",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.32211,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.37789,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000162405",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.32211,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.37789,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000340446",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.37787,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.39534,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000137937",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.356145,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.397143,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000252283",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.357392,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.396662,
-          "zipCode": "70526"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000357224",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.322382,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.378041,
-          "zipCode": "70526"
-        }
-      ],
-      "affectedCount": 20,
-      "description": null,
-      "endTime": "7/6/2026 2:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384734",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.359296047619047,
-      "location": "Eunice",
-      "locationType": 5,
-      "lon": -92.39280190476191,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:30",
-      "serviceType": 1,
-      "startTime": "07/05/2026 20:25:15",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000184916",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.465877,
-          "location": "ACADIA",
-          "locationType": 2,
-          "lon": -92.48416,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000021885",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.466615,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.484738,
-          "zipCode": "70535"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "7/6/2026 1:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384755",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.466245999999998,
-      "location": "Eunice",
-      "locationType": 5,
-      "lon": -92.484449,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:15",
-      "serviceType": 1,
-      "startTime": "07/05/2026 21:03:47",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000026263",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480478,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.408193,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000200829",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.480128,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.40845,
-          "zipCode": "70535"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "7/6/2026 1:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105384796",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 30.480303,
-      "location": "Eunice",
-      "locationType": 5,
-      "lon": -92.4083215,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:45",
-      "serviceType": 1,
-      "startTime": "07/05/2026 21:32:25",
       "status": 1,
       "zipCode": null
     },
@@ -2411,7 +2730,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/6/2026 2:15:00 AM",
+      "endTime": "7/6/2026 6:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -2420,7 +2739,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105384806",
-      "lastUpdateTime": "07/06/2026 00:51:59",
+      "lastUpdateTime": "07/06/2026 05:52:00",
       "lat": 30.478946,
       "location": "Abita Springs",
       "locationType": 5,
@@ -2428,7 +2747,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:15",
+      "restorationTime": "06:15",
       "serviceType": 1,
       "startTime": "07/05/2026 22:11:35",
       "status": 1,
@@ -2472,7 +2791,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "7/6/2026 2:45:00 AM",
+      "endTime": "7/6/2026 6:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -2481,7 +2800,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105384809",
-      "lastUpdateTime": "07/06/2026 00:51:59",
+      "lastUpdateTime": "07/06/2026 05:52:00",
       "lat": 29.841535000000004,
       "location": "Charenton",
       "locationType": 5,
@@ -2489,7 +2808,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "06:45",
       "serviceType": 1,
       "startTime": "07/05/2026 22:31:13",
       "status": 1,
@@ -2499,30 +2818,74 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000196114",
+            "outageDetailAttribute1": "6000028638",
             "outageDetailAttribute2": null
           },
-          "lat": 31.492059,
-          "location": "GRANT",
+          "lat": 30.480533,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.491846,
-          "zipCode": "71423"
+          "lon": -90.080567,
+          "zipCode": "70433"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000139028",
+            "outageDetailAttribute1": "6000153734",
             "outageDetailAttribute2": null
           },
-          "lat": 31.491884,
-          "location": "GRANT",
+          "lat": 30.481123,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.491706,
-          "zipCode": "71423"
+          "lon": -90.080842,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000028614",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.479832,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.080475,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085789",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.48122,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.08081,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153094",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.481277,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.080013,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086354",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.481308,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.08043,
+          "zipCode": "70435"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 6,
       "description": null,
-      "endTime": "7/6/2026 2:30:00 AM",
+      "endTime": "7/6/2026 9:30:41 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -2530,18 +2893,79 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105384821",
-      "lastUpdateTime": "07/06/2026 00:51:59",
-      "lat": 31.4919715,
-      "location": "Bentley",
+      "incidentId": "INC 8105384824",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.48088216666667,
+      "location": "Covington",
       "locationType": 5,
-      "lon": -92.49177599999999,
+      "lon": -90.08052283333335,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:30",
+      "restorationTime": "09:30",
       "serviceType": 1,
-      "startTime": "07/06/2026 00:19:01",
+      "startTime": "07/06/2026 01:03:08",
+      "status": 0,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234725",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476568,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.07567,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280158",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476415,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.075525,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000094887",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.476219,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.075467,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/6/2026 6:48:27 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105384852",
+      "lastUpdateTime": "07/06/2026 05:52:00",
+      "lat": 30.476400666666667,
+      "location": "Abita Springs",
+      "locationType": 5,
+      "lon": -90.07555400000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:48",
+      "serviceType": 1,
+      "startTime": "07/06/2026 03:41:36",
       "status": 1,
       "zipCode": null
     }
