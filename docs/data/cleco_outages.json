@@ -1,117 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-08T11:30:39.522827+00:00",
+  "cachedAtUtc": "2026-07-08T13:12:33.618405+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000074454",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.049387,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686252,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000166145",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.049297,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686428,
-          "zipCode": "71052"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "7/8/2026 7:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105386000",
-      "lastUpdateTime": "07/08/2026 06:12:03",
-      "lat": 32.049342,
-      "location": "Mansfield",
-      "locationType": 5,
-      "lon": -93.68634,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "07:30",
-      "serviceType": 1,
-      "startTime": "07/07/2026 21:27:10",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000080213",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.677666,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.278048,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000005039",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.677659,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.278034,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000048028",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.677902,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.277623,
-          "zipCode": "70586"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "7/8/2026 8:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105386005",
-      "lastUpdateTime": "07/08/2026 06:12:03",
-      "lat": 30.67774233333333,
-      "location": "Oak Street",
-      "locationType": 5,
-      "lon": -92.27790166666666,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "08:00",
-      "serviceType": 1,
-      "startTime": "07/07/2026 23:52:00",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -150,7 +39,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "7/8/2026 6:30:00 AM",
+      "endTime": "7/8/2026 8:20:50 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -159,17 +48,56 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386007",
-      "lastUpdateTime": "07/08/2026 06:12:03",
+      "lastUpdateTime": "07/08/2026 08:02:03",
       "lat": 31.073271000000002,
-      "location": "Lecompte",
+      "location": "Lecompte; Forest Hill",
       "locationType": 5,
       "lon": -92.43781533333333,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:30",
+      "restorationTime": "08:20",
       "serviceType": 1,
       "startTime": "07/08/2026 01:43:47",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000182261",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.843032,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.53688,
+          "zipCode": "70544"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/8/2026 10:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386025",
+      "lastUpdateTime": "07/08/2026 08:02:03",
+      "lat": 29.843032,
+      "location": "Charenton",
+      "locationType": 5,
+      "lon": -91.53688,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:00",
+      "serviceType": 1,
+      "startTime": "07/08/2026 07:56:14",
       "status": 1,
       "zipCode": null
     },
@@ -189,7 +117,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/8/2026 7:45:00 AM",
+      "endTime": "7/8/2026 9:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -198,7 +126,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386016",
-      "lastUpdateTime": "07/08/2026 06:12:03",
+      "lastUpdateTime": "07/08/2026 08:02:03",
       "lat": 30.44904,
       "location": "Galatas Rd.",
       "locationType": 5,
@@ -206,9 +134,48 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:45",
+      "restorationTime": "09:45",
       "serviceType": 1,
       "startTime": "07/08/2026 05:31:55",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000301273",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.356541,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.279592,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/8/2026 9:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386022",
+      "lastUpdateTime": "07/08/2026 08:02:03",
+      "lat": 31.356541,
+      "location": "Esler Field",
+      "locationType": 5,
+      "lon": -92.279592,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:45",
+      "serviceType": 1,
+      "startTime": "07/08/2026 07:30:14",
       "status": 1,
       "zipCode": null
     }
