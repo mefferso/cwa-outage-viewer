@@ -1,23 +1,45 @@
 {
-  "cachedAtUtc": "2026-07-08T04:29:21.825978+00:00",
+  "cachedAtUtc": "2026-07-08T07:09:00.895881+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000200098",
+            "outageDetailAttribute1": "6000224599",
             "outageDetailAttribute2": null
           },
-          "lat": 30.82535,
-          "location": "EVANGELINE",
+          "lat": 31.071766,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.406741,
-          "zipCode": "70586"
+          "lon": -92.43962,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000329890",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.074159,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.436571,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000357239",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.073888,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.437255,
+          "zipCode": "71346"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "7/8/2026 12:45:00 AM",
+      "endTime": "7/8/2026 3:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +47,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105385998",
-      "lastUpdateTime": "07/07/2026 23:12:03",
-      "lat": 30.82535,
-      "location": "Pine Prarie",
+      "incidentId": "INC 8105386007",
+      "lastUpdateTime": "07/08/2026 01:52:03",
+      "lat": 31.073271000000002,
+      "location": "Lecompte",
       "locationType": 5,
-      "lon": -92.406741,
+      "lon": -92.43781533333333,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "00:45",
+      "restorationTime": "03:45",
       "serviceType": 1,
-      "startTime": "07/07/2026 20:39:58",
+      "startTime": "07/08/2026 01:43:47",
       "status": 1,
       "zipCode": null
     },
@@ -67,7 +89,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/7/2026 11:30:00 PM",
+      "endTime": "7/8/2026 3:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -76,7 +98,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386000",
-      "lastUpdateTime": "07/07/2026 23:12:03",
+      "lastUpdateTime": "07/08/2026 01:52:03",
       "lat": 32.049342,
       "location": "Mansfield",
       "locationType": 5,
@@ -84,9 +106,70 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "23:30",
+      "restorationTime": "03:30",
       "serviceType": 1,
       "startTime": "07/07/2026 21:27:10",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000080213",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.677666,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.278048,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005039",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.677659,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.278034,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048028",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.677902,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.277623,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/8/2026 4:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386005",
+      "lastUpdateTime": "07/08/2026 01:52:03",
+      "lat": 30.67774233333333,
+      "location": "Oak Street",
+      "locationType": 5,
+      "lon": -92.27790166666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:00",
+      "serviceType": 1,
+      "startTime": "07/07/2026 23:52:00",
       "status": 1,
       "zipCode": null
     }
