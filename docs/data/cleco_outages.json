@@ -1,67 +1,45 @@
 {
-  "cachedAtUtc": "2026-07-10T09:55:41.328668+00:00",
+  "cachedAtUtc": "2026-07-10T12:29:47.180328+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000280828",
+            "outageDetailAttribute1": "6000005408",
             "outageDetailAttribute2": null
           },
-          "lat": 29.971298,
-          "location": "IBERIA",
+          "lat": 31.248471,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -91.93808,
-          "zipCode": "70560"
+          "lon": -92.277944,
+          "zipCode": "71360"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000214134",
+            "outageDetailAttribute1": "6000185427",
             "outageDetailAttribute2": null
           },
-          "lat": 29.971311,
-          "location": "IBERIA",
+          "lat": 31.248348,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -91.938074,
-          "zipCode": "70560"
+          "lon": -92.278343,
+          "zipCode": "71360"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000246689",
+            "outageDetailAttribute1": "6000162256",
             "outageDetailAttribute2": null
           },
-          "lat": 29.971311,
-          "location": "IBERIA",
+          "lat": 31.24842,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -91.938074,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000339784",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.971298,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.93808,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000184479",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.971311,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.938074,
-          "zipCode": "70560"
+          "lon": -92.27799,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 5,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "7/10/2026 6:30:00 AM",
+      "endTime": "7/10/2026 8:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -69,18 +47,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105386701",
-      "lastUpdateTime": "07/10/2026 04:42:07",
-      "lat": 29.971305800000003,
-      "location": "Hwy. 675 (Hopkins)",
+      "incidentId": "INC 8105386704",
+      "lastUpdateTime": "07/10/2026 07:12:07",
+      "lat": 31.248413,
+      "location": "Ruby",
       "locationType": 5,
-      "lon": -91.9380764,
+      "lon": -92.27809233333335,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:30",
+      "restorationTime": "08:15",
       "serviceType": 1,
-      "startTime": "07/09/2026 22:28:51",
+      "startTime": "07/10/2026 06:01:22",
       "status": 1,
       "zipCode": null
     },
@@ -88,19 +66,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000027554",
+            "outageDetailAttribute1": "6000009607",
             "outageDetailAttribute2": null
           },
-          "lat": 30.31597,
-          "location": "ST. TAMMANY",
+          "lat": 30.958756,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -89.909067,
-          "zipCode": "70445"
+          "lon": -92.189243,
+          "zipCode": "71322"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/10/2026 6:30:00 AM",
+      "endTime": "7/10/2026 8:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -108,18 +86,107 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105386702",
-      "lastUpdateTime": "07/10/2026 04:42:07",
-      "lat": 30.31597,
-      "location": "Lacombe",
+      "incidentId": "INC 8105386705",
+      "lastUpdateTime": "07/10/2026 07:12:07",
+      "lat": 30.958756,
+      "location": "Hwy. 71 (Bunkie)",
       "locationType": 5,
-      "lon": -89.909067,
+      "lon": -92.189243,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:30",
+      "restorationTime": "08:30",
       "serviceType": 1,
-      "startTime": "07/10/2026 02:29:59",
+      "startTime": "07/10/2026 06:15:22",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000109849",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.230648,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.265923,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/10/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386707",
+      "lastUpdateTime": "07/10/2026 07:12:07",
+      "lat": 31.230648,
+      "location": "Ruby",
+      "locationType": 5,
+      "lon": -92.265923,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "07/10/2026 06:17:07",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207298",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.79215,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.52723,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103317",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.79215,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.52723,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/10/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386708",
+      "lastUpdateTime": "07/10/2026 07:12:07",
+      "lat": 29.79215,
+      "location": "Morris St.",
+      "locationType": 5,
+      "lon": -91.52723,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "07/10/2026 06:27:22",
       "status": 1,
       "zipCode": null
     }
