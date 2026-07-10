@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-10T06:15:29.596901+00:00",
+  "cachedAtUtc": "2026-07-10T09:55:41.328668+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -61,7 +61,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "7/10/2026 2:30:00 AM",
+      "endTime": "7/10/2026 6:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -70,7 +70,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386701",
-      "lastUpdateTime": "07/10/2026 00:42:06",
+      "lastUpdateTime": "07/10/2026 04:42:07",
       "lat": 29.971305800000003,
       "location": "Hwy. 675 (Hopkins)",
       "locationType": 5,
@@ -78,9 +78,48 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:30",
+      "restorationTime": "06:30",
       "serviceType": 1,
       "startTime": "07/09/2026 22:28:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027554",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.31597,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.909067,
+          "zipCode": "70445"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/10/2026 6:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386702",
+      "lastUpdateTime": "07/10/2026 04:42:07",
+      "lat": 30.31597,
+      "location": "Lacombe",
+      "locationType": 5,
+      "lon": -89.909067,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:30",
+      "serviceType": 1,
+      "startTime": "07/10/2026 02:29:59",
       "status": 1,
       "zipCode": null
     }
