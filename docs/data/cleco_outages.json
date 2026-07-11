@@ -1,23 +1,34 @@
 {
-  "cachedAtUtc": "2026-07-11T10:03:22.103571+00:00",
+  "cachedAtUtc": "2026-07-11T11:16:53.156461+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000070879",
+            "outageDetailAttribute1": "6000158291",
             "outageDetailAttribute2": null
           },
-          "lat": 29.850433,
-          "location": "ST. MARY",
+          "lat": 30.38246,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.538947,
-          "zipCode": "70523"
+          "lon": -89.753732,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136281",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38264,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.753853,
+          "zipCode": "70452"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "7/11/2026 6:15:00 AM",
+      "endTime": "7/11/2026 7:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +36,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105386898",
-      "lastUpdateTime": "07/11/2026 04:52:09",
-      "lat": 29.850433,
-      "location": "Baldwin (Bollard St)",
+      "incidentId": "INC 8105386900",
+      "lastUpdateTime": "07/11/2026 06:02:09",
+      "lat": 30.38255,
+      "location": "Pearl River",
       "locationType": 5,
-      "lon": -91.538947,
+      "lon": -89.7537925,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:15",
+      "restorationTime": "07:45",
       "serviceType": 1,
-      "startTime": "07/11/2026 04:03:46",
+      "startTime": "07/11/2026 05:36:52",
       "status": 1,
       "zipCode": null
     }
