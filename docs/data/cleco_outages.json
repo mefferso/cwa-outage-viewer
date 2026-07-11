@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-11T11:16:53.156461+00:00",
+  "cachedAtUtc": "2026-07-11T12:09:20.874415+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -37,7 +37,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386900",
-      "lastUpdateTime": "07/11/2026 06:02:09",
+      "lastUpdateTime": "07/11/2026 06:52:09",
       "lat": 30.38255,
       "location": "Pearl River",
       "locationType": 5,
@@ -48,6 +48,84 @@
       "restorationTime": "07:45",
       "serviceType": 1,
       "startTime": "07/11/2026 05:36:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027830",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.723122,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.343558,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/11/2026 8:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386902",
+      "lastUpdateTime": "07/11/2026 06:52:09",
+      "lat": 30.723122,
+      "location": "Chicot Road",
+      "locationType": 5,
+      "lon": -92.343558,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:45",
+      "serviceType": 1,
+      "startTime": "07/11/2026 06:39:35",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070879",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.850433,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.538947,
+          "zipCode": "70523"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/11/2026 8:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105386903",
+      "lastUpdateTime": "07/11/2026 06:52:09",
+      "lat": 29.850433,
+      "location": "Baldwin (Bollard St)",
+      "locationType": 5,
+      "lon": -91.538947,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:45",
+      "serviceType": 1,
+      "startTime": "07/11/2026 06:40:36",
       "status": 1,
       "zipCode": null
     }
