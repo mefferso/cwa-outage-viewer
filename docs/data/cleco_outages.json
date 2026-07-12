@@ -1,56 +1,89 @@
 {
-  "cachedAtUtc": "2026-07-11T23:27:35.556911+00:00",
+  "cachedAtUtc": "2026-07-12T01:07:10.044888+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000117222",
+            "outageDetailAttribute1": "6000218136",
             "outageDetailAttribute2": null
           },
-          "lat": 31.361822,
-          "location": "RAPIDES",
+          "lat": 29.91981,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.175702,
-          "zipCode": "71328"
+          "lon": -91.74131,
+          "zipCode": "70544"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000045069",
+            "outageDetailAttribute1": "6000095508",
             "outageDetailAttribute2": null
           },
-          "lat": 31.361265,
-          "location": "RAPIDES",
+          "lat": 29.921781,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.175963,
-          "zipCode": "71328"
+          "lon": -91.742276,
+          "zipCode": "70544"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000309069",
+            "outageDetailAttribute1": "6000280704",
             "outageDetailAttribute2": null
           },
-          "lat": 31.361545,
-          "location": "RAPIDES",
+          "lat": 29.919507,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.176173,
-          "zipCode": "71328"
+          "lon": -91.742947,
+          "zipCode": "70560"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000308695",
+            "outageDetailAttribute1": "6000039839",
             "outageDetailAttribute2": null
           },
-          "lat": 31.361539,
-          "location": "RAPIDES",
+          "lat": 29.920782,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.176157,
-          "zipCode": "71328"
+          "lon": -91.741871,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150038",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920065,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.743468,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000164395",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920338,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.742216,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000354556",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919872,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.741302,
+          "zipCode": "70560"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 7,
       "description": null,
-      "endTime": "7/11/2026 8:00:00 PM",
+      "endTime": "7/11/2026 9:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +91,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105387033",
-      "lastUpdateTime": "07/11/2026 18:12:10",
-      "lat": 31.361542749999998,
-      "location": "Deville",
+      "incidentId": "INC 8105387040",
+      "lastUpdateTime": "07/11/2026 19:52:10",
+      "lat": 29.92030785714286,
+      "location": "Darnall Rd.",
       "locationType": 5,
-      "lon": -92.17599874999999,
+      "lon": -91.74219857142859,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "20:00",
+      "restorationTime": "21:45",
       "serviceType": 1,
-      "startTime": "07/11/2026 17:55:55",
+      "startTime": "07/11/2026 18:58:57",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254175",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.98664,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.77989,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/11/2026 10:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105387042",
+      "lastUpdateTime": "07/11/2026 19:52:10",
+      "lat": 29.98664,
+      "location": "Nelson Canal Road",
+      "locationType": 5,
+      "lon": -91.77989,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "22:00",
+      "serviceType": 1,
+      "startTime": "07/11/2026 19:45:16",
       "status": 1,
       "zipCode": null
     },
@@ -373,7 +445,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386974",
-      "lastUpdateTime": "07/11/2026 18:12:10",
+      "lastUpdateTime": "07/11/2026 19:52:10",
       "lat": 30.11016826923077,
       "location": "Coteau Holmes",
       "locationType": 5,
@@ -403,7 +475,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/11/2026 7:15:00 PM",
+      "endTime": "7/11/2026 9:12:35 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -412,7 +484,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105386983",
-      "lastUpdateTime": "07/11/2026 18:12:10",
+      "lastUpdateTime": "07/11/2026 19:52:10",
       "lat": 30.486627,
       "location": "Covington",
       "locationType": 5,
@@ -420,7 +492,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "21:12",
       "serviceType": 1,
       "startTime": "07/11/2026 15:05:22",
       "status": 1,
@@ -442,7 +514,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/11/2026 8:15:00 PM",
+      "endTime": "7/11/2026 8:49:25 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -451,7 +523,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105387010",
-      "lastUpdateTime": "07/11/2026 18:12:10",
+      "lastUpdateTime": "07/11/2026 19:52:10",
       "lat": 29.920042,
       "location": "Darnall Rd.",
       "locationType": 5,
@@ -459,7 +531,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "20:15",
+      "restorationTime": "20:49",
       "serviceType": 1,
       "startTime": "07/11/2026 16:07:37",
       "status": 1,
@@ -701,7 +773,7 @@
       ],
       "affectedCount": 21,
       "description": null,
-      "endTime": "7/11/2026 7:15:00 PM",
+      "endTime": "7/11/2026 9:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -710,7 +782,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105387014",
-      "lastUpdateTime": "07/11/2026 18:12:10",
+      "lastUpdateTime": "07/11/2026 19:52:10",
       "lat": 30.014894857142867,
       "location": "North Lewis Street",
       "locationType": 5,
@@ -718,7 +790,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "21:15",
       "serviceType": 1,
       "startTime": "07/11/2026 16:19:25",
       "status": 1,
@@ -960,7 +1032,7 @@
       ],
       "affectedCount": 21,
       "description": null,
-      "endTime": "7/11/2026 6:30:00 PM",
+      "endTime": "7/11/2026 7:44:22 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -969,7 +1041,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105387015",
-      "lastUpdateTime": "07/11/2026 18:12:10",
+      "lastUpdateTime": "07/11/2026 19:52:10",
       "lat": 29.913855,
       "location": "Patoutville",
       "locationType": 5,
@@ -977,48 +1049,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "19:44",
       "serviceType": 1,
       "startTime": "07/11/2026 16:19:34",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000301056",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.374496,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.760373,
-          "zipCode": "70452"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/11/2026 6:30:12 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105387021",
-      "lastUpdateTime": "07/11/2026 18:12:10",
-      "lat": 30.374496,
-      "location": "Pearl River",
-      "locationType": 5,
-      "lon": -89.760373,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:30",
-      "serviceType": 1,
-      "startTime": "07/11/2026 16:39:38",
       "status": 1,
       "zipCode": null
     },
@@ -1390,7 +1423,7 @@
       ],
       "affectedCount": 33,
       "description": null,
-      "endTime": "7/11/2026 6:45:00 PM",
+      "endTime": "7/11/2026 8:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -1399,7 +1432,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105387022",
-      "lastUpdateTime": "07/11/2026 18:12:10",
+      "lastUpdateTime": "07/11/2026 19:52:10",
       "lat": 31.376058000000004,
       "location": "Rapides",
       "locationType": 5,
@@ -1407,60 +1440,10 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:45",
+      "restorationTime": "20:45",
       "serviceType": 1,
       "startTime": "07/11/2026 16:40:29",
       "status": 0,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000194670",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.210386,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.137529,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000029905",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.210565,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.137669,
-          "zipCode": "71331"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "7/11/2026 7:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105387032",
-      "lastUpdateTime": "07/11/2026 18:12:10",
-      "lat": 31.2104755,
-      "location": "Effie",
-      "locationType": 5,
-      "lon": -92.137599,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "19:30",
-      "serviceType": 1,
-      "startTime": "07/11/2026 17:21:55",
-      "status": 1,
       "zipCode": null
     }
   ],
