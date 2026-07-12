@@ -1,34 +1,56 @@
 {
-  "cachedAtUtc": "2026-07-12T04:38:04.002548+00:00",
+  "cachedAtUtc": "2026-07-12T07:16:20.534521+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000004676",
+            "outageDetailAttribute1": "6000154027",
             "outageDetailAttribute2": null
           },
-          "lat": 30.453125,
-          "location": "CALCASIEU",
+          "lat": 30.282213,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -93.441952,
-          "zipCode": "70633"
+          "lon": -89.765354,
+          "zipCode": "70458"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000303070",
+            "outageDetailAttribute1": "6000294986",
             "outageDetailAttribute2": null
           },
-          "lat": 30.453324,
-          "location": "CALCASIEU",
+          "lat": 30.282205,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -93.442126,
-          "zipCode": "70633"
+          "lon": -89.76525,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102010",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.282406,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.765316,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000226033",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.2824,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.765311,
+          "zipCode": "70458"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "7/12/2026 12:00:00 AM",
+      "endTime": "7/12/2026 3:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -36,156 +58,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105387043",
-      "lastUpdateTime": "07/11/2026 23:22:10",
-      "lat": 30.453224499999997,
-      "location": "Plum Street",
+      "incidentId": "INC 8105387055",
+      "lastUpdateTime": "07/12/2026 02:02:10",
+      "lat": 30.282306000000002,
+      "location": "Gause",
       "locationType": 5,
-      "lon": -93.442039,
+      "lon": -89.76530774999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "00:00",
+      "restorationTime": "03:30",
       "serviceType": 1,
-      "startTime": "07/11/2026 19:54:16",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000173561",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.797673,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.685183,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000122513",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.797259,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.684892,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000281502",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.79995,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.683765,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000117550",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.798011,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.683879,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000021508",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.80298,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.682157,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000173535",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.798623,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.683214,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000238104",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.797396,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.684959,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000154676",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.802968,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.68215,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000171252",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.802988,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.682151,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000190063",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.802974,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.682154,
-          "zipCode": "71463"
-        }
-      ],
-      "affectedCount": 10,
-      "description": null,
-      "endTime": "7/12/2026 1:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105387053",
-      "lastUpdateTime": "07/11/2026 23:22:10",
-      "lat": 30.80008219999999,
-      "location": "Oakdale",
-      "locationType": 5,
-      "lon": -92.6834504,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:00",
-      "serviceType": 1,
-      "startTime": "07/11/2026 22:58:51",
+      "startTime": "07/12/2026 01:17:55",
       "status": 1,
       "zipCode": null
     }
