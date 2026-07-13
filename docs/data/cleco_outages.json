@@ -1,45 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-13T11:28:39.516666+00:00",
+  "cachedAtUtc": "2026-07-13T13:40:06.688380+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000326956",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.027094,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.853422,
-          "zipCode": "70560"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/13/2026 7:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105387297",
-      "lastUpdateTime": "07/13/2026 06:12:12",
-      "lat": 30.027094,
-      "location": "Navy Base (New Iberia)",
-      "locationType": 5,
-      "lon": -91.853422,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "07:45",
-      "serviceType": 1,
-      "startTime": "07/13/2026 05:44:06",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -76,7 +37,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105387086",
-      "lastUpdateTime": "07/13/2026 06:12:12",
+      "lastUpdateTime": "07/13/2026 08:22:12",
       "lat": 30.285124500000002,
       "location": "Carnation St.",
       "locationType": 5,
@@ -87,6 +48,156 @@
       "restorationTime": "11:47",
       "serviceType": 1,
       "startTime": "07/12/2026 07:45:36",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000010622",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.976312,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.767502,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129413",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.976647,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.767957,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272059",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.97636,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.767485,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075895",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.976333,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.767491,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "7/13/2026 10:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105387299",
+      "lastUpdateTime": "07/13/2026 08:22:12",
+      "lat": 29.976413,
+      "location": "Olivier",
+      "locationType": 5,
+      "lon": -91.76760875,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:30",
+      "serviceType": 1,
+      "startTime": "07/13/2026 06:19:31",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051352",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.204853,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.399083,
+          "zipCode": "71302"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "12/31/1899 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105387302",
+      "lastUpdateTime": "07/13/2026 08:22:12",
+      "lat": 31.204853,
+      "location": "Chambers",
+      "locationType": 5,
+      "lon": -92.399083,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "07/13/2026 06:41:11",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.647425,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.425552,
+          "zipCode": "70554"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/13/2026 9:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105387308",
+      "lastUpdateTime": "07/13/2026 08:22:12",
+      "lat": 30.647425,
+      "location": "Mamou",
+      "locationType": 5,
+      "lon": -92.425552,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:15",
+      "serviceType": 1,
+      "startTime": "07/13/2026 07:13:19",
       "status": 1,
       "zipCode": null
     }
