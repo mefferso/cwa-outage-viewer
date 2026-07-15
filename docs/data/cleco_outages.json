@@ -1,6 +1,172 @@
 {
-  "cachedAtUtc": "2026-07-15T12:01:15.032964+00:00",
+  "cachedAtUtc": "2026-07-15T14:04:15.842954+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150604",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.013553,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.731617,
+          "zipCode": "70563"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/15/2026 10:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388245",
+      "lastUpdateTime": "07/15/2026 08:52:16",
+      "lat": 30.013553,
+      "location": "Belle Place",
+      "locationType": 5,
+      "lon": -91.731617,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:30",
+      "serviceType": 1,
+      "startTime": "07/15/2026 08:22:54",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261724",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.965115,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433152,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000056206",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.96493,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.433019,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000218088",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.965125,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433161,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000249198",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.964929,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433024,
+          "zipCode": "70585"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000128596",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.965115,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433152,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000031938",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.965125,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433161,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000333114",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.9656,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.4324,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016048",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.965125,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433161,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000200453",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.96493,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.433022,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "7/15/2026 11:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388257",
+      "lastUpdateTime": "07/15/2026 08:52:16",
+      "lat": 30.965159399999997,
+      "location": "Pine Prarie",
+      "locationType": 5,
+      "lon": -92.43296520000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:00",
+      "serviceType": 1,
+      "startTime": "07/15/2026 08:49:05",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -28,7 +194,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/15/2026 7:15:00 AM",
+      "endTime": "7/15/2026 9:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -37,7 +203,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388213",
-      "lastUpdateTime": "07/15/2026 06:42:16",
+      "lastUpdateTime": "07/15/2026 08:52:16",
       "lat": 29.869999999999997,
       "location": "Baldwin (Bollard St)",
       "locationType": 5,
@@ -45,9 +211,264 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:15",
+      "restorationTime": "09:15",
       "serviceType": 1,
       "startTime": "07/15/2026 05:05:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272182",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.581396,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.070025,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166995",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.582555,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.069417,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013545",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.581823,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.069425,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000148076",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58141,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07055,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151243",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.581517,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.069787,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "7/15/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388228",
+      "lastUpdateTime": "07/15/2026 08:52:16",
+      "lat": 30.581740200000002,
+      "location": "Nuba",
+      "locationType": 5,
+      "lon": -92.0698408,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "07/15/2026 07:49:24",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000164211",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152178,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.090167,
+          "zipCode": "71351"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/15/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388243",
+      "lastUpdateTime": "07/15/2026 08:52:16",
+      "lat": 31.152178,
+      "location": "Effie",
+      "locationType": 5,
+      "lon": -92.090167,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "07/15/2026 08:09:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000235171",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.860013,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.300766,
+          "zipCode": "70634"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/15/2026 10:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388247",
+      "lastUpdateTime": "07/15/2026 08:52:16",
+      "lat": 30.860013,
+      "location": "North Texas Street",
+      "locationType": 5,
+      "lon": -93.300766,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:30",
+      "serviceType": 1,
+      "startTime": "07/15/2026 08:24:13",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000114227",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.101708,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.934608,
+          "zipCode": "71355"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065171",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.104515,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.93705,
+          "zipCode": "71355"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022151",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.101982,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.935392,
+          "zipCode": "71355"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207165",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.101625,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.933758,
+          "zipCode": "71355"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121451",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.106765,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.93818,
+          "zipCode": "71355"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000164838",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.10084,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.9347,
+          "zipCode": "71355"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "7/15/2026 10:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388250",
+      "lastUpdateTime": "07/15/2026 08:52:16",
+      "lat": 31.102905833333335,
+      "location": "Longbridge",
+      "locationType": 5,
+      "lon": -91.93561466666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:30",
+      "serviceType": 1,
+      "startTime": "07/15/2026 08:29:12",
       "status": 1,
       "zipCode": null
     }
