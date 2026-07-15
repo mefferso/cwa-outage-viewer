@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-15T20:43:52.957332+00:00",
+  "cachedAtUtc": "2026-07-15T21:42:31.001064+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388389",
-      "lastUpdateTime": "07/15/2026 15:32:17",
+      "lastUpdateTime": "07/15/2026 16:32:17",
       "lat": 30.81272,
       "location": "Morrison Corner",
       "locationType": 5,
@@ -44,74 +44,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000211068",
+            "outageDetailAttribute1": "6000266156",
             "outageDetailAttribute2": null
           },
-          "lat": 29.99027,
-          "location": "IBERIA",
+          "lat": 31.33237,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -91.837005,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000018547",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.99076,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.837613,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000136285",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.99018,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.837146,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000042971",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.990093,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.837225,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000164696",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.990158,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.837387,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000068281",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.990458,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.83746,
-          "zipCode": "70560"
+          "lon": -92.51015,
+          "zipCode": "71301"
         }
       ],
-      "affectedCount": 6,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "7/15/2026 4:30:00 PM",
+      "endTime": "7/15/2026 6:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -119,18 +64,201 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105388376",
-      "lastUpdateTime": "07/15/2026 15:32:17",
-      "lat": 29.990319833333334,
-      "location": "Hopkins Street",
+      "incidentId": "INC 8105388481",
+      "lastUpdateTime": "07/15/2026 16:32:17",
+      "lat": 31.33237,
+      "location": "Boyce Road",
       "locationType": 5,
-      "lon": -91.83730600000001,
+      "lon": -92.51015,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:30",
+      "restorationTime": "18:45",
       "serviceType": 1,
-      "startTime": "07/15/2026 14:19:20",
+      "startTime": "07/15/2026 16:31:42",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000043039",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.369688,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.763782,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138903",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.369242,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.763163,
+          "zipCode": "70452"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/15/2026 6:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388470",
+      "lastUpdateTime": "07/15/2026 16:32:17",
+      "lat": 30.369464999999998,
+      "location": "Pearl River",
+      "locationType": 5,
+      "lon": -89.7634725,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:00",
+      "serviceType": 1,
+      "startTime": "07/15/2026 15:45:24",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163344",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.36662,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.13792,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107392",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.36767,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.1334,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115004",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.367672,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.133421,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.36601,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.13723,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261142",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.36684,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.13716,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "7/15/2026 6:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388475",
+      "lastUpdateTime": "07/15/2026 16:32:17",
+      "lat": 31.3669624,
+      "location": "Deville",
+      "locationType": 5,
+      "lon": -92.1358262,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:15",
+      "serviceType": 1,
+      "startTime": "07/15/2026 16:04:55",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006461",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.290748,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.86533,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000248219",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.290748,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.86533,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/15/2026 6:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388478",
+      "lastUpdateTime": "07/15/2026 16:32:17",
+      "lat": 30.290748,
+      "location": "North Slidell",
+      "locationType": 5,
+      "lon": -89.86533,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:15",
+      "serviceType": 1,
+      "startTime": "07/15/2026 16:14:45",
       "status": 1,
       "zipCode": null
     }
