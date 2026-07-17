@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-17T06:39:27.033900+00:00",
+  "cachedAtUtc": "2026-07-17T08:58:52.421568+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -28,7 +28,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/17/2026 2:45:00 AM",
+      "endTime": "7/17/2026 4:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -37,15 +37,15 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388842",
-      "lastUpdateTime": "07/17/2026 01:22:19",
-      "lat": 31.103938499999998,
+      "lastUpdateTime": "07/17/2026 03:42:19",
+      "lat": 31.1038765,
       "location": "Alexandria Water Well A",
       "locationType": 5,
-      "lon": -92.70954850000001,
+      "lon": -92.70966,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "04:45",
       "serviceType": 1,
       "startTime": "07/17/2026 00:30:09",
       "status": 1,
@@ -55,41 +55,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000277571",
+            "outageDetailAttribute1": "6000280003",
             "outageDetailAttribute2": null
           },
-          "lat": 31.440142,
-          "location": "GRANT",
+          "lat": 30.336192,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.502238,
-          "zipCode": "71423"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000011540",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.439505,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.502303,
-          "zipCode": "71423"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000159937",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.439877,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.501719,
-          "zipCode": "71423"
+          "lon": -89.742195,
+          "zipCode": "70452"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "7/17/2026 2:45:00 AM",
+      "endTime": "7/17/2026 4:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -97,18 +75,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105388839",
-      "lastUpdateTime": "07/17/2026 01:22:19",
-      "lat": 31.439841333333334,
-      "location": "Alpine",
+      "incidentId": "INC 8105388843",
+      "lastUpdateTime": "07/17/2026 03:42:19",
+      "lat": 30.336192,
+      "location": "Pearl River",
       "locationType": 5,
-      "lon": -92.50208666666667,
+      "lon": -89.742195,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "02:45",
+      "restorationTime": "04:00",
       "serviceType": 1,
-      "startTime": "07/16/2026 20:36:47",
+      "startTime": "07/17/2026 01:46:42",
       "status": 1,
       "zipCode": null
     }
