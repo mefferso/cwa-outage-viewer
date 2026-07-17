@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-07-17T04:24:40.959124+00:00",
+  "cachedAtUtc": "2026-07-17T06:39:27.033900+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000024801",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.104117,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.709462,
+          "zipCode": "71424"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115547",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.10376,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.709635,
+          "zipCode": "71424"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/17/2026 2:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388842",
+      "lastUpdateTime": "07/17/2026 01:22:19",
+      "lat": 31.103938499999998,
+      "location": "Alexandria Water Well A",
+      "locationType": 5,
+      "lon": -92.70954850000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "02:45",
+      "serviceType": 1,
+      "startTime": "07/17/2026 00:30:09",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -39,7 +89,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "7/17/2026 12:45:00 AM",
+      "endTime": "7/17/2026 2:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -48,7 +98,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388839",
-      "lastUpdateTime": "07/16/2026 23:12:19",
+      "lastUpdateTime": "07/17/2026 01:22:19",
       "lat": 31.439841333333334,
       "location": "Alpine",
       "locationType": 5,
@@ -56,7 +106,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "00:45",
+      "restorationTime": "02:45",
       "serviceType": 1,
       "startTime": "07/16/2026 20:36:47",
       "status": 1,
