@@ -1,78 +1,34 @@
 {
-  "cachedAtUtc": "2026-07-18T16:14:30.767344+00:00",
+  "cachedAtUtc": "2026-07-18T17:25:25.873733+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000003835",
+            "outageDetailAttribute1": "6000050937",
             "outageDetailAttribute2": null
           },
-          "lat": 30.363998,
-          "location": "ST. TAMMANY",
+          "lat": 29.870303,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -89.748058,
-          "zipCode": "70452"
+          "lon": -91.629782,
+          "zipCode": "70544"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000269399",
+            "outageDetailAttribute1": "6000103515",
             "outageDetailAttribute2": null
           },
-          "lat": 30.364162,
-          "location": "ST. TAMMANY",
+          "lat": 29.870451,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -89.747893,
-          "zipCode": "70452"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000064250",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.364372,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.747908,
-          "zipCode": "70452"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000003865",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.363862,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.747366,
-          "zipCode": "70452"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000136433",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.363859,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.74735,
-          "zipCode": "70452"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000328555",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.3638,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.74707,
-          "zipCode": "70452"
+          "lon": -91.629662,
+          "zipCode": "70544"
         }
       ],
-      "affectedCount": 6,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "7/18/2026 1:15:00 PM",
+      "endTime": "7/18/2026 2:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -80,18 +36,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105388992",
-      "lastUpdateTime": "07/18/2026 11:02:22",
-      "lat": 30.363964375000002,
-      "location": "Pearl River",
+      "incidentId": "INC 8105389001",
+      "lastUpdateTime": "07/18/2026 12:12:22",
+      "lat": 29.870376999999998,
+      "location": "M L Kings",
       "locationType": 5,
-      "lon": -89.74751012499999,
+      "lon": -91.629722,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "13:15",
+      "restorationTime": "14:15",
       "serviceType": 1,
-      "startTime": "07/18/2026 09:02:12",
+      "startTime": "07/18/2026 12:03:02",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020786",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.900764,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.640464,
+          "zipCode": "70544"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/18/2026 2:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389002",
+      "lastUpdateTime": "07/18/2026 12:12:22",
+      "lat": 29.900764,
+      "location": "M L Kings",
+      "locationType": 5,
+      "lon": -91.640464,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:15",
+      "serviceType": 1,
+      "startTime": "07/18/2026 12:12:02",
       "status": 1,
       "zipCode": null
     }
