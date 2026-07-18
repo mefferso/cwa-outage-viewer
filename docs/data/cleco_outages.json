@@ -1,6 +1,45 @@
 {
-  "cachedAtUtc": "2026-07-18T07:38:37.817488+00:00",
+  "cachedAtUtc": "2026-07-18T09:10:56.933493+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271908",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.175696,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.748959,
+          "zipCode": "71438"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/18/2026 4:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388976",
+      "lastUpdateTime": "07/18/2026 04:02:21",
+      "lat": 31.175696,
+      "location": "Hineston",
+      "locationType": 5,
+      "lon": -92.748959,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:30",
+      "serviceType": 1,
+      "startTime": "07/18/2026 02:23:57",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -28,7 +67,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/18/2026 4:00:00 AM",
+      "endTime": "7/18/2026 6:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -37,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388969",
-      "lastUpdateTime": "07/18/2026 02:22:21",
+      "lastUpdateTime": "07/18/2026 04:02:21",
       "lat": 30.446441,
       "location": "Plum Street",
       "locationType": 5,
@@ -45,7 +84,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:00",
+      "restorationTime": "06:00",
       "serviceType": 1,
       "startTime": "07/17/2026 19:49:45",
       "status": 1,
@@ -67,7 +106,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/18/2026 4:00:00 AM",
+      "endTime": "7/18/2026 6:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -76,7 +115,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388975",
-      "lastUpdateTime": "07/18/2026 02:22:21",
+      "lastUpdateTime": "07/18/2026 04:02:21",
       "lat": 32.077401,
       "location": "Mansfield",
       "locationType": 5,
@@ -84,7 +123,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:00",
+      "restorationTime": "06:00",
       "serviceType": 1,
       "startTime": "07/17/2026 23:51:07",
       "status": 1,
