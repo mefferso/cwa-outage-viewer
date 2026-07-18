@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-18T03:32:59.576500+00:00",
+  "cachedAtUtc": "2026-07-18T05:50:44.968449+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -28,7 +28,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/18/2026 12:00:00 AM",
+      "endTime": "7/18/2026 2:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -37,7 +37,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105388969",
-      "lastUpdateTime": "07/17/2026 22:22:21",
+      "lastUpdateTime": "07/18/2026 00:42:21",
       "lat": 30.446441,
       "location": "Plum Street",
       "locationType": 5,
@@ -45,9 +45,48 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "00:00",
+      "restorationTime": "02:00",
       "serviceType": 1,
       "startTime": "07/17/2026 19:49:45",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000047526",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.077401,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.691886,
+          "zipCode": "71052"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/18/2026 2:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388975",
+      "lastUpdateTime": "07/18/2026 00:42:21",
+      "lat": 32.077401,
+      "location": "Mansfield",
+      "locationType": 5,
+      "lon": -93.691886,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "02:00",
+      "serviceType": 1,
+      "startTime": "07/17/2026 23:51:07",
       "status": 1,
       "zipCode": null
     }
