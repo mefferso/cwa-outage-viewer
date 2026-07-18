@@ -1,6 +1,96 @@
 {
-  "cachedAtUtc": "2026-07-18T10:41:59.210081+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-07-18T11:38:26.877767+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000047526",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.077401,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.691886,
+          "zipCode": "71052"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/18/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388979",
+      "lastUpdateTime": "07/18/2026 06:22:21",
+      "lat": 32.077401,
+      "location": "Mansfield",
+      "locationType": 5,
+      "lon": -93.691886,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "07/18/2026 05:33:53",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183006",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.36093,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.25553,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000342097",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.360704,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.255337,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/18/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105388980",
+      "lastUpdateTime": "07/18/2026 06:22:21",
+      "lat": 31.360816999999997,
+      "location": "Shady Oaks",
+      "locationType": 5,
+      "lon": -92.2554335,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "07/18/2026 06:07:21",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
