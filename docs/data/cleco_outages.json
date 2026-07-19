@@ -1,6 +1,146 @@
 {
-  "cachedAtUtc": "2026-07-18T23:31:05.888520+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-07-19T01:07:04.154500+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288208",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487423,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.077214,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096390",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487088,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.076532,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027563",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.488027,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.077427,
+          "zipCode": "70435"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/18/2026 7:45:40 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389031",
+      "lastUpdateTime": "07/18/2026 19:52:22",
+      "lat": 30.487512666666664,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.07705766666668,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:45",
+      "serviceType": 1,
+      "startTime": "07/18/2026 18:19:50",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000321877",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.48699,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.076537,
+          "zipCode": "70435"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/18/2026 8:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389032",
+      "lastUpdateTime": "07/18/2026 19:52:22",
+      "lat": 30.48699,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.076537,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:30",
+      "serviceType": 1,
+      "startTime": "07/18/2026 18:21:13",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000772",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.260878,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.207508,
+          "zipCode": "71323"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/18/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389036",
+      "lastUpdateTime": "07/18/2026 19:52:22",
+      "lat": 31.260878,
+      "location": "Effie",
+      "locationType": 5,
+      "lon": -92.207508,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "07/18/2026 18:52:45",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
