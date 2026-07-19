@@ -1,6 +1,190 @@
 {
-  "cachedAtUtc": "2026-07-19T10:49:56.888741+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-07-19T11:48:45.475504+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000114323",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.28623,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761431,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000114454",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.28644,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761501,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000154991",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.286532,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761375,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000296537",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.28644,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761501,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000226620",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.286218,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761439,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "7/19/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389063",
+      "lastUpdateTime": "07/19/2026 06:32:23",
+      "lat": 30.286383333333333,
+      "location": "Gause",
+      "locationType": 5,
+      "lon": -89.761458,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "07/19/2026 06:16:20",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237448",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.913122,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.810972,
+          "zipCode": "71369"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/19/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389065",
+      "lastUpdateTime": "07/19/2026 06:32:23",
+      "lat": 30.913122,
+      "location": "Simmesport",
+      "locationType": 5,
+      "lon": -91.810972,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "07/19/2026 06:26:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213659",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.1425,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.26214,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271328",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.142354,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.261898,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000307373",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.142562,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.262069,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/19/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389064",
+      "lastUpdateTime": "07/19/2026 06:32:23",
+      "lat": 31.142471999999998,
+      "location": "Leesville Plant",
+      "locationType": 5,
+      "lon": -93.26203566666668,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "07/19/2026 06:20:20",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
