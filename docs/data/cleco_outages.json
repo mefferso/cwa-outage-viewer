@@ -1,89 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-19T22:32:49.407916+00:00",
+  "cachedAtUtc": "2026-07-19T23:35:11.400033+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000254176",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382193,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.099904,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000194584",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382002,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.100023,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000103392",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382198,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.09991,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000137318",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382198,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.09991,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000115958",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382198,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.09991,
-          "zipCode": "70471"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "7/19/2026 9:14:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105389146",
-      "lastUpdateTime": "07/19/2026 17:22:24",
-      "lat": 30.382157799999998,
-      "location": "Sanctuary",
-      "locationType": 5,
-      "lon": -90.09993139999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "21:14",
-      "serviceType": 1,
-      "startTime": "07/19/2026 16:32:25",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -122,7 +39,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "7/19/2026 5:45:00 PM",
+      "endTime": "7/19/2026 7:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -131,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105389142",
-      "lastUpdateTime": "07/19/2026 17:22:24",
+      "lastUpdateTime": "07/19/2026 18:22:24",
       "lat": 31.642249666666668,
       "location": "Futrell",
       "locationType": 5,
@@ -139,9 +56,70 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:45",
+      "restorationTime": "19:45",
       "serviceType": 1,
       "startTime": "07/19/2026 15:35:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057460",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402212,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.038425,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000156146",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402525,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.038269,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000164059",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402755,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.038107,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/19/2026 6:49:58 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389150",
+      "lastUpdateTime": "07/19/2026 18:22:24",
+      "lat": 30.402497333333333,
+      "location": "East Street",
+      "locationType": 5,
+      "lon": -90.038267,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:49",
+      "serviceType": 1,
+      "startTime": "07/19/2026 17:26:57",
       "status": 1,
       "zipCode": null
     }
