@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-20T08:08:52.084486+00:00",
+  "cachedAtUtc": "2026-07-20T11:13:16.346998+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -94,7 +94,7 @@
       ],
       "affectedCount": 8,
       "description": null,
-      "endTime": "7/20/2026 4:30:00 AM",
+      "endTime": "7/20/2026 6:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -103,7 +103,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105389172",
-      "lastUpdateTime": "07/20/2026 02:52:24",
+      "lastUpdateTime": "07/20/2026 06:02:25",
       "lat": 29.791259750000002,
       "location": "Third St. Franklin Diesel",
       "locationType": 5,
@@ -111,7 +111,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:30",
+      "restorationTime": "06:30",
       "serviceType": 1,
       "startTime": "07/20/2026 02:27:44",
       "status": 1,
@@ -121,19 +121,52 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000278825",
+            "outageDetailAttribute1": "6000031249",
             "outageDetailAttribute2": null
           },
-          "lat": 31.013422,
-          "location": "RAPIDES",
+          "lat": 29.60776,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -92.401707,
-          "zipCode": "71346"
+          "lon": -91.539302,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158881",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.611545,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.539457,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000327258",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.6085,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53946,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052043",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.610608,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.540263,
+          "zipCode": "70522"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "7/20/2026 3:45:00 AM",
+      "endTime": "7/20/2026 7:04:37 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -141,99 +174,38 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105389171",
-      "lastUpdateTime": "07/20/2026 02:52:24",
-      "lat": 31.013422,
-      "location": "Lloyds Bridge",
+      "incidentId": "INC 8105389175",
+      "lastUpdateTime": "07/20/2026 06:02:25",
+      "lat": 29.60960325,
+      "location": "Texas Transmission Pipeline",
       "locationType": 5,
-      "lon": -92.401707,
+      "lon": -91.53962050000001,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "03:45",
+      "restorationTime": "07:04",
       "serviceType": 1,
-      "startTime": "07/20/2026 01:39:12",
-      "status": 1,
+      "startTime": "07/20/2026 04:13:33",
+      "status": 0,
       "zipCode": null
     },
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000308922",
+            "outageDetailAttribute1": "6000027795",
             "outageDetailAttribute2": null
           },
-          "lat": 30.361408,
-          "location": "ST. TAMMANY",
+          "lat": 31.068468,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -89.78231,
-          "zipCode": "70452"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000216717",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.361532,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.782403,
-          "zipCode": "70452"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000064781",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.361219,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.782236,
-          "zipCode": "70452"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "7/20/2026 4:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105389168",
-      "lastUpdateTime": "07/20/2026 02:52:24",
-      "lat": 30.361386333333332,
-      "location": "North Slidell",
-      "locationType": 5,
-      "lon": -89.78231633333333,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "04:15",
-      "serviceType": 1,
-      "startTime": "07/20/2026 00:13:40",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000231132",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.360658,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.78215,
-          "zipCode": "70452"
+          "lon": -92.210099,
+          "zipCode": "71341"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/20/2026 4:15:00 AM",
+      "endTime": "7/20/2026 8:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -241,18 +213,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105389169",
-      "lastUpdateTime": "07/20/2026 02:52:24",
-      "lat": 30.360658,
-      "location": "North Slidell",
+      "incidentId": "INC 8105389182",
+      "lastUpdateTime": "07/20/2026 06:02:25",
+      "lat": 31.068468,
+      "location": "Cheneyville",
       "locationType": 5,
-      "lon": -89.78215,
+      "lon": -92.210099,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "04:15",
+      "restorationTime": "08:15",
       "serviceType": 1,
-      "startTime": "07/20/2026 00:14:10",
+      "startTime": "07/20/2026 06:02:06",
       "status": 1,
       "zipCode": null
     }
