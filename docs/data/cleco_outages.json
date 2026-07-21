@@ -1,6 +1,2888 @@
 {
-  "cachedAtUtc": "2026-07-21T11:50:52.027694+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-07-21T13:23:38.186018+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.495411,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.095009,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163170",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.495411,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.095009,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/21/2026 8:22:25 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389462",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 30.495411,
+      "location": "Hammond Highway",
+      "locationType": 5,
+      "lon": -90.095009,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:22",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:44:07",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253615",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.47866,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.846458,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000063888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.478622,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.846305,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123412",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.47834,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.84552,
+          "zipCode": "70648"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/21/2026 10:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389467",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 30.47854066666667,
+      "location": "Kinder",
+      "locationType": 5,
+      "lon": -92.84609433333333,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:00",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:56:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079855",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386382,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113148,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000088403",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.375847,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11304,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000063741",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37341,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1135,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310951",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.387157,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112775,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37718,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11277,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000015047",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386027,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.110773,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315639",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.375967,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113115,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107117",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38705,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112812,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289014",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.387,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11433,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310063",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386212,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113808,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310797",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38658,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.111722,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000033228",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37698,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11162,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000019925",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38604,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.110853,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184366",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386023,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.111695,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000322672",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.370237,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.116948,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257511",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38559,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.110561,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050842",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.387058,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114453,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049909",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.385456,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11043,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162117",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.370902,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.115095,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000062184",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.370007,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.119352,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000232071",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.368491,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.12093,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000161246",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.385743,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11022,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184680",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.370522,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114867,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215694",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.385842,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11436,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000160257",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37736,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11191,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054384",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386017,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11187,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244159",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.374478,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112668,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120809",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.376986,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.111625,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000339992",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.377359,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112325,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000161328",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386612,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.111757,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000109997",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.387065,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11397,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000015494",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.386691,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112937,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251353",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.376847,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.111397,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348098",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.376884,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.111329,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000334995",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37476,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11331,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118477",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.377067,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112709,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312471",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.376861,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112629,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000304334",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.387066,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114459,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352706",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.373851,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113385,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057274",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.376585,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113852,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353167",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.373851,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.113385,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353166",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.387064,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114458,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356435",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.377165,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114295,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000281140",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.376823,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.112365,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 44,
+      "description": null,
+      "endTime": "7/21/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389469",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 30.380115795454536,
+      "location": "Sanctuary",
+      "locationType": 5,
+      "lon": -90.11317754545456,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "07/21/2026 08:00:30",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000296562",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319527,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.783892,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102579",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319655,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.782905,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244386",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319298,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.782914,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020504",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.31928,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.782263,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000154439",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.318644,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.783805,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000210047",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319171,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.784917,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000210595",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319515,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.784372,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312549",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.318977,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.782668,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000226204",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319372,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.784479,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059078",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319238,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.782412,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000336917",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.318599,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.783757,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349856",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.318644,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.783814,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151510",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319168,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.783653,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 13,
+      "description": null,
+      "endTime": "7/21/2026 8:18:50 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389454",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 30.319160615384614,
+      "location": "St. Tammany St.",
+      "locationType": 5,
+      "lon": -89.78352699999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:18",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:10:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251336",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.255404,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.762444,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282493",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.255458,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.762305,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282225",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.255404,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.762444,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/21/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389455",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 30.255422,
+      "location": "Rigolet Slidell",
+      "locationType": 5,
+      "lon": -89.76239766666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:18:07",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000011452",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.719085,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.485771,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052190",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.71312,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.47057,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017933",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.71312,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.47057,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212778",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73013,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44379,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129403",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.62969,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53081,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243581",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.739063,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.445517,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252354",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73798,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44491,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253526",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.731921,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.444614,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093072",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.774586,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.515079,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243663",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75257,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.43119,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000009025",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.636736,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.513981,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000021499",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637187,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.511365,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000031249",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.60776,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.539302,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000032010",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.62634,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53723,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055144",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.639324,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.510022,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172510",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.60519,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.536388,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282046",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745243,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433104,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.603873,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.538315,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000248729",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.626857,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.537602,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000285910",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.600965,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.524262,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000149825",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637826,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.529222,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046328",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.630018,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53566,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107467",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637197,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.51721,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306218",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.731918,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.444605,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075494",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.57382,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53756,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013890",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.573497,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.537197,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075974",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.631594,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.532591,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271435",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.733072,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.451497,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278166",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.740593,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.429892,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244068",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.681838,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.470438,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022474",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.571119,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.531335,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054937",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637512,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.510825,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000211789",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.642437,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.505873,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000177214",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.63837,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.516737,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000276763",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.63837,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.516737,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027788",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73991,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.45181,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000273070",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73002,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44403,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208872",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.753949,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.431721,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121369",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.743985,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433943,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308872",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.633137,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.532895,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000008658",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74223,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44534,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103972",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.681647,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.469792,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000127592",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.740726,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.435483,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050152",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746022,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432257,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054171",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74598,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432738,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140752",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.682527,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.469277,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287595",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74075,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.4332,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000248926",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.638032,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.529324,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267178",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637828,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.529211,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146349",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.674097,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.477914,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054819",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.63932,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.51,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000259001",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73208,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.443987,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079361",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.639453,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.510788,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000250168",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745581,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432708,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075476",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74223,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44534,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310923",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.631598,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.535463,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183053",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.686776,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.466278,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007263",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.68608,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.486597,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308052",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.639,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.548869,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170064",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.68404,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.456,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214254",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.678509,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.468268,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289678",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.57236,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53578,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308769",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.739106,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.428619,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183495",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.574517,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.530019,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000204061",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.678509,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.468268,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183119",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.575434,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.529305,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041579",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.575485,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.529238,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000319835",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.600968,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.524187,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162147",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.68674,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.461343,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000002799",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.632857,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.533378,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000147015",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.636521,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.510618,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000250416",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.646522,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.500918,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282069",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158881",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.611545,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.539457,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201179",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.572927,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.533663,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201228",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.731877,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.445743,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251793",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.731913,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.444619,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093424",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.739513,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.448332,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007480",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000276940",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.604385,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.533463,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201192",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.559585,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.525306,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100832",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746706,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432693,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000127344",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.75261,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432049,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052570",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.6278,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53608,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212319",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.740075,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.429538,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000319708",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.571459,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.530807,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000031210",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.686735,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.461362,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000113439",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745763,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432335,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105093",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.602596,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.527167,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000077274",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.601563,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.523652,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079133",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.581271,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.522897,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000008682",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.55948,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.52529,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306984",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.593968,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.51798,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000171763",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.602025,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.530105,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244901",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.601547,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.524613,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129620",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.594362,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.518418,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000270141",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.575723,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.534343,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000186120",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.559587,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.525346,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000247438",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73932,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44596,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000182193",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.739895,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.446278,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271071",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637195,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.510368,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315421",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.636938,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.512237,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000222493",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.740882,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.430068,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000210684",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085126",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.739588,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.429118,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000318153",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.740722,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.429495,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000091383",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73944,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.42926,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207022",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.743438,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433718,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000269030",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.637282,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.519058,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121127",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.743902,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.434269,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181683",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.616438,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53768,
+          "zipCode": "70392"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209147",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.639147,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.510261,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017042",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.639005,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.548891,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050629",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.674245,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.478238,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000084497",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.638361,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.512827,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000165873",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74296,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.43313,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000117799",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.631583,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53551,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000311377",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746122,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432536,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065582",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73003,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44054,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184891",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.732407,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.444898,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000091311",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73241,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.444863,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241651",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.56908,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53113,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103951",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.73327,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.45148,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000327258",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.6085,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53946,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000326544",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.732447,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.44495,
+          "zipCode": "70392"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000069975",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74294,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.43315,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000330995",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74333,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.43057,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100807",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745667,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432666,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282024",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746829,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433325,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151459",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000082321",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746122,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432536,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261403",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.62004,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53928,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000336513",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745345,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433659,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027054",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74311,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.43381,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201215",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74069,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.4355,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000248189",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74069,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.4355,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000341600",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.57001,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53203,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000344987",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.865908,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.532418,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000082304",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746706,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432693,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214968",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.732215,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.445268,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000127542",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.573187,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.536522,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052043",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.610608,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.540263,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000317666",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745243,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433104,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000250150",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745667,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432666,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000311364",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745345,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433659,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000063449",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.633382,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.531763,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100850",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041460",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745345,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433659,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115210",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.638503,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.512925,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215214",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745243,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433104,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000028932",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746213,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.432052,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351317",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.686771,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.466272,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051440",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.626441,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.536563,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000247058",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.645739,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.507647,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000336475",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.571579,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.530684,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353095",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.737725,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.443353,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353916",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.740868,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.430085,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355450",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.739034,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.428395,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103150",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.63801,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.513657,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000082337",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052050",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.632712,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.532831,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172221",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.626456,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53656,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000210635",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.745243,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433104,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000230522",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.597202,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.517342,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007801",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.63838,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.50946,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000152825",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.74316,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.43271,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007431",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.746105,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.433446,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 167,
+      "description": null,
+      "endTime": "7/21/2026 12:48:13 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389456",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 29.68011831764706,
+      "location": "Teche",
+      "locationType": 5,
+      "lon": -91.4810001764706,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:48",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:26:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050640",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.729018,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.439209,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054120",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.728705,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.440177,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000076173",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.72895,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.4392,
+          "zipCode": "70522"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/21/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389457",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 29.728891,
+      "location": "Verdunville",
+      "locationType": 5,
+      "lon": -91.43952866666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:29:21",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017428",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.818493,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.513394,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356217",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.818476,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.513399,
+          "zipCode": "70522"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/21/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389458",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 29.8184845,
+      "location": "Turbine Plant (Franklin)",
+      "locationType": 5,
+      "lon": -91.5133965,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:29:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000316889",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.283747,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.6673,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000113412",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.282569,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.66613,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/21/2026 9:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389460",
+      "lastUpdateTime": "07/21/2026 08:12:27",
+      "lat": 31.283158,
+      "location": "Rapides",
+      "locationType": 5,
+      "lon": -92.666715,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:45",
+      "serviceType": 1,
+      "startTime": "07/21/2026 07:31:07",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
