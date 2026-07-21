@@ -1,45 +1,23 @@
 {
-  "cachedAtUtc": "2026-07-21T04:34:43.180176+00:00",
+  "cachedAtUtc": "2026-07-21T07:17:39.406665+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000102313",
+            "outageDetailAttribute1": "6000279365",
             "outageDetailAttribute2": null
           },
-          "lat": 30.425183,
-          "location": "ST. TAMMANY",
+          "lat": 29.99028,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -90.116715,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000227279",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.425583,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.115628,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000154746",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.425451,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.116365,
-          "zipCode": "70433"
+          "lon": -91.833075,
+          "zipCode": "70560"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "7/21/2026 12:50:51 AM",
+      "endTime": "7/21/2026 2:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -47,18 +25,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105389434",
-      "lastUpdateTime": "07/20/2026 23:22:26",
-      "lat": 30.425405666666666,
-      "location": "Tchefuncte Club",
+      "incidentId": "INC 8105389443",
+      "lastUpdateTime": "07/21/2026 02:02:26",
+      "lat": 29.99028,
+      "location": "Hopkins Street",
       "locationType": 5,
-      "lon": -90.116236,
+      "lon": -91.833075,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "00:50",
+      "restorationTime": "02:30",
       "serviceType": 1,
-      "startTime": "07/20/2026 20:41:32",
+      "startTime": "07/21/2026 00:28:09",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107419",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.36727,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.40606,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/21/2026 3:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389446",
+      "lastUpdateTime": "07/21/2026 02:02:26",
+      "lat": 31.36727,
+      "location": "Pineville",
+      "locationType": 5,
+      "lon": -92.40606,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "03:30",
+      "serviceType": 1,
+      "startTime": "07/21/2026 01:28:43",
       "status": 1,
       "zipCode": null
     }
