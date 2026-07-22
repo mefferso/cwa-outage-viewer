@@ -1,67 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-22T13:06:43.026535+00:00",
+  "cachedAtUtc": "2026-07-22T15:16:24.130878+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000096427",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.271908,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.771498,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000198917",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.272094,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.771553,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000256965",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.272107,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.771555,
-          "zipCode": "70458"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "7/22/2026 10:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105389926",
-      "lastUpdateTime": "07/22/2026 07:52:28",
-      "lat": 30.272036333333332,
-      "location": "Florida Avenue",
-      "locationType": 5,
-      "lon": -89.77153533333335,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "10:00",
-      "serviceType": 1,
-      "startTime": "07/22/2026 07:47:51",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -219,7 +158,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105389917",
-      "lastUpdateTime": "07/22/2026 07:52:28",
+      "lastUpdateTime": "07/22/2026 10:02:29",
       "lat": 30.366979642857142,
       "location": "Lambert Street",
       "locationType": 5,
@@ -237,19 +176,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000215587",
+            "outageDetailAttribute1": "6000043862",
             "outageDetailAttribute2": null
           },
-          "lat": 30.465677,
+          "lat": 30.272242,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.112668,
-          "zipCode": "70433"
+          "lon": -89.771437,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000189847",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.272443,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.771607,
+          "zipCode": "70458"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "7/22/2026 9:30:00 AM",
+      "endTime": "7/22/2026 11:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -257,18 +207,118 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105389918",
-      "lastUpdateTime": "07/22/2026 07:52:28",
-      "lat": 30.465677,
-      "location": "Eighth Avenue",
+      "incidentId": "INC 8105389945",
+      "lastUpdateTime": "07/22/2026 10:02:29",
+      "lat": 30.2723425,
+      "location": "Florida Avenue",
       "locationType": 5,
-      "lon": -90.112668,
+      "lon": -89.771522,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:30",
+      "restorationTime": "11:15",
       "serviceType": 1,
-      "startTime": "07/22/2026 07:17:07",
+      "startTime": "07/22/2026 09:09:54",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131097",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.02189,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.82332,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000110519",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.022147,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.823316,
+          "zipCode": "70563"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/22/2026 11:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389947",
+      "lastUpdateTime": "07/22/2026 10:02:29",
+      "lat": 30.0220185,
+      "location": "Landry Drive (New Iberia)",
+      "locationType": 5,
+      "lon": -91.823318,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:15",
+      "serviceType": 1,
+      "startTime": "07/22/2026 09:12:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000249394",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.395276,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.386915,
+          "zipCode": "71405"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185473",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.39502,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.387568,
+          "zipCode": "71405"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/22/2026 12:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105389966",
+      "lastUpdateTime": "07/22/2026 10:02:29",
+      "lat": 31.395148,
+      "location": "Flagon",
+      "locationType": 5,
+      "lon": -92.3872415,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:00",
+      "serviceType": 1,
+      "startTime": "07/22/2026 09:59:40",
       "status": 1,
       "zipCode": null
     }
