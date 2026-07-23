@@ -1,6 +1,84 @@
 {
-  "cachedAtUtc": "2026-07-23T11:18:15.294150+00:00",
+  "cachedAtUtc": "2026-07-23T12:52:42.080901+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237050",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.023888,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.984198,
+          "zipCode": "71355"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/23/2026 9:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390229",
+      "lastUpdateTime": "07/23/2026 07:42:30",
+      "lat": 31.023888,
+      "location": "Longbridge",
+      "locationType": 5,
+      "lon": -91.984198,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:15",
+      "serviceType": 1,
+      "startTime": "07/23/2026 07:12:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150057",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.462351,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.426526,
+          "zipCode": "71467"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/23/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390231",
+      "lastUpdateTime": "07/23/2026 07:42:30",
+      "lat": 31.462351,
+      "location": "Ball",
+      "locationType": 5,
+      "lon": -92.426526,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/23/2026 07:17:48",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -37,7 +115,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390089",
-      "lastUpdateTime": "07/23/2026 06:02:30",
+      "lastUpdateTime": "07/23/2026 07:42:30",
       "lat": 30.862001,
       "location": "Franklinton Platform",
       "locationType": 5,
@@ -55,30 +133,52 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000047963",
+            "outageDetailAttribute1": "6000069255",
             "outageDetailAttribute2": null
           },
-          "lat": 31.373378,
-          "location": "RAPIDES",
+          "lat": 29.74404,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -92.446833,
-          "zipCode": "71360"
+          "lon": -91.426857,
+          "zipCode": "70522"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000176980",
+            "outageDetailAttribute1": "6000248071",
             "outageDetailAttribute2": null
           },
-          "lat": 31.37295,
-          "location": "RAPIDES",
+          "lat": 29.744602,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -92.446028,
-          "zipCode": "71360"
+          "lon": -91.426977,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000283314",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.744396,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.427012,
+          "zipCode": "70522"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291103",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.744027,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.426851,
+          "zipCode": "70522"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "7/23/2026 7:00:00 AM",
+      "endTime": "7/23/2026 9:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -86,18 +186,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105390213",
-      "lastUpdateTime": "07/23/2026 06:02:30",
-      "lat": 31.373164,
-      "location": "Sherwood",
+      "incidentId": "INC 8105390215",
+      "lastUpdateTime": "07/23/2026 07:42:30",
+      "lat": 29.74426625,
+      "location": "Verdunville",
       "locationType": 5,
-      "lon": -92.44643049999999,
+      "lon": -91.42692425,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:00",
+      "restorationTime": "09:30",
       "serviceType": 1,
-      "startTime": "07/23/2026 04:50:29",
+      "startTime": "07/23/2026 05:23:00",
       "status": 1,
       "zipCode": null
     },
@@ -139,7 +239,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "7/23/2026 7:30:00 AM",
+      "endTime": "7/23/2026 9:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -148,7 +248,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390216",
-      "lastUpdateTime": "07/23/2026 06:02:30",
+      "lastUpdateTime": "07/23/2026 07:42:30",
       "lat": 29.741850666666668,
       "location": "Verdunville",
       "locationType": 5,
@@ -156,7 +256,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:30",
+      "restorationTime": "09:30",
       "serviceType": 1,
       "startTime": "07/23/2026 05:23:45",
       "status": 1,
@@ -222,7 +322,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "7/23/2026 7:30:00 AM",
+      "endTime": "7/23/2026 9:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -231,15 +331,15 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390217",
-      "lastUpdateTime": "07/23/2026 06:02:30",
-      "lat": 29.744221600000003,
+      "lastUpdateTime": "07/23/2026 07:42:30",
+      "lat": 29.744221599999996,
       "location": "Verdunville",
       "locationType": 5,
       "lon": -91.42603499999998,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:30",
+      "restorationTime": "09:30",
       "serviceType": 1,
       "startTime": "07/23/2026 05:24:46",
       "status": 1,
@@ -249,52 +349,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000069255",
+            "outageDetailAttribute1": "6000175106",
             "outageDetailAttribute2": null
           },
-          "lat": 29.74404,
-          "location": "ST. MARY",
+          "lat": 30.14135,
+          "location": "ST. MARTIN",
           "locationType": 2,
-          "lon": -91.426857,
-          "zipCode": "70522"
+          "lon": -91.69499,
+          "zipCode": "70582"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000248071",
+            "outageDetailAttribute1": "6000184361",
             "outageDetailAttribute2": null
           },
-          "lat": 29.744602,
-          "location": "ST. MARY",
+          "lat": 30.14135,
+          "location": "ST. MARTIN",
           "locationType": 2,
-          "lon": -91.426977,
-          "zipCode": "70538"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000283314",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.744396,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.427012,
-          "zipCode": "70522"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000291103",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.744027,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.426851,
-          "zipCode": "70522"
+          "lon": -91.69499,
+          "zipCode": "70582"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "7/23/2026 7:30:00 AM",
+      "endTime": "7/23/2026 8:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -302,18 +380,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105390215",
-      "lastUpdateTime": "07/23/2026 06:02:30",
-      "lat": 29.74426625,
-      "location": "Verdunville",
+      "incidentId": "INC 8105390220",
+      "lastUpdateTime": "07/23/2026 07:42:30",
+      "lat": 30.14135,
+      "location": "Coteau Holmes",
       "locationType": 5,
-      "lon": -91.42692425,
+      "lon": -91.69499,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:30",
+      "restorationTime": "08:30",
       "serviceType": 1,
-      "startTime": "07/23/2026 05:23:00",
+      "startTime": "07/23/2026 06:24:03",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000346849",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.051444,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.080338,
+          "zipCode": "71350"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/23/2026 9:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390222",
+      "lastUpdateTime": "07/23/2026 07:42:30",
+      "lat": 31.051444,
+      "location": "Hessmer",
+      "locationType": 5,
+      "lon": -92.080338,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:00",
+      "serviceType": 1,
+      "startTime": "07/23/2026 06:57:32",
       "status": 1,
       "zipCode": null
     }
