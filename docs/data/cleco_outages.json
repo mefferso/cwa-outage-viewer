@@ -1,6 +1,46 @@
 {
-  "cachedAtUtc": "2026-07-24T07:16:17.768376+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-07-24T09:38:51.266309+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044481",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.334235,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.133859,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/24/2026 5:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390414",
+      "lastUpdateTime": "07/24/2026 04:22:32",
+      "lat": 31.334235,
+      "location": "Deville",
+      "locationType": 5,
+      "lon": -92.133859,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "05:15",
+      "serviceType": 1,
+      "startTime": "07/24/2026 03:14:24",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
