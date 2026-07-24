@@ -1,23 +1,34 @@
 {
-  "cachedAtUtc": "2026-07-24T09:38:51.266309+00:00",
+  "cachedAtUtc": "2026-07-24T11:25:20.723207+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000044481",
+            "outageDetailAttribute1": "6000011790",
             "outageDetailAttribute2": null
           },
-          "lat": 31.334235,
+          "lat": 31.386777,
           "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.133859,
-          "zipCode": "71328"
+          "lon": -92.312258,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000032356",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.387418,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.312282,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "7/24/2026 5:15:00 AM",
+      "endTime": "7/24/2026 8:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +36,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105390414",
-      "lastUpdateTime": "07/24/2026 04:22:32",
-      "lat": 31.334235,
-      "location": "Deville",
+      "incidentId": "INC 8105390417",
+      "lastUpdateTime": "07/24/2026 06:12:32",
+      "lat": 31.3870975,
+      "location": "Libuse",
       "locationType": 5,
-      "lon": -92.133859,
+      "lon": -92.31227,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:15",
+      "restorationTime": "08:00",
       "serviceType": 1,
-      "startTime": "07/24/2026 03:14:24",
+      "startTime": "07/24/2026 05:55:29",
       "status": 1,
       "zipCode": null
     }
