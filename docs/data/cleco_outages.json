@@ -1,45 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-25T12:47:36.411494+00:00",
+  "cachedAtUtc": "2026-07-25T14:23:14.539204+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000285268",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.006378,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.039294,
-          "zipCode": "71327"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/25/2026 9:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390515",
-      "lastUpdateTime": "07/25/2026 07:38:18",
-      "lat": 31.006378,
-      "location": "Longbridge",
-      "locationType": 5,
-      "lon": -92.039294,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "09:15",
-      "serviceType": 1,
-      "startTime": "07/25/2026 07:13:02",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -65,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390426",
-      "lastUpdateTime": "07/25/2026 07:38:18",
+      "lastUpdateTime": "07/25/2026 09:08:18",
       "lat": 30.41571,
       "location": "Madisonville 230",
       "locationType": 5,
@@ -76,67 +37,6 @@
       "restorationTime": "09:30",
       "serviceType": 1,
       "startTime": "07/24/2026 07:19:27",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000034521",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.481874,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.843231,
-          "zipCode": "70648"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000153625",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.481874,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.843231,
-          "zipCode": "70648"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000107765",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.482345,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.84299,
-          "zipCode": "70648"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "7/25/2026 9:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390512",
-      "lastUpdateTime": "07/25/2026 07:38:18",
-      "lat": 30.482031000000003,
-      "location": "Kinder",
-      "locationType": 5,
-      "lon": -92.84315066666666,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "09:00",
-      "serviceType": 1,
-      "startTime": "07/25/2026 06:47:01",
       "status": 1,
       "zipCode": null
     },
@@ -167,7 +67,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "7/25/2026 9:00:00 AM",
+      "endTime": "7/25/2026 11:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -176,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390513",
-      "lastUpdateTime": "07/25/2026 07:38:18",
+      "lastUpdateTime": "07/25/2026 09:08:18",
       "lat": 30.9178735,
       "location": "Leesville Fort Polk",
       "locationType": 5,
@@ -184,9 +84,48 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:00",
+      "restorationTime": "11:00",
       "serviceType": 1,
       "startTime": "07/25/2026 06:55:16",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050231",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.675554,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.245319,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/25/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390519",
+      "lastUpdateTime": "07/25/2026 09:08:18",
+      "lat": 30.675554,
+      "location": "Jackson St.",
+      "locationType": 5,
+      "lon": -92.245319,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "07/25/2026 08:02:19",
       "status": 1,
       "zipCode": null
     }
