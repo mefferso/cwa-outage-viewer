@@ -1,6 +1,95 @@
 {
-  "cachedAtUtc": "2026-07-25T18:40:57.710924+00:00",
+  "cachedAtUtc": "2026-07-25T19:58:50.152960+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197210",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.956005,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.85298,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000112261",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.955708,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.853378,
+          "zipCode": "71369"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/25/2026 4:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390570",
+      "lastUpdateTime": "07/25/2026 14:48:19",
+      "lat": 30.955856500000003,
+      "location": "Simmesport",
+      "locationType": 5,
+      "lon": -91.85317900000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:15",
+      "serviceType": 1,
+      "startTime": "07/25/2026 14:01:00",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000037862",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.41571,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.157702,
+          "zipCode": "70447"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/30/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390426",
+      "lastUpdateTime": "07/25/2026 14:48:19",
+      "lat": 30.41571,
+      "location": "Madisonville 230",
+      "locationType": 5,
+      "lon": -90.157702,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/24/2026 07:19:27",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -3656,8 +3745,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390527",
-      "lastUpdateTime": "07/25/2026 13:28:18",
-      "lat": 30.340110441791026,
+      "lastUpdateTime": "07/25/2026 14:48:19",
+      "lat": 30.340110441791033,
       "location": "Pearl River",
       "locationType": 5,
       "lon": -89.75023215820899,
@@ -3667,45 +3756,6 @@
       "restorationTime": "15:30",
       "serviceType": 1,
       "startTime": "07/25/2026 12:37:42",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000037862",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.41571,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.157702,
-          "zipCode": "70447"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/30/2026 9:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390426",
-      "lastUpdateTime": "07/25/2026 13:28:18",
-      "lat": 30.41571,
-      "location": "Madisonville 230",
-      "locationType": 5,
-      "lon": -90.157702,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "09:30",
-      "serviceType": 1,
-      "startTime": "07/24/2026 07:19:27",
       "status": 1,
       "zipCode": null
     }
