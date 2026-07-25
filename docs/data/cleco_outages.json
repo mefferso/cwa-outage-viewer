@@ -1,106 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-24T23:27:59.840032+00:00",
+  "cachedAtUtc": "2026-07-25T01:04:49.598728+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000255475",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.20565,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.77784,
-          "zipCode": "70461"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000339689",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.205644,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.777626,
-          "zipCode": "70461"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000276358",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.206013,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.777653,
-          "zipCode": "70461"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "7/24/2026 8:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390485",
-      "lastUpdateTime": "07/24/2026 18:18:16",
-      "lat": 30.205769,
-      "location": "Oak Harbor",
-      "locationType": 5,
-      "lon": -89.77770633333334,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "20:30",
-      "serviceType": 1,
-      "startTime": "07/24/2026 16:23:49",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000180225",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.417915,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.672592,
-          "zipCode": "71417"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/24/2026 6:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390487",
-      "lastUpdateTime": "07/24/2026 18:18:16",
-      "lat": 31.417915,
-      "location": "Boyce",
-      "locationType": 5,
-      "lon": -92.672592,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:45",
-      "serviceType": 1,
-      "startTime": "07/24/2026 16:33:49",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -126,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390426",
-      "lastUpdateTime": "07/24/2026 18:18:16",
+      "lastUpdateTime": "07/24/2026 19:48:16",
       "lat": 30.41571,
       "location": "Madisonville 230",
       "locationType": 5,
@@ -137,6 +37,56 @@
       "restorationTime": "09:30",
       "serviceType": 1,
       "startTime": "07/24/2026 07:19:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252226",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.70005,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.34906,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243003",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.699903,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.349638,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/24/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390496",
+      "lastUpdateTime": "07/24/2026 19:48:16",
+      "lat": 30.6999765,
+      "location": "Vidrine",
+      "locationType": 5,
+      "lon": -92.34934899999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "07/24/2026 18:58:53",
       "status": 1,
       "zipCode": null
     }
