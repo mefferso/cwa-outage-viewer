@@ -1,6 +1,45 @@
 {
-  "cachedAtUtc": "2026-07-26T17:13:27.163199+00:00",
+  "cachedAtUtc": "2026-07-26T18:14:55.570915+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000037862",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.41571,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.157702,
+          "zipCode": "70447"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/30/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390426",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 30.41571,
+      "location": "Madisonville 230",
+      "locationType": 5,
+      "lon": -90.157702,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "07/24/2026 07:19:27",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -26,7 +65,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390603",
-      "lastUpdateTime": "07/26/2026 11:58:22",
+      "lastUpdateTime": "07/26/2026 12:58:22",
       "lat": 29.850433,
       "location": "Baldwin (Bollard St)",
       "locationType": 5,
@@ -89,7 +128,7 @@
       ],
       "affectedCount": 4,
       "description": null,
-      "endTime": "7/26/2026 2:00:00 PM",
+      "endTime": "7/26/2026 2:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -98,7 +137,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390624",
-      "lastUpdateTime": "07/26/2026 11:58:22",
+      "lastUpdateTime": "07/26/2026 12:58:22",
       "lat": 31.523497,
       "location": "North Colfax",
       "locationType": 5,
@@ -106,7 +145,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "14:00",
+      "restorationTime": "14:45",
       "serviceType": 1,
       "startTime": "07/26/2026 11:49:43",
       "status": 1,
@@ -116,19 +155,74 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000037862",
+            "outageDetailAttribute1": "6000296576",
             "outageDetailAttribute2": null
           },
-          "lat": 30.41571,
-          "location": "ST. TAMMANY",
+          "lat": 31.08876,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -90.157702,
-          "zipCode": "70447"
+          "lon": -92.402633,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000321630",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.08893,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.40306,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000202916",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.089165,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.40354,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000202940",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.089102,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.40438,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264412",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.089288,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.403566,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102118",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.08857,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.402858,
+          "zipCode": "71346"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 6,
       "description": null,
-      "endTime": "7/30/2026 9:30:00 AM",
+      "endTime": "7/26/2026 2:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -136,18 +230,340 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105390426",
-      "lastUpdateTime": "07/26/2026 11:58:22",
-      "lat": 30.41571,
-      "location": "Madisonville 230",
+      "incidentId": "INC 8105390626",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 31.08896916666667,
+      "location": "Lecompte",
       "locationType": 5,
-      "lon": -90.157702,
+      "lon": -92.4033395,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:30",
+      "restorationTime": "14:00",
       "serviceType": 1,
-      "startTime": "07/24/2026 07:19:27",
+      "startTime": "07/26/2026 11:59:28",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020602",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.447178,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.451072,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134214",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.446819,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.450811,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000114390",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.446613,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.451153,
+          "zipCode": "70633"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/26/2026 2:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390628",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 30.44687,
+      "location": "Penton Road",
+      "locationType": 5,
+      "lon": -93.451012,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:30",
+      "serviceType": 1,
+      "startTime": "07/26/2026 12:25:57",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087868",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.625123,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.582315,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000187467",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.62512,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.58246,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/26/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390630",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 31.6251215,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.5823875,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "07/26/2026 12:53:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000346642",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.623658,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.58449,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/26/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390632",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 31.623658,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.58449,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "07/26/2026 12:54:29",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000330867",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.62459,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.58835,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/26/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390633",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 31.62459,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.58835,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "07/26/2026 12:54:29",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151793",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.621399,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.577464,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243982",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.621436,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.572177,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000036528",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.621262,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.575538,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272709",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.620608,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.583495,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272725",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.6211,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.58333,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183442",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.621825,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.5831,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "7/26/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390634",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 31.621270285714285,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.57866314285715,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "07/26/2026 12:54:44",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355375",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.623579,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.585227,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/26/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390635",
+      "lastUpdateTime": "07/26/2026 12:58:22",
+      "lat": 31.623579,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.585227,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "07/26/2026 12:54:44",
       "status": 1,
       "zipCode": null
     }
