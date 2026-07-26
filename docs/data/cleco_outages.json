@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-07-26T00:14:59.911650+00:00",
+  "cachedAtUtc": "2026-07-26T04:01:29.983426+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271986",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.215034,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.241303,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000088290",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.215622,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.240432,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/26/2026 12:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390589",
+      "lastUpdateTime": "07/25/2026 22:48:20",
+      "lat": 31.215328,
+      "location": "Ruby",
+      "locationType": 5,
+      "lon": -92.24086750000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "00:45",
+      "serviceType": 1,
+      "startTime": "07/25/2026 22:36:31",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -26,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390426",
-      "lastUpdateTime": "07/25/2026 18:58:19",
+      "lastUpdateTime": "07/25/2026 22:48:20",
       "lat": 30.41571,
       "location": "Madisonville 230",
       "locationType": 5,
@@ -37,45 +87,6 @@
       "restorationTime": "09:30",
       "serviceType": 1,
       "startTime": "07/24/2026 07:19:27",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000194301",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.641085,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.445312,
-          "zipCode": "70554"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/25/2026 8:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390580",
-      "lastUpdateTime": "07/25/2026 18:58:19",
-      "lat": 30.641085,
-      "location": "Bieber",
-      "locationType": 5,
-      "lon": -92.445312,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "20:00",
-      "serviceType": 1,
-      "startTime": "07/25/2026 17:58:53",
       "status": 1,
       "zipCode": null
     }
