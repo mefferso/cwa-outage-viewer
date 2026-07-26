@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-25T23:11:16.143751+00:00",
+  "cachedAtUtc": "2026-07-26T00:14:59.911650+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390426",
-      "lastUpdateTime": "07/25/2026 17:58:19",
+      "lastUpdateTime": "07/25/2026 18:58:19",
       "lat": 30.41571,
       "location": "Madisonville 230",
       "locationType": 5,
@@ -37,6 +37,45 @@
       "restorationTime": "09:30",
       "serviceType": 1,
       "startTime": "07/24/2026 07:19:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194301",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.641085,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.445312,
+          "zipCode": "70554"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/25/2026 8:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390580",
+      "lastUpdateTime": "07/25/2026 18:58:19",
+      "lat": 30.641085,
+      "location": "Bieber",
+      "locationType": 5,
+      "lon": -92.445312,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:00",
+      "serviceType": 1,
+      "startTime": "07/25/2026 17:58:53",
       "status": 1,
       "zipCode": null
     }
