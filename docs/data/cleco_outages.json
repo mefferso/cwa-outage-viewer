@@ -1,100 +1,45 @@
 {
-  "cachedAtUtc": "2026-07-28T10:01:42.490463+00:00",
+  "cachedAtUtc": "2026-07-28T12:07:40.545500+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000309480",
+            "outageDetailAttribute1": "6000213855",
             "outageDetailAttribute2": null
           },
-          "lat": 30.514815,
-          "location": "ST. LANDRY",
+          "lat": 31.2058,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.07369,
-          "zipCode": "70570"
+          "lon": -92.406373,
+          "zipCode": "71302"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000239223",
+            "outageDetailAttribute1": "6000051817",
             "outageDetailAttribute2": null
           },
-          "lat": 30.514843,
-          "location": "ST. LANDRY",
+          "lat": 31.205732,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.073515,
-          "zipCode": "70570"
+          "lon": -92.405238,
+          "zipCode": "71302"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000176187",
+            "outageDetailAttribute1": "6000256782",
             "outageDetailAttribute2": null
           },
-          "lat": 30.514543,
-          "location": "ST. LANDRY",
+          "lat": 31.205437,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.073713,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000121826",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.514939,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073845,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000176284",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.514939,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073845,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000239279",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.514725,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073717,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000080691",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.51464,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073978,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000005068",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.514538,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.073973,
-          "zipCode": "70570"
+          "lon": -92.405081,
+          "zipCode": "71301"
         }
       ],
-      "affectedCount": 8,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "7/28/2026 5:30:00 AM",
+      "endTime": "12/31/1899 7:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -102,18 +47,162 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105390840",
-      "lastUpdateTime": "07/28/2026 04:49:11",
-      "lat": 30.51474775,
-      "location": "South Park",
+      "incidentId": "INC 8105390818",
+      "lastUpdateTime": "07/28/2026 06:59:11",
+      "lat": 31.205656333333334,
+      "location": "Chambers",
       "locationType": 5,
-      "lon": -92.07378450000002,
+      "lon": -92.40556399999998,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:30",
+      "restorationTime": "19:00",
       "serviceType": 1,
-      "startTime": "07/28/2026 03:27:56",
+      "startTime": "07/27/2026 18:46:55",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000047813",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.987307,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.824709,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000015194",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.98722,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.824518,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000141426",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.98706,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.825647,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264043",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.987149,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.824637,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212308",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.987122,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.824589,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000024822",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.987307,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.824709,
+          "zipCode": "71369"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000338453",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.98747,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.82503,
+          "zipCode": "71369"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "7/28/2026 8:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390844",
+      "lastUpdateTime": "07/28/2026 06:59:11",
+      "lat": 30.98723357142857,
+      "location": "Simmesport",
+      "locationType": 5,
+      "lon": -91.82483414285714,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:45",
+      "serviceType": 1,
+      "startTime": "07/28/2026 06:41:33",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099848",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.403772,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.063518,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/28/2026 9:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390845",
+      "lastUpdateTime": "07/28/2026 06:59:11",
+      "lat": 30.403772,
+      "location": "Dove Park",
+      "locationType": 5,
+      "lon": -90.063518,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:00",
+      "serviceType": 1,
+      "startTime": "07/28/2026 06:48:34",
       "status": 1,
       "zipCode": null
     },
@@ -716,7 +805,7 @@
       ],
       "affectedCount": 54,
       "description": null,
-      "endTime": "7/28/2026 5:30:00 AM",
+      "endTime": "7/28/2026 7:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -725,7 +814,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390841",
-      "lastUpdateTime": "07/28/2026 04:49:11",
+      "lastUpdateTime": "07/28/2026 06:59:11",
       "lat": 30.445248875000004,
       "location": "Oakdale 138",
       "locationType": 5,
@@ -733,70 +822,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:30",
+      "restorationTime": "07:30",
       "serviceType": 1,
       "startTime": "07/28/2026 03:27:57",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000213855",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.2058,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.406373,
-          "zipCode": "71302"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000051817",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.205732,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.405238,
-          "zipCode": "71302"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000256782",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.205437,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.405081,
-          "zipCode": "71301"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "12/31/1899 7:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105390818",
-      "lastUpdateTime": "07/28/2026 04:49:11",
-      "lat": 31.205656333333334,
-      "location": "Chambers",
-      "locationType": 5,
-      "lon": -92.40556399999998,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "19:00",
-      "serviceType": 1,
-      "startTime": "07/27/2026 18:46:55",
       "status": 1,
       "zipCode": null
     }
