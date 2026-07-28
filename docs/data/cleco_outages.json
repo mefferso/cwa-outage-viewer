@@ -1,6 +1,744 @@
 {
-  "cachedAtUtc": "2026-07-28T07:19:27.345905+00:00",
+  "cachedAtUtc": "2026-07-28T10:01:42.490463+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000309480",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514815,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07369,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239223",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514843,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073515,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000176187",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514543,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073713,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121826",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514939,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073845,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000176284",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514939,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073845,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239279",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514725,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073717,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000080691",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.51464,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073978,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005068",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.514538,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.073973,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "7/28/2026 5:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390840",
+      "lastUpdateTime": "07/28/2026 04:49:11",
+      "lat": 30.51474775,
+      "location": "South Park",
+      "locationType": 5,
+      "lon": -92.07378450000002,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "05:30",
+      "serviceType": 1,
+      "startTime": "07/28/2026 03:27:56",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000189489",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.450288,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.048885,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166988",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440847,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.034187,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000322495",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.453413,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.044003,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278506",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437943,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03512,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000195102",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.445037,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036898,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116357",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.452585,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.040652,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000195081",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.449652,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.037563,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244476",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43797,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.035023,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000042662",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438478,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.035047,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000317994",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.446937,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.039063,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116504",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.450664,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.038419,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000240849",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444737,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036458,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237295",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444441,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.037674,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035696",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44385,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03641,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000081480",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44164,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03706,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061135",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443178,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036478,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267635",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44206,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036975,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000293342",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44885,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03974,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136265",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440503,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.036085,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116406",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43867,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.034787,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017416",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437557,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.035542,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000042613",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443653,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036223,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221749",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444113,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03636,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000083626",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44885,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03974,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000325043",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443882,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036319,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.4636,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.045315,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000327388",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.4527,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.04487,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000328729",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444715,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036766,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163664",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.442534,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036527,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237288",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.445148,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.037108,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000335339",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.445934,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.037879,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000195156",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.442283,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036673,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000286633",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44493,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03691,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116381",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443857,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.036282,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136383",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444562,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03612,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000329030",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.449133,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03643,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166958",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444087,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03663,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061060",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.455809,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.045919,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000298502",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443573,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036498,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001100",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441385,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.033952,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.449112,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.051367,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237302",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443795,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.037363,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000156983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.449512,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.041337,
+          "zipCode": "70648"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136339",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.448121,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.048394,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348928",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.443679,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036171,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105609",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.444723,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036778,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061033",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.442812,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036548,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351772",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.452941,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.045553,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000195130",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441327,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03669,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136290",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.442326,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036367,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061007",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440504,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036578,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000186587",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.448865,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.039774,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355975",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.442534,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.036527,
+          "zipCode": "70657"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000130339",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44112,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -93.03396,
+          "zipCode": "70657"
+        }
+      ],
+      "affectedCount": 54,
+      "description": null,
+      "endTime": "7/28/2026 5:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390841",
+      "lastUpdateTime": "07/28/2026 04:49:11",
+      "lat": 30.445248875000004,
+      "location": "Oakdale 138",
+      "locationType": 5,
+      "lon": -93.03825246428573,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "05:30",
+      "serviceType": 1,
+      "startTime": "07/28/2026 03:27:57",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -48,7 +786,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390818",
-      "lastUpdateTime": "07/28/2026 02:09:11",
+      "lastUpdateTime": "07/28/2026 04:49:11",
       "lat": 31.205656333333334,
       "location": "Chambers",
       "locationType": 5,
