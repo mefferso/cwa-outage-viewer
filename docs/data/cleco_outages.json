@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-07-29T04:34:00.343271+00:00",
+  "cachedAtUtc": "2026-07-29T07:29:02.154483+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048880",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.370886,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.731756,
+          "zipCode": "71409"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000125470",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.37125,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.731783,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "7/29/2026 3:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105390984",
+      "lastUpdateTime": "07/29/2026 02:19:12",
+      "lat": 31.371068,
+      "location": "Boyce",
+      "locationType": 5,
+      "lon": -92.7317695,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "03:30",
+      "serviceType": 1,
+      "startTime": "07/29/2026 01:22:51",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -17,7 +67,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/29/2026 1:15:00 AM",
+      "endTime": "7/29/2026 3:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -26,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105390849",
-      "lastUpdateTime": "07/28/2026 23:19:12",
+      "lastUpdateTime": "07/29/2026 02:19:12",
       "lat": 30.49332,
       "location": "Hammond Highway",
       "locationType": 5,
@@ -34,7 +84,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:15",
+      "restorationTime": "03:15",
       "serviceType": 1,
       "startTime": "07/28/2026 07:06:04",
       "status": 1,
