@@ -1,145 +1,6 @@
 {
-  "cachedAtUtc": "2026-07-30T06:25:11.742228+00:00",
+  "cachedAtUtc": "2026-07-30T09:14:49.240754+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000249913",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.68026,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.194966,
-          "zipCode": "70380"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/30/2026 2:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105391114",
-      "lastUpdateTime": "07/30/2026 01:09:14",
-      "lat": 29.68026,
-      "location": "Ramos 138",
-      "locationType": 5,
-      "lon": -91.194966,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:00",
-      "serviceType": 1,
-      "startTime": "07/29/2026 19:56:10",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000180237",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.401905,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.663958,
-          "zipCode": "71417"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "7/30/2026 3:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105391124",
-      "lastUpdateTime": "07/30/2026 01:09:14",
-      "lat": 31.401905,
-      "location": "Boyce",
-      "locationType": 5,
-      "lon": -92.663958,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "03:15",
-      "serviceType": 1,
-      "startTime": "07/30/2026 01:00:44",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000304614",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.829533,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.566108,
-          "zipCode": "70514"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000273171",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.829567,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.566043,
-          "zipCode": "70514"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000276075",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.829273,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.566017,
-          "zipCode": "70514"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "7/30/2026 3:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105391123",
-      "lastUpdateTime": "07/30/2026 01:09:14",
-      "lat": 29.829457666666666,
-      "location": "Yokley Rd.",
-      "locationType": 5,
-      "lon": -91.566056,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "03:00",
-      "serviceType": 1,
-      "startTime": "07/30/2026 00:46:01",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -187,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391019",
-      "lastUpdateTime": "07/30/2026 01:09:14",
+      "lastUpdateTime": "07/30/2026 03:59:14",
       "lat": 30.026936666666668,
       "location": "Navy Base (New Iberia)",
       "locationType": 5,
@@ -198,6 +59,45 @@
       "restorationTime": "12:15",
       "serviceType": 1,
       "startTime": "07/29/2026 09:01:36",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000249913",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.68026,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.194966,
+          "zipCode": "70380"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "7/30/2026 6:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391114",
+      "lastUpdateTime": "07/30/2026 03:59:14",
+      "lat": 29.68026,
+      "location": "Ramos 138",
+      "locationType": 5,
+      "lon": -91.194966,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:00",
+      "serviceType": 1,
+      "startTime": "07/29/2026 19:56:10",
       "status": 1,
       "zipCode": null
     }
