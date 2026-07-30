@@ -1,6 +1,67 @@
 {
-  "cachedAtUtc": "2026-07-29T23:17:46.251708+00:00",
+  "cachedAtUtc": "2026-07-30T00:51:01.414186+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000304866",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.027004,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.853288,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074348",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.027004,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.853288,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224841",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.026802,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.853156,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "7/30/2026 12:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391019",
+      "lastUpdateTime": "07/29/2026 19:39:14",
+      "lat": 30.026936666666668,
+      "location": "Navy Base (New Iberia)",
+      "locationType": 5,
+      "lon": -91.853244,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:15",
+      "serviceType": 1,
+      "startTime": "07/29/2026 09:01:36",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -17,7 +78,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "7/29/2026 7:30:00 PM",
+      "endTime": "7/29/2026 9:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -26,7 +87,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391096",
-      "lastUpdateTime": "07/29/2026 18:09:13",
+      "lastUpdateTime": "07/29/2026 19:39:14",
       "lat": 30.52303,
       "location": "Rozas",
       "locationType": 5,
@@ -34,7 +95,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:30",
+      "restorationTime": "21:30",
       "serviceType": 1,
       "startTime": "07/29/2026 17:18:20",
       "status": 1,
@@ -76,7 +137,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391101",
-      "lastUpdateTime": "07/29/2026 18:09:13",
+      "lastUpdateTime": "07/29/2026 19:39:14",
       "lat": 31.371068,
       "location": "Boyce",
       "locationType": 5,
@@ -87,100 +148,6 @@
       "restorationTime": "20:15",
       "serviceType": 1,
       "startTime": "07/29/2026 18:01:53",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000012389",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.469135,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.104238,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000261299",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.469202,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.104647,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000200102",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.469617,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.104622,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000073737",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.469525,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.104502,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000126532",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.469294,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.104775,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000261293",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.469445,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.104863,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 6,
-      "description": null,
-      "endTime": "7/29/2026 8:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105391102",
-      "lastUpdateTime": "07/29/2026 18:09:13",
-      "lat": 30.469369666666665,
-      "location": "Eighth Avenue",
-      "locationType": 5,
-      "lon": -90.10460783333333,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "20:15",
-      "serviceType": 1,
-      "startTime": "07/29/2026 18:05:53",
       "status": 1,
       "zipCode": null
     },
@@ -4477,11 +4444,11 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391103",
-      "lastUpdateTime": "07/29/2026 18:09:13",
-      "lat": 31.363411040609098,
+      "lastUpdateTime": "07/29/2026 19:39:14",
+      "lat": 31.363411040609115,
       "location": "Flatwoods",
       "locationType": 5,
-      "lon": -92.89296244923851,
+      "lon": -92.8929624492386,
       "name": null,
       "notes": "",
       "outageType": 2,
@@ -4495,41 +4462,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000304866",
+            "outageDetailAttribute1": "6000335478",
             "outageDetailAttribute2": null
           },
-          "lat": 30.027004,
-          "location": "IBERIA",
+          "lat": 31.25667,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -91.853288,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000074348",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.027004,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.853288,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000224841",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.026802,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.853156,
-          "zipCode": "70560"
+          "lon": -92.82757,
+          "zipCode": "71447"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "7/30/2026 12:15:00 PM",
+      "endTime": "7/29/2026 9:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -4537,18 +4482,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391019",
-      "lastUpdateTime": "07/29/2026 18:09:13",
-      "lat": 30.026936666666668,
-      "location": "Navy Base (New Iberia)",
+      "incidentId": "INC 8105391111",
+      "lastUpdateTime": "07/29/2026 19:39:14",
+      "lat": 31.25667,
+      "location": "Hineston 230",
       "locationType": 5,
-      "lon": -91.853244,
+      "lon": -92.82757,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "12:15",
+      "restorationTime": "21:00",
       "serviceType": 1,
-      "startTime": "07/29/2026 09:01:36",
+      "startTime": "07/29/2026 18:58:42",
       "status": 1,
       "zipCode": null
     }
