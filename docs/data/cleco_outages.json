@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-07-31T22:26:29.847396+00:00",
+  "cachedAtUtc": "2026-07-31T23:32:56.944456+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -688,7 +688,7 @@
       ],
       "affectedCount": 62,
       "description": null,
-      "endTime": "7/31/2026 6:00:00 PM",
+      "endTime": "7/31/2026 8:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -697,7 +697,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391384",
-      "lastUpdateTime": "07/31/2026 17:09:17",
+      "lastUpdateTime": "07/31/2026 18:19:17",
       "lat": 31.435593859374997,
       "location": "Holloway",
       "locationType": 5,
@@ -705,7 +705,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:00",
+      "restorationTime": "20:00",
       "serviceType": 1,
       "startTime": "07/31/2026 15:52:56",
       "status": 1,
@@ -715,63 +715,63 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000137439",
+            "outageDetailAttribute1": "6000132209",
             "outageDetailAttribute2": null
           },
-          "lat": 30.341057,
+          "lat": 30.38466,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.001198,
-          "zipCode": "70445"
+          "lon": -90.103565,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000195059",
+            "outageDetailAttribute1": "6000214899",
             "outageDetailAttribute2": null
           },
-          "lat": 30.340065,
+          "lat": 30.38494,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -89.999005,
-          "zipCode": "70445"
+          "lon": -90.1034,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000068306",
+            "outageDetailAttribute1": "6000083958",
             "outageDetailAttribute2": null
           },
-          "lat": 30.340227,
+          "lat": 30.384665,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -89.999672,
-          "zipCode": "70445"
+          "lon": -90.103571,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000091428",
+            "outageDetailAttribute1": "6000022639",
             "outageDetailAttribute2": null
           },
-          "lat": 30.33966,
+          "lat": 30.384665,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -89.998256,
-          "zipCode": "70445"
+          "lon": -90.103571,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000049791",
+            "outageDetailAttribute1": "6000288690",
             "outageDetailAttribute2": null
           },
-          "lat": 30.340162,
+          "lat": 30.384652,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -89.99866,
-          "zipCode": "70445"
+          "lon": -90.103615,
+          "zipCode": "70471"
         }
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "7/31/2026 6:30:00 PM",
+      "endTime": "7/31/2026 7:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -779,18 +779,90 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391387",
-      "lastUpdateTime": "07/31/2026 17:09:17",
-      "lat": 30.340234199999998,
-      "location": "Ponchartrain Drive",
+      "incidentId": "INC 8105391393",
+      "lastUpdateTime": "07/31/2026 18:19:17",
+      "lat": 30.384716399999995,
+      "location": "Sanctuary",
       "locationType": 5,
-      "lon": -89.99935819999999,
+      "lon": -90.10354439999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "19:45",
       "serviceType": 1,
-      "startTime": "07/31/2026 16:24:20",
+      "startTime": "07/31/2026 17:33:08",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234945",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.140584,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.284411,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000018971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.140405,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.28424,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134397",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.141704,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.284629,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000265585",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.140495,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.28426,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "7/31/2026 8:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391397",
+      "lastUpdateTime": "07/31/2026 18:19:17",
+      "lat": 31.140797000000003,
+      "location": "North Lee Hills",
+      "locationType": 5,
+      "lon": -93.284385,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:15",
+      "serviceType": 1,
+      "startTime": "07/31/2026 18:09:10",
       "status": 1,
       "zipCode": null
     },
@@ -865,7 +937,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "7/31/2026 5:45:00 PM",
+      "endTime": "7/31/2026 7:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -874,7 +946,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391383",
-      "lastUpdateTime": "07/31/2026 17:09:17",
+      "lastUpdateTime": "07/31/2026 18:19:17",
       "lat": 30.676087499999998,
       "location": "Vidrine",
       "locationType": 5,
@@ -882,7 +954,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:45",
+      "restorationTime": "19:45",
       "serviceType": 1,
       "startTime": "07/31/2026 15:31:02",
       "status": 1,
