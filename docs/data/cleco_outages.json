@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-01T19:38:35.601331+00:00",
+  "cachedAtUtc": "2026-08-01T20:32:59.237730+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -1412,7 +1412,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391452",
-      "lastUpdateTime": "08/01/2026 14:29:19",
+      "lastUpdateTime": "08/01/2026 15:19:19",
       "lat": 31.006343070866155,
       "location": "Longbridge",
       "locationType": 5,
@@ -1430,41 +1430,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000201526",
+            "outageDetailAttribute1": "6000029159",
             "outageDetailAttribute2": null
           },
-          "lat": 30.81856,
-          "location": "ALLEN",
+          "lat": 30.092751,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.675762,
-          "zipCode": "71463"
+          "lon": -91.750224,
+          "zipCode": "70582"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000270738",
+            "outageDetailAttribute1": "6000308778",
             "outageDetailAttribute2": null
           },
-          "lat": 30.81865,
-          "location": "ALLEN",
+          "lat": 30.092968,
+          "location": "ST. MARTIN",
           "locationType": 2,
-          "lon": -92.67566,
-          "zipCode": "71463"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000330950",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.81917,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.677207,
-          "zipCode": "71463"
+          "lon": -91.750342,
+          "zipCode": "70582"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "8/1/2026 4:15:00 PM",
+      "endTime": "8/1/2026 4:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -1472,18 +1461,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391456",
-      "lastUpdateTime": "08/01/2026 14:29:19",
-      "lat": 30.818793333333332,
-      "location": "Oakdale",
+      "incidentId": "INC 8105391472",
+      "lastUpdateTime": "08/01/2026 15:19:19",
+      "lat": 30.0928595,
+      "location": "Coteau Holmes",
       "locationType": 5,
-      "lon": -92.67620966666668,
+      "lon": -91.750283,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:15",
+      "restorationTime": "16:45",
       "serviceType": 1,
-      "startTime": "08/01/2026 12:09:29",
+      "startTime": "08/01/2026 14:42:47",
       "status": 1,
       "zipCode": null
     },
@@ -1491,74 +1480,52 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000092342",
+            "outageDetailAttribute1": "6000012299",
             "outageDetailAttribute2": null
           },
-          "lat": 31.29618,
-          "location": "RAPIDES",
+          "lat": 30.370773,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.50885,
-          "zipCode": "71303"
+          "lon": -90.089426,
+          "zipCode": "70448"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000132112",
+            "outageDetailAttribute1": "6000169532",
             "outageDetailAttribute2": null
           },
-          "lat": 31.295987,
-          "location": "RAPIDES",
+          "lat": 30.370858,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.509151,
-          "zipCode": "71303"
+          "lon": -90.08894,
+          "zipCode": "70448"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000066551",
+            "outageDetailAttribute1": "6000221454",
             "outageDetailAttribute2": null
           },
-          "lat": 31.29595,
-          "location": "RAPIDES",
+          "lat": 30.370766,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.50931,
-          "zipCode": "71303"
+          "lon": -90.089411,
+          "zipCode": "70448"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000087608",
+            "outageDetailAttribute1": "6000029354",
             "outageDetailAttribute2": null
           },
-          "lat": 31.29585,
-          "location": "RAPIDES",
+          "lat": 30.370777,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.50979,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266152",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.296459,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.511309,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000197687",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.296569,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.511069,
-          "zipCode": "71303"
+          "lon": -90.08942,
+          "zipCode": "70448"
         }
       ],
-      "affectedCount": 6,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "8/1/2026 4:00:00 PM",
+      "endTime": "8/1/2026 5:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -1566,18 +1533,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391460",
-      "lastUpdateTime": "08/01/2026 14:29:19",
-      "lat": 31.296165833333333,
-      "location": "Pineville",
+      "incidentId": "INC 8105391475",
+      "lastUpdateTime": "08/01/2026 15:19:19",
+      "lat": 30.3708064,
+      "location": "Lambert Street",
       "locationType": 5,
-      "lon": -92.50991316666666,
+      "lon": -90.0892274,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:00",
+      "restorationTime": "17:30",
       "serviceType": 1,
-      "startTime": "08/01/2026 13:02:14",
+      "startTime": "08/01/2026 15:18:59",
       "status": 1,
       "zipCode": null
     }
