@@ -1,6 +1,129 @@
 {
-  "cachedAtUtc": "2026-08-01T10:59:10.721692+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-01T12:08:10.735317+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000167865",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.265128,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.787407,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000149714",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.265257,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.787412,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000014373",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.265267,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.787561,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000073306",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.265083,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.787544,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/1/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391425",
+      "lastUpdateTime": "08/01/2026 06:39:18",
+      "lat": 30.265183750000002,
+      "location": "Bayou Liberty",
+      "locationType": 5,
+      "lon": -89.78748100000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "08/01/2026 06:04:02",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234787",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.921532,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.285139,
+          "zipCode": "70659"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348377",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.921532,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.285139,
+          "zipCode": "70659"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/1/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391426",
+      "lastUpdateTime": "08/01/2026 06:39:18",
+      "lat": 30.921532,
+      "location": "Leesville Fort Polk",
+      "locationType": 5,
+      "lon": -93.285139,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "08/01/2026 06:17:32",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
