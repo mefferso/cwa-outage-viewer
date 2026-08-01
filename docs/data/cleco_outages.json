@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-01T13:54:34.851624+00:00",
+  "cachedAtUtc": "2026-08-01T15:03:24.413887+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -4296,7 +4296,7 @@
       ],
       "affectedCount": 390,
       "description": null,
-      "endTime": "8/1/2026 10:00:00 AM",
+      "endTime": "8/1/2026 12:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -4305,15 +4305,15 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391428",
-      "lastUpdateTime": "08/01/2026 08:39:18",
-      "lat": 31.58336198997495,
+      "lastUpdateTime": "08/01/2026 09:49:18",
+      "lat": 31.583361989974943,
       "location": "North Colfax",
       "locationType": 5,
       "lon": -92.76096450375938,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "10:00",
+      "restorationTime": "12:00",
       "serviceType": 1,
       "startTime": "08/01/2026 07:54:41",
       "status": 1,
@@ -4323,41 +4323,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000111412",
+            "outageDetailAttribute1": "6000201454",
             "outageDetailAttribute2": null
           },
-          "lat": 30.252556,
-          "location": "ST. TAMMANY",
+          "lat": 31.399702,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -89.787785,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000056597",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.252397,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.788117,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000152395",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.252359,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.787726,
-          "zipCode": "70458"
+          "lon": -92.41373,
+          "zipCode": "71405"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "8/1/2026 10:45:00 AM",
+      "endTime": "8/1/2026 11:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -4365,18 +4343,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391433",
-      "lastUpdateTime": "08/01/2026 08:39:18",
-      "lat": 30.252437333333333,
-      "location": "Berkley Street",
+      "incidentId": "INC 8105391436",
+      "lastUpdateTime": "08/01/2026 09:49:18",
+      "lat": 31.399702,
+      "location": "Paradise",
       "locationType": 5,
-      "lon": -89.787876,
+      "lon": -92.41373,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "10:45",
+      "restorationTime": "11:15",
       "serviceType": 1,
-      "startTime": "08/01/2026 08:37:08",
+      "startTime": "08/01/2026 09:02:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000321479",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.48999,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.85436,
+          "zipCode": "70648"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/1/2026 12:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391437",
+      "lastUpdateTime": "08/01/2026 09:49:18",
+      "lat": 30.48999,
+      "location": "Kinder",
+      "locationType": 5,
+      "lon": -92.85436,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:00",
+      "serviceType": 1,
+      "startTime": "08/01/2026 09:47:54",
       "status": 1,
       "zipCode": null
     }
