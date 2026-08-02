@@ -1,67 +1,34 @@
 {
-  "cachedAtUtc": "2026-08-01T23:36:04.910028+00:00",
+  "cachedAtUtc": "2026-08-02T01:14:17.290440+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000094072",
+            "outageDetailAttribute1": "6000000716",
             "outageDetailAttribute2": null
           },
-          "lat": 31.333095,
-          "location": "RAPIDES",
+          "lat": 31.128253,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -92.381832,
-          "zipCode": "71360"
+          "lon": -93.281324,
+          "zipCode": "71446"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000110133",
+            "outageDetailAttribute1": "6000114874",
             "outageDetailAttribute2": null
           },
-          "lat": 31.332818,
-          "location": "RAPIDES",
+          "lat": 31.12837,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -92.382608,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000134432",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.332987,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.382738,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000082446",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.332818,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.382608,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000221107",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.333512,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.381838,
-          "zipCode": "71360"
+          "lon": -93.281002,
+          "zipCode": "71446"
         }
       ],
-      "affectedCount": 5,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "8/1/2026 8:15:00 PM",
+      "endTime": "8/1/2026 8:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -69,112 +36,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391487",
-      "lastUpdateTime": "08/01/2026 18:19:19",
-      "lat": 31.333046000000003,
-      "location": "Gendi Rd.",
+      "incidentId": "INC 8105391489",
+      "lastUpdateTime": "08/01/2026 19:59:19",
+      "lat": 31.128311500000002,
+      "location": "South Lee Hills",
       "locationType": 5,
-      "lon": -92.38232480000002,
+      "lon": -93.28116299999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "20:15",
+      "restorationTime": "20:45",
       "serviceType": 1,
-      "startTime": "08/01/2026 18:06:13",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000212473",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.232487,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.790348,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000240282",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.232432,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.790187,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000195836",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.23223,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.79017,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000213063",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.232147,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.789668,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000282785",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.232143,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.789838,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000021727",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.232002,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.789585,
-          "zipCode": "70458"
-        }
-      ],
-      "affectedCount": 6,
-      "description": null,
-      "endTime": "8/1/2026 7:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105391484",
-      "lastUpdateTime": "08/01/2026 18:19:19",
-      "lat": 30.232240166666667,
-      "location": "Lakeshore Estates",
-      "locationType": 5,
-      "lon": -89.789966,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "19:45",
-      "serviceType": 1,
-      "startTime": "08/01/2026 17:30:51",
+      "startTime": "08/01/2026 18:31:10",
       "status": 1,
       "zipCode": null
     }
