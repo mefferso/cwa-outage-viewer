@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-02T15:13:23.338219+00:00",
+  "cachedAtUtc": "2026-08-02T16:16:07.211837+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -39,7 +39,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "8/2/2026 11:00:00 AM",
+      "endTime": "8/2/2026 1:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -48,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391552",
-      "lastUpdateTime": "08/02/2026 09:59:20",
+      "lastUpdateTime": "08/02/2026 11:09:20",
       "lat": 29.763275000000004,
       "location": "Wax Lake",
       "locationType": 5,
@@ -56,7 +56,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "11:00",
+      "restorationTime": "13:00",
       "serviceType": 1,
       "startTime": "08/02/2026 06:53:35",
       "status": 1,
@@ -120,7 +120,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391573",
-      "lastUpdateTime": "08/02/2026 09:59:20",
+      "lastUpdateTime": "08/02/2026 11:09:20",
       "lat": 29.723601,
       "location": "Wax Lake",
       "locationType": 5,
@@ -131,6 +131,239 @@
       "restorationTime": "11:45",
       "serviceType": 1,
       "startTime": "08/02/2026 08:51:54",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000030018",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.041265,
+          "location": "RED RIVER",
+          "locationType": 2,
+          "lon": -93.326175,
+          "zipCode": "71019"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000104359",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.0411,
+          "location": "RED RIVER",
+          "locationType": 2,
+          "lon": -93.325978,
+          "zipCode": "71019"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/2/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391578",
+      "lastUpdateTime": "08/02/2026 11:09:20",
+      "lat": 32.041182500000005,
+      "location": "Carroll",
+      "locationType": 5,
+      "lon": -93.3260765,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "08/02/2026 10:20:41",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038620",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.341002,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.360426,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092256",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.340848,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.360356,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000295748",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.34102,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.359945,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000019272",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.34082,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.360292,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092622",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.34054,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.360545,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/2/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391579",
+      "lastUpdateTime": "08/02/2026 11:09:20",
+      "lat": 31.340846,
+      "location": "Gendi Rd.",
+      "locationType": 5,
+      "lon": -92.3603128,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "08/02/2026 10:25:36",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209861",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.339888,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.360902,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/2/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391580",
+      "lastUpdateTime": "08/02/2026 11:09:20",
+      "lat": 31.339888,
+      "location": "Gendi Rd.",
+      "locationType": 5,
+      "lon": -92.360902,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "08/02/2026 10:26:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267733",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.338997,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.963083,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280415",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.338924,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.962969,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000240815",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.338924,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.962969,
+          "zipCode": "70445"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/2/2026 1:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391581",
+      "lastUpdateTime": "08/02/2026 11:09:20",
+      "lat": 30.33894833333333,
+      "location": "Ponchartrain Drive",
+      "locationType": 5,
+      "lon": -89.963007,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:15",
+      "serviceType": 1,
+      "startTime": "08/02/2026 11:04:26",
       "status": 1,
       "zipCode": null
     },
@@ -192,7 +425,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391568",
-      "lastUpdateTime": "08/02/2026 09:59:20",
+      "lastUpdateTime": "08/02/2026 11:09:20",
       "lat": 29.83436675,
       "location": "Baldwin (Bollard St)",
       "locationType": 5,
@@ -203,45 +436,6 @@
       "restorationTime": "12:00",
       "serviceType": 1,
       "startTime": "08/02/2026 07:48:22",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000123893",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.834442,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.560148,
-          "zipCode": "70514"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/2/2026 12:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105391569",
-      "lastUpdateTime": "08/02/2026 09:59:20",
-      "lat": 29.834442,
-      "location": "Baldwin (Bollard St)",
-      "locationType": 5,
-      "lon": -91.560148,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "12:00",
-      "serviceType": 1,
-      "startTime": "08/02/2026 07:49:07",
       "status": 1,
       "zipCode": null
     }
