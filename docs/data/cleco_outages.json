@@ -1,34 +1,23 @@
 {
-  "cachedAtUtc": "2026-08-03T21:47:15.565475+00:00",
+  "cachedAtUtc": "2026-08-03T22:44:55.633042+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000112774",
+            "outageDetailAttribute1": "6000270240",
             "outageDetailAttribute2": null
           },
-          "lat": 31.265385,
-          "location": "AVOYELLES",
+          "lat": 31.057155,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.208935,
-          "zipCode": "71323"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000247597",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.265305,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.20934,
-          "zipCode": "71323"
+          "lon": -92.501389,
+          "zipCode": "71346"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "8/3/2026 5:15:00 PM",
+      "endTime": "8/3/2026 7:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -36,18 +25,311 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105391746",
-      "lastUpdateTime": "08/03/2026 16:39:22",
-      "lat": 31.265345,
-      "location": "Effie",
+      "incidentId": "INC 8105391759",
+      "lastUpdateTime": "08/03/2026 17:29:22",
+      "lat": 31.057155,
+      "location": "Forest Hill",
       "locationType": 5,
-      "lon": -92.2091375,
+      "lon": -92.501389,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:15",
+      "restorationTime": "19:00",
       "serviceType": 1,
-      "startTime": "08/03/2026 15:14:35",
+      "startTime": "08/03/2026 16:53:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221225",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.308425,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730882,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000030230",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.308235,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730697,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205044",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.307975,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730803,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000262398",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.307908,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730892,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000030295",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.307996,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730705,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000262358",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.308493,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730937,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000290131",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.30853,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.730603,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221195",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.308017,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.73083,
+          "zipCode": "70461"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "8/3/2026 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391760",
+      "lastUpdateTime": "08/03/2026 17:29:22",
+      "lat": 30.308234333333335,
+      "location": "Brown Switch Rd.",
+      "locationType": 5,
+      "lon": -89.73077244444447,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "08/03/2026 16:57:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315573",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.860199,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.63023,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000147086",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.86021,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.630221,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315339",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.859645,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.629662,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278121",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.860199,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.63023,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209711",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.859797,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.630044,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348300",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.859995,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.630099,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000175148",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.860199,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.63023,
+          "zipCode": "70544"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "8/3/2026 7:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391763",
+      "lastUpdateTime": "08/03/2026 17:29:22",
+      "lat": 29.860034857142857,
+      "location": "Patoutville",
+      "locationType": 5,
+      "lon": -91.63010228571429,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:15",
+      "serviceType": 1,
+      "startTime": "08/03/2026 17:05:22",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000036490",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.266872,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.900203,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272872",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.266787,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.900447,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000231528",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.267088,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.900338,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000295098",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.267095,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.900242,
+          "zipCode": "70517"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/3/2026 7:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391766",
+      "lastUpdateTime": "08/03/2026 17:29:22",
+      "lat": 30.266960500000003,
+      "location": "Breaux Bridge",
+      "locationType": 5,
+      "lon": -91.9003075,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:30",
+      "serviceType": 1,
+      "startTime": "08/03/2026 17:27:39",
       "status": 1,
       "zipCode": null
     },
@@ -595,7 +877,7 @@
       ],
       "affectedCount": 49,
       "description": null,
-      "endTime": "8/3/2026 5:00:00 PM",
+      "endTime": "8/3/2026 7:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -604,7 +886,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391738",
-      "lastUpdateTime": "08/03/2026 16:39:22",
+      "lastUpdateTime": "08/03/2026 17:29:22",
       "lat": 31.093421122448976,
       "location": "Bordelonville",
       "locationType": 5,
@@ -612,7 +894,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "19:00",
       "serviceType": 1,
       "startTime": "08/03/2026 14:55:35",
       "status": 1,
