@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-04T10:49:18.175860+00:00",
+  "cachedAtUtc": "2026-08-04T12:52:22.877822+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -523,7 +523,7 @@
       ],
       "affectedCount": 47,
       "description": null,
-      "endTime": "8/4/2026 6:45:00 AM",
+      "endTime": "8/4/2026 8:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -532,7 +532,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105391790",
-      "lastUpdateTime": "08/04/2026 05:39:23",
+      "lastUpdateTime": "08/04/2026 07:39:23",
       "lat": 30.25389965957447,
       "location": "Panther Drive",
       "locationType": 5,
@@ -540,9 +540,109 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:45",
+      "restorationTime": "08:45",
       "serviceType": 1,
       "startTime": "08/03/2026 22:30:18",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000174549",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.2721,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.607667,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/4/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391800",
+      "lastUpdateTime": "08/04/2026 07:39:23",
+      "lat": 31.2721,
+      "location": "Rapides",
+      "locationType": 5,
+      "lon": -92.607667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "08/04/2026 07:18:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072144",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33688,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.27828,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280431",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335837,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.279357,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181515",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.337113,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.278177,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/4/2026 9:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105391802",
+      "lastUpdateTime": "08/04/2026 07:39:23",
+      "lat": 31.336609999999997,
+      "location": "Shady Oaks",
+      "locationType": 5,
+      "lon": -92.27860466666668,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:45",
+      "serviceType": 1,
+      "startTime": "08/04/2026 07:37:51",
       "status": 1,
       "zipCode": null
     }
