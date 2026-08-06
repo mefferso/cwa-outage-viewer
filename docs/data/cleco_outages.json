@@ -1,8 +1,19 @@
 {
-  "cachedAtUtc": "2026-08-06T12:17:23.055506+00:00",
+  "cachedAtUtc": "2026-08-06T14:40:31.951835+00:00",
   "data": [
     {
       "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000179624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.782064,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.733419,
+          "zipCode": "70538"
+        },
         {
           "extension": {
             "outageDetailAttribute1": "6000177923",
@@ -68,11 +79,55 @@
           "locationType": 2,
           "lon": -91.724198,
           "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219754",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.780711,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.749662,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000076398",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.780711,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.749662,
+          "zipCode": "70514"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302248",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.780711,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.749662,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000084235",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.782472,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.740292,
+          "zipCode": "70544"
         }
       ],
-      "affectedCount": 6,
+      "affectedCount": 11,
       "description": null,
-      "endTime": "8/6/2026 9:15:00 AM",
+      "endTime": "8/6/2026 11:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -81,15 +136,15 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392347",
-      "lastUpdateTime": "08/06/2026 07:09:27",
-      "lat": 29.7858065,
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 29.784086230769226,
       "location": "Louisa",
       "locationType": 5,
-      "lon": -91.72740362499998,
+      "lon": -91.7339943076923,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:15",
+      "restorationTime": "11:15",
       "serviceType": 1,
       "startTime": "08/06/2026 06:21:15",
       "status": 0,
@@ -99,30 +154,349 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000217878",
+            "outageDetailAttribute1": "6000307398",
             "outageDetailAttribute2": null
           },
-          "lat": 30.360868,
-          "location": "ST. TAMMANY",
+          "lat": 31.352903,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -89.786268,
-          "zipCode": "70452"
+          "lon": -92.368048,
+          "zipCode": "71360"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000254399",
+            "outageDetailAttribute1": "6000295468",
             "outageDetailAttribute2": null
           },
-          "lat": 30.360578,
-          "location": "ST. TAMMANY",
+          "lat": 31.354007,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -89.786278,
-          "zipCode": "70452"
+          "lon": -92.368392,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185236",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354478,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.365998,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000233840",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.35393,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366307,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000133404",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353046,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366314,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017740",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.35344,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.367098,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000269824",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353153,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366605,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092118",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.352975,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366473,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000110794",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354501,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366484,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140376",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354507,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.36649,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000233200",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354295,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.367742,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013602",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354242,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.367927,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038142",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354793,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366898,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022431",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354144,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.3673,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257845",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.352805,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366393,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000187906",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.352048,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366433,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000133380",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353257,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366908,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057369",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.351209,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366387,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000320380",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.35162,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366087,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146053",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.35433,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.368485,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017717",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353153,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366605,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000295480",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.354372,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.367472,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051225",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353759,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.368306,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052349",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.35391,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366428,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000274513",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353727,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.36629,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092094",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353153,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366605,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209359",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.352992,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.36628,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000274495",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.352605,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.366257,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355002",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353565,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.367755,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219123",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.352745,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.36791,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209335",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.353247,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.367567,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 31,
       "description": null,
-      "endTime": "8/6/2026 8:45:00 AM",
+      "endTime": "8/6/2026 4:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -130,18 +504,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392350",
-      "lastUpdateTime": "08/06/2026 07:09:27",
-      "lat": 30.360723,
-      "location": "North Slidell",
+      "incidentId": "INC 8105392355",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 31.35344874193549,
+      "location": "Shady Oaks",
       "locationType": 5,
-      "lon": -89.786273,
+      "lon": -92.36697561290323,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:45",
+      "restorationTime": "16:00",
       "serviceType": 1,
-      "startTime": "08/06/2026 06:36:46",
+      "startTime": "08/06/2026 07:25:39",
       "status": 1,
       "zipCode": null
     },
@@ -149,19 +523,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000098322",
+            "outageDetailAttribute1": "6000014312",
             "outageDetailAttribute2": null
           },
-          "lat": 30.979499,
+          "lat": 31.086593,
           "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -92.106464,
-          "zipCode": "71322"
+          "lon": -92.20137,
+          "zipCode": "71341"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/6/2026 8:45:00 AM",
+      "endTime": "8/6/2026 9:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -169,18 +543,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392351",
-      "lastUpdateTime": "08/06/2026 07:09:27",
-      "lat": 30.979499,
-      "location": "Bunkie REA",
+      "incidentId": "INC 8105392358",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 31.086593,
+      "location": "Cheneyville",
       "locationType": 5,
-      "lon": -92.106464,
+      "lon": -92.20137,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:45",
+      "restorationTime": "09:45",
       "serviceType": 1,
-      "startTime": "08/06/2026 06:43:01",
+      "startTime": "08/06/2026 07:35:04",
       "status": 1,
       "zipCode": null
     },
@@ -188,30 +562,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000009782",
+            "outageDetailAttribute1": "6000273640",
             "outageDetailAttribute2": null
           },
-          "lat": 30.955849,
-          "location": "RAPIDES",
+          "lat": 29.712344,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -92.480621,
-          "zipCode": "71433"
+          "lon": -91.232222,
+          "zipCode": "70342"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000084675",
+            "outageDetailAttribute1": "6000119369",
             "outageDetailAttribute2": null
           },
-          "lat": 30.970625,
-          "location": "RAPIDES",
+          "lat": 29.71244,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -92.582379,
-          "zipCode": "71433"
+          "lon": -91.232188,
+          "zipCode": "70342"
         }
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/6/2026 9:00:00 AM",
+      "endTime": "8/6/2026 10:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -219,18 +593,1253 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392352",
-      "lastUpdateTime": "08/06/2026 07:09:27",
-      "lat": 30.963237,
-      "location": "Glenmora",
+      "incidentId": "INC 8105392361",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 29.712392,
+      "location": "Berwick (Oregon St.)",
       "locationType": 5,
-      "lon": -92.5315,
+      "lon": -91.232205,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:00",
+      "restorationTime": "10:00",
       "serviceType": 1,
-      "startTime": "08/06/2026 06:49:20",
+      "startTime": "08/06/2026 07:46:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166734",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439966,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433923,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267476",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43729,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.434755,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116332",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440643,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.441732,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000088236",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439936,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439255,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086356",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439933,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.441175,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000242882",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438635,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.444067,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267591",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438197,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.431372,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000245040",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441301,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.432952,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267457",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436714,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437774,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000784",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439708,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437838,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049715",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439603,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437808,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000042474",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437394,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.44174,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212926",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439457,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43518,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025568",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439554,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.435581,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136239",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44034,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.435678,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136094",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436901,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.435525,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000056567",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43612,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.4399,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194758",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441301,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.432936,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000042410",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.447269,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.39731,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267436",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437394,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.44339,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000298302",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439959,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.432622,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000864",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436983,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.443545,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059861",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436422,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437593,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310638",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437429,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437789,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000316951",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43632,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43452,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194876",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437382,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.442485,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134986",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439225,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437605,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000230040",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44099,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43564,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000298336",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439225,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.443217,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136188",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43891,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.443178,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237250",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.434965,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.434531,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257019",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.434965,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.434531,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000247489",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440969,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433939,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000042385",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439952,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.434843,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126356",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439633,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433468,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312263",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441287,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433856,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116035",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43755,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43363,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194734",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439771,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.431507,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267417",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439951,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.434828,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116175",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437412,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.441069,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000083838",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438647,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43107,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000130600",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43946,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43137,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136048",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439253,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.444032,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059738",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439959,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.432622,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237217",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440243,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433303,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000148719",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439303,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.442325,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041163",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438482,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.435558,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000914",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438313,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43617,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166774",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439936,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439271,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116198",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436747,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439343,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059928",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438623,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439272,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000330932",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437988,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.436791,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000330409",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437988,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.436791,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331815",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441302,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.432191,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289826",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437203,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.440081,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258016",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437285,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.434739,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134939",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440208,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43234,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000337056",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441181,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.435075,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267357",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439352,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.438782,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000339694",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.4403,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43758,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166885",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437404,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439551,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027560",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43952,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.44055,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123301",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436548,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.436567,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000042499",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437207,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.440095,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343647",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.450485,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433303,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000345437",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439953,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.443381,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000298370",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.436822,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.440357,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116057",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439966,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433923,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166794",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439945,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.442111,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116080",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439936,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439255,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086560",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438705,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.439687,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079755",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.44125,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43542,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166753",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.441078,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.433685,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000298318",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439617,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.440002,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194903",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437748,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.437992,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355048",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437412,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.441069,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158209",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437382,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.442485,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194714",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.438696,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.431627,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000117769",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439195,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.436813,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194782",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.439951,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.436573,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267336",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.440985,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.43373,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000889",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.437994,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.438563,
+          "zipCode": "70633"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237223",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.43968,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.443352,
+          "zipCode": "70633"
+        }
+      ],
+      "affectedCount": 83,
+      "description": null,
+      "endTime": "8/6/2026 11:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392377",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 30.43908042857143,
+      "location": "Plum Street",
+      "locationType": 5,
+      "lon": -93.43678155952382,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:30",
+      "serviceType": 1,
+      "startTime": "08/06/2026 08:37:35",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280845",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.712865,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.229223,
+          "zipCode": "70342"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041055",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.713477,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.229908,
+          "zipCode": "70342"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/6/2026 11:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392401",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 29.713171000000003,
+      "location": "Berwick (Oregon St.)",
+      "locationType": 5,
+      "lon": -91.2295655,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:00",
+      "serviceType": 1,
+      "startTime": "08/06/2026 08:50:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000177619",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.39227,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.10019,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/6/2026 11:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392402",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 30.39227,
+      "location": "Sanctuary",
+      "locationType": 5,
+      "lon": -90.10019,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:00",
+      "serviceType": 1,
+      "startTime": "08/06/2026 08:53:58",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102169",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.500587,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.395298,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045838",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.500632,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.395228,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162451",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.500587,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.395282,
+          "zipCode": "70535"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/6/2026 11:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392408",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 30.500602,
+      "location": "St. Mary Street",
+      "locationType": 5,
+      "lon": -92.39526933333333,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:30",
+      "serviceType": 1,
+      "startTime": "08/06/2026 09:25:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355894",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.53299,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.679034,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/6/2026 11:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392409",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 31.53299,
+      "location": "Colfax",
+      "locationType": 5,
+      "lon": -92.679034,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:30",
+      "serviceType": 1,
+      "startTime": "08/06/2026 09:25:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241786",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310938,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408205,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000306890",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310985,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408385,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105712",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310707,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408758,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180543",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.31066,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408637,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291506",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310623,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408453,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287245",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310791,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408484,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087141",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310797,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.40849,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "8/6/2026 11:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392410",
+      "lastUpdateTime": "08/06/2026 09:29:27",
+      "lat": 31.31078585714286,
+      "location": "Marksville Road",
+      "locationType": 5,
+      "lon": -92.40848742857143,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:30",
+      "serviceType": 1,
+      "startTime": "08/06/2026 09:29:06",
       "status": 1,
       "zipCode": null
     }
