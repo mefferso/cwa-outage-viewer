@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-08-07T15:29:32.656259+00:00",
+  "cachedAtUtc": "2026-08-07T16:27:40.391687+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263621",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.492991,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.423632,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000206552",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.492991,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.423632,
+          "zipCode": "70535"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/7/2026 1:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392608",
+      "lastUpdateTime": "08/07/2026 11:19:29",
+      "lat": 30.492991,
+      "location": "Eunice Plant",
+      "locationType": 5,
+      "lon": -92.423632,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:15",
+      "serviceType": 1,
+      "startTime": "08/07/2026 11:02:24",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -17,7 +67,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/7/2026 11:30:00 AM",
+      "endTime": "8/7/2026 1:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -26,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392604",
-      "lastUpdateTime": "08/07/2026 10:19:29",
+      "lastUpdateTime": "08/07/2026 11:19:29",
       "lat": 29.918771,
       "location": "Patoutville",
       "locationType": 5,
@@ -34,7 +84,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "11:30",
+      "restorationTime": "13:30",
       "serviceType": 1,
       "startTime": "08/07/2026 09:22:52",
       "status": 1,
