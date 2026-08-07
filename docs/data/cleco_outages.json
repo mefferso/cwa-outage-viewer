@@ -1,34 +1,23 @@
 {
-  "cachedAtUtc": "2026-08-07T16:27:40.391687+00:00",
+  "cachedAtUtc": "2026-08-07T17:26:49.990261+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000263621",
+            "outageDetailAttribute1": "6000169843",
             "outageDetailAttribute2": null
           },
-          "lat": 30.492991,
-          "location": "ST. LANDRY",
+          "lat": 30.587192,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -92.423632,
-          "zipCode": "70535"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000206552",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.492991,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.423632,
-          "zipCode": "70535"
+          "lon": -92.391907,
+          "zipCode": "70554"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "8/7/2026 1:15:00 PM",
+      "endTime": "8/7/2026 2:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -36,18 +25,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392608",
-      "lastUpdateTime": "08/07/2026 11:19:29",
-      "lat": 30.492991,
-      "location": "Eunice Plant",
+      "incidentId": "INC 8105392614",
+      "lastUpdateTime": "08/07/2026 12:19:29",
+      "lat": 30.587192,
+      "location": "Bieber",
       "locationType": 5,
-      "lon": -92.423632,
+      "lon": -92.391907,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "13:15",
+      "restorationTime": "14:00",
       "serviceType": 1,
-      "startTime": "08/07/2026 11:02:24",
+      "startTime": "08/07/2026 11:59:40",
       "status": 1,
       "zipCode": null
     },
@@ -55,19 +44,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000051588",
+            "outageDetailAttribute1": "6000269651",
             "outageDetailAttribute2": null
           },
-          "lat": 29.918771,
+          "lat": 29.901637,
           "location": "IBERIA",
           "locationType": 2,
-          "lon": -91.706925,
-          "zipCode": "70544"
+          "lon": -91.777357,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116720",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.901818,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.778035,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055074",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.902137,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.778362,
+          "zipCode": "70560"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/7/2026 1:30:00 PM",
+      "endTime": "8/7/2026 2:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -75,18 +86,90 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392604",
-      "lastUpdateTime": "08/07/2026 11:19:29",
-      "lat": 29.918771,
-      "location": "Patoutville",
+      "incidentId": "INC 8105392613",
+      "lastUpdateTime": "08/07/2026 12:19:29",
+      "lat": 29.901864,
+      "location": "Darnall Rd.",
       "locationType": 5,
-      "lon": -91.706925,
+      "lon": -91.777918,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "13:30",
+      "restorationTime": "14:00",
       "serviceType": 1,
-      "startTime": "08/07/2026 09:22:52",
+      "startTime": "08/07/2026 11:49:42",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000063880",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.628992,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.769,
+          "zipCode": "70655"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000089586",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.628685,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.76935,
+          "zipCode": "70655"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017268",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.628881,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.769189,
+          "zipCode": "70655"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353757",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.628881,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.769189,
+          "zipCode": "70655"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/7/2026 1:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392612",
+      "lastUpdateTime": "08/07/2026 12:19:29",
+      "lat": 30.62885975,
+      "location": "Oberlin",
+      "locationType": 5,
+      "lon": -92.769182,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:45",
+      "serviceType": 1,
+      "startTime": "08/07/2026 11:40:14",
       "status": 1,
       "zipCode": null
     }
