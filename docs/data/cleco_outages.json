@@ -1,6 +1,184 @@
 {
-  "cachedAtUtc": "2026-08-08T08:52:57.407355+00:00",
+  "cachedAtUtc": "2026-08-08T09:36:59.848193+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065499",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.166789,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.267099,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000018275",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.166789,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.267099,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/8/2026 6:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392778",
+      "lastUpdateTime": "08/08/2026 04:29:30",
+      "lat": 31.166789,
+      "location": "East Leesville",
+      "locationType": 5,
+      "lon": -93.267099,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:15",
+      "serviceType": 1,
+      "startTime": "08/08/2026 04:10:41",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246854",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.829077,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.323295,
+          "zipCode": "71322"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/8/2026 4:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392731",
+      "lastUpdateTime": "08/08/2026 04:29:30",
+      "lat": 30.829077,
+      "location": "Morrison Corner",
+      "locationType": 5,
+      "lon": -92.323295,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:45",
+      "serviceType": 1,
+      "startTime": "08/07/2026 16:33:09",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045907",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.39629,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.55243,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300912",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.39632,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.55241,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/8/2026 11:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392756",
+      "lastUpdateTime": "08/08/2026 04:29:30",
+      "lat": 31.396304999999998,
+      "location": "Alpine",
+      "locationType": 5,
+      "lon": -92.55242,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:45",
+      "serviceType": 1,
+      "startTime": "08/07/2026 19:50:12",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266477",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.80185,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53538,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/8/2026 5:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392763",
+      "lastUpdateTime": "08/08/2026 04:29:30",
+      "lat": 29.80185,
+      "location": "Teche",
+      "locationType": 5,
+      "lon": -91.53538,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "05:00",
+      "serviceType": 1,
+      "startTime": "08/07/2026 20:51:27",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -149,7 +327,7 @@
       ],
       "affectedCount": 13,
       "description": null,
-      "endTime": "8/8/2026 5:30:00 AM",
+      "endTime": "8/8/2026 6:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -158,7 +336,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392773",
-      "lastUpdateTime": "08/08/2026 03:39:30",
+      "lastUpdateTime": "08/08/2026 04:29:30",
       "lat": 30.24685223076924,
       "location": "Rigolet Slidell",
       "locationType": 5,
@@ -166,7 +344,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:30",
+      "restorationTime": "06:15",
       "serviceType": 1,
       "startTime": "08/08/2026 03:23:40",
       "status": 1,
@@ -176,69 +354,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000246854",
+            "outageDetailAttribute1": "6000237927",
             "outageDetailAttribute2": null
           },
-          "lat": 30.829077,
-          "location": "EVANGELINE",
+          "lat": 31.823109,
+          "location": "NATCHITOCHES",
           "locationType": 2,
-          "lon": -92.323295,
-          "zipCode": "71322"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/8/2026 4:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392731",
-      "lastUpdateTime": "08/08/2026 03:39:30",
-      "lat": 30.829077,
-      "location": "Morrison Corner",
-      "locationType": 5,
-      "lon": -92.323295,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "04:45",
-      "serviceType": 1,
-      "startTime": "08/07/2026 16:33:09",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000045907",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.39629,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.55243,
-          "zipCode": "71360"
+          "lon": -93.106759,
+          "zipCode": "71411"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000300912",
+            "outageDetailAttribute1": "6000141843",
             "outageDetailAttribute2": null
           },
-          "lat": 31.39632,
-          "location": "RAPIDES",
+          "lat": 31.820967,
+          "location": "NATCHITOCHES",
           "locationType": 2,
-          "lon": -92.55241,
-          "zipCode": "71360"
+          "lon": -93.103845,
+          "zipCode": "71019"
         }
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/8/2026 11:45:00 AM",
+      "endTime": "8/8/2026 6:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -246,18 +385,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392756",
-      "lastUpdateTime": "08/08/2026 03:39:30",
-      "lat": 31.396304999999998,
-      "location": "Alpine",
+      "incidentId": "INC 8105392775",
+      "lastUpdateTime": "08/08/2026 04:29:30",
+      "lat": 31.822038,
+      "location": "Clarence",
       "locationType": 5,
-      "lon": -92.55242,
+      "lon": -93.105302,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "11:45",
+      "restorationTime": "06:15",
       "serviceType": 1,
-      "startTime": "08/07/2026 19:50:12",
+      "startTime": "08/08/2026 04:06:12",
       "status": 1,
       "zipCode": null
     },
@@ -265,19 +404,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000266477",
+            "outageDetailAttribute1": "6000302113",
             "outageDetailAttribute2": null
           },
-          "lat": 29.80185,
-          "location": "ST. MARY",
+          "lat": 31.808864,
+          "location": "RED RIVER",
           "locationType": 2,
-          "lon": -91.53538,
-          "zipCode": "70538"
+          "lon": -93.096696,
+          "zipCode": "71019"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264245",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808864,
+          "location": "NATCHITOCHES",
+          "locationType": 2,
+          "lon": -93.096696,
+          "zipCode": "71019"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "8/8/2026 5:00:00 AM",
+      "endTime": "8/8/2026 6:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -285,18 +435,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105392763",
-      "lastUpdateTime": "08/08/2026 03:39:30",
-      "lat": 29.80185,
-      "location": "Teche",
+      "incidentId": "INC 8105392777",
+      "lastUpdateTime": "08/08/2026 04:29:30",
+      "lat": 31.808864,
+      "location": "Clarence",
       "locationType": 5,
-      "lon": -91.53538,
+      "lon": -93.096696,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:00",
+      "restorationTime": "06:15",
       "serviceType": 1,
-      "startTime": "08/07/2026 20:51:27",
+      "startTime": "08/08/2026 04:07:27",
       "status": 1,
       "zipCode": null
     }
