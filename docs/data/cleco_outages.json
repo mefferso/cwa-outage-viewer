@@ -1,95 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-08T11:22:29.275713+00:00",
+  "cachedAtUtc": "2026-08-08T11:53:57.337481+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000302113",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.808864,
-          "location": "RED RIVER",
-          "locationType": 2,
-          "lon": -93.096696,
-          "zipCode": "71019"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000264245",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.808864,
-          "location": "NATCHITOCHES",
-          "locationType": 2,
-          "lon": -93.096696,
-          "zipCode": "71019"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "8/8/2026 8:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392777",
-      "lastUpdateTime": "08/08/2026 06:09:30",
-      "lat": 31.808864,
-      "location": "Clarence",
-      "locationType": 5,
-      "lon": -93.096696,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "08:15",
-      "serviceType": 1,
-      "startTime": "08/08/2026 04:07:27",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000086700",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.000343,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.271224,
-          "zipCode": "71325"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/8/2026 7:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392779",
-      "lastUpdateTime": "08/08/2026 06:09:30",
-      "lat": 31.000343,
-      "location": "Cheneyville",
-      "locationType": 5,
-      "lon": -92.271224,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "07:15",
-      "serviceType": 1,
-      "startTime": "08/08/2026 05:09:14",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -126,7 +37,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392756",
-      "lastUpdateTime": "08/08/2026 06:09:30",
+      "lastUpdateTime": "08/08/2026 06:39:30",
       "lat": 31.396304999999998,
       "location": "Alpine",
       "locationType": 5,
@@ -165,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392763",
-      "lastUpdateTime": "08/08/2026 06:09:30",
+      "lastUpdateTime": "08/08/2026 06:39:30",
       "lat": 29.80185,
       "location": "Teche",
       "locationType": 5,
@@ -176,6 +87,156 @@
       "restorationTime": "07:00",
       "serviceType": 1,
       "startTime": "08/07/2026 20:51:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302113",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808864,
+          "location": "RED RIVER",
+          "locationType": 2,
+          "lon": -93.096696,
+          "zipCode": "71019"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264245",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.808864,
+          "location": "NATCHITOCHES",
+          "locationType": 2,
+          "lon": -93.096696,
+          "zipCode": "71019"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/8/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392777",
+      "lastUpdateTime": "08/08/2026 06:39:30",
+      "lat": 31.808864,
+      "location": "Clarence",
+      "locationType": 5,
+      "lon": -93.096696,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "08/08/2026 04:07:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.000343,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.271224,
+          "zipCode": "71325"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/8/2026 7:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392779",
+      "lastUpdateTime": "08/08/2026 06:39:30",
+      "lat": 31.000343,
+      "location": "Cheneyville",
+      "locationType": 5,
+      "lon": -92.271224,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:15",
+      "serviceType": 1,
+      "startTime": "08/08/2026 05:09:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178277",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.698522,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.29745,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100960",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.697623,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.297908,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000048783",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.698191,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.297549,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/8/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392780",
+      "lastUpdateTime": "08/08/2026 06:39:30",
+      "lat": 30.698112,
+      "location": "Magnolia Shade",
+      "locationType": 5,
+      "lon": -92.29763566666668,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "08/08/2026 06:25:47",
       "status": 1,
       "zipCode": null
     },
@@ -336,8 +397,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392773",
-      "lastUpdateTime": "08/08/2026 06:09:30",
-      "lat": 30.24685223076923,
+      "lastUpdateTime": "08/08/2026 06:39:30",
+      "lat": 30.246852230769232,
       "location": "Rigolet Slidell",
       "locationType": 5,
       "lon": -89.76061092307691,
@@ -386,7 +447,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392775",
-      "lastUpdateTime": "08/08/2026 06:09:30",
+      "lastUpdateTime": "08/08/2026 06:39:30",
       "lat": 31.822038,
       "location": "Clarence",
       "locationType": 5,
@@ -416,7 +477,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/8/2026 6:45:00 AM",
+      "endTime": "8/8/2026 8:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -425,7 +486,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392731",
-      "lastUpdateTime": "08/08/2026 06:09:30",
+      "lastUpdateTime": "08/08/2026 06:39:30",
       "lat": 30.829077,
       "location": "Morrison Corner",
       "locationType": 5,
@@ -433,7 +494,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:45",
+      "restorationTime": "08:45",
       "serviceType": 1,
       "startTime": "08/07/2026 16:33:09",
       "status": 1,
