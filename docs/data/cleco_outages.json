@@ -1,6 +1,45 @@
 {
-  "cachedAtUtc": "2026-08-08T14:54:32.232359+00:00",
+  "cachedAtUtc": "2026-08-08T15:33:11.541694+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.000343,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.271224,
+          "zipCode": "71325"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/8/2026 11:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392779",
+      "lastUpdateTime": "08/08/2026 10:19:31",
+      "lat": 31.000343,
+      "location": "Cheneyville",
+      "locationType": 5,
+      "lon": -92.271224,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:15",
+      "serviceType": 1,
+      "startTime": "08/08/2026 05:09:14",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -37,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392781",
-      "lastUpdateTime": "08/08/2026 09:39:31",
+      "lastUpdateTime": "08/08/2026 10:19:31",
       "lat": 29.9601865,
       "location": "Darnall Rd.",
       "locationType": 5,
@@ -48,45 +87,6 @@
       "restorationTime": "11:00",
       "serviceType": 1,
       "startTime": "08/08/2026 06:48:32",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266477",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.80185,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.53538,
-          "zipCode": "70538"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/8/2026 11:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392763",
-      "lastUpdateTime": "08/08/2026 09:39:31",
-      "lat": 29.80185,
-      "location": "Teche",
-      "locationType": 5,
-      "lon": -91.53538,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "11:00",
-      "serviceType": 1,
-      "startTime": "08/07/2026 20:51:27",
       "status": 1,
       "zipCode": null
     },
@@ -170,7 +170,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392782",
-      "lastUpdateTime": "08/08/2026 09:39:31",
+      "lastUpdateTime": "08/08/2026 10:19:31",
       "lat": 30.52322,
       "location": "Guidry Street",
       "locationType": 5,
@@ -181,6 +181,45 @@
       "restorationTime": "11:30",
       "serviceType": 1,
       "startTime": "08/08/2026 07:21:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266477",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.80185,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.53538,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/8/2026 12:10:51 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392763",
+      "lastUpdateTime": "08/08/2026 10:19:31",
+      "lat": 29.80185,
+      "location": "Teche",
+      "locationType": 5,
+      "lon": -91.53538,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:10",
+      "serviceType": 1,
+      "startTime": "08/07/2026 20:51:27",
       "status": 1,
       "zipCode": null
     },
@@ -275,8 +314,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392788",
-      "lastUpdateTime": "08/08/2026 09:39:31",
-      "lat": 30.65805971428571,
+      "lastUpdateTime": "08/08/2026 10:19:31",
+      "lat": 30.658059714285717,
       "location": "DeRidder",
       "locationType": 5,
       "lon": -93.13961428571429,
@@ -325,7 +364,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392790",
-      "lastUpdateTime": "08/08/2026 09:39:31",
+      "lastUpdateTime": "08/08/2026 10:19:31",
       "lat": 29.8393965,
       "location": "Yokley Rd.",
       "locationType": 5,
@@ -336,45 +375,6 @@
       "restorationTime": "11:30",
       "serviceType": 1,
       "startTime": "08/08/2026 09:20:38",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000086700",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.000343,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.271224,
-          "zipCode": "71325"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/8/2026 11:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392779",
-      "lastUpdateTime": "08/08/2026 09:39:31",
-      "lat": 31.000343,
-      "location": "Cheneyville",
-      "locationType": 5,
-      "lon": -92.271224,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "11:15",
-      "serviceType": 1,
-      "startTime": "08/08/2026 05:09:14",
       "status": 1,
       "zipCode": null
     },
@@ -403,7 +403,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392731",
-      "lastUpdateTime": "08/08/2026 09:39:31",
+      "lastUpdateTime": "08/08/2026 10:19:31",
       "lat": 30.829077,
       "location": "Morrison Corner",
       "locationType": 5,
