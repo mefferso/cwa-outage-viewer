@@ -1,6 +1,45 @@
 {
-  "cachedAtUtc": "2026-08-08T17:51:58.992286+00:00",
+  "cachedAtUtc": "2026-08-08T18:32:09.177065+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000043299",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.00925,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.46863,
+          "zipCode": "71430"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/8/2026 3:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392803",
+      "lastUpdateTime": "08/08/2026 13:19:31",
+      "lat": 31.00925,
+      "location": "Forest Hill",
+      "locationType": 5,
+      "lon": -92.46863,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:15",
+      "serviceType": 1,
+      "startTime": "08/08/2026 13:01:14",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -28,7 +67,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/8/2026 1:00:00 PM",
+      "endTime": "8/8/2026 3:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -37,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392781",
-      "lastUpdateTime": "08/08/2026 12:39:31",
+      "lastUpdateTime": "08/08/2026 13:19:31",
       "lat": 29.9601865,
       "location": "Darnall Rd.",
       "locationType": 5,
@@ -45,103 +84,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "13:00",
+      "restorationTime": "15:00",
       "serviceType": 1,
       "startTime": "08/08/2026 06:48:32",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000146785",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.523293,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.090337,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000146756",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.523257,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.09018,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000050699",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.52329,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.090175,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307798",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.523213,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.08984,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000205649",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.523267,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.08981,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000041939",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.523,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.09015,
-          "zipCode": "70570"
-        }
-      ],
-      "affectedCount": 6,
-      "description": null,
-      "endTime": "8/8/2026 1:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392782",
-      "lastUpdateTime": "08/08/2026 12:39:31",
-      "lat": 30.52322,
-      "location": "Guidry Street",
-      "locationType": 5,
-      "lon": -92.090082,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "13:30",
-      "serviceType": 1,
-      "startTime": "08/08/2026 07:21:34",
       "status": 1,
       "zipCode": null
     },
@@ -170,7 +115,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392796",
-      "lastUpdateTime": "08/08/2026 12:39:31",
+      "lastUpdateTime": "08/08/2026 13:19:31",
       "lat": 29.797343,
       "location": "Turbine Plant (Franklin)",
       "locationType": 5,
@@ -462,7 +407,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392799",
-      "lastUpdateTime": "08/08/2026 12:39:31",
+      "lastUpdateTime": "08/08/2026 13:19:31",
       "lat": 29.858265458333335,
       "location": "Baldwin (Bollard St)",
       "locationType": 5,
