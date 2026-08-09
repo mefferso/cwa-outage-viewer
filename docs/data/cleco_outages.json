@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-09T15:16:55.226406+00:00",
+  "cachedAtUtc": "2026-08-09T15:52:39.024921+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392962",
-      "lastUpdateTime": "08/09/2026 10:09:32",
+      "lastUpdateTime": "08/09/2026 10:39:33",
       "lat": 31.299673749999997,
       "location": "Bayou Rapides",
       "locationType": 5,
@@ -70,6 +70,183 @@
       "restorationTime": "12:00",
       "serviceType": 1,
       "startTime": "08/09/2026 09:47:09",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120301",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.380988,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.742506,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000068700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.381468,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.74209,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254525",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.381365,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.742562,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166242",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38159,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.74192,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118460",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.380983,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.742454,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155471",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.38131,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.742818,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215037",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.380975,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.742514,
+          "zipCode": "70452"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "8/9/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392964",
+      "lastUpdateTime": "08/09/2026 10:39:33",
+      "lat": 30.381239857142855,
+      "location": "South Slidell",
+      "locationType": 5,
+      "lon": -89.74240914285714,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "08/09/2026 10:20:58",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000084063",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.62106,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.064092,
+          "zipCode": "70589"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268074",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.620665,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.06399,
+          "zipCode": "70589"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268103",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.620666,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.063993,
+          "zipCode": "70589"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007478",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.620673,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.064178,
+          "zipCode": "70589"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/9/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105392965",
+      "lastUpdateTime": "08/09/2026 10:39:33",
+      "lat": 30.620766,
+      "location": "Washington",
+      "locationType": 5,
+      "lon": -92.06406324999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "08/09/2026 10:24:25",
       "status": 1,
       "zipCode": null
     },
@@ -98,7 +275,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392938",
-      "lastUpdateTime": "08/09/2026 10:09:32",
+      "lastUpdateTime": "08/09/2026 10:39:33",
       "lat": 30.465056,
       "location": "Anise Street",
       "locationType": 5,
@@ -489,8 +666,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392956",
-      "lastUpdateTime": "08/09/2026 10:09:32",
-      "lat": 31.290957882352934,
+      "lastUpdateTime": "08/09/2026 10:39:33",
+      "lat": 31.29095788235294,
       "location": "Hot Wells",
       "locationType": 5,
       "lon": -92.53906717647058,
@@ -539,7 +716,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392961",
-      "lastUpdateTime": "08/09/2026 10:09:32",
+      "lastUpdateTime": "08/09/2026 10:39:33",
       "lat": 31.3102085,
       "location": "Libuse",
       "locationType": 5,
