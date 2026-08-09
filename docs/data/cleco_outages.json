@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-09T21:40:04.561703+00:00",
+  "cachedAtUtc": "2026-08-09T22:06:34.844388+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -48,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392999",
-      "lastUpdateTime": "08/09/2026 16:29:33",
+      "lastUpdateTime": "08/09/2026 16:59:33",
       "lat": 31.832631000000003,
       "location": "Mansfield",
       "locationType": 5,
@@ -66,41 +66,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000289314",
+            "outageDetailAttribute1": "6000356768",
             "outageDetailAttribute2": null
           },
-          "lat": 31.406311,
-          "location": "SABINE",
+          "lat": 32.066698,
+          "location": "DESOTO",
           "locationType": 2,
-          "lon": -93.624846,
-          "zipCode": "71449"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000280914",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.406311,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.624846,
-          "zipCode": "71449"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000341117",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.406095,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.625077,
-          "zipCode": "71449"
+          "lon": -93.838535,
+          "zipCode": "71032"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "8/9/2026 6:30:00 PM",
+      "endTime": "8/9/2026 6:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -108,18 +86,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393000",
-      "lastUpdateTime": "08/09/2026 16:29:33",
-      "lat": 31.406239,
-      "location": "Many 138",
+      "incidentId": "INC 8105393002",
+      "lastUpdateTime": "08/09/2026 16:59:33",
+      "lat": 32.066698,
+      "location": "Water St",
       "locationType": 5,
-      "lon": -93.62492300000001,
+      "lon": -93.838535,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "18:45",
       "serviceType": 1,
-      "startTime": "08/09/2026 16:24:19",
+      "startTime": "08/09/2026 16:39:56",
       "status": 1,
       "zipCode": null
     },
@@ -127,30 +105,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000231974",
+            "outageDetailAttribute1": "6000116566",
             "outageDetailAttribute2": null
           },
-          "lat": 30.307015,
-          "location": "ST. TAMMANY",
+          "lat": 31.41205,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -89.849685,
-          "zipCode": "70460"
+          "lon": -93.621385,
+          "zipCode": "71449"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000194060",
+            "outageDetailAttribute1": "6000237179",
             "outageDetailAttribute2": null
           },
-          "lat": 30.307137,
-          "location": "ST. TAMMANY",
+          "lat": 31.411855,
+          "location": "SABINE",
           "locationType": 2,
-          "lon": -89.849672,
-          "zipCode": "70460"
+          "lon": -93.621285,
+          "zipCode": "71449"
         }
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/9/2026 6:30:00 PM",
+      "endTime": "8/9/2026 7:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -158,18 +136,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393001",
-      "lastUpdateTime": "08/09/2026 16:29:33",
-      "lat": 30.307076000000002,
-      "location": "Bonfouca",
+      "incidentId": "INC 8105393003",
+      "lastUpdateTime": "08/09/2026 16:59:33",
+      "lat": 31.411952499999998,
+      "location": "Many 138",
       "locationType": 5,
-      "lon": -89.8496785,
+      "lon": -93.621335,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "19:00",
       "serviceType": 1,
-      "startTime": "08/09/2026 16:29:11",
+      "startTime": "08/09/2026 16:45:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000307372",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.029681,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685845,
+          "zipCode": "71052"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/9/2026 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393004",
+      "lastUpdateTime": "08/09/2026 16:59:33",
+      "lat": 32.029681,
+      "location": "Mansfield",
+      "locationType": 5,
+      "lon": -93.685845,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "08/09/2026 16:58:00",
       "status": 1,
       "zipCode": null
     },
@@ -198,7 +215,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392938",
-      "lastUpdateTime": "08/09/2026 16:29:33",
+      "lastUpdateTime": "08/09/2026 16:59:33",
       "lat": 30.465056,
       "location": "Anise Street",
       "locationType": 5,
@@ -209,45 +226,6 @@
       "restorationTime": "10:04",
       "serviceType": 1,
       "startTime": "08/09/2026 03:31:57",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000198218",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.305163,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.850003,
-          "zipCode": "70460"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/9/2026 4:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392977",
-      "lastUpdateTime": "08/09/2026 16:29:33",
-      "lat": 30.305163,
-      "location": "Bonfouca",
-      "locationType": 5,
-      "lon": -89.850003,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:45",
-      "serviceType": 1,
-      "startTime": "08/09/2026 13:52:48",
       "status": 1,
       "zipCode": null
     },
@@ -331,7 +309,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392979",
-      "lastUpdateTime": "08/09/2026 16:29:33",
+      "lastUpdateTime": "08/09/2026 16:59:33",
       "lat": 30.797456166666667,
       "location": "Pine Clif (Franklinton)",
       "locationType": 5,
@@ -342,1162 +320,6 @@
       "restorationTime": "16:18",
       "serviceType": 1,
       "startTime": "08/09/2026 14:10:40",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307372",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.029681,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685845,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000170994",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032148,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686219,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000242540",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032148,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686219,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000171005",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032148,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686219,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000286499",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030218,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686182,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075552",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032148,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686219,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000256884",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032128,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685844,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124476",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.029362,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686325,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000260708",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030451,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686429,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000346681",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032148,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686219,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244411",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.029308,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684148,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000161771",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.029685,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.68541,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010086",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030451,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686429,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307422",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032732,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684448,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000170972",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03339,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687915,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000202827",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.02997,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.68463,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000202759",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033408,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690249,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010160",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.034024,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684433,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000317628",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03225,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.68999,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000033274",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03094,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.68543,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000298746",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031653,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688907,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000284918",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033092,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684264,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000053084",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032889,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685354,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000104488",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03326,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685375,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000260672",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033241,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690459,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307312",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033618,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687383,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307382",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031563,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685548,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000008987",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033391,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688943,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000104377",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033427,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687202,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307408",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030798,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685141,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000030362",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033399,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.691058,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075448",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032853,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688805,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075569",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030305,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685467,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000232834",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032889,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685354,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000260758",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03326,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685375,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000170963",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03321,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687141,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000030545",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031514,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685336,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000171030",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033257,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684884,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000202848",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033255,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685923,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000202869",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.034038,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684433,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000202890",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.029902,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684223,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000059599",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03024,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.68391,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000025029",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03322,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.686639,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000164060",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032822,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685302,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244243",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03321,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687158,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124399",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03253,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688732,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000255643",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033234,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688259,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000260660",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032567,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688932,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000216557",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030455,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685419,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244489",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033537,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684653,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244510",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03406,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685388,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000260616",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032118,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.689549,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244467",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032732,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684448,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000030666",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031514,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685336,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000118665",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031547,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688766,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000331986",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033406,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.691504,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244192",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033406,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.691504,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124494",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030469,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685417,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000333207",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032274,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690816,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075651",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.034024,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684433,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000337838",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032146,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685344,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000221326",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032146,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685344,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124541",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03326,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684436,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000307435",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03225,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684122,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000317797",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033408,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690265,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334339",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03339,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687915,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000104354",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033379,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687329,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244380",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031425,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685892,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000058625",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032415,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.691329,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010113",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030299,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685229,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000104419",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033364,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688942,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000249709",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031612,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688945,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000030413",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03339,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.687915,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124557",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.034024,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684433,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124524",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033263,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684843,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000349501",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032157,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684257,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000030627",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03259,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684263,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010014",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033228,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688253,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000124738",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032274,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690816,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000255614",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03172,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690255,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000328830",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.0317,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.6892,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000125307",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032013,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.689387,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000321772",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03326,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685375,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000174434",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031973,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.68516,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000350358",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031978,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685155,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000351103",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032513,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690254,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000246276",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031514,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685336,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075672",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032847,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685973,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000095688",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031553,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.688774,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075608",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03326,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684436,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010135",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033255,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685923,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000341580",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.030464,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.684468,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010059",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031422,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685337,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000229620",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.032952,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690055,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000317304",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.033408,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.690249,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000075530",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.031715,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.685283,
-          "zipCode": "71052"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000225648",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.03305,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.689,
-          "zipCode": "71052"
-        }
-      ],
-      "affectedCount": 97,
-      "description": null,
-      "endTime": "8/9/2026 6:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392983",
-      "lastUpdateTime": "08/09/2026 16:29:33",
-      "lat": 32.032280683673484,
-      "location": "Mansfield",
-      "locationType": 5,
-      "lon": -93.6867570816327,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:15",
-      "serviceType": 1,
-      "startTime": "08/09/2026 15:29:55",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000299503",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.414181,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.619673,
-          "zipCode": "71449"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000252468",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.414371,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.619842,
-          "zipCode": "71449"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000195666",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.414371,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.619842,
-          "zipCode": "71449"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "8/9/2026 5:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105392985",
-      "lastUpdateTime": "08/09/2026 16:29:33",
-      "lat": 31.414307666666662,
-      "location": "Many 138",
-      "locationType": 5,
-      "lon": -93.61978566666669,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "17:45",
-      "serviceType": 1,
-      "startTime": "08/09/2026 15:35:28",
       "status": 1,
       "zipCode": null
     },
@@ -2208,8 +1030,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105392998",
-      "lastUpdateTime": "08/09/2026 16:29:33",
-      "lat": 29.858606936507925,
+      "lastUpdateTime": "08/09/2026 16:59:33",
+      "lat": 29.858606936507936,
       "location": "Patoutville",
       "locationType": 5,
       "lon": -91.63968141269841,
