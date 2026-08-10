@@ -1,45 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-10T01:49:04.600318+00:00",
+  "cachedAtUtc": "2026-08-10T03:42:12.290426+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000241308",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.683313,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.398377,
-          "zipCode": "70586"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/9/2026 10:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105393018",
-      "lastUpdateTime": "08/09/2026 20:39:33",
-      "lat": 30.683313,
-      "location": "Vidrine",
-      "locationType": 5,
-      "lon": -92.398377,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "22:00",
-      "serviceType": 1,
-      "startTime": "08/09/2026 19:59:51",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -67,7 +28,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/9/2026 10:15:00 PM",
+      "endTime": "8/9/2026 11:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -75,8 +36,8 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393019",
-      "lastUpdateTime": "08/09/2026 20:39:33",
+      "incidentId": "INC 8105393020",
+      "lastUpdateTime": "08/09/2026 22:29:33",
       "lat": 29.660491,
       "location": "Berwick (Oregon St.)",
       "locationType": 5,
@@ -84,9 +45,59 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "22:15",
+      "restorationTime": "23:15",
       "serviceType": 1,
-      "startTime": "08/09/2026 20:12:13",
+      "startTime": "08/09/2026 21:12:15",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106979",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.148263,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.513447,
+          "zipCode": "71485"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000023685",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.148878,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.512337,
+          "zipCode": "71485"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/9/2026 11:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393021",
+      "lastUpdateTime": "08/09/2026 22:29:33",
+      "lat": 31.148570499999998,
+      "location": "Coulee Crossing",
+      "locationType": 5,
+      "lon": -92.512892,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "23:45",
+      "serviceType": 1,
+      "startTime": "08/09/2026 21:35:31",
       "status": 1,
       "zipCode": null
     }
