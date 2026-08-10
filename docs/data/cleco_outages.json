@@ -1,6 +1,56 @@
 {
-  "cachedAtUtc": "2026-08-10T03:42:12.290426+00:00",
+  "cachedAtUtc": "2026-08-10T05:10:35.618731+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070489",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.142413,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.770021,
+          "zipCode": "71350"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237258",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.142413,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -91.770021,
+          "zipCode": "71350"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/10/2026 1:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393022",
+      "lastUpdateTime": "08/09/2026 23:59:34",
+      "lat": 31.142413,
+      "location": "Bordelonville",
+      "locationType": 5,
+      "lon": -91.770021,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:30",
+      "serviceType": 1,
+      "startTime": "08/09/2026 23:25:34",
+      "status": 1,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -28,7 +78,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/9/2026 11:15:00 PM",
+      "endTime": "8/10/2026 1:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -37,7 +87,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393020",
-      "lastUpdateTime": "08/09/2026 22:29:33",
+      "lastUpdateTime": "08/09/2026 23:59:34",
       "lat": 29.660491,
       "location": "Berwick (Oregon St.)",
       "locationType": 5,
@@ -45,7 +95,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "23:15",
+      "restorationTime": "01:15",
       "serviceType": 1,
       "startTime": "08/09/2026 21:12:15",
       "status": 1,
@@ -78,7 +128,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/9/2026 11:45:00 PM",
+      "endTime": "8/10/2026 1:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -87,7 +137,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393021",
-      "lastUpdateTime": "08/09/2026 22:29:33",
+      "lastUpdateTime": "08/09/2026 23:59:34",
       "lat": 31.148570499999998,
       "location": "Coulee Crossing",
       "locationType": 5,
@@ -95,9 +145,48 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "23:45",
+      "restorationTime": "01:45",
       "serviceType": 1,
       "startTime": "08/09/2026 21:35:31",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348735",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40557,
+          "location": "CALCASIEU",
+          "locationType": 2,
+          "lon": -93.45486,
+          "zipCode": "70633"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/10/2026 1:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393023",
+      "lastUpdateTime": "08/09/2026 23:59:34",
+      "lat": 30.40557,
+      "location": "Penton Road",
+      "locationType": 5,
+      "lon": -93.45486,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:30",
+      "serviceType": 1,
+      "startTime": "08/09/2026 23:29:58",
       "status": 1,
       "zipCode": null
     }
