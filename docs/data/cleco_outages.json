@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-10T18:29:32.681579+00:00",
+  "cachedAtUtc": "2026-08-10T19:35:56.151378+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393085",
-      "lastUpdateTime": "08/10/2026 13:19:34",
+      "lastUpdateTime": "08/10/2026 14:29:35",
       "lat": 30.04189,
       "location": "Hopkins Street",
       "locationType": 5,
@@ -44,19 +44,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000010048",
+            "outageDetailAttribute1": "6000111092",
             "outageDetailAttribute2": null
           },
-          "lat": 29.786503,
-          "location": "ST. MARY",
+          "lat": 30.841674,
+          "location": "BEAUREGARD",
           "locationType": 2,
-          "lon": -91.505018,
-          "zipCode": "70538"
+          "lon": -93.468968,
+          "zipCode": "70653"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.841674,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.468968,
+          "zipCode": "70653"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "8/10/2026 1:24:43 PM",
+      "endTime": "8/10/2026 4:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -64,18 +75,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393152",
-      "lastUpdateTime": "08/10/2026 13:19:34",
-      "lat": 29.786503,
-      "location": "",
+      "incidentId": "INC 8105393190",
+      "lastUpdateTime": "08/10/2026 14:29:35",
+      "lat": 30.841674,
+      "location": "Cole",
       "locationType": 5,
-      "lon": -91.505018,
+      "lon": -93.468968,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "13:24",
+      "restorationTime": "16:15",
       "serviceType": 1,
-      "startTime": "08/10/2026 11:09:43",
+      "startTime": "08/10/2026 14:13:17",
       "status": 1,
       "zipCode": null
     },
@@ -83,19 +94,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000350077",
+            "outageDetailAttribute1": "6000220826",
             "outageDetailAttribute2": null
           },
-          "lat": 31.751763,
-          "location": "SABINE",
+          "lat": 31.138897,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.722433,
-          "zipCode": "71419"
+          "lon": -92.50048,
+          "zipCode": "71485"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/10/2026 3:00:00 PM",
+      "endTime": "8/10/2026 4:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -103,18 +114,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393147",
-      "lastUpdateTime": "08/10/2026 13:19:34",
-      "lat": 31.751763,
-      "location": "Mansfield",
+      "incidentId": "INC 8105393191",
+      "lastUpdateTime": "08/10/2026 14:29:35",
+      "lat": 31.138897,
+      "location": "Forest Hill",
       "locationType": 5,
-      "lon": -93.722433,
+      "lon": -92.50048,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:00",
+      "restorationTime": "16:30",
       "serviceType": 1,
-      "startTime": "08/10/2026 10:56:51",
+      "startTime": "08/10/2026 14:16:47",
       "status": 1,
       "zipCode": null
     }
