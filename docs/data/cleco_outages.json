@@ -1,6 +1,190 @@
 {
-  "cachedAtUtc": "2026-08-11T10:35:20.485775+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-11T11:27:56.419426+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099168",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.27147,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.842715,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000262859",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.271917,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.842548,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/11/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393364",
+      "lastUpdateTime": "08/11/2026 06:19:36",
+      "lat": 30.271693499999998,
+      "location": "Thompson Dr",
+      "locationType": 5,
+      "lon": -89.8426315,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "08/11/2026 05:34:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000169007",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937692,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.733033,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086362",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.93755,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.733187,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000113835",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937894,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.733143,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291636",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937684,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.73302,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193472",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937894,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.733143,
+          "zipCode": "70544"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/11/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393365",
+      "lastUpdateTime": "08/11/2026 06:19:36",
+      "lat": 29.937742800000002,
+      "location": "Patoutville",
+      "locationType": 5,
+      "lon": -91.7331052,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "08/11/2026 06:05:46",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105877",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.419658,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.417383,
+          "zipCode": "71405"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087054",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.41951,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.417094,
+          "zipCode": "71405"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/11/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393366",
+      "lastUpdateTime": "08/11/2026 06:19:36",
+      "lat": 31.419584,
+      "location": "Sherwood",
+      "locationType": 5,
+      "lon": -92.4172385,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "08/11/2026 06:19:27",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
