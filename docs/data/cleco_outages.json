@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-11T22:00:26.077329+00:00",
+  "cachedAtUtc": "2026-08-11T22:56:28.908156+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -202,7 +202,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393379",
-      "lastUpdateTime": "08/11/2026 16:49:37",
+      "lastUpdateTime": "08/11/2026 17:49:37",
       "lat": 29.677417588235294,
       "location": "Ramos 138",
       "locationType": 5,
@@ -213,56 +213,6 @@
       "restorationTime": "16:00",
       "serviceType": 1,
       "startTime": "08/11/2026 07:33:28",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000213165",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.67706,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.29464,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000084684",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.677265,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.294195,
-          "zipCode": "70586"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "8/11/2026 6:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105393583",
-      "lastUpdateTime": "08/11/2026 16:49:37",
-      "lat": 30.6771625,
-      "location": "Oak Street",
-      "locationType": 5,
-      "lon": -92.29441750000001,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:15",
-      "serviceType": 1,
-      "startTime": "08/11/2026 16:14:34",
       "status": 1,
       "zipCode": null
     },
@@ -480,7 +430,7 @@
       ],
       "affectedCount": 19,
       "description": null,
-      "endTime": "8/11/2026 6:30:00 PM",
+      "endTime": "8/11/2026 6:30:58 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -489,7 +439,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393587",
-      "lastUpdateTime": "08/11/2026 16:49:37",
+      "lastUpdateTime": "08/11/2026 17:49:37",
       "lat": 31.35787863157895,
       "location": "Ball",
       "locationType": 5,
@@ -500,6 +450,100 @@
       "restorationTime": "18:30",
       "serviceType": 1,
       "startTime": "08/11/2026 16:18:33",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059964",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.416198,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.08889,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264972",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.416265,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.088621,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000132856",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.416667,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.088672,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000132256",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.416112,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.087692,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000039328",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.41676,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.088758,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000062151",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.416459,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.088686,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "8/11/2026 6:02:38 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393593",
+      "lastUpdateTime": "08/11/2026 17:49:37",
+      "lat": 30.416410166666665,
+      "location": "Ozone Park",
+      "locationType": 5,
+      "lon": -90.08855316666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:02",
+      "serviceType": 1,
+      "startTime": "08/11/2026 17:17:57",
       "status": 1,
       "zipCode": null
     }
