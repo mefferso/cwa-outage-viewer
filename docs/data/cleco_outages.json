@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-12T21:04:01.050753+00:00",
+  "cachedAtUtc": "2026-08-12T21:59:38.923909+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -202,7 +202,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393379",
-      "lastUpdateTime": "08/12/2026 15:49:38",
+      "lastUpdateTime": "08/12/2026 16:49:38",
       "lat": 29.677417588235294,
       "location": "Ramos 138",
       "locationType": 5,
@@ -243,7 +243,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/12/2026 4:45:00 PM",
+      "endTime": "8/12/2026 6:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -252,7 +252,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393756",
-      "lastUpdateTime": "08/12/2026 15:49:38",
+      "lastUpdateTime": "08/12/2026 16:49:38",
       "lat": 30.274676,
       "location": "Florida Avenue",
       "locationType": 5,
@@ -260,7 +260,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:45",
+      "restorationTime": "18:45",
       "serviceType": 1,
       "startTime": "08/12/2026 14:37:14",
       "status": 1,
@@ -335,7 +335,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393758",
-      "lastUpdateTime": "08/12/2026 15:49:38",
+      "lastUpdateTime": "08/12/2026 16:49:38",
       "lat": 30.3937304,
       "location": "Third St. Mandeville",
       "locationType": 5,
@@ -508,7 +508,7 @@
       ],
       "affectedCount": 14,
       "description": null,
-      "endTime": "8/12/2026 5:00:00 PM",
+      "endTime": "8/12/2026 7:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -517,7 +517,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393759",
-      "lastUpdateTime": "08/12/2026 15:49:38",
+      "lastUpdateTime": "08/12/2026 16:49:38",
       "lat": 30.392493357142857,
       "location": "Third St. Mandeville",
       "locationType": 5,
@@ -525,9 +525,336 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "19:00",
       "serviceType": 1,
       "startTime": "08/12/2026 14:45:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101288",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559922,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469543,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170004",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559629,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.46954,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000256954",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559833,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.46939,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000004145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559791,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469729,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000337841",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559797,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469735,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303209",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559797,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469735,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101265",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.559797,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469735,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000047748",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.56044,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.46951,
+          "zipCode": "71449"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000237840",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.560795,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.469698,
+          "zipCode": "71449"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "8/12/2026 6:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393773",
+      "lastUpdateTime": "08/12/2026 16:49:38",
+      "lat": 31.55997788888889,
+      "location": "Many \\ Many Plant",
+      "locationType": 5,
+      "lon": -93.4696238888889,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:30",
+      "serviceType": 1,
+      "startTime": "08/12/2026 16:18:02",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000290374",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303998,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.903268,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124406",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303593,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.903197,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000098664",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.304117,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.902705,
+          "zipCode": "70445"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/12/2026 6:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393775",
+      "lastUpdateTime": "08/12/2026 16:49:38",
+      "lat": 30.30390266666667,
+      "location": "Lacombe",
+      "locationType": 5,
+      "lon": -89.90305666666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:45",
+      "serviceType": 1,
+      "startTime": "08/12/2026 16:40:02",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000236031",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.988319,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.834463,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097176",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.988008,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.833227,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/12/2026 6:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393776",
+      "lastUpdateTime": "08/12/2026 16:49:38",
+      "lat": 29.9881635,
+      "location": "Hopkins Street",
+      "locationType": 5,
+      "lon": -91.833845,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:45",
+      "serviceType": 1,
+      "startTime": "08/12/2026 16:44:02",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140691",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.70675,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.24534,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/12/2026 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393777",
+      "lastUpdateTime": "08/12/2026 16:49:38",
+      "lat": 30.70675,
+      "location": "Jackson St.",
+      "locationType": 5,
+      "lon": -92.24534,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "08/12/2026 16:46:32",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000117971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.411967,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.437938,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000245694",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.411967,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.437938,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/12/2026 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393778",
+      "lastUpdateTime": "08/12/2026 16:49:38",
+      "lat": 31.411967,
+      "location": "Sherwood",
+      "locationType": 5,
+      "lon": -92.437938,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "08/12/2026 16:48:33",
       "status": 1,
       "zipCode": null
     }
