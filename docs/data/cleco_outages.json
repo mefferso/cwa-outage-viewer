@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-13T22:53:16.551434+00:00",
+  "cachedAtUtc": "2026-08-13T23:40:27.574901+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -204,7 +204,7 @@
       ],
       "affectedCount": 18,
       "description": null,
-      "endTime": "8/13/2026 6:15:00 PM",
+      "endTime": "8/13/2026 8:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -213,7 +213,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393997",
-      "lastUpdateTime": "08/13/2026 17:39:40",
+      "lastUpdateTime": "08/13/2026 18:29:40",
       "lat": 30.023801888888883,
       "location": "Belle Place",
       "locationType": 5,
@@ -221,7 +221,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:15",
+      "restorationTime": "20:15",
       "serviceType": 1,
       "startTime": "08/13/2026 16:12:30",
       "status": 1,
@@ -252,7 +252,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394002",
-      "lastUpdateTime": "08/13/2026 17:39:40",
+      "lastUpdateTime": "08/13/2026 18:29:40",
       "lat": 30.60452,
       "location": "Bieber",
       "locationType": 5,
@@ -313,7 +313,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394003",
-      "lastUpdateTime": "08/13/2026 17:39:40",
+      "lastUpdateTime": "08/13/2026 18:29:40",
       "lat": 31.414721333333333,
       "location": "Alpine",
       "locationType": 5,
@@ -5359,7 +5359,7 @@
       ],
       "affectedCount": 457,
       "description": null,
-      "endTime": "8/13/2026 7:30:00 PM",
+      "endTime": "8/13/2026 10:44:30 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -5368,15 +5368,15 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394004",
-      "lastUpdateTime": "08/13/2026 17:39:40",
-      "lat": 30.370792963597417,
+      "lastUpdateTime": "08/13/2026 18:29:40",
+      "lat": 30.37079296359741,
       "location": "Hwy 1088",
       "locationType": 5,
-      "lon": -90.02746978158457,
+      "lon": -90.02746978158456,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:30",
+      "restorationTime": "22:44",
       "serviceType": 1,
       "startTime": "08/13/2026 17:18:30",
       "status": 1,
@@ -5462,7 +5462,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394006",
-      "lastUpdateTime": "08/13/2026 17:39:40",
+      "lastUpdateTime": "08/13/2026 18:29:40",
       "lat": 29.938641833333335,
       "location": "Patoutville",
       "locationType": 5,
@@ -5473,6 +5473,106 @@
       "restorationTime": "19:30",
       "serviceType": 1,
       "startTime": "08/13/2026 17:25:47",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155256",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.504549,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.151967,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000175199",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.504757,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.152084,
+          "zipCode": "70435"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/13/2026 8:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394007",
+      "lastUpdateTime": "08/13/2026 18:29:40",
+      "lat": 30.504653,
+      "location": "Goodbee",
+      "locationType": 5,
+      "lon": -90.15202550000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:15",
+      "serviceType": 1,
+      "startTime": "08/13/2026 18:02:57",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356576",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.209916,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.753796,
+          "zipCode": "71466"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163365",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.209721,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.753629,
+          "zipCode": "71466"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/13/2026 8:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394008",
+      "lastUpdateTime": "08/13/2026 18:29:40",
+      "lat": 31.209818499999997,
+      "location": "Hineston",
+      "locationType": 5,
+      "lon": -92.7537125,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:30",
+      "serviceType": 1,
+      "startTime": "08/13/2026 18:25:57",
       "status": 1,
       "zipCode": null
     }
