@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-13T11:33:11.310599+00:00",
+  "cachedAtUtc": "2026-08-13T12:29:51.339402+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -202,7 +202,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393379",
-      "lastUpdateTime": "08/13/2026 06:19:39",
+      "lastUpdateTime": "08/13/2026 07:19:39",
       "lat": 29.677417588235294,
       "location": "Ramos 138",
       "locationType": 5,
@@ -220,19 +220,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000318438",
+            "outageDetailAttribute1": "6000190198",
             "outageDetailAttribute2": null
           },
-          "lat": 30.303147,
-          "location": "ST. TAMMANY",
+          "lat": 31.327287,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -89.956267,
-          "zipCode": "70445"
+          "lon": -92.423262,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350597",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.326717,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.42371,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352939",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.326717,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.42371,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/13/2026 8:15:00 AM",
+      "endTime": "8/13/2026 8:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -240,18 +262,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393845",
-      "lastUpdateTime": "08/13/2026 06:19:39",
-      "lat": 30.303147,
-      "location": "Lacombe",
+      "incidentId": "INC 8105393848",
+      "lastUpdateTime": "08/13/2026 07:19:39",
+      "lat": 31.326907000000002,
+      "location": "Fox Street",
       "locationType": 5,
-      "lon": -89.956267,
+      "lon": -92.42356066666666,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:15",
+      "restorationTime": "08:45",
       "serviceType": 1,
-      "startTime": "08/13/2026 06:03:58",
+      "startTime": "08/13/2026 06:41:44",
       "status": 1,
       "zipCode": null
     },
@@ -259,41 +281,52 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000005400",
+            "outageDetailAttribute1": "6000188674",
             "outageDetailAttribute2": null
           },
-          "lat": 30.544507,
-          "location": "ST. LANDRY",
+          "lat": 31.076177,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.076524,
-          "zipCode": "70570"
+          "lon": -92.443897,
+          "zipCode": "71346"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000267439",
+            "outageDetailAttribute1": "6000061835",
             "outageDetailAttribute2": null
           },
-          "lat": 30.544828,
-          "location": "ST. LANDRY",
+          "lat": 31.076678,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.076612,
-          "zipCode": "70570"
+          "lon": -92.441832,
+          "zipCode": "71346"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000080785",
+            "outageDetailAttribute1": "6000268123",
             "outageDetailAttribute2": null
           },
-          "lat": 30.544702,
-          "location": "ST. LANDRY",
+          "lat": 31.077288,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.076649,
-          "zipCode": "70570"
+          "lon": -92.442749,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268559",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.076636,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.442028,
+          "zipCode": "71346"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "8/13/2026 8:30:00 AM",
+      "endTime": "8/13/2026 9:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -301,18 +334,107 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105393847",
-      "lastUpdateTime": "08/13/2026 06:19:39",
-      "lat": 30.544679,
-      "location": "Guidry Street",
+      "incidentId": "INC 8105393850",
+      "lastUpdateTime": "08/13/2026 07:19:39",
+      "lat": 31.076694749999998,
+      "location": "Lecompte",
       "locationType": 5,
-      "lon": -92.076595,
+      "lon": -92.44262649999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:30",
+      "restorationTime": "09:30",
       "serviceType": 1,
-      "startTime": "08/13/2026 06:18:22",
+      "startTime": "08/13/2026 07:15:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079820",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335728,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.310372,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000341119",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33675,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.31042,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/13/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393851",
+      "lastUpdateTime": "08/13/2026 07:19:39",
+      "lat": 31.336239,
+      "location": "Esler Field",
+      "locationType": 5,
+      "lon": -92.310396,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "08/13/2026 07:16:15",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120330",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.108843,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.34773,
+          "zipCode": "71346"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/13/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393852",
+      "lastUpdateTime": "08/13/2026 07:19:39",
+      "lat": 31.108843,
+      "location": "Lecompte",
+      "locationType": 5,
+      "lon": -92.34773,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "08/13/2026 07:18:31",
       "status": 1,
       "zipCode": null
     }
