@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-13T10:42:01.775324+00:00",
+  "cachedAtUtc": "2026-08-13T11:33:11.310599+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -202,7 +202,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105393379",
-      "lastUpdateTime": "08/13/2026 05:29:39",
+      "lastUpdateTime": "08/13/2026 06:19:39",
       "lat": 29.677417588235294,
       "location": "Ramos 138",
       "locationType": 5,
@@ -213,6 +213,106 @@
       "restorationTime": "16:00",
       "serviceType": 1,
       "startTime": "08/11/2026 07:33:28",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000318438",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303147,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.956267,
+          "zipCode": "70445"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/13/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393845",
+      "lastUpdateTime": "08/13/2026 06:19:39",
+      "lat": 30.303147,
+      "location": "Lacombe",
+      "locationType": 5,
+      "lon": -89.956267,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "08/13/2026 06:03:58",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005400",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.544507,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076524,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267439",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.544828,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076612,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000080785",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.544702,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076649,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/13/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105393847",
+      "lastUpdateTime": "08/13/2026 06:19:39",
+      "lat": 30.544679,
+      "location": "Guidry Street",
+      "locationType": 5,
+      "lon": -92.076595,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "08/13/2026 06:18:22",
       "status": 1,
       "zipCode": null
     }
