@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-14T22:34:59.394899+00:00",
+  "cachedAtUtc": "2026-08-14T22:57:32.092598+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -70,7 +70,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394125",
-      "lastUpdateTime": "08/14/2026 17:19:42",
+      "lastUpdateTime": "08/14/2026 17:49:42",
       "lat": 30.296904599999998,
       "location": "Roberts Road",
       "locationType": 5,
@@ -81,6 +81,139 @@
       "restorationTime": "19:30",
       "serviceType": 1,
       "startTime": "08/14/2026 13:29:11",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000317834",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.76615,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.46132,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000325570",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.76613,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.46071,
+          "zipCode": "70392"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251884",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.76615,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.46138,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/14/2026 7:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394145",
+      "lastUpdateTime": "08/14/2026 17:49:42",
+      "lat": 29.766143333333332,
+      "location": "Wax Lake",
+      "locationType": 5,
+      "lon": -91.46113666666668,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:45",
+      "serviceType": 1,
+      "startTime": "08/14/2026 17:33:48",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294470",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.315079,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.76485,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101306",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.315152,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.76471,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000152403",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.314797,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.764703,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000223703",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.315079,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.76485,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/14/2026 7:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394146",
+      "lastUpdateTime": "08/14/2026 17:49:42",
+      "lat": 30.315026749999998,
+      "location": "St. Tammany St.",
+      "locationType": 5,
+      "lon": -89.76477824999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:45",
+      "serviceType": 1,
+      "startTime": "08/14/2026 17:42:14",
       "status": 1,
       "zipCode": null
     }
