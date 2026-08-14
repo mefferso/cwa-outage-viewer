@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-14T11:22:08.666177+00:00",
+  "cachedAtUtc": "2026-08-14T12:06:22.372247+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394044",
-      "lastUpdateTime": "08/14/2026 06:09:41",
+      "lastUpdateTime": "08/14/2026 06:59:41",
       "lat": 30.4012115,
       "location": "Sanctuary",
       "locationType": 5,
@@ -175,7 +175,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394045",
-      "lastUpdateTime": "08/14/2026 06:09:41",
+      "lastUpdateTime": "08/14/2026 06:59:41",
       "lat": 30.401500999999996,
       "location": "Sanctuary",
       "locationType": 5,
@@ -186,6 +186,95 @@
       "restorationTime": "07:30",
       "serviceType": 1,
       "startTime": "08/14/2026 05:22:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166621",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.246983,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.768765,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246020",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.246928,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.768897,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/14/2026 8:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394047",
+      "lastUpdateTime": "08/14/2026 06:59:41",
+      "lat": 30.2469555,
+      "location": "South Slidell",
+      "locationType": 5,
+      "lon": -89.768831,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:15",
+      "serviceType": 1,
+      "startTime": "08/14/2026 06:14:28",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000094418",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.522495,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.121075,
+          "zipCode": "70435"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/14/2026 9:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394048",
+      "lastUpdateTime": "08/14/2026 06:59:41",
+      "lat": 30.522495,
+      "location": "Hwy 25",
+      "locationType": 5,
+      "lon": -90.121075,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:00",
+      "serviceType": 1,
+      "startTime": "08/14/2026 06:53:29",
       "status": 1,
       "zipCode": null
     }
