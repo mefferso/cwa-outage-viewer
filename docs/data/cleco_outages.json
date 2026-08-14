@@ -1,6 +1,46 @@
 {
-  "cachedAtUtc": "2026-08-14T03:14:49.950913+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-14T05:09:03.444406+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107273",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.310619,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.555972,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/14/2026 1:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394037",
+      "lastUpdateTime": "08/13/2026 23:59:41",
+      "lat": 31.310619,
+      "location": "Hot Wells",
+      "locationType": 5,
+      "lon": -92.555972,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:15",
+      "serviceType": 1,
+      "startTime": "08/13/2026 23:07:58",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
