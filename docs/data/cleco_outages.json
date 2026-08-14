@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-14T23:29:15.510175+00:00",
+  "cachedAtUtc": "2026-08-14T23:53:30.265815+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394146",
-      "lastUpdateTime": "08/14/2026 18:19:42",
+      "lastUpdateTime": "08/14/2026 18:29:42",
       "lat": 30.315026749999998,
       "location": "St. Tammany St.",
       "locationType": 5,
@@ -77,30 +77,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000208637",
+            "outageDetailAttribute1": "6000316890",
             "outageDetailAttribute2": null
           },
-          "lat": 31.023158,
-          "location": "AVOYELLES",
+          "lat": 30.828573,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -92.156195,
-          "zipCode": "71341"
+          "lon": -92.324501,
+          "zipCode": "70586"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000275950",
+            "outageDetailAttribute1": "6000325957",
             "outageDetailAttribute2": null
           },
-          "lat": 31.022951,
-          "location": "AVOYELLES",
+          "lat": 30.82831,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -92.15574,
-          "zipCode": "71322"
+          "lon": -92.32421,
+          "zipCode": "70586"
         }
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/14/2026 8:15:00 PM",
+      "endTime": "8/14/2026 8:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -108,18 +108,90 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394150",
-      "lastUpdateTime": "08/14/2026 18:19:42",
-      "lat": 31.0230545,
-      "location": "Hessmer",
+      "incidentId": "INC 8105394151",
+      "lastUpdateTime": "08/14/2026 18:29:42",
+      "lat": 30.828441499999997,
+      "location": "Morrison Corner",
       "locationType": 5,
-      "lon": -92.1559675,
+      "lon": -92.3243555,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "20:15",
+      "restorationTime": "20:30",
       "serviceType": 1,
-      "startTime": "08/14/2026 18:11:49",
+      "startTime": "08/14/2026 18:22:48",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035542",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.5893,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.54461,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000036329",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.590135,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.545767,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087730",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.592327,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.546385,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000142424",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.592253,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.546234,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/14/2026 8:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394152",
+      "lastUpdateTime": "08/14/2026 18:29:42",
+      "lat": 31.591003750000002,
+      "location": "Bentley",
+      "locationType": 5,
+      "lon": -92.545749,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:30",
+      "serviceType": 1,
+      "startTime": "08/14/2026 18:23:35",
       "status": 1,
       "zipCode": null
     }
