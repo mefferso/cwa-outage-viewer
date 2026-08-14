@@ -1,6 +1,195 @@
 {
-  "cachedAtUtc": "2026-08-14T10:28:43.851803+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-14T11:22:08.666177+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092366",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401218,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.123025,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000137711",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401137,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122678,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066287",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401483,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.12262,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000228751",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401008,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122788,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/14/2026 7:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394044",
+      "lastUpdateTime": "08/14/2026 06:09:41",
+      "lat": 30.4012115,
+      "location": "Sanctuary",
+      "locationType": 5,
+      "lon": -90.12277775,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:30",
+      "serviceType": 1,
+      "startTime": "08/14/2026 05:22:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000043676",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401493,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122885,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000003655",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401397,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122662,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000195162",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401396,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122662,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000228763",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401582,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122745,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000301271",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401568,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.123228,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254639",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401492,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122345,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254639",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401492,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122345,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000160909",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.401588,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.122747,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "8/14/2026 7:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394045",
+      "lastUpdateTime": "08/14/2026 06:09:41",
+      "lat": 30.401500999999996,
+      "location": "Sanctuary",
+      "locationType": 5,
+      "lon": -90.122702375,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:30",
+      "serviceType": 1,
+      "startTime": "08/14/2026 05:22:27",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
