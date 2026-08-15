@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-15T22:35:32.188822+00:00",
+  "cachedAtUtc": "2026-08-15T22:56:51.402723+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -488,7 +488,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394222",
-      "lastUpdateTime": "08/15/2026 17:19:44",
+      "lastUpdateTime": "08/15/2026 17:49:44",
       "lat": 31.621906681818178,
       "location": "Many \\ Many Plant",
       "locationType": 5,
@@ -582,7 +582,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394223",
-      "lastUpdateTime": "08/15/2026 17:19:44",
+      "lastUpdateTime": "08/15/2026 17:49:44",
       "lat": 32.04009083333334,
       "location": "Carroll",
       "locationType": 5,
@@ -600,41 +600,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000268216",
+            "outageDetailAttribute1": "6000304100",
             "outageDetailAttribute2": null
           },
-          "lat": 30.410986,
-          "location": "ST. TAMMANY",
+          "lat": 31.544204,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -90.0874,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000062426",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.411198,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.087465,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000001012",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.411192,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.08736,
-          "zipCode": "70433"
+          "lon": -92.400823,
+          "zipCode": "71467"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "8/15/2026 6:45:00 PM",
+      "endTime": "8/15/2026 8:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -642,79 +620,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394226",
-      "lastUpdateTime": "08/15/2026 17:19:44",
-      "lat": 30.41112533333333,
-      "location": "Ozone Park",
+      "incidentId": "INC 8105394230",
+      "lastUpdateTime": "08/15/2026 17:49:44",
+      "lat": 31.544204,
+      "location": "Colfax",
       "locationType": 5,
-      "lon": -90.08740833333333,
+      "lon": -92.400823,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:45",
+      "restorationTime": "20:00",
       "serviceType": 1,
-      "startTime": "08/15/2026 16:40:06",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000216897",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.466602,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.065303,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000217569",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.466225,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.06508,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000154286",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.466086,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.065222,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "8/15/2026 7:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394227",
-      "lastUpdateTime": "08/15/2026 17:19:44",
-      "lat": 30.466304333333337,
-      "location": "Abita Springs",
-      "locationType": 5,
-      "lon": -90.06520166666667,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "19:00",
-      "serviceType": 1,
-      "startTime": "08/15/2026 16:53:38",
+      "startTime": "08/15/2026 17:46:36",
       "status": 1,
       "zipCode": null
     }
