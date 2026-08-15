@@ -1,6 +1,156 @@
 {
-  "cachedAtUtc": "2026-08-15T17:50:10.862376+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-15T18:16:14.876296+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075656",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.768222,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.278413,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000021658",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.766878,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.279378,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000115716",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.766243,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28136,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205337",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.7676,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28167,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000060520",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.766978,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.281338,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000277889",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.766905,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.279378,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000021681",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.767282,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.281558,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000068381",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.767253,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.281685,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000277914",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.767127,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.281427,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045219",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.766332,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.280193,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291335",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.76699,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 11,
+      "description": null,
+      "endTime": "8/15/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394202",
+      "lastUpdateTime": "08/15/2026 12:59:43",
+      "lat": 30.767073636363637,
+      "location": "Chicot Road",
+      "locationType": 5,
+      "lon": -92.28058181818182,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "08/15/2026 12:50:42",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
