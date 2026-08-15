@@ -1,6 +1,90 @@
 {
-  "cachedAtUtc": "2026-08-15T03:19:40.329815+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-15T04:00:11.796193+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000226752",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.503718,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.413763,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000114749",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.503463,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.414082,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000155078",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.50396,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.413818,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038521",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.503596,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.414136,
+          "zipCode": "70535"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000298180",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.503833,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.413732,
+          "zipCode": "70535"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/15/2026 12:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394162",
+      "lastUpdateTime": "08/14/2026 22:49:42",
+      "lat": 30.503755,
+      "location": "Eighth Street (Eunice)",
+      "locationType": 5,
+      "lon": -92.41389149999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "00:30",
+      "serviceType": 1,
+      "startTime": "08/14/2026 22:20:52",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
