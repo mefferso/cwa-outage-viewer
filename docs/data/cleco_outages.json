@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-15T09:35:39.849918+00:00",
+  "cachedAtUtc": "2026-08-15T09:56:47.467851+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -158,7 +158,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394174",
-      "lastUpdateTime": "08/15/2026 04:19:43",
+      "lastUpdateTime": "08/15/2026 04:49:43",
       "lat": 30.490113692307695,
       "location": "Hammond Highway",
       "locationType": 5,
@@ -169,6 +169,111 @@
       "restorationTime": "06:00",
       "serviceType": 1,
       "startTime": "08/15/2026 03:46:09",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046568",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.633807,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.80232,
+          "zipCode": "71454"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229025",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.634807,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.8019,
+          "zipCode": "71454"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241670",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.633287,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.800108,
+          "zipCode": "71454"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000135789",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.63311,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.80012,
+          "zipCode": "71454"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314549",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.634088,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.801025,
+          "zipCode": "71454"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061849",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.62851,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.79313,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000347143",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.628692,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.794212,
+          "zipCode": "71454"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "8/15/2026 6:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394176",
+      "lastUpdateTime": "08/15/2026 04:49:43",
+      "lat": 31.63232871428571,
+      "location": "North Colfax",
+      "locationType": 5,
+      "lon": -92.79897357142856,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:45",
+      "serviceType": 1,
+      "startTime": "08/15/2026 04:32:10",
       "status": 1,
       "zipCode": null
     }
