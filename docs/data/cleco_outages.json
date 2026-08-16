@@ -1,6 +1,118 @@
 {
-  "cachedAtUtc": "2026-08-16T18:25:46.345608+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-16T18:56:56.994148+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000037862",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.41571,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.157702,
+          "zipCode": "70447"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/16/2026 3:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394319",
+      "lastUpdateTime": "08/16/2026 13:49:45",
+      "lat": 30.41571,
+      "location": "Madisonville 230",
+      "locationType": 5,
+      "lon": -90.157702,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:45",
+      "serviceType": 1,
+      "startTime": "08/16/2026 13:40:16",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000136052",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.984503,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.828425,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000068064",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.984717,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.828642,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000275730",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.984278,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.828277,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000018289",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.984275,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.828325,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/16/2026 4:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394327",
+      "lastUpdateTime": "08/16/2026 13:49:45",
+      "lat": 29.98444325,
+      "location": "Hopkins Street",
+      "locationType": 5,
+      "lon": -91.82841725,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:00",
+      "serviceType": 1,
+      "startTime": "08/16/2026 13:48:06",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
