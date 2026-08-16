@@ -1,6 +1,195 @@
 {
-  "cachedAtUtc": "2026-08-16T11:49:44.829642+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-16T12:19:02.547867+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099264",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.917707,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.451001,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291552",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.917716,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.451013,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086375",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.917509,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.45087,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/16/2026 8:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394286",
+      "lastUpdateTime": "08/16/2026 07:09:45",
+      "lat": 30.917643999999996,
+      "location": "Pine Prarie",
+      "locationType": 5,
+      "lon": -92.45096133333334,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:45",
+      "serviceType": 1,
+      "startTime": "08/16/2026 06:44:38",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000077955",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335993,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.314923,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252916",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.336118,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.315035,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238364",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335807,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.315596,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000077842",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335159,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.312949,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000121265",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33615,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.318084,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173530",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335255,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.315698,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244016",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335048,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.31587,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300331",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.335392,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.314793,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353732",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.334954,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.318159,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "8/16/2026 9:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394288",
+      "lastUpdateTime": "08/16/2026 07:09:45",
+      "lat": 31.335541777777777,
+      "location": "Esler Field",
+      "locationType": 5,
+      "lon": -92.31567855555555,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:00",
+      "serviceType": 1,
+      "startTime": "08/16/2026 06:52:32",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
