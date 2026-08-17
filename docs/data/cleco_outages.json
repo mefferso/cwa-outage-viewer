@@ -1,128 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-17T23:29:20.310744+00:00",
+  "cachedAtUtc": "2026-08-17T23:52:16.317298+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000115368",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.298274,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.517986,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000119830",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.298457,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.518126,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000308465",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.298522,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.51812,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000013187",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.29859,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.518277,
-          "zipCode": "71303"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "8/17/2026 7:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394506",
-      "lastUpdateTime": "08/17/2026 18:19:47",
-      "lat": 31.29846075,
-      "location": "Bayou Rapides",
-      "locationType": 5,
-      "lon": -92.51812724999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "19:00",
-      "serviceType": 1,
-      "startTime": "08/17/2026 12:45:12",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000162490",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.964227,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.462164,
-          "zipCode": "71346"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000162615",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.964227,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.462164,
-          "zipCode": "71346"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "8/17/2026 6:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394563",
-      "lastUpdateTime": "08/17/2026 18:19:47",
-      "lat": 30.964227,
-      "location": "Pine Prarie",
-      "locationType": 5,
-      "lon": -92.462164,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:45",
-      "serviceType": 1,
-      "startTime": "08/17/2026 16:44:43",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -225,7 +103,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394565",
-      "lastUpdateTime": "08/17/2026 18:19:47",
+      "lastUpdateTime": "08/17/2026 18:39:47",
       "lat": 30.396809125,
       "location": "Third St. Mandeville",
       "locationType": 5,
@@ -236,6 +114,67 @@
       "restorationTime": "19:30",
       "serviceType": 1,
       "startTime": "08/17/2026 17:28:36",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000169241",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.39984,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.042405,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000094229",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.399758,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.042598,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221737",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.39965,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.042583,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/17/2026 8:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394569",
+      "lastUpdateTime": "08/17/2026 18:39:47",
+      "lat": 30.399749333333336,
+      "location": "East Street",
+      "locationType": 5,
+      "lon": -90.04252866666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:45",
+      "serviceType": 1,
+      "startTime": "08/17/2026 18:36:39",
       "status": 1,
       "zipCode": null
     }
