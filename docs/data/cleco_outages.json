@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-17T04:27:24.599853+00:00",
+  "cachedAtUtc": "2026-08-17T05:11:30.651762+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394375",
-      "lastUpdateTime": "08/16/2026 23:19:46",
+      "lastUpdateTime": "08/16/2026 23:59:46",
       "lat": 29.97130357142857,
       "location": "Hwy. 675 (Hopkins)",
       "locationType": 5,
@@ -175,7 +175,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394393",
-      "lastUpdateTime": "08/16/2026 23:19:46",
+      "lastUpdateTime": "08/16/2026 23:59:46",
       "lat": 30.483943333333333,
       "location": "Covington",
       "locationType": 5,
@@ -186,6 +186,78 @@
       "restorationTime": "01:15",
       "serviceType": 1,
       "startTime": "08/16/2026 23:09:02",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000066",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.146101,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.407266,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266209",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.146204,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.408973,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059901",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.145021,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.404346,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000000066",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.146101,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.407266,
+          "zipCode": "71346"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/17/2026 2:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394395",
+      "lastUpdateTime": "08/16/2026 23:59:46",
+      "lat": 31.14585675,
+      "location": "Chambers",
+      "locationType": 5,
+      "lon": -92.40696274999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "02:00",
+      "serviceType": 1,
+      "startTime": "08/16/2026 23:51:19",
       "status": 1,
       "zipCode": null
     }
