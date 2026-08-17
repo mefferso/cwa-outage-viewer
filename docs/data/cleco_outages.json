@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-17T03:47:34.434296+00:00",
+  "cachedAtUtc": "2026-08-17T04:27:24.599853+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -72,7 +72,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "8/16/2026 11:15:00 PM",
+      "endTime": "8/17/2026 1:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394375",
-      "lastUpdateTime": "08/16/2026 22:39:46",
+      "lastUpdateTime": "08/16/2026 23:19:46",
       "lat": 29.97130357142857,
       "location": "Hwy. 675 (Hopkins)",
       "locationType": 5,
@@ -89,9 +89,103 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "23:15",
+      "restorationTime": "01:15",
       "serviceType": 1,
       "startTime": "08/16/2026 19:03:10",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000029169",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.48419,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098168,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251696",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483739,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098139,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027877",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483943,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098214,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288218",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483931,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098223,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353764",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483931,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098223,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483926,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098217,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "8/17/2026 1:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394393",
+      "lastUpdateTime": "08/16/2026 23:19:46",
+      "lat": 30.483943333333333,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.09819733333335,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:15",
+      "serviceType": 1,
+      "startTime": "08/16/2026 23:09:02",
       "status": 1,
       "zipCode": null
     }
