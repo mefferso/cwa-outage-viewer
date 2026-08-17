@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-17T19:58:18.428305+00:00",
+  "cachedAtUtc": "2026-08-17T20:36:21.427926+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,11 +59,11 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394506",
-      "lastUpdateTime": "08/17/2026 14:49:47",
-      "lat": 31.298460749999997,
+      "lastUpdateTime": "08/17/2026 15:29:47",
+      "lat": 31.29846075,
       "location": "Bayou Rapides",
       "locationType": 5,
-      "lon": -92.51812725,
+      "lon": -92.51812724999999,
       "name": null,
       "notes": "",
       "outageType": 2,
@@ -109,7 +109,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394510",
-      "lastUpdateTime": "08/17/2026 14:49:47",
+      "lastUpdateTime": "08/17/2026 15:29:47",
       "lat": 30.536424,
       "location": "Goodbee",
       "locationType": 5,
@@ -139,7 +139,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/17/2026 3:15:00 PM",
+      "endTime": "8/17/2026 5:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -148,7 +148,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394511",
-      "lastUpdateTime": "08/17/2026 14:49:47",
+      "lastUpdateTime": "08/17/2026 15:29:47",
       "lat": 30.905539,
       "location": "Cole",
       "locationType": 5,
@@ -156,98 +156,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:15",
+      "restorationTime": "17:15",
       "serviceType": 1,
       "startTime": "08/17/2026 13:10:43",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334407",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.895052,
-          "location": "BEAUREGARD",
-          "locationType": 2,
-          "lon": -93.556232,
-          "zipCode": "70639"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/17/2026 4:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394522",
-      "lastUpdateTime": "08/17/2026 14:49:47",
-      "lat": 30.895052,
-      "location": "Cole",
-      "locationType": 5,
-      "lon": -93.556232,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:15",
-      "serviceType": 1,
-      "startTime": "08/17/2026 14:04:25",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000030731",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.996345,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.831398,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000268823",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.996363,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.83143,
-          "zipCode": "70560"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "8/17/2026 4:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394528",
-      "lastUpdateTime": "08/17/2026 14:49:47",
-      "lat": 29.996354,
-      "location": "Hopkins Street",
-      "locationType": 5,
-      "lon": -91.831414,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:30",
-      "serviceType": 1,
-      "startTime": "08/17/2026 14:19:55",
       "status": 1,
       "zipCode": null
     },
@@ -991,11 +902,11 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394530",
-      "lastUpdateTime": "08/17/2026 14:49:47",
-      "lat": 31.648001575757572,
+      "lastUpdateTime": "08/17/2026 15:29:47",
+      "lat": 31.64800157575758,
       "location": "Colfax",
       "locationType": 5,
-      "lon": -92.43711734848482,
+      "lon": -92.43711734848486,
       "name": null,
       "notes": "",
       "outageType": 2,
@@ -1009,52 +920,85 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000291594",
+            "outageDetailAttribute1": "6000192403",
             "outageDetailAttribute2": null
           },
-          "lat": 30.953252,
-          "location": "AVOYELLES",
+          "lat": 30.727899,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -92.031894,
-          "zipCode": "71327"
+          "lon": -90.082675,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000171818",
+            "outageDetailAttribute1": "6000104551",
             "outageDetailAttribute2": null
           },
-          "lat": 30.952635,
-          "location": "AVOYELLES",
+          "lat": 30.728697,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -92.031818,
-          "zipCode": "71327"
+          "lon": -90.078383,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000190033",
+            "outageDetailAttribute1": "6000266769",
             "outageDetailAttribute2": null
           },
-          "lat": 30.953057,
-          "location": "AVOYELLES",
+          "lat": 30.728223,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -92.031768,
-          "zipCode": "71327"
+          "lon": -90.082683,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000229657",
+            "outageDetailAttribute1": "6000157619",
             "outageDetailAttribute2": null
           },
-          "lat": 30.953252,
-          "location": "AVOYELLES",
+          "lat": 30.728162,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -92.031894,
-          "zipCode": "71327"
+          "lon": -90.077703,
+          "zipCode": "70438"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000226799",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.728139,
+          "location": "WASHINGTON",
+          "locationType": 2,
+          "lon": -90.079673,
+          "zipCode": "70438"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093881",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.728664,
+          "location": "WASHINGTON",
+          "locationType": 2,
+          "lon": -90.080411,
+          "zipCode": "70438"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150655",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.727899,
+          "location": "WASHINGTON",
+          "locationType": 2,
+          "lon": -90.082675,
+          "zipCode": "70438"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 7,
       "description": null,
-      "endTime": "8/17/2026 4:30:00 PM",
+      "endTime": "8/17/2026 5:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -1062,18 +1006,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394532",
-      "lastUpdateTime": "08/17/2026 14:49:47",
-      "lat": 30.953049,
-      "location": "South Cottonport",
+      "incidentId": "INC 8105394538",
+      "lastUpdateTime": "08/17/2026 15:29:47",
+      "lat": 30.728240428571432,
+      "location": "Pine Clif (Franklinton)",
       "locationType": 5,
-      "lon": -92.03184350000001,
+      "lon": -90.08060042857142,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:30",
+      "restorationTime": "17:00",
       "serviceType": 1,
-      "startTime": "08/17/2026 14:23:33",
+      "startTime": "08/17/2026 14:53:16",
       "status": 1,
       "zipCode": null
     }
