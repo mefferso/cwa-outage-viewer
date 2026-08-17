@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-17T05:52:20.773170+00:00",
+  "cachedAtUtc": "2026-08-17T06:50:04.381801+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -72,7 +72,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "8/17/2026 1:15:00 AM",
+      "endTime": "8/17/2026 3:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394375",
-      "lastUpdateTime": "08/17/2026 00:29:46",
+      "lastUpdateTime": "08/17/2026 01:39:46",
       "lat": 29.97130357142857,
       "location": "Hwy. 675 (Hopkins)",
       "locationType": 5,
@@ -89,7 +89,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:15",
+      "restorationTime": "03:15",
       "serviceType": 1,
       "startTime": "08/16/2026 19:03:10",
       "status": 1,
@@ -99,74 +99,1119 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000029169",
+            "outageDetailAttribute1": "6000181089",
             "outageDetailAttribute2": null
           },
-          "lat": 30.48419,
-          "location": "ST. TAMMANY",
+          "lat": 30.584633,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.098168,
-          "zipCode": "70433"
+          "lon": -92.081497,
+          "zipCode": "70570"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000251696",
+            "outageDetailAttribute1": "6000272233",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483739,
-          "location": "ST. TAMMANY",
+          "lat": 30.584685,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.098139,
-          "zipCode": "70433"
+          "lon": -92.079542,
+          "zipCode": "70570"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000027877",
+            "outageDetailAttribute1": "6000314479",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483943,
-          "location": "ST. TAMMANY",
+          "lat": 30.587047,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.098214,
-          "zipCode": "70433"
+          "lon": -92.079815,
+          "zipCode": "70570"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000288218",
+            "outageDetailAttribute1": "6000164931",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483931,
-          "location": "ST. TAMMANY",
+          "lat": 30.587102,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.098223,
-          "zipCode": "70433"
+          "lon": -92.080462,
+          "zipCode": "70570"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000353764",
+            "outageDetailAttribute1": "6000087543",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483931,
-          "location": "ST. TAMMANY",
+          "lat": 30.587253,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.098223,
-          "zipCode": "70433"
+          "lon": -92.08088,
+          "zipCode": "70570"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000027852",
+            "outageDetailAttribute1": "6000013612",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483926,
-          "location": "ST. TAMMANY",
+          "lat": 30.587507,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -90.098217,
-          "zipCode": "70433"
+          "lon": -92.075957,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013569",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583614,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079866,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046341",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587074,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079158,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000142025",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583554,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080936,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208254",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585432,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08078,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035224",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585698,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079357,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278472",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587987,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079563,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000068103",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587239,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07609,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000192097",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585143,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.084986,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213537",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58732,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076066,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000311636",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587802,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081363,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271895",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587192,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078188,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183003",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587515,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078422,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120024",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58354,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079315,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000130191",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.584771,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.082295,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251672",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.589187,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.086063,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057520",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587061,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080757,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000286142",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58846,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08499,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213524",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586622,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076073,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146813",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583528,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080538,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079843",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587245,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081032,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107877",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.588343,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07543,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180973",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58967,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08375,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000175224",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583973,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07757,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243533",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587081,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079175,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087395",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583403,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078048,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096396",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58577,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.0822,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079104",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585707,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081099,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107935",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58651,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07987,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107911",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586095,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079475,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000287413",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587403,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.085747,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046474",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587213,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081937,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000142048",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587235,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076675,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214460",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587383,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076585,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314777",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587887,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.0821,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046463",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58795,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.082615,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000060126",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586824,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080942,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183014",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586045,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.075445,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000304166",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58515,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.082225,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013265",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585537,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.082093,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180989",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586248,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079962,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183043",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587335,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078343,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000264164",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586485,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.077876,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215854",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587242,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080868,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587598,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.085513,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251772",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586977,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076673,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213510",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.584338,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079628,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213517",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583547,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080652,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000304008",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586823,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076038,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013593",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585042,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080103,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000142774",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587785,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.085627,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221407",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.584523,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081299,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000056044",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58748,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07905,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150850",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585775,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08051,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000142081",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58627,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08062,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229571",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58435,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08004,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000098761",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58762,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07829,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000249049",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58773,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079702,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214189",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587297,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076632,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181684",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586782,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076732,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059749",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58426,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08124,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314503",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586163,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078079,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331415",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58699,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07626,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586092,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08199,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000336348",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.59,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08376,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000333373",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58401,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07916,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000217100",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58451,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081443,
+          "zipCode": "70589"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000164740",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586698,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.077927,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046352",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587015,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.077913,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107957",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587487,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.077838,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000339181",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.5846,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08114,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000339309",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585779,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081138,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587178,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076013,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243555",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58573,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.08001,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000225236",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.584963,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.082432,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172176",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587058,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076053,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107322",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587778,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081707,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000243492",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587937,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081847,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349104",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583267,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07859,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350135",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.58586,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078269,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046319",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.588268,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.074083,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350081",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583197,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.077929,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349102",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583335,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079173,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349103",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583276,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078561,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352361",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583423,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078422,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352844",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586824,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080942,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000352846",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585976,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.077959,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051663",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587165,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.07662,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046330",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585524,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.079584,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000354010",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583403,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078048,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000109361",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.586648,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.076098,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097485",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.588192,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.083308,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308693",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.583722,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080285,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000357196",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585088,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.081205,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272250",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.587142,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.075583,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350316",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.585719,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.078142,
+          "zipCode": "70570"
         }
       ],
-      "affectedCount": 6,
+      "affectedCount": 101,
       "description": null,
-      "endTime": "8/17/2026 1:15:00 AM",
+      "endTime": "8/17/2026 4:13:36 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -174,162 +1219,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394393",
-      "lastUpdateTime": "08/17/2026 00:29:46",
-      "lat": 30.483943333333333,
-      "location": "Covington",
+      "incidentId": "INC 8105394398",
+      "lastUpdateTime": "08/17/2026 01:39:46",
+      "lat": 30.586196087378642,
+      "location": "Nuba",
       "locationType": 5,
-      "lon": -90.09819733333335,
+      "lon": -92.07970009708741,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:15",
+      "restorationTime": "04:13",
       "serviceType": 1,
-      "startTime": "08/16/2026 23:09:02",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000000066",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.146101,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.407266,
-          "zipCode": "71346"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266209",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.146204,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.408973,
-          "zipCode": "71346"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000059901",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.145021,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.404346,
-          "zipCode": "71346"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000000066",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.146101,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.407266,
-          "zipCode": "71346"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "8/17/2026 2:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394395",
-      "lastUpdateTime": "08/17/2026 00:29:46",
-      "lat": 31.14585675,
-      "location": "Chambers",
-      "locationType": 5,
-      "lon": -92.40696274999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:00",
-      "serviceType": 1,
-      "startTime": "08/16/2026 23:51:19",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000318003",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.033924,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.690303,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000247686",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.044068,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.684728,
-          "zipCode": "70552"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000331175",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.033915,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.690295,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000343088",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.043873,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.689744,
-          "zipCode": "70560"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "8/17/2026 2:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394397",
-      "lastUpdateTime": "08/17/2026 00:29:46",
-      "lat": 30.038945000000002,
-      "location": "Loreauville",
-      "locationType": 5,
-      "lon": -91.68876750000001,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "02:30",
-      "serviceType": 1,
-      "startTime": "08/17/2026 00:20:04",
+      "startTime": "08/17/2026 00:33:35",
       "status": 1,
       "zipCode": null
     }
