@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-17T16:02:22.883645+00:00",
+  "cachedAtUtc": "2026-08-17T16:40:53.139675+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394418",
-      "lastUpdateTime": "08/17/2026 10:49:47",
+      "lastUpdateTime": "08/17/2026 11:29:47",
       "lat": 30.98645,
       "location": "Marksville",
       "locationType": 5,
@@ -76,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394470",
-      "lastUpdateTime": "08/17/2026 10:49:47",
+      "lastUpdateTime": "08/17/2026 11:29:47",
       "lat": 30.397583,
       "location": "Cane Bayou",
       "locationType": 5,
@@ -115,7 +115,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394471",
-      "lastUpdateTime": "08/17/2026 10:49:47",
+      "lastUpdateTime": "08/17/2026 11:29:47",
       "lat": 31.360135,
       "location": "Libuse",
       "locationType": 5,
@@ -126,6 +126,217 @@
       "restorationTime": "12:30",
       "serviceType": 1,
       "startTime": "08/17/2026 10:15:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000144300",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.947432,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.788373,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000250583",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.947294,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.788184,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000090912",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.94705,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.78857,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331590",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.947084,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.78806,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000110711",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.946559,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.788176,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/17/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394483",
+      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lat": 29.9470838,
+      "location": "Darnall Rd.",
+      "locationType": 5,
+      "lon": -91.7882726,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "08/17/2026 10:57:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041791",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.461065,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.41607,
+          "zipCode": "71467"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005854",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.461077,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.416187,
+          "zipCode": "71467"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/17/2026 1:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394485",
+      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lat": 31.461071,
+      "location": "Ball",
+      "locationType": 5,
+      "lon": -92.4161285,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:15",
+      "serviceType": 1,
+      "startTime": "08/17/2026 11:05:55",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034360",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.403703,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.331255,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/17/2026 1:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394491",
+      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lat": 31.403703,
+      "location": "Libuse",
+      "locationType": 5,
+      "lon": -92.331255,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:30",
+      "serviceType": 1,
+      "startTime": "08/17/2026 11:21:58",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173727",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.334585,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.451807,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/17/2026 1:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394492",
+      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lat": 31.334585,
+      "location": "Pineville",
+      "locationType": 5,
+      "lon": -92.451807,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:30",
+      "serviceType": 1,
+      "startTime": "08/17/2026 11:27:56",
       "status": 1,
       "zipCode": null
     }
