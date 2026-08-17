@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-17T16:40:53.139675+00:00",
+  "cachedAtUtc": "2026-08-17T17:09:36.117183+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394418",
-      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lastUpdateTime": "08/17/2026 11:59:47",
       "lat": 30.98645,
       "location": "Marksville",
       "locationType": 5,
@@ -76,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394470",
-      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lastUpdateTime": "08/17/2026 11:59:47",
       "lat": 30.397583,
       "location": "Cane Bayou",
       "locationType": 5,
@@ -115,7 +115,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394471",
-      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lastUpdateTime": "08/17/2026 11:59:47",
       "lat": 31.360135,
       "location": "Libuse",
       "locationType": 5,
@@ -198,7 +198,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394483",
-      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lastUpdateTime": "08/17/2026 11:59:47",
       "lat": 29.9470838,
       "location": "Darnall Rd.",
       "locationType": 5,
@@ -248,7 +248,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394485",
-      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lastUpdateTime": "08/17/2026 11:59:47",
       "lat": 31.461071,
       "location": "Ball",
       "locationType": 5,
@@ -259,45 +259,6 @@
       "restorationTime": "13:15",
       "serviceType": 1,
       "startTime": "08/17/2026 11:05:55",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000034360",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.403703,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.331255,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/17/2026 1:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394491",
-      "lastUpdateTime": "08/17/2026 11:29:47",
-      "lat": 31.403703,
-      "location": "Libuse",
-      "locationType": 5,
-      "lon": -92.331255,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "13:30",
-      "serviceType": 1,
-      "startTime": "08/17/2026 11:21:58",
       "status": 1,
       "zipCode": null
     },
@@ -326,7 +287,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394492",
-      "lastUpdateTime": "08/17/2026 11:29:47",
+      "lastUpdateTime": "08/17/2026 11:59:47",
       "lat": 31.334585,
       "location": "Pineville",
       "locationType": 5,
@@ -337,6 +298,45 @@
       "restorationTime": "13:30",
       "serviceType": 1,
       "startTime": "08/17/2026 11:27:56",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261048",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.957713,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.144783,
+          "zipCode": "71322"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/17/2026 12:05:57 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394494",
+      "lastUpdateTime": "08/17/2026 11:59:47",
+      "lat": 30.957713,
+      "location": "Bunkie REA",
+      "locationType": 5,
+      "lon": -92.144783,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:05",
+      "serviceType": 1,
+      "startTime": "08/17/2026 11:33:59",
       "status": 1,
       "zipCode": null
     }
