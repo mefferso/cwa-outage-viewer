@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-18T18:38:37.551527+00:00",
+  "cachedAtUtc": "2026-08-18T19:15:57.339025+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -114,7 +114,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394708",
-      "lastUpdateTime": "08/18/2026 13:29:49",
+      "lastUpdateTime": "08/18/2026 14:09:49",
       "lat": 31.166845,
       "location": "Ruby",
       "locationType": 5,
@@ -197,7 +197,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394594",
-      "lastUpdateTime": "08/18/2026 13:29:49",
+      "lastUpdateTime": "08/18/2026 14:09:49",
       "lat": 30.303171000000003,
       "location": "Roberts Road",
       "locationType": 5,
@@ -236,7 +236,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394602",
-      "lastUpdateTime": "08/18/2026 13:29:49",
+      "lastUpdateTime": "08/18/2026 14:09:49",
       "lat": 30.98645,
       "location": "Marksville",
       "locationType": 5,
@@ -254,19 +254,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000237010",
+            "outageDetailAttribute1": "6000231170",
             "outageDetailAttribute2": null
           },
-          "lat": 31.013728,
-          "location": "AVOYELLES",
+          "lat": 31.317935,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.024328,
-          "zipCode": "71350"
+          "lon": -92.441085,
+          "zipCode": "71360"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/18/2026 3:30:00 PM",
+      "endTime": "8/18/2026 4:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -274,18 +274,90 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394723",
-      "lastUpdateTime": "08/18/2026 13:29:49",
-      "lat": 31.013728,
-      "location": "Longbridge",
+      "incidentId": "INC 8105394729",
+      "lastUpdateTime": "08/18/2026 14:09:49",
+      "lat": 31.317935,
+      "location": "Webster Street",
       "locationType": 5,
-      "lon": -92.024328,
+      "lon": -92.441085,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:30",
+      "restorationTime": "16:00",
       "serviceType": 1,
-      "startTime": "08/18/2026 13:28:28",
+      "startTime": "08/18/2026 13:58:32",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000299976",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278531,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.775889,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000231472",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278427,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.775772,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044174",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278978,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.776183,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000004361",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278531,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.775889,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/18/2026 4:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394732",
+      "lastUpdateTime": "08/18/2026 14:09:49",
+      "lat": 30.278616749999998,
+      "location": "Florida Avenue",
+      "locationType": 5,
+      "lon": -89.77593325000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:15",
+      "serviceType": 1,
+      "startTime": "08/18/2026 14:07:45",
       "status": 1,
       "zipCode": null
     }
