@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-18T21:54:04.587017+00:00",
+  "cachedAtUtc": "2026-08-18T22:25:18.504043+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -202,11 +202,11 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394751",
-      "lastUpdateTime": "08/18/2026 16:39:49",
+      "lastUpdateTime": "08/18/2026 17:09:49",
       "lat": 31.039504117647056,
       "location": "Hessmer",
       "locationType": 5,
-      "lon": -92.1265421764706,
+      "lon": -92.12654217647058,
       "name": null,
       "notes": "",
       "outageType": 2,
@@ -406,7 +406,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394756",
-      "lastUpdateTime": "08/18/2026 16:39:49",
+      "lastUpdateTime": "08/18/2026 17:09:49",
       "lat": 30.810069374999998,
       "location": "Pine Clif (Franklinton)",
       "locationType": 5,
@@ -445,7 +445,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394760",
-      "lastUpdateTime": "08/18/2026 16:39:49",
+      "lastUpdateTime": "08/18/2026 17:09:49",
       "lat": 31.036863,
       "location": "Hessmer",
       "locationType": 5,
@@ -495,7 +495,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394761",
-      "lastUpdateTime": "08/18/2026 16:39:49",
+      "lastUpdateTime": "08/18/2026 17:09:49",
       "lat": 31.6150485,
       "location": "Many 138",
       "locationType": 5,
@@ -506,6 +506,95 @@
       "restorationTime": "18:45",
       "serviceType": 1,
       "startTime": "08/18/2026 16:34:49",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291375",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.28051,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.890641,
+          "zipCode": "70517"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/18/2026 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394763",
+      "lastUpdateTime": "08/18/2026 17:09:49",
+      "lat": 30.28051,
+      "location": "Breaux Bridge",
+      "locationType": 5,
+      "lon": -91.890641,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "08/18/2026 16:55:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254007",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.69627,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.23907,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000292338",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.695617,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.239244,
+          "zipCode": "70634"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/18/2026 7:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394767",
+      "lastUpdateTime": "08/18/2026 17:09:49",
+      "lat": 30.6959435,
+      "location": "DeRidder",
+      "locationType": 5,
+      "lon": -93.239157,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:15",
+      "serviceType": 1,
+      "startTime": "08/18/2026 17:09:25",
       "status": 1,
       "zipCode": null
     }
