@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-18T19:44:45.129459+00:00",
+  "cachedAtUtc": "2026-08-18T20:01:20.209692+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -114,7 +114,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394708",
-      "lastUpdateTime": "08/18/2026 14:29:49",
+      "lastUpdateTime": "08/18/2026 14:49:49",
       "lat": 31.166845,
       "location": "Ruby",
       "locationType": 5,
@@ -197,7 +197,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394594",
-      "lastUpdateTime": "08/18/2026 14:29:49",
+      "lastUpdateTime": "08/18/2026 14:49:49",
       "lat": 30.303171000000003,
       "location": "Roberts Road",
       "locationType": 5,
@@ -236,7 +236,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394729",
-      "lastUpdateTime": "08/18/2026 14:29:49",
+      "lastUpdateTime": "08/18/2026 14:49:49",
       "lat": 31.317935,
       "location": "Webster Street",
       "locationType": 5,
@@ -288,7 +288,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "8/18/2026 4:15:00 PM",
+      "endTime": "8/18/2026 5:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -297,7 +297,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394738",
-      "lastUpdateTime": "08/18/2026 14:29:49",
+      "lastUpdateTime": "08/18/2026 14:49:49",
       "lat": 30.273986666666662,
       "location": "Bayou Liberty",
       "locationType": 5,
@@ -305,7 +305,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:15",
+      "restorationTime": "17:00",
       "serviceType": 1,
       "startTime": "08/18/2026 14:16:54",
       "status": 1,
@@ -349,7 +349,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "8/18/2026 4:15:00 PM",
+      "endTime": "8/18/2026 5:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -358,7 +358,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394739",
-      "lastUpdateTime": "08/18/2026 14:29:49",
+      "lastUpdateTime": "08/18/2026 14:49:49",
       "lat": 30.272819,
       "location": "Bayou Liberty",
       "locationType": 5,
@@ -366,7 +366,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:15",
+      "restorationTime": "17:00",
       "serviceType": 1,
       "startTime": "08/18/2026 14:16:54",
       "status": 1,
@@ -376,19 +376,74 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000125529",
+            "outageDetailAttribute1": "6000150884",
             "outageDetailAttribute2": null
           },
-          "lat": 30.991138,
-          "location": "AVOYELLES",
+          "lat": 30.547811,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -92.106423,
-          "zipCode": "71322"
+          "lon": -92.09402,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253134",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.54784,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.094068,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000313892",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.547872,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.094518,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253116",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.548197,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.094418,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000313905",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.548145,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.094033,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120617",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.548547,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.09429,
+          "zipCode": "70570"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 6,
       "description": null,
-      "endTime": "8/18/2026 4:30:00 PM",
+      "endTime": "8/18/2026 4:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -396,18 +451,96 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394741",
-      "lastUpdateTime": "08/18/2026 14:29:49",
-      "lat": 30.991138,
-      "location": "Coughlin",
+      "incidentId": "INC 8105394744",
+      "lastUpdateTime": "08/18/2026 14:49:49",
+      "lat": 30.54806866666667,
+      "location": "Opelousas LREC",
       "locationType": 5,
-      "lon": -92.106423,
+      "lon": -92.0942245,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:30",
+      "restorationTime": "16:45",
       "serviceType": 1,
-      "startTime": "08/18/2026 14:28:45",
+      "startTime": "08/18/2026 14:44:00",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000143179",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.316293,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.497062,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/18/2026 5:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394746",
+      "lastUpdateTime": "08/18/2026 14:49:49",
+      "lat": 31.316293,
+      "location": "Bayou Rapides",
+      "locationType": 5,
+      "lon": -92.497062,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "17:00",
+      "serviceType": 1,
+      "startTime": "08/18/2026 14:45:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107532",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.06236,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.73343,
+          "zipCode": "70552"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/18/2026 5:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394747",
+      "lastUpdateTime": "08/18/2026 14:49:49",
+      "lat": 30.06236,
+      "location": "Loreauville",
+      "locationType": 5,
+      "lon": -91.73343,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "17:00",
+      "serviceType": 1,
+      "startTime": "08/18/2026 14:49:31",
       "status": 1,
       "zipCode": null
     }
