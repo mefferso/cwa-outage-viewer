@@ -1,56 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-18T06:25:40.760053+00:00",
+  "cachedAtUtc": "2026-08-18T07:21:01.838527+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000343435",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.32374,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.43334,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000076554",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.323367,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.433128,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "8/18/2026 3:06:41 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394584",
-      "lastUpdateTime": "08/18/2026 01:19:48",
-      "lat": 31.323553500000003,
-      "location": "Louisiana College",
-      "locationType": 5,
-      "lon": -92.433234,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "03:06",
-      "serviceType": 1,
-      "startTime": "08/18/2026 00:01:15",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -98,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394587",
-      "lastUpdateTime": "08/18/2026 01:19:48",
+      "lastUpdateTime": "08/18/2026 02:09:48",
       "lat": 30.37208366666667,
       "location": "Hwy 1088",
       "locationType": 5,
@@ -148,7 +98,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394588",
-      "lastUpdateTime": "08/18/2026 01:19:48",
+      "lastUpdateTime": "08/18/2026 02:09:48",
       "lat": 30.315108,
       "location": "St. Tammany St.",
       "locationType": 5,
@@ -159,6 +109,95 @@
       "restorationTime": "03:15",
       "serviceType": 1,
       "startTime": "08/18/2026 01:14:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102416",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33176,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.4974,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/18/2026 3:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394590",
+      "lastUpdateTime": "08/18/2026 02:09:48",
+      "lat": 31.33176,
+      "location": "Boyce Road",
+      "locationType": 5,
+      "lon": -92.4974,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "03:30",
+      "serviceType": 1,
+      "startTime": "08/18/2026 01:24:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180607",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.601587,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.784172,
+          "zipCode": "71454"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000137364",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.60183,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.78499,
+          "zipCode": "71454"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/18/2026 4:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394591",
+      "lastUpdateTime": "08/18/2026 02:09:48",
+      "lat": 31.6017085,
+      "location": "North Colfax",
+      "locationType": 5,
+      "lon": -92.784581,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:15",
+      "serviceType": 1,
+      "startTime": "08/18/2026 02:02:08",
       "status": 1,
       "zipCode": null
     }
