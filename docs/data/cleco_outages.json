@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-18T04:01:30.337083+00:00",
+  "cachedAtUtc": "2026-08-18T04:46:59.534550+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -94,7 +94,7 @@
       ],
       "affectedCount": 8,
       "description": null,
-      "endTime": "8/17/2026 11:30:00 PM",
+      "endTime": "8/18/2026 1:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -103,7 +103,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394571",
-      "lastUpdateTime": "08/17/2026 22:49:48",
+      "lastUpdateTime": "08/17/2026 23:39:48",
       "lat": 30.401500999999996,
       "location": "Sanctuary",
       "locationType": 5,
@@ -111,9 +111,164 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "23:30",
+      "restorationTime": "01:30",
       "serviceType": 1,
       "startTime": "08/17/2026 19:17:22",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000171539",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.46134,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.520418,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219751",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.460574,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.520745,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000236840",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.45886,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.52088,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000275955",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.45673,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.522252,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000149713",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.461373,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.521313,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075246",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.456998,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.521752,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000344638",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.467867,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.521126,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085020",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.45987,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.52033,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "8/18/2026 1:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394581",
+      "lastUpdateTime": "08/17/2026 23:39:48",
+      "lat": 31.460451500000005,
+      "location": "Bentley",
+      "locationType": 5,
+      "lon": -92.521102,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:15",
+      "serviceType": 1,
+      "startTime": "08/17/2026 23:04:03",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205745",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.350107,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.145207,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/18/2026 1:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394582",
+      "lastUpdateTime": "08/17/2026 23:39:48",
+      "lat": 31.350107,
+      "location": "Deville",
+      "locationType": 5,
+      "lon": -92.145207,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:30",
+      "serviceType": 1,
+      "startTime": "08/17/2026 23:20:18",
       "status": 1,
       "zipCode": null
     }
