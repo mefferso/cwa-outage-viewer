@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-18T21:32:10.434828+00:00",
+  "cachedAtUtc": "2026-08-18T21:54:04.587017+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -202,7 +202,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394751",
-      "lastUpdateTime": "08/18/2026 16:19:49",
+      "lastUpdateTime": "08/18/2026 16:39:49",
       "lat": 31.039504117647056,
       "location": "Hessmer",
       "locationType": 5,
@@ -406,7 +406,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394756",
-      "lastUpdateTime": "08/18/2026 16:19:49",
+      "lastUpdateTime": "08/18/2026 16:39:49",
       "lat": 30.810069374999998,
       "location": "Pine Clif (Franklinton)",
       "locationType": 5,
@@ -417,45 +417,6 @@
       "restorationTime": "18:00",
       "serviceType": 1,
       "startTime": "08/18/2026 15:50:17",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000181983",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.956353,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.307955,
-          "zipCode": "71367"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/18/2026 6:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394757",
-      "lastUpdateTime": "08/18/2026 16:19:49",
-      "lat": 30.956353,
-      "location": "Lloyds Bridge",
-      "locationType": 5,
-      "lon": -92.307955,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:00",
-      "serviceType": 1,
-      "startTime": "08/18/2026 15:52:47",
       "status": 1,
       "zipCode": null
     },
@@ -484,7 +445,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394760",
-      "lastUpdateTime": "08/18/2026 16:19:49",
+      "lastUpdateTime": "08/18/2026 16:39:49",
       "lat": 31.036863,
       "location": "Hessmer",
       "locationType": 5,
@@ -495,6 +456,56 @@
       "restorationTime": "18:30",
       "serviceType": 1,
       "startTime": "08/18/2026 16:17:15",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034006",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.611855,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.57039,
+          "zipCode": "71486"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350170",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.618242,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.589939,
+          "zipCode": "71486"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/18/2026 6:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394761",
+      "lastUpdateTime": "08/18/2026 16:39:49",
+      "lat": 31.6150485,
+      "location": "Many 138",
+      "locationType": 5,
+      "lon": -93.5801645,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:45",
+      "serviceType": 1,
+      "startTime": "08/18/2026 16:34:49",
       "status": 1,
       "zipCode": null
     }
