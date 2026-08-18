@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-18T05:16:27.175308+00:00",
+  "cachedAtUtc": "2026-08-18T05:49:44.324159+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -103,7 +103,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394571",
-      "lastUpdateTime": "08/17/2026 23:59:48",
+      "lastUpdateTime": "08/18/2026 00:39:48",
       "lat": 30.401500999999996,
       "location": "Sanctuary",
       "locationType": 5,
@@ -114,45 +114,6 @@
       "restorationTime": "01:30",
       "serviceType": 1,
       "startTime": "08/17/2026 19:17:22",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000205745",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.350107,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.145207,
-          "zipCode": "71328"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/18/2026 1:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394582",
-      "lastUpdateTime": "08/17/2026 23:59:48",
-      "lat": 31.350107,
-      "location": "Deville",
-      "locationType": 5,
-      "lon": -92.145207,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:30",
-      "serviceType": 1,
-      "startTime": "08/17/2026 23:20:18",
       "status": 1,
       "zipCode": null
     },
@@ -183,7 +144,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/18/2026 1:45:00 AM",
+      "endTime": "8/18/2026 3:10:51 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -192,7 +153,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394583",
-      "lastUpdateTime": "08/17/2026 23:59:48",
+      "lastUpdateTime": "08/18/2026 00:39:48",
       "lat": 29.7969015,
       "location": "Third St. Franklin Diesel",
       "locationType": 5,
@@ -200,9 +161,59 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:45",
+      "restorationTime": "03:10",
       "serviceType": 1,
       "startTime": "08/17/2026 23:44:04",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343435",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.32374,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.43334,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000076554",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.323367,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.433128,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/18/2026 2:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394584",
+      "lastUpdateTime": "08/18/2026 00:39:48",
+      "lat": 31.323553500000003,
+      "location": "Louisiana College",
+      "locationType": 5,
+      "lon": -92.433234,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "02:15",
+      "serviceType": 1,
+      "startTime": "08/18/2026 00:01:15",
       "status": 1,
       "zipCode": null
     }
