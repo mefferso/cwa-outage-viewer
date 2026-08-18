@@ -1,67 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-18T09:22:57.048695+00:00",
+  "cachedAtUtc": "2026-08-18T09:57:27.850682+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000009169",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.37198,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.031118,
-          "zipCode": "70448"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000052352",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.372343,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.030942,
-          "zipCode": "70448"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000027899",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.371928,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.030877,
-          "zipCode": "70448"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "8/18/2026 4:52:41 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394587",
-      "lastUpdateTime": "08/18/2026 04:09:48",
-      "lat": 30.37208366666667,
-      "location": "Hwy 1088",
-      "locationType": 5,
-      "lon": -90.030979,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "04:52",
-      "serviceType": 1,
-      "startTime": "08/18/2026 01:10:22",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -89,7 +28,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/18/2026 5:00:00 AM",
+      "endTime": "8/18/2026 7:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -98,7 +37,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394591",
-      "lastUpdateTime": "08/18/2026 04:09:48",
+      "lastUpdateTime": "08/18/2026 04:49:48",
       "lat": 31.6017085,
       "location": "North Colfax",
       "locationType": 5,
@@ -106,7 +45,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:00",
+      "restorationTime": "07:00",
       "serviceType": 1,
       "startTime": "08/18/2026 02:02:08",
       "status": 1,
@@ -412,7 +351,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394593",
-      "lastUpdateTime": "08/18/2026 04:09:48",
+      "lastUpdateTime": "08/18/2026 04:49:48",
       "lat": 30.22131462962962,
       "location": "Berkley Street",
       "locationType": 5,
@@ -423,6 +362,89 @@
       "restorationTime": "06:15",
       "serviceType": 1,
       "startTime": "08/18/2026 04:05:12",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219031",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303044,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761904,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000056338",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303357,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.762065,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000156204",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303044,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761904,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016979",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303222,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.762377,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000129643",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.303188,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.761667,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/18/2026 6:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394594",
+      "lastUpdateTime": "08/18/2026 04:49:48",
+      "lat": 30.303171000000003,
+      "location": "Roberts Road",
+      "locationType": 5,
+      "lon": -89.7619834,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:30",
+      "serviceType": 1,
+      "startTime": "08/18/2026 04:23:12",
       "status": 1,
       "zipCode": null
     }
