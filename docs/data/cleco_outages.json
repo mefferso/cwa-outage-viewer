@@ -1,78 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-19T07:49:28.491907+00:00",
+  "cachedAtUtc": "2026-08-19T08:23:49.094193+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000274416",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.229928,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.32896,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000310458",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.230988,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.327897,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000209860",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.23111,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.327023,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000348623",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.230011,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.326239,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "8/19/2026 4:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394795",
-      "lastUpdateTime": "08/19/2026 02:39:50",
-      "lat": 31.23050925,
-      "location": "Libuse",
-      "locationType": 5,
-      "lon": -92.32752975,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "04:45",
-      "serviceType": 1,
-      "startTime": "08/19/2026 01:46:51",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -98,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394797",
-      "lastUpdateTime": "08/19/2026 02:39:50",
+      "lastUpdateTime": "08/19/2026 03:09:50",
       "lat": 31.30611,
       "location": "Shady Oaks",
       "locationType": 5,
@@ -109,6 +37,45 @@
       "restorationTime": "04:45",
       "serviceType": 1,
       "startTime": "08/19/2026 02:34:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000231170",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.317935,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.441085,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/19/2026 5:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394798",
+      "lastUpdateTime": "08/19/2026 03:09:50",
+      "lat": 31.317935,
+      "location": "Webster Street",
+      "locationType": 5,
+      "lon": -92.441085,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "05:15",
+      "serviceType": 1,
+      "startTime": "08/19/2026 03:00:08",
       "status": 1,
       "zipCode": null
     }
