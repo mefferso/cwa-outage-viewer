@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-19T22:59:07.350533+00:00",
+  "cachedAtUtc": "2026-08-19T23:31:37.622587+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -72,7 +72,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "8/19/2026 7:15:00 PM",
+      "endTime": "8/19/2026 7:14:40 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395081",
-      "lastUpdateTime": "08/19/2026 17:49:51",
+      "lastUpdateTime": "08/19/2026 18:19:51",
       "lat": 30.483943333333333,
       "location": "Covington",
       "locationType": 5,
@@ -89,7 +89,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "19:14",
       "serviceType": 1,
       "startTime": "08/19/2026 17:05:03",
       "status": 1,
@@ -131,7 +131,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395082",
-      "lastUpdateTime": "08/19/2026 17:49:51",
+      "lastUpdateTime": "08/19/2026 18:19:51",
       "lat": 29.9290405,
       "location": "Duboin",
       "locationType": 5,
@@ -181,7 +181,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395085",
-      "lastUpdateTime": "08/19/2026 17:49:51",
+      "lastUpdateTime": "08/19/2026 18:19:51",
       "lat": 30.802475,
       "location": "Pine Prarie",
       "locationType": 5,
@@ -199,41 +199,63 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000108776",
+            "outageDetailAttribute1": "6000222070",
             "outageDetailAttribute2": null
           },
-          "lat": 30.752017,
-          "location": "BEAUREGARD",
+          "lat": 30.0143,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -93.558608,
-          "zipCode": "70653"
+          "lon": -91.74848,
+          "zipCode": "70563"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000013392",
+            "outageDetailAttribute1": "6000027530",
             "outageDetailAttribute2": null
           },
-          "lat": 30.751818,
-          "location": "BEAUREGARD",
+          "lat": 30.01471,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -93.55843,
-          "zipCode": "70653"
+          "lon": -91.74929,
+          "zipCode": "70563"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000172940",
+            "outageDetailAttribute1": "6000179961",
             "outageDetailAttribute2": null
           },
-          "lat": 30.751977,
-          "location": "BEAUREGARD",
+          "lat": 30.014543,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -93.558237,
-          "zipCode": "70653"
+          "lon": -91.748247,
+          "zipCode": "70563"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000332240",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.015214,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.749229,
+          "zipCode": "70563"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000247888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.01598,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.7489,
+          "zipCode": "70563"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 5,
       "description": null,
-      "endTime": "8/19/2026 7:45:00 PM",
+      "endTime": "8/19/2026 8:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -241,18 +263,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395086",
-      "lastUpdateTime": "08/19/2026 17:49:51",
-      "lat": 30.75193733333333,
-      "location": "Cole",
+      "incidentId": "INC 8105395088",
+      "lastUpdateTime": "08/19/2026 18:19:51",
+      "lat": 30.0149494,
+      "location": "Belle Place",
       "locationType": 5,
-      "lon": -93.558425,
+      "lon": -91.74882919999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:45",
+      "restorationTime": "20:00",
       "serviceType": 1,
-      "startTime": "08/19/2026 17:41:35",
+      "startTime": "08/19/2026 17:53:35",
       "status": 1,
       "zipCode": null
     }
