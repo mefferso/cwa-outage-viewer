@@ -1,45 +1,78 @@
 {
-  "cachedAtUtc": "2026-08-19T22:01:14.292817+00:00",
+  "cachedAtUtc": "2026-08-19T22:36:12.191720+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000124945",
+            "outageDetailAttribute1": "6000029169",
             "outageDetailAttribute2": null
           },
-          "lat": 30.278114,
-          "location": "ST. MARTIN",
+          "lat": 30.48419,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.898494,
-          "zipCode": "70517"
+          "lon": -90.098168,
+          "zipCode": "70433"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000215753",
+            "outageDetailAttribute1": "6000251696",
             "outageDetailAttribute2": null
           },
-          "lat": 30.278114,
-          "location": "ST. MARTIN",
+          "lat": 30.483739,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.898494,
-          "zipCode": "70517"
+          "lon": -90.098139,
+          "zipCode": "70433"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000241970",
+            "outageDetailAttribute1": "6000027877",
             "outageDetailAttribute2": null
           },
-          "lat": 30.278125,
-          "location": "ST. MARTIN",
+          "lat": 30.483943,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.898504,
-          "zipCode": "70517"
+          "lon": -90.098214,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288218",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483931,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098223,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353764",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483931,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098223,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.483926,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.098217,
+          "zipCode": "70433"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 6,
       "description": null,
-      "endTime": "8/19/2026 6:30:00 PM",
+      "endTime": "8/19/2026 7:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -47,18 +80,68 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395078",
-      "lastUpdateTime": "08/19/2026 16:49:51",
-      "lat": 30.278117666666663,
-      "location": "Breaux Bridge",
+      "incidentId": "INC 8105395081",
+      "lastUpdateTime": "08/19/2026 17:19:51",
+      "lat": 30.483943333333333,
+      "location": "Covington",
       "locationType": 5,
-      "lon": -91.89849733333334,
+      "lon": -90.09819733333335,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "19:15",
       "serviceType": 1,
-      "startTime": "08/19/2026 16:21:28",
+      "startTime": "08/19/2026 17:05:03",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207271",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.928928,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.863328,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051940",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.929153,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.86357,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/19/2026 7:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395082",
+      "lastUpdateTime": "08/19/2026 17:19:51",
+      "lat": 29.9290405,
+      "location": "Duboin",
+      "locationType": 5,
+      "lon": -91.863449,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:15",
+      "serviceType": 1,
+      "startTime": "08/19/2026 17:13:14",
       "status": 1,
       "zipCode": null
     }
