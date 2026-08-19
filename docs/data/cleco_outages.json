@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-19T11:14:36.321325+00:00",
+  "cachedAtUtc": "2026-08-19T11:44:06.731767+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394874",
-      "lastUpdateTime": "08/19/2026 05:59:50",
+      "lastUpdateTime": "08/19/2026 06:29:50",
       "lat": 30.486969833333333,
       "location": "Covington",
       "locationType": 5,
@@ -92,6 +92,45 @@
       "restorationTime": "07:30",
       "serviceType": 1,
       "startTime": "08/19/2026 05:21:43",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000111756",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15114,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25664,
+          "zipCode": "71446"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/19/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394875",
+      "lastUpdateTime": "08/19/2026 06:29:50",
+      "lat": 31.15114,
+      "location": "Leesville Plant",
+      "locationType": 5,
+      "lon": -93.25664,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "08/19/2026 06:21:44",
       "status": 1,
       "zipCode": null
     }
