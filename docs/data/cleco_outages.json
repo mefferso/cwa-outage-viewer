@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-19T12:14:07.612317+00:00",
+  "cachedAtUtc": "2026-08-19T13:13:51.284568+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394874",
-      "lastUpdateTime": "08/19/2026 06:59:50",
+      "lastUpdateTime": "08/19/2026 07:59:50",
       "lat": 30.486969833333333,
       "location": "Covington",
       "locationType": 5,
@@ -99,19 +99,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000111756",
+            "outageDetailAttribute1": "6000153154",
             "outageDetailAttribute2": null
           },
-          "lat": 31.15114,
-          "location": "VERNON",
+          "lat": 29.864292,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -93.25664,
-          "zipCode": "71446"
+          "lon": -91.541394,
+          "zipCode": "70523"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000019534",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.864539,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.541781,
+          "zipCode": "70523"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "8/19/2026 8:30:00 AM",
+      "endTime": "8/19/2026 9:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -119,18 +130,190 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105394875",
-      "lastUpdateTime": "08/19/2026 06:59:50",
-      "lat": 31.15114,
-      "location": "Leesville Plant",
+      "incidentId": "INC 8105394877",
+      "lastUpdateTime": "08/19/2026 07:59:50",
+      "lat": 29.8644155,
+      "location": "Charenton",
       "locationType": 5,
-      "lon": -93.25664,
+      "lon": -91.54158749999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:30",
+      "restorationTime": "09:15",
       "serviceType": 1,
-      "startTime": "08/19/2026 06:21:44",
+      "startTime": "08/19/2026 07:04:31",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213279",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.538657,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.603145,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271906",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.538612,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.604112,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.537202,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.603242,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087191",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.53726,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.604873,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000344215",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.536569,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.602097,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000344216",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.537267,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.606142,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "8/19/2026 9:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394888",
+      "lastUpdateTime": "08/19/2026 07:59:50",
+      "lat": 31.5375945,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.60393516666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:30",
+      "serviceType": 1,
+      "startTime": "08/19/2026 07:22:46",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000030965",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.41545,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.389575,
+          "zipCode": "71405"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/19/2026 10:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394899",
+      "lastUpdateTime": "08/19/2026 07:59:50",
+      "lat": 31.41545,
+      "location": "Flagon",
+      "locationType": 5,
+      "lon": -92.389575,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:00",
+      "serviceType": 1,
+      "startTime": "08/19/2026 07:48:55",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000228507",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.282487,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.7696,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/19/2026 10:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105394900",
+      "lastUpdateTime": "08/19/2026 07:59:50",
+      "lat": 30.282487,
+      "location": "Florida Avenue",
+      "locationType": 5,
+      "lon": -89.7696,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:00",
+      "serviceType": 1,
+      "startTime": "08/19/2026 07:53:32",
       "status": 1,
       "zipCode": null
     }
