@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-19T16:25:15.877170+00:00",
+  "cachedAtUtc": "2026-08-19T16:56:41.220413+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -708,8 +708,8 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394978",
-      "lastUpdateTime": "08/19/2026 11:09:50",
-      "lat": 30.362602343749995,
+      "lastUpdateTime": "08/19/2026 11:49:50",
+      "lat": 30.36260234374999,
       "location": "Lambert Street",
       "locationType": 5,
       "lon": -90.079164703125,
@@ -719,67 +719,6 @@
       "restorationTime": "13:00",
       "serviceType": 1,
       "startTime": "08/19/2026 10:13:06",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000019646",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.792303,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.497703,
-          "zipCode": "70538"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000003648",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.792369,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.496877,
-          "zipCode": "70538"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000072887",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.792385,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.496924,
-          "zipCode": "70538"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "8/19/2026 12:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105394990",
-      "lastUpdateTime": "08/19/2026 11:09:50",
-      "lat": 29.792352333333337,
-      "location": "Third St. Franklin Diesel",
-      "locationType": 5,
-      "lon": -91.497168,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "12:45",
-      "serviceType": 1,
-      "startTime": "08/19/2026 10:31:19",
       "status": 1,
       "zipCode": null
     },
@@ -841,7 +780,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105394994",
-      "lastUpdateTime": "08/19/2026 11:09:50",
+      "lastUpdateTime": "08/19/2026 11:49:50",
       "lat": 29.81851275,
       "location": "Teche",
       "locationType": 5,
@@ -924,7 +863,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395006",
-      "lastUpdateTime": "08/19/2026 11:09:50",
+      "lastUpdateTime": "08/19/2026 11:49:50",
       "lat": 30.292607799999995,
       "location": "Breaux Bridge",
       "locationType": 5,
@@ -963,7 +902,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395007",
-      "lastUpdateTime": "08/19/2026 11:09:50",
+      "lastUpdateTime": "08/19/2026 11:49:50",
       "lat": 29.817362,
       "location": "Yokley Rd.",
       "locationType": 5,
@@ -974,6 +913,128 @@
       "restorationTime": "13:15",
       "serviceType": 1,
       "startTime": "08/19/2026 11:08:38",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025808",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487288,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.094738,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163461",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487288,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.094738,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314490",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487237,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.095277,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096065",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487167,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.094918,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057254",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487535,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.095012,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/19/2026 1:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395011",
+      "lastUpdateTime": "08/19/2026 11:49:50",
+      "lat": 30.487303000000004,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.09493660000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:15",
+      "serviceType": 1,
+      "startTime": "08/19/2026 11:12:22",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000222564",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.062605,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.267847,
+          "zipCode": "71325"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/19/2026 1:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395012",
+      "lastUpdateTime": "08/19/2026 11:49:50",
+      "lat": 31.062605,
+      "location": "Cheneyville",
+      "locationType": 5,
+      "lon": -92.267847,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:30",
+      "serviceType": 1,
+      "startTime": "08/19/2026 11:15:22",
       "status": 1,
       "zipCode": null
     }
