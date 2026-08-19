@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-19T21:07:04.243392+00:00",
+  "cachedAtUtc": "2026-08-19T21:39:29.192340+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395019",
-      "lastUpdateTime": "08/19/2026 15:59:50",
+      "lastUpdateTime": "08/19/2026 16:29:51",
       "lat": 30.203877249999998,
       "location": "Mill Street",
       "locationType": 5,
@@ -70,6 +70,128 @@
       "restorationTime": "16:57",
       "serviceType": 1,
       "startTime": "08/19/2026 12:14:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229515",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.058296,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.490085,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229750",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.056745,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.489988,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092253",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.0579,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.48956,
+          "zipCode": "71346"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/19/2026 6:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395074",
+      "lastUpdateTime": "08/19/2026 16:29:51",
+      "lat": 31.057647,
+      "location": "Forest Hill",
+      "locationType": 5,
+      "lon": -92.48987766666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:15",
+      "serviceType": 1,
+      "startTime": "08/19/2026 16:12:46",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124945",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278114,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.898494,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215753",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278114,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.898494,
+          "zipCode": "70517"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000241970",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.278125,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.898504,
+          "zipCode": "70517"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/19/2026 6:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395078",
+      "lastUpdateTime": "08/19/2026 16:29:51",
+      "lat": 30.278117666666663,
+      "location": "Breaux Bridge",
+      "locationType": 5,
+      "lon": -91.89849733333334,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:30",
+      "serviceType": 1,
+      "startTime": "08/19/2026 16:21:28",
       "status": 1,
       "zipCode": null
     }
