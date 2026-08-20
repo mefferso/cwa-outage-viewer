@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-19T23:54:11.703927+00:00",
+  "cachedAtUtc": "2026-08-20T01:22:00.352670+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395081",
-      "lastUpdateTime": "08/19/2026 18:39:51",
+      "lastUpdateTime": "08/19/2026 20:09:51",
       "lat": 30.483943333333333,
       "location": "Covington",
       "locationType": 5,
@@ -122,7 +122,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/19/2026 7:15:00 PM",
+      "endTime": "8/19/2026 7:00:42 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -131,7 +131,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395082",
-      "lastUpdateTime": "08/19/2026 18:39:51",
+      "lastUpdateTime": "08/19/2026 20:09:51",
       "lat": 29.9290405,
       "location": "Duboin",
       "locationType": 5,
@@ -139,7 +139,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "19:00",
       "serviceType": 1,
       "startTime": "08/19/2026 17:13:14",
       "status": 1,
@@ -149,30 +149,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000033924",
+            "outageDetailAttribute1": "6000048176",
             "outageDetailAttribute2": null
           },
-          "lat": 30.802535,
-          "location": "EVANGELINE",
+          "lat": 31.341495,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.385425,
-          "zipCode": "70586"
+          "lon": -92.507372,
+          "zipCode": "71303"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000152869",
+            "outageDetailAttribute1": "6000062665",
             "outageDetailAttribute2": null
           },
-          "lat": 30.802415,
-          "location": "EVANGELINE",
+          "lat": 31.341516,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.385815,
-          "zipCode": "71322"
+          "lon": -92.507617,
+          "zipCode": "71303"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000053920",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.341432,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.507585,
+          "zipCode": "71303"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/19/2026 7:45:00 PM",
+      "endTime": "8/19/2026 10:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -180,101 +191,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395085",
-      "lastUpdateTime": "08/19/2026 18:39:51",
-      "lat": 30.802475,
-      "location": "Pine Prarie",
+      "incidentId": "INC 8105395093",
+      "lastUpdateTime": "08/19/2026 20:09:51",
+      "lat": 31.341480999999998,
+      "location": "Boyce Road",
       "locationType": 5,
-      "lon": -92.38561999999999,
+      "lon": -92.50752466666667,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:45",
+      "restorationTime": "22:15",
       "serviceType": 1,
-      "startTime": "08/19/2026 17:33:03",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000222070",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.0143,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.74848,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000027530",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.01471,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.74929,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000179961",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.014543,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.748247,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000332240",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.015214,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.749229,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000247888",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.01598,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.7489,
-          "zipCode": "70563"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "8/19/2026 8:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105395088",
-      "lastUpdateTime": "08/19/2026 18:39:51",
-      "lat": 30.0149494,
-      "location": "Belle Place",
-      "locationType": 5,
-      "lon": -91.74882919999999,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "20:00",
-      "serviceType": 1,
-      "startTime": "08/19/2026 17:53:35",
+      "startTime": "08/19/2026 20:02:09",
       "status": 1,
       "zipCode": null
     }
