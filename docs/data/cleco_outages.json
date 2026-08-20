@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T19:43:54.340899+00:00",
+  "cachedAtUtc": "2026-08-20T20:11:27.230666+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -248,7 +248,7 @@
       ],
       "affectedCount": 22,
       "description": null,
-      "endTime": "8/20/2026 4:15:00 PM",
+      "endTime": "8/20/2026 7:16:03 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -257,7 +257,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395215",
-      "lastUpdateTime": "08/20/2026 14:29:52",
+      "lastUpdateTime": "08/20/2026 14:59:52",
       "lat": 31.014860136363644,
       "location": "Longbridge",
       "locationType": 5,
@@ -265,7 +265,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:15",
+      "restorationTime": "19:16",
       "serviceType": 1,
       "startTime": "08/20/2026 13:21:07",
       "status": 1,
@@ -329,7 +329,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395219",
-      "lastUpdateTime": "08/20/2026 14:29:52",
+      "lastUpdateTime": "08/20/2026 14:59:52",
       "lat": 30.216193799999996,
       "location": "Jacob Street",
       "locationType": 5,
@@ -436,7 +436,7 @@
       ],
       "affectedCount": 8,
       "description": null,
-      "endTime": "8/20/2026 4:00:00 PM",
+      "endTime": "8/20/2026 4:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -445,7 +445,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395221",
-      "lastUpdateTime": "08/20/2026 14:29:52",
+      "lastUpdateTime": "08/20/2026 14:59:52",
       "lat": 31.558484875000005,
       "location": "Pollock",
       "locationType": 5,
@@ -453,9 +453,125 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:00",
+      "restorationTime": "16:45",
       "serviceType": 1,
       "startTime": "08/20/2026 13:59:57",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000152410",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.999958,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.716617,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224947",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.000121,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.716771,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000324450",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.00028,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.71694,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251851",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.000803,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.714407,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291348",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.999907,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.716202,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000043135",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.000328,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.715535,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000175259",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.000328,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.715535,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000260053",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.000328,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.715535,
+          "zipCode": "71052"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "8/20/2026 5:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395226",
+      "lastUpdateTime": "08/20/2026 14:59:52",
+      "lat": 32.000223444444444,
+      "location": "Mansfield",
+      "locationType": 5,
+      "lon": -93.71601766666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "17:00",
+      "serviceType": 1,
+      "startTime": "08/20/2026 14:47:29",
       "status": 1,
       "zipCode": null
     }
