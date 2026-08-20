@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T04:10:19.948834+00:00",
+  "cachedAtUtc": "2026-08-20T04:54:25.406258+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -37,7 +37,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395082",
-      "lastUpdateTime": "08/19/2026 22:59:51",
+      "lastUpdateTime": "08/19/2026 23:39:51",
       "lat": 29.9290405,
       "location": "Duboin",
       "locationType": 5,
@@ -48,6 +48,144 @@
       "restorationTime": "19:00",
       "serviceType": 1,
       "startTime": "08/19/2026 17:13:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183378",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.611947,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.655913,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000029959",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.613499,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.654293,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000142521",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.613499,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.654293,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000217726",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.610685,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.652653,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087792",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.61389,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.65472,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291452",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.61205,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.65392,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000219072",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.612945,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.656865,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272579",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.613275,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.654368,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213594",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.611048,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.655035,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158715",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.61122,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.65477,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 10,
+      "description": null,
+      "endTime": "8/20/2026 1:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395104",
+      "lastUpdateTime": "08/19/2026 23:39:51",
+      "lat": 31.612405800000005,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.654683,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "01:30",
+      "serviceType": 1,
+      "startTime": "08/19/2026 23:29:30",
       "status": 1,
       "zipCode": null
     }
