@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T01:22:00.352670+00:00",
+  "cachedAtUtc": "2026-08-20T02:35:12.109914+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395081",
-      "lastUpdateTime": "08/19/2026 20:09:51",
+      "lastUpdateTime": "08/19/2026 21:19:51",
       "lat": 30.483943333333333,
       "location": "Covington",
       "locationType": 5,
@@ -131,7 +131,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395082",
-      "lastUpdateTime": "08/19/2026 20:09:51",
+      "lastUpdateTime": "08/19/2026 21:19:51",
       "lat": 29.9290405,
       "location": "Duboin",
       "locationType": 5,
@@ -149,39 +149,17 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000048176",
+            "outageDetailAttribute1": "6000344836",
             "outageDetailAttribute2": null
           },
-          "lat": 31.341495,
-          "location": "RAPIDES",
+          "lat": 31.62066,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.507372,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000062665",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.341516,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.507617,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000053920",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.341432,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.507585,
-          "zipCode": "71303"
+          "lon": -92.80129,
+          "zipCode": "71454"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 1,
       "description": null,
       "endTime": "8/19/2026 10:15:00 PM",
       "extension": {
@@ -191,18 +169,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395093",
-      "lastUpdateTime": "08/19/2026 20:09:51",
-      "lat": 31.341480999999998,
-      "location": "Boyce Road",
+      "incidentId": "INC 8105395094",
+      "lastUpdateTime": "08/19/2026 21:19:51",
+      "lat": 31.62066,
+      "location": "North Colfax",
       "locationType": 5,
-      "lon": -92.50752466666667,
+      "lon": -92.80129,
       "name": null,
       "notes": "",
       "outageType": 2,
       "restorationTime": "22:15",
       "serviceType": 1,
-      "startTime": "08/19/2026 20:02:09",
+      "startTime": "08/19/2026 20:10:39",
       "status": 1,
       "zipCode": null
     }
