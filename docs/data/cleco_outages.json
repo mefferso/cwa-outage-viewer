@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T14:45:30.448571+00:00",
+  "cachedAtUtc": "2026-08-20T15:19:21.273829+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395117",
-      "lastUpdateTime": "08/20/2026 09:39:52",
+      "lastUpdateTime": "08/20/2026 10:09:52",
       "lat": 31.345051500000004,
       "location": "Edgewood",
       "locationType": 5,
@@ -98,7 +98,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395120",
-      "lastUpdateTime": "08/20/2026 09:39:52",
+      "lastUpdateTime": "08/20/2026 10:09:52",
       "lat": 30.98645,
       "location": "Coughlin",
       "locationType": 5,
@@ -139,7 +139,7 @@
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "8/20/2026 10:15:00 AM",
+      "endTime": "8/20/2026 12:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -148,7 +148,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395142",
-      "lastUpdateTime": "08/20/2026 09:39:52",
+      "lastUpdateTime": "08/20/2026 10:09:52",
       "lat": 31.142413,
       "location": "Bordelonville",
       "locationType": 5,
@@ -156,70 +156,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "10:15",
+      "restorationTime": "12:15",
       "serviceType": 1,
       "startTime": "08/20/2026 08:06:16",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000211394",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.685628,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.224938,
-          "zipCode": "70342"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000214330",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.6856,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.22494,
-          "zipCode": "70342"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334904",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.68501,
-          "location": "ST. MARY",
-          "locationType": 2,
-          "lon": -91.22354,
-          "zipCode": "70342"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "8/20/2026 10:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105395152",
-      "lastUpdateTime": "08/20/2026 09:39:52",
-      "lat": 29.685412666666668,
-      "location": "Ramos 138",
-      "locationType": 5,
-      "lon": -91.22447266666666,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "10:30",
-      "serviceType": 1,
-      "startTime": "08/20/2026 08:29:03",
       "status": 1,
       "zipCode": null
     },
@@ -281,7 +220,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395163",
-      "lastUpdateTime": "08/20/2026 09:39:52",
+      "lastUpdateTime": "08/20/2026 10:09:52",
       "lat": 29.752873750000003,
       "location": "Verdunville",
       "locationType": 5,
@@ -292,6 +231,200 @@
       "restorationTime": "11:15",
       "serviceType": 1,
       "startTime": "08/20/2026 09:02:18",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000013716",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.277535,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.760028,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000143102",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.277634,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.760009,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000069103",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.277713,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.759887,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/20/2026 12:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395174",
+      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lat": 30.27762733333333,
+      "location": "Terrace Avenue",
+      "locationType": 5,
+      "lon": -89.75997466666668,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:00",
+      "serviceType": 1,
+      "startTime": "08/20/2026 09:49:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000211394",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.685628,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.224938,
+          "zipCode": "70342"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214330",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.6856,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.22494,
+          "zipCode": "70342"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000334904",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.68501,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.22354,
+          "zipCode": "70342"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/20/2026 12:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395178",
+      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lat": 29.685412666666668,
+      "location": "Ramos 138",
+      "locationType": 5,
+      "lon": -91.22447266666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:15",
+      "serviceType": 1,
+      "startTime": "08/20/2026 10:02:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000043904",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.291223,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.863288,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096261",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.291492,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.862846,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.291282,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.862745,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162320",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.291492,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.862846,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/20/2026 12:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395179",
+      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lat": 30.291372250000002,
+      "location": "North Slidell",
+      "locationType": 5,
+      "lon": -89.86293125,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:15",
+      "serviceType": 1,
+      "startTime": "08/20/2026 10:06:06",
       "status": 1,
       "zipCode": null
     }
