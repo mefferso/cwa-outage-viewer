@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T09:15:47.510919+00:00",
+  "cachedAtUtc": "2026-08-20T09:53:42.253625+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -147,7 +147,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395112",
-      "lastUpdateTime": "08/20/2026 03:59:51",
+      "lastUpdateTime": "08/20/2026 04:39:51",
       "lat": 31.30624807692308,
       "location": "Bayou Rapides",
       "locationType": 5,
@@ -165,30 +165,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000210470",
+            "outageDetailAttribute1": "6000155086",
             "outageDetailAttribute2": null
           },
-          "lat": 31.525603,
-          "location": "GRANT",
+          "lat": 30.222425,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.701817,
-          "zipCode": "71417"
+          "lon": -92.373225,
+          "zipCode": "70526"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000151413",
+            "outageDetailAttribute1": "6000155066",
             "outageDetailAttribute2": null
           },
-          "lat": 31.525627,
-          "location": "GRANT",
+          "lat": 30.222403,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.701828,
-          "zipCode": "71417"
+          "lon": -92.373053,
+          "zipCode": "70526"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000226797",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.222543,
+          "location": "ACADIA",
+          "locationType": 2,
+          "lon": -92.37288,
+          "zipCode": "70526"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/20/2026 5:45:00 AM",
+      "endTime": "8/20/2026 6:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -196,18 +207,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395114",
-      "lastUpdateTime": "08/20/2026 03:59:51",
-      "lat": 31.525615000000002,
-      "location": "North Colfax",
+      "incidentId": "INC 8105395115",
+      "lastUpdateTime": "08/20/2026 04:39:51",
+      "lat": 30.222457000000002,
+      "location": "Avenue I",
       "locationType": 5,
-      "lon": -92.7018225,
+      "lon": -92.37305266666668,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:45",
+      "restorationTime": "06:15",
       "serviceType": 1,
-      "startTime": "08/20/2026 03:42:53",
+      "startTime": "08/20/2026 04:05:25",
       "status": 1,
       "zipCode": null
     }
