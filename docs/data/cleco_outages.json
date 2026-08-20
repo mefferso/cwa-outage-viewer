@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T10:31:29.865561+00:00",
+  "cachedAtUtc": "2026-08-20T11:00:06.804684+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395117",
-      "lastUpdateTime": "08/20/2026 05:19:52",
+      "lastUpdateTime": "08/20/2026 05:49:52",
       "lat": 31.345051500000004,
       "location": "Edgewood",
       "locationType": 5,
@@ -98,7 +98,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395118",
-      "lastUpdateTime": "08/20/2026 05:19:52",
+      "lastUpdateTime": "08/20/2026 05:49:52",
       "lat": 31.343845,
       "location": "Edgewood",
       "locationType": 5,
@@ -148,7 +148,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395119",
-      "lastUpdateTime": "08/20/2026 05:19:52",
+      "lastUpdateTime": "08/20/2026 05:49:52",
       "lat": 31.525615000000002,
       "location": "North Colfax",
       "locationType": 5,
@@ -159,6 +159,45 @@
       "restorationTime": "07:15",
       "serviceType": 1,
       "startTime": "08/20/2026 05:03:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314813",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.98645,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.12596,
+          "zipCode": "71322"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/20/2026 4:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395120",
+      "lastUpdateTime": "08/20/2026 05:49:52",
+      "lat": 30.98645,
+      "location": "Coughlin",
+      "locationType": 5,
+      "lon": -92.12596,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:00",
+      "serviceType": 1,
+      "startTime": "08/20/2026 05:32:06",
       "status": 1,
       "zipCode": null
     }
