@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T15:19:21.273829+00:00",
+  "cachedAtUtc": "2026-08-20T15:55:19.561490+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395117",
-      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lastUpdateTime": "08/20/2026 10:39:52",
       "lat": 31.345051500000004,
       "location": "Edgewood",
       "locationType": 5,
@@ -98,7 +98,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395120",
-      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lastUpdateTime": "08/20/2026 10:39:52",
       "lat": 30.98645,
       "location": "Coughlin",
       "locationType": 5,
@@ -148,7 +148,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395142",
-      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lastUpdateTime": "08/20/2026 10:39:52",
       "lat": 31.142413,
       "location": "Bordelonville",
       "locationType": 5,
@@ -220,7 +220,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395163",
-      "lastUpdateTime": "08/20/2026 10:09:52",
+      "lastUpdateTime": "08/20/2026 10:39:52",
       "lat": 29.752873750000003,
       "location": "Verdunville",
       "locationType": 5,
@@ -238,97 +238,36 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000013716",
+            "outageDetailAttribute1": "6000180020",
             "outageDetailAttribute2": null
           },
-          "lat": 30.277535,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.760028,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000143102",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.277634,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.760009,
-          "zipCode": "70458"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000069103",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.277713,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.759887,
-          "zipCode": "70458"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "8/20/2026 12:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105395174",
-      "lastUpdateTime": "08/20/2026 10:09:52",
-      "lat": 30.27762733333333,
-      "location": "Terrace Avenue",
-      "locationType": 5,
-      "lon": -89.75997466666668,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "12:00",
-      "serviceType": 1,
-      "startTime": "08/20/2026 09:49:51",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000211394",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.685628,
+          "lat": 29.697267,
           "location": "ST. MARY",
           "locationType": 2,
-          "lon": -91.224938,
-          "zipCode": "70342"
+          "lon": -91.267807,
+          "zipCode": "70380"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000214330",
+            "outageDetailAttribute1": "6000100519",
             "outageDetailAttribute2": null
           },
-          "lat": 29.6856,
+          "lat": 29.697262,
           "location": "ST. MARY",
           "locationType": 2,
-          "lon": -91.22494,
-          "zipCode": "70342"
+          "lon": -91.267837,
+          "zipCode": "70380"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000334904",
+            "outageDetailAttribute1": "6000304320",
             "outageDetailAttribute2": null
           },
-          "lat": 29.68501,
+          "lat": 29.697476,
           "location": "ST. MARY",
           "locationType": 2,
-          "lon": -91.22354,
-          "zipCode": "70342"
+          "lon": -91.267948,
+          "zipCode": "70380"
         }
       ],
       "affectedCount": 3,
@@ -341,18 +280,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395178",
-      "lastUpdateTime": "08/20/2026 10:09:52",
-      "lat": 29.685412666666668,
-      "location": "Ramos 138",
+      "incidentId": "INC 8105395180",
+      "lastUpdateTime": "08/20/2026 10:39:52",
+      "lat": 29.697335,
+      "location": "Bayou Vista",
       "locationType": 5,
-      "lon": -91.22447266666666,
+      "lon": -91.26786399999999,
       "name": null,
       "notes": "",
       "outageType": 2,
       "restorationTime": "12:15",
       "serviceType": 1,
-      "startTime": "08/20/2026 10:02:06",
+      "startTime": "08/20/2026 10:10:50",
       "status": 1,
       "zipCode": null
     },
@@ -360,52 +299,927 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000043904",
+            "outageDetailAttribute1": "6000192972",
             "outageDetailAttribute2": null
           },
-          "lat": 30.291223,
-          "location": "ST. TAMMANY",
+          "lat": 30.788629,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -89.863288,
-          "zipCode": "70458"
+          "lon": -92.282625,
+          "zipCode": "71322"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000096261",
+            "outageDetailAttribute1": "6000162984",
             "outageDetailAttribute2": null
           },
-          "lat": 30.291492,
-          "location": "ST. TAMMANY",
+          "lat": 30.835231,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -89.862846,
-          "zipCode": "70460"
+          "lon": -92.305228,
+          "zipCode": "71367"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000303888",
+            "outageDetailAttribute1": "6000123685",
             "outageDetailAttribute2": null
           },
-          "lat": 30.291282,
-          "location": "ST. TAMMANY",
+          "lat": 30.820812,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -89.862745,
-          "zipCode": "70458"
+          "lon": -92.322177,
+          "zipCode": "71367"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000162320",
+            "outageDetailAttribute1": "6000114820",
             "outageDetailAttribute2": null
           },
-          "lat": 30.291492,
-          "location": "ST. TAMMANY",
+          "lat": 30.842681,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -89.862846,
-          "zipCode": "70460"
+          "lon": -92.286406,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288195",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.818537,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.320547,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180549",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.82329,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.325812,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096381",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.838651,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.27324,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000267689",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.823383,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.325712,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005882",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834943,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.306733,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257504",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.82274,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.325612,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257981",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834933,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.304182,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000148811",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.817158,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.320495,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000076256",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822664,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.323645,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066991",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.836767,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.296452,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000313182",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834948,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.306739,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000192843",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.809025,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32618,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000206430",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.810692,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32556,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184908",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822791,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.327534,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006304",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.82241,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.328077,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035712",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.81415,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.318904,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000123932",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.8137,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32032,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162787",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.838651,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.27324,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096416",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.842896,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.26132,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172812",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.841382,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.287685,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194442",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.829329,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32266,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253216",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.824738,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322546,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000090356",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.823426,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322747,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000067099",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.82955,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.322972,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253215",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.823263,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.324547,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257225",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822575,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.324823,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193313",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.828033,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322496,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066409",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.823426,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322747,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140255",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.82344,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.322746,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025030",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.82645,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.323203,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066432",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822343,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.327613,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166528",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.838268,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.273085,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000162815",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.844502,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.283231,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049095",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.835435,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.303764,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066659",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822845,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32304,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000232868",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.78862,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.282631,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000293676",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.83863,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.27473,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096485",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834383,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.300293,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000122395",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.835865,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.305158,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000211746",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.828045,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322504,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140280",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822742,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.325616,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261349",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.925034,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.447329,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006280",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822859,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.324329,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000159399",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.811525,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.324593,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000068742",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.839238,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28642,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140883",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834927,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.303397,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000072080",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.827709,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.322513,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000192811",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.925034,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.447329,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158612",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822258,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.325157,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096109",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822656,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.323619,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000293338",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.833039,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.281379,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000232985",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.80886,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32251,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025433",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.838115,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.27304,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000311373",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834322,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.297627,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000225496",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834028,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.29792,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000079547",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.789813,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.283332,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000324027",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.836524,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.297551,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000328866",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.81793,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.32087,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000066451",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.814393,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.325808,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006543",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.823213,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.328233,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000276888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834943,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.306733,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000338369",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.809109,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322243,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000341311",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.81846,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.31803,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000310579",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.834945,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.306754,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000137957",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.79854,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.30547,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194367",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.835364,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.301021,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000257277",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.810752,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.325473,
+          "zipCode": "71322"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351257",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.829341,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322631,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351353",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.822976,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.326901,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000355068",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.808918,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322124,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356824",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.811856,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.324564,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140766",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.836582,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.296251,
+          "zipCode": "71367"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000140928",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.829685,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.322823,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 77,
+      "description": null,
+      "endTime": "8/20/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395183",
+      "lastUpdateTime": "08/20/2026 10:39:52",
+      "lat": 30.827531428571422,
+      "location": "Morrison Corner",
+      "locationType": 5,
+      "lon": -92.31404611688312,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "08/20/2026 10:18:28",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172574",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.788619,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.28407,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000249883",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.788619,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28407,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055776",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.788619,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28407,
+          "zipCode": "70586"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172378",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.788619,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.28407,
+          "zipCode": "70586"
         }
       ],
       "affectedCount": 4,
       "description": null,
-      "endTime": "8/20/2026 12:15:00 PM",
+      "endTime": "8/20/2026 12:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -413,18 +1227,112 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395179",
-      "lastUpdateTime": "08/20/2026 10:09:52",
-      "lat": 30.291372250000002,
-      "location": "North Slidell",
+      "incidentId": "INC 8105395188",
+      "lastUpdateTime": "08/20/2026 10:39:52",
+      "lat": 30.788619,
+      "location": "Morrison Corner",
       "locationType": 5,
-      "lon": -89.86293125,
+      "lon": -92.28407,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "12:15",
+      "restorationTime": "12:30",
       "serviceType": 1,
-      "startTime": "08/20/2026 10:06:06",
+      "startTime": "08/20/2026 10:26:03",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146781",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.547303,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.111103,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000327015",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.547623,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.111186,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000153055",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.54702,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.11101,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022682",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.547623,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.111202,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000211765",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.547623,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.111202,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353148",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.547623,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.111186,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "8/20/2026 12:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395190",
+      "lastUpdateTime": "08/20/2026 10:39:52",
+      "lat": 30.547453444444443,
+      "location": "Guidry Street",
+      "locationType": 5,
+      "lon": -92.11114122222222,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:45",
+      "serviceType": 1,
+      "startTime": "08/20/2026 10:35:44",
       "status": 1,
       "zipCode": null
     }
