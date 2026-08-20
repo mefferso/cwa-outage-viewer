@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-20T11:00:06.804684+00:00",
+  "cachedAtUtc": "2026-08-20T11:36:22.814397+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -59,7 +59,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395117",
-      "lastUpdateTime": "08/20/2026 05:49:52",
+      "lastUpdateTime": "08/20/2026 06:29:52",
       "lat": 31.345051500000004,
       "location": "Edgewood",
       "locationType": 5,
@@ -70,45 +70,6 @@
       "restorationTime": "07:00",
       "serviceType": 1,
       "startTime": "08/20/2026 04:57:40",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000078801",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.343845,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.403643,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/20/2026 7:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105395118",
-      "lastUpdateTime": "08/20/2026 05:49:52",
-      "lat": 31.343845,
-      "location": "Edgewood",
-      "locationType": 5,
-      "lon": -92.403643,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "07:00",
-      "serviceType": 1,
-      "startTime": "08/20/2026 04:59:57",
       "status": 1,
       "zipCode": null
     },
@@ -148,7 +109,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395119",
-      "lastUpdateTime": "08/20/2026 05:49:52",
+      "lastUpdateTime": "08/20/2026 06:29:52",
       "lat": 31.525615000000002,
       "location": "North Colfax",
       "locationType": 5,
@@ -187,7 +148,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395120",
-      "lastUpdateTime": "08/20/2026 05:49:52",
+      "lastUpdateTime": "08/20/2026 06:29:52",
       "lat": 30.98645,
       "location": "Coughlin",
       "locationType": 5,
@@ -198,6 +159,45 @@
       "restorationTime": "16:00",
       "serviceType": 1,
       "startTime": "08/20/2026 05:32:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000332153",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.516806,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.419328,
+          "zipCode": "70535"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/20/2026 8:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395121",
+      "lastUpdateTime": "08/20/2026 06:29:52",
+      "lat": 30.516806,
+      "location": "Eighth Street (Eunice)",
+      "locationType": 5,
+      "lon": -92.419328,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:30",
+      "serviceType": 1,
+      "startTime": "08/20/2026 06:17:29",
       "status": 1,
       "zipCode": null
     }
