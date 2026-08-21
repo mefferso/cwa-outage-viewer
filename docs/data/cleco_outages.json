@@ -1,45 +1,6 @@
 {
-  "cachedAtUtc": "2026-08-21T13:56:00.665678+00:00",
+  "cachedAtUtc": "2026-08-21T14:42:34.049288+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000099589",
-            "outageDetailAttribute2": null
-          },
-          "lat": 32.072801,
-          "location": "DESOTO",
-          "locationType": 2,
-          "lon": -93.69178,
-          "zipCode": "71052"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "8/21/2026 8:47:10 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105395281",
-      "lastUpdateTime": "08/21/2026 08:49:54",
-      "lat": 32.072801,
-      "location": "Mansfield",
-      "locationType": 5,
-      "lon": -93.69178,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "08:47",
-      "serviceType": 1,
-      "startTime": "08/21/2026 06:48:10",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -87,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395282",
-      "lastUpdateTime": "08/21/2026 08:49:54",
+      "lastUpdateTime": "08/21/2026 09:29:54",
       "lat": 30.400858333333332,
       "location": "Cedarwood",
       "locationType": 5,
@@ -181,7 +142,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395286",
-      "lastUpdateTime": "08/21/2026 08:49:54",
+      "lastUpdateTime": "08/21/2026 09:29:54",
       "lat": 30.285761833333336,
       "location": "Breaux Bridge",
       "locationType": 5,
@@ -192,6 +153,84 @@
       "restorationTime": "09:45",
       "serviceType": 1,
       "startTime": "08/21/2026 07:41:16",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000316910",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.406501,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.458619,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/21/2026 11:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395298",
+      "lastUpdateTime": "08/21/2026 09:29:54",
+      "lat": 31.406501,
+      "location": "Alpine",
+      "locationType": 5,
+      "lon": -92.458619,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:15",
+      "serviceType": 1,
+      "startTime": "08/21/2026 09:07:17",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258905",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.94431,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.602283,
+          "zipCode": "71433"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/21/2026 11:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395301",
+      "lastUpdateTime": "08/21/2026 09:29:54",
+      "lat": 30.94431,
+      "location": "Glenmora",
+      "locationType": 5,
+      "lon": -92.602283,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:30",
+      "serviceType": 1,
+      "startTime": "08/21/2026 09:16:03",
       "status": 1,
       "zipCode": null
     }
