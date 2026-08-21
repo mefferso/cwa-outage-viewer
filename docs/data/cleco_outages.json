@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-21T15:16:27.719035+00:00",
+  "cachedAtUtc": "2026-08-21T15:52:57.869807+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -48,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395282",
-      "lastUpdateTime": "08/21/2026 10:09:54",
+      "lastUpdateTime": "08/21/2026 10:39:54",
       "lat": 30.400858333333332,
       "location": "Cedarwood",
       "locationType": 5,
@@ -142,7 +142,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395286",
-      "lastUpdateTime": "08/21/2026 10:09:54",
+      "lastUpdateTime": "08/21/2026 10:39:54",
       "lat": 30.285761833333336,
       "location": "Breaux Bridge",
       "locationType": 5,
@@ -160,19 +160,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000316910",
+            "outageDetailAttribute1": "6000065171",
             "outageDetailAttribute2": null
           },
-          "lat": 31.406501,
-          "location": "RAPIDES",
+          "lat": 31.104515,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -92.458619,
-          "zipCode": "71360"
+          "lon": -91.93705,
+          "zipCode": "71355"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/21/2026 11:15:00 AM",
+      "endTime": "8/21/2026 12:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -180,18 +180,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395298",
-      "lastUpdateTime": "08/21/2026 10:09:54",
-      "lat": 31.406501,
-      "location": "Alpine",
+      "incidentId": "INC 8105395309",
+      "lastUpdateTime": "08/21/2026 10:39:54",
+      "lat": 31.104515,
+      "location": "Longbridge",
       "locationType": 5,
-      "lon": -92.458619,
+      "lon": -91.93705,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "11:15",
+      "restorationTime": "12:30",
       "serviceType": 1,
-      "startTime": "08/21/2026 09:07:17",
+      "startTime": "08/21/2026 10:18:38",
       "status": 1,
       "zipCode": null
     },
@@ -199,19 +199,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000258905",
+            "outageDetailAttribute1": "6000061998",
             "outageDetailAttribute2": null
           },
-          "lat": 30.94431,
-          "location": "RAPIDES",
+          "lat": 30.874502,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -92.602283,
-          "zipCode": "71433"
+          "lon": -92.413953,
+          "zipCode": "70585"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308393",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.8742,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.414543,
+          "zipCode": "70585"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258994",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.873777,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.41349,
+          "zipCode": "70585"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/21/2026 11:30:00 AM",
+      "endTime": "8/21/2026 12:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -219,18 +241,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105395301",
-      "lastUpdateTime": "08/21/2026 10:09:54",
-      "lat": 30.94431,
-      "location": "Glenmora",
+      "incidentId": "INC 8105395311",
+      "lastUpdateTime": "08/21/2026 10:39:54",
+      "lat": 30.874159666666667,
+      "location": "Pine Prarie",
       "locationType": 5,
-      "lon": -92.602283,
+      "lon": -92.41399533333333,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "11:30",
+      "restorationTime": "12:45",
       "serviceType": 1,
-      "startTime": "08/21/2026 09:16:03",
+      "startTime": "08/21/2026 10:36:22",
       "status": 1,
       "zipCode": null
     }
