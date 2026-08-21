@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-21T03:05:03.244215+00:00",
+  "cachedAtUtc": "2026-08-21T03:58:02.922579+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395266",
-      "lastUpdateTime": "08/20/2026 21:49:53",
+      "lastUpdateTime": "08/20/2026 22:49:53",
       "lat": 30.483943333333333,
       "location": "Covington",
       "locationType": 5,
@@ -92,6 +92,89 @@
       "restorationTime": "23:45",
       "serviceType": 1,
       "startTime": "08/20/2026 19:34:53",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000084247",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.32254,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.416552,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007948",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.32256,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.41682,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268127",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.322793,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.416602,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000317612",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.322676,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.416103,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201312",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.32254,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.416552,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/21/2026 12:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395271",
+      "lastUpdateTime": "08/20/2026 22:49:53",
+      "lat": 31.3226218,
+      "location": "Fox Street",
+      "locationType": 5,
+      "lon": -92.4165258,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "00:30",
+      "serviceType": 1,
+      "startTime": "08/20/2026 22:27:37",
       "status": 1,
       "zipCode": null
     }
