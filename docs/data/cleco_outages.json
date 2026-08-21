@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-21T11:02:19.595817+00:00",
+  "cachedAtUtc": "2026-08-21T11:36:12.876072+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -125,7 +125,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395279",
-      "lastUpdateTime": "08/21/2026 05:49:53",
+      "lastUpdateTime": "08/21/2026 06:29:53",
       "lat": 31.1555048,
       "location": "East Leesville",
       "locationType": 5,
@@ -136,6 +136,45 @@
       "restorationTime": "08:00",
       "serviceType": 1,
       "startTime": "08/21/2026 03:55:39",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215705",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.28071,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.824507,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/21/2026 8:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105395280",
+      "lastUpdateTime": "08/21/2026 06:29:53",
+      "lat": 30.28071,
+      "location": "Thompson Dr",
+      "locationType": 5,
+      "lon": -89.824507,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:00",
+      "serviceType": 1,
+      "startTime": "08/21/2026 05:59:28",
       "status": 1,
       "zipCode": null
     }
