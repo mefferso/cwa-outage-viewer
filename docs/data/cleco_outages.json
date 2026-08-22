@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-22T21:02:25.562622+00:00",
+  "cachedAtUtc": "2026-08-22T21:32:29.482217+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -235,7 +235,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105395967",
-      "lastUpdateTime": "08/22/2026 15:49:56",
+      "lastUpdateTime": "08/22/2026 16:19:56",
       "lat": 29.98393945,
       "location": "Nelson Canal Road",
       "locationType": 5,
@@ -246,6 +246,45 @@
       "restorationTime": "18:54",
       "serviceType": 1,
       "startTime": "08/21/2026 20:07:52",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038128",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.755142,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.697192,
+          "zipCode": "71065"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/22/2026 6:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105396576",
+      "lastUpdateTime": "08/22/2026 16:19:56",
+      "lat": 31.755142,
+      "location": "Mansfield",
+      "locationType": 5,
+      "lon": -93.697192,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:15",
+      "serviceType": 1,
+      "startTime": "08/22/2026 16:06:06",
       "status": 1,
       "zipCode": null
     }
