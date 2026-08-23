@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-23T20:33:28.570074+00:00",
+  "cachedAtUtc": "2026-08-23T20:55:59.013636+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396576",
-      "lastUpdateTime": "08/23/2026 15:19:58",
+      "lastUpdateTime": "08/23/2026 15:49:58",
       "lat": 31.755142,
       "location": "Mansfield",
       "locationType": 5,
@@ -760,7 +760,7 @@
       ],
       "affectedCount": 65,
       "description": null,
-      "endTime": "8/23/2026 5:00:00 PM",
+      "endTime": "8/23/2026 5:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -769,111 +769,17 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396668",
-      "lastUpdateTime": "08/23/2026 15:19:58",
+      "lastUpdateTime": "08/23/2026 15:49:58",
       "lat": 31.442147046153853,
       "location": "Alpine",
       "locationType": 5,
-      "lon": -92.46884701538455,
+      "lon": -92.46884701538454,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "17:45",
       "serviceType": 1,
       "startTime": "08/23/2026 14:59:32",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000106380",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.275622,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.788614,
-          "zipCode": "70460"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000219024",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.275297,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.788663,
-          "zipCode": "70460"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000120668",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.27511,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.78895,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000010978",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.275622,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.788614,
-          "zipCode": "70460"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000071145",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.275622,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.788614,
-          "zipCode": "70460"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000165613",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.275418,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -89.788546,
-          "zipCode": "70460"
-        }
-      ],
-      "affectedCount": 6,
-      "description": null,
-      "endTime": "8/23/2026 5:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105396674",
-      "lastUpdateTime": "08/23/2026 15:19:58",
-      "lat": 30.2754485,
-      "location": "Bayou Liberty",
-      "locationType": 5,
-      "lon": -89.78866683333332,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "17:15",
-      "serviceType": 1,
-      "startTime": "08/23/2026 15:12:33",
       "status": 1,
       "zipCode": null
     },
@@ -924,7 +830,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396675",
-      "lastUpdateTime": "08/23/2026 15:19:58",
+      "lastUpdateTime": "08/23/2026 15:49:58",
       "lat": 30.277255999999998,
       "location": "Breaux Bridge",
       "locationType": 5,
@@ -942,52 +848,52 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000189518",
+            "outageDetailAttribute1": "6000276208",
             "outageDetailAttribute2": null
           },
-          "lat": 30.274305,
-          "location": "ST. MARTIN",
+          "lat": 31.07974,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -91.891737,
-          "zipCode": "70517"
+          "lon": -92.080123,
+          "zipCode": "71350"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000032875",
+            "outageDetailAttribute1": "6000025053",
             "outageDetailAttribute2": null
           },
-          "lat": 30.274397,
-          "location": "ST. MARTIN",
+          "lat": 31.080127,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -91.89141,
-          "zipCode": "70517"
+          "lon": -92.079657,
+          "zipCode": "71350"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000256658",
+            "outageDetailAttribute1": "6000187709",
             "outageDetailAttribute2": null
           },
-          "lat": 30.273787,
-          "location": "ST. MARTIN",
+          "lat": 31.079464,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -91.891709,
-          "zipCode": "70517"
+          "lon": -92.079991,
+          "zipCode": "71350"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000245100",
+            "outageDetailAttribute1": "6000340684",
             "outageDetailAttribute2": null
           },
-          "lat": 30.274238,
-          "location": "ST. MARTIN",
+          "lat": 31.07925,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -91.891912,
-          "zipCode": "70517"
+          "lon": -92.0802,
+          "zipCode": "71350"
         }
       ],
       "affectedCount": 4,
       "description": null,
-      "endTime": "8/23/2026 5:30:00 PM",
+      "endTime": "8/23/2026 5:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -995,18 +901,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105396676",
-      "lastUpdateTime": "08/23/2026 15:19:58",
-      "lat": 30.274181749999997,
-      "location": "Breaux Bridge",
+      "incidentId": "INC 8105396680",
+      "lastUpdateTime": "08/23/2026 15:49:58",
+      "lat": 31.079645250000002,
+      "location": "Marksville",
       "locationType": 5,
-      "lon": -91.89169199999999,
+      "lon": -92.07999275,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:30",
+      "restorationTime": "17:45",
       "serviceType": 1,
-      "startTime": "08/23/2026 15:18:54",
+      "startTime": "08/23/2026 15:33:42",
       "status": 1,
       "zipCode": null
     }
