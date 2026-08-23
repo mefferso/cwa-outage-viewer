@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-23T18:11:00.711684+00:00",
+  "cachedAtUtc": "2026-08-23T18:49:40.310461+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396576",
-      "lastUpdateTime": "08/23/2026 12:59:57",
+      "lastUpdateTime": "08/23/2026 13:39:57",
       "lat": 31.755142,
       "location": "Mansfield",
       "locationType": 5,
@@ -37,78 +37,6 @@
       "restorationTime": "12:15",
       "serviceType": 1,
       "startTime": "08/22/2026 16:06:06",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000001102",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.05839,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.521954,
-          "zipCode": "71430"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000062372",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.058391,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.52197,
-          "zipCode": "71430"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000135215",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.058755,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.522025,
-          "zipCode": "71430"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000229133",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.058391,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.52197,
-          "zipCode": "71430"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "8/23/2026 3:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105396647",
-      "lastUpdateTime": "08/23/2026 12:59:57",
-      "lat": 31.058481750000002,
-      "location": "Forest Hill",
-      "locationType": 5,
-      "lon": -92.52197975,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "15:00",
-      "serviceType": 1,
-      "startTime": "08/23/2026 08:52:38",
       "status": 1,
       "zipCode": null
     },
@@ -137,7 +65,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396661",
-      "lastUpdateTime": "08/23/2026 12:59:57",
+      "lastUpdateTime": "08/23/2026 13:39:57",
       "lat": 29.87004,
       "location": "Charenton",
       "locationType": 5,
@@ -155,19 +83,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000042507",
+            "outageDetailAttribute1": "6000250109",
             "outageDetailAttribute2": null
           },
-          "lat": 31.447835,
-          "location": "GRANT",
+          "lat": 30.247567,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.492137,
-          "zipCode": "71360"
+          "lon": -89.77023,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000189529",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.24746,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.770635,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263073",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.247378,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.770526,
+          "zipCode": "70458"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/23/2026 3:00:00 PM",
+      "endTime": "8/23/2026 3:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -175,18 +125,68 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105396662",
-      "lastUpdateTime": "08/23/2026 12:59:57",
-      "lat": 31.447835,
-      "location": "Alpine",
+      "incidentId": "INC 8105396664",
+      "lastUpdateTime": "08/23/2026 13:39:57",
+      "lat": 30.247468333333334,
+      "location": "Rigolet Slidell",
       "locationType": 5,
-      "lon": -92.492137,
+      "lon": -89.77046366666666,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:00",
+      "restorationTime": "15:30",
       "serviceType": 1,
-      "startTime": "08/23/2026 12:55:15",
+      "startTime": "08/23/2026 13:28:47",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312380",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.247658,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.770067,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000223021",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.248168,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.770018,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/23/2026 3:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105396665",
+      "lastUpdateTime": "08/23/2026 13:39:57",
+      "lat": 30.247913,
+      "location": "Rigolet Slidell",
+      "locationType": 5,
+      "lon": -89.77004249999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:30",
+      "serviceType": 1,
+      "startTime": "08/23/2026 13:29:16",
       "status": 1,
       "zipCode": null
     }
