@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-23T09:46:08.315136+00:00",
+  "cachedAtUtc": "2026-08-23T10:08:25.944378+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396576",
-      "lastUpdateTime": "08/23/2026 04:29:57",
+      "lastUpdateTime": "08/23/2026 04:59:57",
       "lat": 31.755142,
       "location": "Mansfield",
       "locationType": 5,
@@ -76,7 +76,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396614",
-      "lastUpdateTime": "08/23/2026 04:29:57",
+      "lastUpdateTime": "08/23/2026 04:59:57",
       "lat": 32.068165,
       "location": "Water St",
       "locationType": 5,
@@ -247,7 +247,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105396617",
-      "lastUpdateTime": "08/23/2026 04:29:57",
+      "lastUpdateTime": "08/23/2026 04:59:57",
       "lat": 31.357688538461538,
       "location": "Shady Oaks",
       "locationType": 5,
@@ -265,52 +265,30 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000051017",
+            "outageDetailAttribute1": "6000245146",
             "outageDetailAttribute2": null
           },
-          "lat": 29.90934,
-          "location": "IBERIA",
+          "lat": 30.272463,
+          "location": "ST. MARTIN",
           "locationType": 2,
-          "lon": -91.759621,
-          "zipCode": "70544"
+          "lon": -91.891325,
+          "zipCode": "70517"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000022816",
+            "outageDetailAttribute1": "6000245331",
             "outageDetailAttribute2": null
           },
-          "lat": 29.909835,
-          "location": "IBERIA",
+          "lat": 30.271282,
+          "location": "ST. MARTIN",
           "locationType": 2,
-          "lon": -91.760183,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000151412",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.909326,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.75962,
-          "zipCode": "70544"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000271805",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.90934,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.759621,
-          "zipCode": "70544"
+          "lon": -91.891822,
+          "zipCode": "70517"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "8/23/2026 6:30:00 AM",
+      "endTime": "8/23/2026 6:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -318,18 +296,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105396618",
-      "lastUpdateTime": "08/23/2026 04:29:57",
-      "lat": 29.9094334,
-      "location": "Darnall Rd.",
+      "incidentId": "INC 8105396621",
+      "lastUpdateTime": "08/23/2026 04:59:57",
+      "lat": 30.2718725,
+      "location": "Breaux Bridge",
       "locationType": 5,
-      "lon": -91.759733,
+      "lon": -91.89157349999999,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "06:30",
+      "restorationTime": "06:45",
       "serviceType": 1,
-      "startTime": "08/23/2026 04:23:59",
+      "startTime": "08/23/2026 04:40:59",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000201938",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.271628,
+          "location": "ST. MARTIN",
+          "locationType": 2,
+          "lon": -91.89222,
+          "zipCode": "70517"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/23/2026 6:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105396622",
+      "lastUpdateTime": "08/23/2026 04:59:57",
+      "lat": 30.271628,
+      "location": "Breaux Bridge",
+      "locationType": 5,
+      "lon": -91.89222,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:45",
+      "serviceType": 1,
+      "startTime": "08/23/2026 04:41:16",
       "status": 1,
       "zipCode": null
     }
