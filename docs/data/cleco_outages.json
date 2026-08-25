@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-25T12:18:37.256621+00:00",
+  "cachedAtUtc": "2026-08-25T13:24:24.707459+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -70,11 +70,11 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397310",
-      "lastUpdateTime": "08/25/2026 07:10:01",
-      "lat": 30.495110999999998,
+      "lastUpdateTime": "08/25/2026 08:10:01",
+      "lat": 30.495111,
       "location": "Abita Springs",
       "locationType": 5,
-      "lon": -90.05299120000001,
+      "lon": -90.0529912,
       "name": null,
       "notes": "",
       "outageType": 2,
@@ -109,7 +109,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397448",
-      "lastUpdateTime": "08/25/2026 07:10:01",
+      "lastUpdateTime": "08/25/2026 08:10:01",
       "lat": 31.750475,
       "location": "Mansfield",
       "locationType": 5,
@@ -148,7 +148,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397581",
-      "lastUpdateTime": "08/25/2026 07:10:01",
+      "lastUpdateTime": "08/25/2026 08:10:01",
       "lat": 30.277047,
       "location": "Breaux Bridge",
       "locationType": 5,
@@ -166,19 +166,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000012072",
+            "outageDetailAttribute1": "6000118963",
             "outageDetailAttribute2": null
           },
-          "lat": 30.510233,
+          "lat": 30.34161,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.054908,
-          "zipCode": "70435"
+          "lon": -90.00674,
+          "zipCode": "70448"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/25/2026 9:15:00 AM",
+      "endTime": "8/25/2026 10:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -186,18 +186,129 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105397583",
-      "lastUpdateTime": "08/25/2026 07:10:01",
-      "lat": 30.510233,
-      "location": "Covington",
+      "incidentId": "INC 8105397600",
+      "lastUpdateTime": "08/25/2026 08:10:01",
+      "lat": 30.34161,
+      "location": "Southeast Louisiana State Hospital",
       "locationType": 5,
-      "lon": -90.054908,
+      "lon": -90.00674,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:15",
+      "restorationTime": "10:00",
       "serviceType": 1,
-      "startTime": "08/25/2026 07:06:34",
+      "startTime": "08/25/2026 07:56:21",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000009002",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.525132,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.713378,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268534",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.524998,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.714007,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000084281",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.525283,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.713092,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/25/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105397607",
+      "lastUpdateTime": "08/25/2026 08:10:01",
+      "lat": 31.525137666666666,
+      "location": "North Colfax",
+      "locationType": 5,
+      "lon": -92.71349233333335,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "08/25/2026 08:09:28",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000278872",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.546125,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.508055,
+          "zipCode": "70515"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000214454",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.54633,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.508197,
+          "zipCode": "70515"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/25/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105397608",
+      "lastUpdateTime": "08/25/2026 08:10:01",
+      "lat": 30.5462275,
+      "location": "Rozas",
+      "locationType": 5,
+      "lon": -92.508126,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "08/25/2026 08:09:43",
       "status": 1,
       "zipCode": null
     }
