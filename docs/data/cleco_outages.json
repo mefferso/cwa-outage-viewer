@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-25T11:47:42.589205+00:00",
+  "cachedAtUtc": "2026-08-25T12:18:37.256621+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -70,7 +70,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397310",
-      "lastUpdateTime": "08/25/2026 06:40:01",
+      "lastUpdateTime": "08/25/2026 07:10:01",
       "lat": 30.495110999999998,
       "location": "Abita Springs",
       "locationType": 5,
@@ -100,7 +100,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "8/25/2026 7:15:00 AM",
+      "endTime": "8/25/2026 9:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -109,7 +109,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397448",
-      "lastUpdateTime": "08/25/2026 06:40:01",
+      "lastUpdateTime": "08/25/2026 07:10:01",
       "lat": 31.750475,
       "location": "Mansfield",
       "locationType": 5,
@@ -117,7 +117,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:15",
+      "restorationTime": "09:15",
       "serviceType": 1,
       "startTime": "08/24/2026 17:06:04",
       "status": 1,
@@ -127,63 +127,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000029191",
+            "outageDetailAttribute1": "6000354029",
             "outageDetailAttribute2": null
           },
-          "lat": 30.806685,
-          "location": "AVOYELLES",
+          "lat": 30.277047,
+          "location": "ST. MARTIN",
           "locationType": 2,
-          "lon": -92.173528,
-          "zipCode": "71322"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000184471",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.805613,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.171255,
-          "zipCode": "71322"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000071733",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.81272,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.174599,
-          "zipCode": "71322"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000338266",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.805613,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.171255,
-          "zipCode": "71322"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000290772",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.805753,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.171277,
-          "zipCode": "71322"
+          "lon": -91.897427,
+          "zipCode": "70517"
         }
       ],
-      "affectedCount": 5,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "8/25/2026 10:45:00 AM",
+      "endTime": "8/25/2026 8:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -191,18 +147,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105397514",
-      "lastUpdateTime": "08/25/2026 06:40:01",
-      "lat": 30.8072768,
-      "location": "Morrison Corner",
+      "incidentId": "INC 8105397581",
+      "lastUpdateTime": "08/25/2026 07:10:01",
+      "lat": 30.277047,
+      "location": "Breaux Bridge",
       "locationType": 5,
-      "lon": -92.1723828,
+      "lon": -91.897427,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "10:45",
+      "restorationTime": "08:45",
       "serviceType": 1,
-      "startTime": "08/24/2026 20:56:35",
+      "startTime": "08/25/2026 06:40:25",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000012072",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.510233,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.054908,
+          "zipCode": "70435"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/25/2026 9:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105397583",
+      "lastUpdateTime": "08/25/2026 07:10:01",
+      "lat": 30.510233,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.054908,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:15",
+      "serviceType": 1,
+      "startTime": "08/25/2026 07:06:34",
       "status": 1,
       "zipCode": null
     }
