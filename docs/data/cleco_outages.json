@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-25T07:05:19.685493+00:00",
+  "cachedAtUtc": "2026-08-25T07:56:05.469139+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -70,7 +70,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397310",
-      "lastUpdateTime": "08/25/2026 01:50:00",
+      "lastUpdateTime": "08/25/2026 02:40:00",
       "lat": 30.495110999999998,
       "location": "Abita Springs",
       "locationType": 5,
@@ -109,7 +109,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397448",
-      "lastUpdateTime": "08/25/2026 01:50:00",
+      "lastUpdateTime": "08/25/2026 02:40:00",
       "lat": 31.750475,
       "location": "Mansfield",
       "locationType": 5,
@@ -192,7 +192,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397514",
-      "lastUpdateTime": "08/25/2026 01:50:00",
+      "lastUpdateTime": "08/25/2026 02:40:00",
       "lat": 30.8072768,
       "location": "Morrison Corner",
       "locationType": 5,
@@ -266,7 +266,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "8/25/2026 3:00:00 AM",
+      "endTime": "8/25/2026 3:54:34 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -275,7 +275,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105397572",
-      "lastUpdateTime": "08/25/2026 01:50:00",
+      "lastUpdateTime": "08/25/2026 02:40:00",
       "lat": 29.801720999999997,
       "location": "Third St. Franklin Diesel",
       "locationType": 5,
@@ -283,9 +283,59 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "03:00",
+      "restorationTime": "03:54",
       "serviceType": 1,
       "startTime": "08/25/2026 00:51:15",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197751",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.480832,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.057738,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000167189",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.480798,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.057432,
+          "zipCode": "70420"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/25/2026 4:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105397574",
+      "lastUpdateTime": "08/25/2026 02:40:00",
+      "lat": 30.480815,
+      "location": "Abita Springs",
+      "locationType": 5,
+      "lon": -90.057585,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:30",
+      "serviceType": 1,
+      "startTime": "08/25/2026 02:15:08",
       "status": 1,
       "zipCode": null
     }
