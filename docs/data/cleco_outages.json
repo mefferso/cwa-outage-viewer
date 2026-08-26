@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-08-26T11:36:10.557077+00:00",
+  "cachedAtUtc": "2026-08-26T12:01:45.606833+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -70,7 +70,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105398014",
-      "lastUpdateTime": "08/26/2026 06:30:02",
+      "lastUpdateTime": "08/26/2026 06:50:02",
       "lat": 29.720752800000003,
       "location": "Louisa",
       "locationType": 5,
@@ -120,7 +120,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105398015",
-      "lastUpdateTime": "08/26/2026 06:30:02",
+      "lastUpdateTime": "08/26/2026 06:50:02",
       "lat": 29.753644,
       "location": "Verdunville",
       "locationType": 5,
@@ -131,6 +131,45 @@
       "restorationTime": "07:45",
       "serviceType": 1,
       "startTime": "08/26/2026 05:34:36",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000325039",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.328281,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.534487,
+          "zipCode": "71303"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "8/26/2026 9:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105398020",
+      "lastUpdateTime": "08/26/2026 06:50:02",
+      "lat": 31.328281,
+      "location": "England Air Force Base",
+      "locationType": 5,
+      "lon": -92.534487,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:00",
+      "serviceType": 1,
+      "startTime": "08/26/2026 06:49:23",
       "status": 1,
       "zipCode": null
     }
