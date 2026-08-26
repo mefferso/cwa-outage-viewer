@@ -1,6 +1,79 @@
 {
-  "cachedAtUtc": "2026-08-26T06:00:51.291785+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-26T07:03:44.323197+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000205203",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.678128,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.43025,
+          "zipCode": "70554"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000338784",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.676872,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.431,
+          "zipCode": "70554"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000281332",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.678128,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.43025,
+          "zipCode": "70554"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000092361",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.678468,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.429632,
+          "zipCode": "70554"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/26/2026 4:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105398005",
+      "lastUpdateTime": "08/26/2026 01:50:02",
+      "lat": 30.677899,
+      "location": "Vidrine",
+      "locationType": 5,
+      "lon": -92.43028299999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "04:00",
+      "serviceType": 1,
+      "startTime": "08/26/2026 01:48:43",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
