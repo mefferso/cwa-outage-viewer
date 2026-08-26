@@ -1,6 +1,140 @@
 {
-  "cachedAtUtc": "2026-08-26T10:17:43.935214+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-08-26T10:55:55.768557+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000175557",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.720897,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.867025,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000113294",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.720552,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.866922,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000144978",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.720878,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.86719,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000248051",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.720832,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.867077,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000311284",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.720605,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.866687,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/26/2026 7:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105398014",
+      "lastUpdateTime": "08/26/2026 05:50:02",
+      "lat": 29.720752800000003,
+      "location": "Louisa",
+      "locationType": 5,
+      "lon": -91.8669802,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:30",
+      "serviceType": 1,
+      "startTime": "08/26/2026 05:15:20",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005905",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.753562,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.393813,
+          "zipCode": "70538"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087563",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.753726,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.393509,
+          "zipCode": "70538"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "8/26/2026 7:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105398015",
+      "lastUpdateTime": "08/26/2026 05:50:02",
+      "lat": 29.753644,
+      "location": "Verdunville",
+      "locationType": 5,
+      "lon": -91.393661,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:45",
+      "serviceType": 1,
+      "startTime": "08/26/2026 05:34:36",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
