@@ -1,56 +1,45 @@
 {
-  "cachedAtUtc": "2026-08-31T08:45:45.593935+00:00",
+  "cachedAtUtc": "2026-08-31T16:24:26.249878+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000173870",
+            "outageDetailAttribute1": "6000015923",
             "outageDetailAttribute2": null
           },
-          "lat": 31.192103,
-          "location": "RAPIDES",
+          "lat": 31.539428,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.643027,
-          "zipCode": "71346"
+          "lon": -92.363585,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000128164",
+            "outageDetailAttribute1": "6000079452",
             "outageDetailAttribute2": null
           },
-          "lat": 31.1901,
-          "location": "RAPIDES",
+          "lat": 31.540122,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.64255,
-          "zipCode": "71346"
+          "lon": -92.362683,
+          "zipCode": "71467"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000238198",
+            "outageDetailAttribute1": "6000119682",
             "outageDetailAttribute2": null
           },
-          "lat": 31.18296,
-          "location": "RAPIDES",
+          "lat": 31.539463,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.631909,
-          "zipCode": "71346"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000191928",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.183852,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.629887,
-          "zipCode": "71346"
+          "lon": -92.36339,
+          "zipCode": "71467"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "8/31/2026 9:36:13 PM",
+      "endTime": "8/31/2026 12:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +47,234 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105399326",
-      "lastUpdateTime": "08/31/2026 03:30:11",
-      "lat": 31.187253750000004,
-      "location": "Rapides",
+      "incidentId": "INC 8105399396",
+      "lastUpdateTime": "08/31/2026 11:10:12",
+      "lat": 31.539671,
+      "location": "Pollock",
       "locationType": 5,
-      "lon": -92.63684325,
+      "lon": -92.36321933333333,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "21:36",
+      "restorationTime": "12:00",
       "serviceType": 1,
-      "startTime": "08/30/2026 15:44:43",
+      "startTime": "08/31/2026 07:05:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000126092",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.34863,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.77604,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000003857",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.349035,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.777242,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000255240",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.34828,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.7762,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158527",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.348398,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.777421,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000187275",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.34828,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.77654,
+          "zipCode": "70452"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "8/31/2026 12:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105399463",
+      "lastUpdateTime": "08/31/2026 11:10:12",
+      "lat": 30.348524599999998,
+      "location": "North Slidell",
+      "locationType": 5,
+      "lon": -89.7766886,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:45",
+      "serviceType": 1,
+      "startTime": "08/31/2026 10:35:33",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000307785",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.338415,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.751042,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001006",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.338262,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.751872,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061423",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.337618,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.752115,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134181",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.338145,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75136,
+          "zipCode": "70452"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "8/31/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105399466",
+      "lastUpdateTime": "08/31/2026 11:10:12",
+      "lat": 30.33811,
+      "location": "Pearl River",
+      "locationType": 5,
+      "lon": -89.75159725,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "08/31/2026 10:45:19",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118694",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.066291,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.446325,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000337562",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.067667,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.44693,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000076148",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.068052,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.446588,
+          "zipCode": "71346"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "8/31/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105399469",
+      "lastUpdateTime": "08/31/2026 11:10:12",
+      "lat": 31.067336666666666,
+      "location": "Lecompte",
+      "locationType": 5,
+      "lon": -92.44661433333334,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "08/31/2026 10:47:03",
       "status": 1,
       "zipCode": null
     }
