@@ -1,45 +1,34 @@
 {
-  "cachedAtUtc": "2026-09-02T01:15:35.087255+00:00",
+  "cachedAtUtc": "2026-09-02T05:56:08.527949+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000146161",
+            "outageDetailAttribute1": "6000286008",
             "outageDetailAttribute2": null
           },
-          "lat": 31.261158,
+          "lat": 31.072533,
           "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.699303,
-          "zipCode": "71409"
+          "lon": -92.430376,
+          "zipCode": "71430"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000146090",
+            "outageDetailAttribute1": "6000023959",
             "outageDetailAttribute2": null
           },
-          "lat": 31.260532,
+          "lat": 31.072533,
           "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.697868,
-          "zipCode": "71409"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000094590",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.261662,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.698062,
-          "zipCode": "71409"
+          "lon": -92.430376,
+          "zipCode": "71430"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "9/1/2026 8:30:00 PM",
+      "endTime": "9/2/2026 2:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -47,18 +36,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105400061",
-      "lastUpdateTime": "09/01/2026 20:00:14",
-      "lat": 31.261117333333335,
-      "location": "Gardner",
+      "incidentId": "INC 8105400075",
+      "lastUpdateTime": "09/02/2026 00:40:14",
+      "lat": 31.072533,
+      "location": "Lecompte",
       "locationType": 5,
-      "lon": -92.69841100000001,
+      "lon": -92.430376,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "20:30",
+      "restorationTime": "02:45",
       "serviceType": 1,
-      "startTime": "09/01/2026 17:40:57",
+      "startTime": "09/01/2026 22:42:21",
       "status": 1,
       "zipCode": null
     },
@@ -66,52 +55,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000262758",
+            "outageDetailAttribute1": "6000188327",
             "outageDetailAttribute2": null
           },
-          "lat": 31.53949,
-          "location": "SABINE",
+          "lat": 31.357207,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -93.715343,
-          "zipCode": "71486"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000028126",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.539516,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.715167,
-          "zipCode": "71486"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334806",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.539332,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.714977,
-          "zipCode": "71486"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000012166",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.539303,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.715343,
-          "zipCode": "71486"
+          "lon": -92.355693,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "9/1/2026 10:00:00 PM",
+      "endTime": "9/2/2026 1:15:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -119,18 +75,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105400065",
-      "lastUpdateTime": "09/01/2026 20:00:14",
-      "lat": 31.539410250000003,
-      "location": "Many 138",
+      "incidentId": "INC 8105400076",
+      "lastUpdateTime": "09/02/2026 00:40:14",
+      "lat": 31.357207,
+      "location": "Libuse",
       "locationType": 5,
-      "lon": -93.7152075,
+      "lon": -92.355693,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "22:00",
+      "restorationTime": "01:15",
       "serviceType": 1,
-      "startTime": "09/01/2026 17:47:12",
+      "startTime": "09/01/2026 23:14:08",
       "status": 1,
       "zipCode": null
     }
