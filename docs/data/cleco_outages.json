@@ -1,23 +1,23 @@
 {
-  "cachedAtUtc": "2026-09-05T17:22:28.659583+00:00",
+  "cachedAtUtc": "2026-09-05T19:14:25.298494+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000324949",
+            "outageDetailAttribute1": "6000027928",
             "outageDetailAttribute2": null
           },
-          "lat": 31.946036,
-          "location": "DESOTO",
+          "lat": 30.936113,
+          "location": "AVOYELLES",
           "locationType": 2,
-          "lon": -93.633447,
-          "zipCode": "71052"
+          "lon": -92.174193,
+          "zipCode": "71322"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "9/5/2026 10:00:00 AM",
+      "endTime": "9/5/2026 3:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,19 +25,224 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105400893",
-      "lastUpdateTime": "09/05/2026 12:10:20",
-      "lat": 31.946036,
-      "location": "Mansfield Compressor Station",
+      "incidentId": "INC 8105400952",
+      "lastUpdateTime": "09/05/2026 14:00:21",
+      "lat": 30.936113,
+      "location": "Bunkie REA",
       "locationType": 5,
-      "lon": -93.633447,
+      "lon": -92.174193,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "10:00",
+      "restorationTime": "15:30",
       "serviceType": 1,
-      "startTime": "09/04/2026 16:51:20",
-      "status": 0,
+      "startTime": "09/05/2026 13:27:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238210",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.767752,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.68606,
+          "zipCode": "71463"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300122",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.767166,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.686746,
+          "zipCode": "71463"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045166",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.761149,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.683278,
+          "zipCode": "71463"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000218962",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.761764,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.680985,
+          "zipCode": "71463"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000173722",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.767325,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.684916,
+          "zipCode": "71463"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "9/5/2026 3:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105400954",
+      "lastUpdateTime": "09/05/2026 14:00:21",
+      "lat": 30.7650312,
+      "location": "Oakdale",
+      "locationType": 5,
+      "lon": -92.68439700000002,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:45",
+      "serviceType": 1,
+      "startTime": "09/05/2026 13:37:03",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000090815",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.564937,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.321435,
+          "zipCode": "70524"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000144276",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.565581,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.321927,
+          "zipCode": "70524"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057770",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.561666,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.323381,
+          "zipCode": "70524"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000015742",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.565227,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.321442,
+          "zipCode": "70524"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213981",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.565493,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.321543,
+          "zipCode": "70524"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "9/5/2026 3:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105400956",
+      "lastUpdateTime": "09/05/2026 14:00:21",
+      "lat": 30.564580799999998,
+      "location": "Mamou",
+      "locationType": 5,
+      "lon": -92.3219456,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:45",
+      "serviceType": 1,
+      "startTime": "09/05/2026 13:44:47",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227955",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.596017,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.312074,
+          "zipCode": "70586"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "9/5/2026 4:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105400959",
+      "lastUpdateTime": "09/05/2026 14:00:21",
+      "lat": 30.596017,
+      "location": "Oak Street",
+      "locationType": 5,
+      "lon": -92.312074,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "16:00",
+      "serviceType": 1,
+      "startTime": "09/05/2026 13:48:18",
+      "status": 1,
       "zipCode": null
     }
   ],
