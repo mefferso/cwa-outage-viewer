@@ -1,388 +1,23 @@
 {
-  "cachedAtUtc": "2026-09-06T16:17:45.915589+00:00",
+  "cachedAtUtc": "2026-09-06T18:25:04.364585+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000164666",
+            "outageDetailAttribute1": "6000355894",
             "outageDetailAttribute2": null
           },
-          "lat": 31.078259,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.097946,
-          "zipCode": "71350"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000156702",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.07825,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.097934,
-          "zipCode": "71350"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "9/6/2026 11:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105401155",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 31.0782545,
-      "location": "Hessmer",
-      "locationType": 5,
-      "lon": -92.09794,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "11:15",
-      "serviceType": 1,
-      "startTime": "09/06/2026 07:12:33",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000047446",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.567861,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.47295,
-          "zipCode": "71449"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "9/6/2026 12:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105401167",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 31.567861,
-      "location": "Many 138",
-      "locationType": 5,
-      "lon": -93.47295,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "12:45",
-      "serviceType": 1,
-      "startTime": "09/06/2026 08:44:45",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000079551",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.128943,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.239683,
-          "zipCode": "71302"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000077578",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.129473,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.237722,
-          "zipCode": "71302"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "9/6/2026 11:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105401172",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 31.129296333333333,
-      "location": "Cheneyville",
-      "locationType": 5,
-      "lon": -92.23837566666667,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "11:30",
-      "serviceType": 1,
-      "startTime": "09/06/2026 09:24:28",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000264121",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098498,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.851094,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000264138",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.09775,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.834412,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000099584",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.09848,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.851098,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000072538",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098168,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.84206,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000214469",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098503,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.843165,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000003395",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.097962,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.841493,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000118041",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.09831,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.839982,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000158563",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.09692,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.83429,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000168574",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098679,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.853765,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000331275",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.09822,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.84715,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000311461",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098587,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.848142,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000197806",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098057,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.833398,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000050906",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098127,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.840193,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000055743",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098937,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.832105,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000254051",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.097608,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.832175,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000197782",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.098486,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.851109,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000352724",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.097921,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.834857,
-          "zipCode": "71355"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000278881",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.09849,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.84692,
-          "zipCode": "71355"
-        }
-      ],
-      "affectedCount": 18,
-      "description": null,
-      "endTime": "9/6/2026 1:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105401177",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 31.09820572222222,
-      "location": "Bordelonville",
-      "locationType": 5,
-      "lon": -91.84207822222221,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "13:00",
-      "serviceType": 1,
-      "startTime": "09/06/2026 10:01:38",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000054897",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.441103,
+          "lat": 31.53299,
           "location": "GRANT",
           "locationType": 2,
-          "lon": -92.423623,
-          "zipCode": "71467"
+          "lon": -92.679034,
+          "zipCode": "71417"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "9/6/2026 12:15:00 PM",
+      "endTime": "9/6/2026 3:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -390,18 +25,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105401179",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 31.441103,
-      "location": "Ball",
+      "incidentId": "INC 8105401185",
+      "lastUpdateTime": "09/06/2026 13:10:22",
+      "lat": 31.53299,
+      "location": "Colfax",
       "locationType": 5,
-      "lon": -92.423623,
+      "lon": -92.679034,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "12:15",
+      "restorationTime": "15:15",
       "serviceType": 1,
-      "startTime": "09/06/2026 10:09:54",
+      "startTime": "09/06/2026 13:03:54",
       "status": 1,
       "zipCode": null
     },
@@ -409,162 +44,85 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000333066",
+            "outageDetailAttribute1": "6000283892",
             "outageDetailAttribute2": null
           },
-          "lat": 29.989138,
-          "location": "IBERIA",
+          "lat": 31.532058,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.797192,
-          "zipCode": "70560"
+          "lon": -92.645573,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000240298",
+            "outageDetailAttribute1": "6000289846",
             "outageDetailAttribute2": null
           },
-          "lat": 29.98971,
-          "location": "IBERIA",
+          "lat": 31.527124,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.796505,
-          "zipCode": "70560"
+          "lon": -92.641608,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000148137",
+            "outageDetailAttribute1": "6000062523",
             "outageDetailAttribute2": null
           },
-          "lat": 29.989079,
-          "location": "IBERIA",
+          "lat": 31.527178,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.796545,
-          "zipCode": "70560"
+          "lon": -92.641672,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000066722",
+            "outageDetailAttribute1": "6000116707",
             "outageDetailAttribute2": null
           },
-          "lat": 29.98904,
-          "location": "IBERIA",
+          "lat": 31.53329,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.79662,
-          "zipCode": "70560"
+          "lon": -92.665547,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000145064",
+            "outageDetailAttribute1": "6000312524",
             "outageDetailAttribute2": null
           },
-          "lat": 29.989178,
-          "location": "IBERIA",
+          "lat": 31.539085,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.796708,
-          "zipCode": "70560"
+          "lon": -92.667925,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000125886",
+            "outageDetailAttribute1": "6000208010",
             "outageDetailAttribute2": null
           },
-          "lat": 29.98976,
-          "location": "IBERIA",
+          "lat": 31.537413,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.79627,
-          "zipCode": "70560"
+          "lon": -92.666851,
+          "zipCode": "71417"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000104771",
+            "outageDetailAttribute1": "6000356044",
             "outageDetailAttribute2": null
           },
-          "lat": 29.98887,
-          "location": "IBERIA",
+          "lat": 31.538274,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.796425,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000321308",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.9893,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.7964,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000287286",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.989462,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.796283,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000304308",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.98935,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.796443,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000319051",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.98962,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.79645,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000026940",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.9893,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.79649,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000066215",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.988917,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.796833,
-          "zipCode": "70560"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000266587",
-            "outageDetailAttribute2": null
-          },
-          "lat": 29.989162,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.796738,
-          "zipCode": "70560"
+          "lon": -92.665793,
+          "zipCode": "71417"
         }
       ],
-      "affectedCount": 14,
+      "affectedCount": 7,
       "description": null,
-      "endTime": "9/6/2026 12:45:00 PM",
+      "endTime": "9/6/2026 3:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -572,18 +130,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105401180",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 29.989277571428573,
-      "location": "Darcey St.",
+      "incidentId": "INC 8105401186",
+      "lastUpdateTime": "09/06/2026 13:10:22",
+      "lat": 31.533488857142856,
+      "location": "Sherwood",
       "locationType": 5,
-      "lon": -91.79656442857143,
+      "lon": -92.65642414285715,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "12:45",
+      "restorationTime": "15:15",
       "serviceType": 1,
-      "startTime": "09/06/2026 10:35:55",
+      "startTime": "09/06/2026 13:04:16",
       "status": 1,
       "zipCode": null
     },
@@ -591,30 +149,767 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000105616",
+            "outageDetailAttribute1": "6000234365",
             "outageDetailAttribute2": null
           },
-          "lat": 29.934563,
-          "location": "ST. MARY",
+          "lat": 31.154484,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -91.551272,
-          "zipCode": "70523"
+          "lon": -93.256292,
+          "zipCode": "71446"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000212397",
+            "outageDetailAttribute1": "6000073966",
             "outageDetailAttribute2": null
           },
-          "lat": 29.93489,
-          "location": "ST. MARY",
+          "lat": 31.153213,
+          "location": "VERNON",
           "locationType": 2,
-          "lon": -91.551408,
-          "zipCode": "70544"
+          "lon": -93.260192,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234444",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155755,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259415,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000073968",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.153539,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260255,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263789",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156638,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25642,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000111213",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.154715,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.258937,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038579",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.154171,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260307,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208110",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156639,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256404,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000187872",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155577,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259244,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038179",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156654,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255959,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178272",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157108,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255933,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294768",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156654,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255959,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038157",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.154171,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260307,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.154484,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256292,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.153335,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260084,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000130459",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15435,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259713,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294731",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155755,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259415,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041402",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155566,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257456,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000178360",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.154171,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260307,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131863",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15441,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260304,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000206988",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156638,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25642,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000111150",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156654,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255959,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016530",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156638,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25642,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038108",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.154788,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259369,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208075",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15435,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259713,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016600",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155324,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.258487,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291933",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155566,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257456,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000182307",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155566,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257456,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213357",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156212,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.258226,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000247572",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155569,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256978,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294750",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.153335,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260083,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234433",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.152908,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259967,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263846",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.144946,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.268489,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000094136",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.153051,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.26002,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208034",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156611,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256847,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263833",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15441,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260304,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234394",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157101,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255965,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000036993",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156654,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255959,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038084",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155769,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259415,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000317990",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155569,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256978,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000025406",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155947,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257306,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000128265",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155566,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257456,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151298",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155566,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.257456,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155366,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256804,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294651",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155845,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256125,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038132",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.153534,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.260104,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000206972",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157072,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256862,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131745",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157182,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256113,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294669",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157101,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255965,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263775",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157072,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256862,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000197334",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15578,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25622,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000111165",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156607,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256083,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131792",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15613,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256244,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000188125",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156613,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256815,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263858",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156503,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255775,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331189",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15667,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25609,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000229932",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155353,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256786,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016511",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157143,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256707,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263798",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156475,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256287,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234456",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156611,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256847,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208094",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15647,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255777,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131722",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.157072,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256862,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000330075",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15659,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25688,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000216484",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.155755,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.259415,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000111131",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15613,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256244,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156464,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.255773,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000331979",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15704,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25597,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000234410",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.156587,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.256052,
+          "zipCode": "71446"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000334242",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.15686,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.25628,
+          "zipCode": "71446"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 69,
       "description": null,
-      "endTime": "9/6/2026 1:00:00 PM",
+      "endTime": "9/6/2026 3:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -622,18 +917,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105401181",
-      "lastUpdateTime": "09/06/2026 11:00:22",
-      "lat": 29.9347265,
-      "location": "Charenton",
+      "incidentId": "INC 8105401187",
+      "lastUpdateTime": "09/06/2026 13:10:22",
+      "lat": 31.155518899999997,
+      "location": "East Leesville",
       "locationType": 5,
-      "lon": -91.55134,
+      "lon": -93.2577739,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "13:00",
+      "restorationTime": "15:15",
       "serviceType": 1,
-      "startTime": "09/06/2026 10:58:41",
+      "startTime": "09/06/2026 13:06:31",
       "status": 1,
       "zipCode": null
     }
