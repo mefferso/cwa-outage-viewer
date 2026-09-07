@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-09-07T04:51:10.113877+00:00",
+  "cachedAtUtc": "2026-09-07T09:53:45.164229+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -72,7 +72,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "9/7/2026 1:00:00 AM",
+      "endTime": "9/7/2026 5:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -81,15 +81,15 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105401243",
-      "lastUpdateTime": "09/06/2026 23:40:23",
+      "lastUpdateTime": "09/07/2026 04:40:23",
       "lat": 31.762742833333334,
       "location": "Mansfield",
       "locationType": 5,
-      "lon": -93.69388700000002,
+      "lon": -93.693887,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:00",
+      "restorationTime": "05:00",
       "serviceType": 1,
       "startTime": "09/06/2026 22:04:17",
       "status": 1,
@@ -99,141 +99,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000353321",
+            "outageDetailAttribute1": "6000047110",
             "outageDetailAttribute2": null
           },
-          "lat": 31.364221,
-          "location": "RAPIDES",
+          "lat": 31.519388,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -92.415079,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000353328",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.364221,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.415079,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000353320",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.364216,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.415072,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "9/7/2026 12:45:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105401247",
-      "lastUpdateTime": "09/06/2026 23:40:23",
-      "lat": 31.36421975,
-      "location": "Buhlow Lake",
-      "locationType": 5,
-      "lon": -92.41507725000001,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "00:45",
-      "serviceType": 1,
-      "startTime": "09/06/2026 22:30:46",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000147895",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.36943,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.41612,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000171357",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.369575,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.416268,
-          "zipCode": "71362"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000314081",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.369739,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.416145,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "9/7/2026 1:00:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105401248",
-      "lastUpdateTime": "09/06/2026 23:40:23",
-      "lat": 31.369581333333333,
-      "location": "Paradise",
-      "locationType": 5,
-      "lon": -92.41617766666667,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "01:00",
-      "serviceType": 1,
-      "startTime": "09/06/2026 22:49:03",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000025874",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.399073,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.376617,
-          "zipCode": "71405"
+          "lon": -92.359621,
+          "zipCode": "71467"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "9/7/2026 1:00:00 AM",
+      "endTime": "9/7/2026 5:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -241,18 +119,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105401249",
-      "lastUpdateTime": "09/06/2026 23:40:23",
-      "lat": 31.399073,
-      "location": "Beaver Creek",
+      "incidentId": "INC 8105401253",
+      "lastUpdateTime": "09/07/2026 04:40:23",
+      "lat": 31.519388,
+      "location": "Pollock",
       "locationType": 5,
-      "lon": -92.376617,
+      "lon": -92.359621,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:00",
+      "restorationTime": "05:45",
       "serviceType": 1,
-      "startTime": "09/06/2026 22:57:08",
+      "startTime": "09/07/2026 03:36:57",
       "status": 1,
       "zipCode": null
     }
