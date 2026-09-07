@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-09-07T09:53:45.164229+00:00",
+  "cachedAtUtc": "2026-09-07T15:34:06.124046+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -72,7 +72,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "9/7/2026 5:00:00 AM",
+      "endTime": "9/7/2026 11:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -81,7 +81,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105401243",
-      "lastUpdateTime": "09/07/2026 04:40:23",
+      "lastUpdateTime": "09/07/2026 10:20:24",
       "lat": 31.762742833333334,
       "location": "Mansfield",
       "locationType": 5,
@@ -89,7 +89,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:00",
+      "restorationTime": "11:00",
       "serviceType": 1,
       "startTime": "09/06/2026 22:04:17",
       "status": 1,
@@ -99,19 +99,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000047110",
+            "outageDetailAttribute1": "6000157517",
             "outageDetailAttribute2": null
           },
-          "lat": 31.519388,
-          "location": "GRANT",
+          "lat": 31.137195,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.359621,
-          "zipCode": "71467"
+          "lon": -92.425805,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266840",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.137383,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.424792,
+          "zipCode": "71346"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000157472",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.1373,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.42588,
+          "zipCode": "71346"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "9/7/2026 5:45:00 AM",
+      "endTime": "9/7/2026 10:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -119,18 +141,112 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105401253",
-      "lastUpdateTime": "09/07/2026 04:40:23",
-      "lat": 31.519388,
-      "location": "Pollock",
+      "incidentId": "INC 8105401263",
+      "lastUpdateTime": "09/07/2026 10:20:24",
+      "lat": 31.137292666666667,
+      "location": "Chambers",
       "locationType": 5,
-      "lon": -92.359621,
+      "lon": -92.42549233333334,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:45",
+      "restorationTime": "10:45",
       "serviceType": 1,
-      "startTime": "09/07/2026 03:36:57",
+      "startTime": "09/07/2026 08:36:38",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166678",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.315113,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.736918,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246691",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.315263,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.736113,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000158611",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.31457,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.73652,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035825",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.3146,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.73667,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308248",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.31496,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.736415,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315407",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.315662,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.737105,
+          "zipCode": "70461"
+        }
+      ],
+      "affectedCount": 6,
+      "description": null,
+      "endTime": "9/7/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105401268",
+      "lastUpdateTime": "09/07/2026 10:20:24",
+      "lat": 30.315028,
+      "location": "Brown Switch Rd.",
+      "locationType": 5,
+      "lon": -89.73662350000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "09/07/2026 09:32:55",
       "status": 1,
       "zipCode": null
     }
