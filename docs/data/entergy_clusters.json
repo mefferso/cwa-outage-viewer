@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-09-06T22:24:02.976656+00:00",
+  "cachedAtUtc": "2026-09-07T00:12:37.273804+00:00",
   "displayFieldName": "status",
   "features": [
     {
@@ -20,10 +20,58 @@
     },
     {
       "attributes": {
+        "clustercount": 3,
+        "id": null,
+        "numpeople": 46,
+        "objectid": 70103341,
+        "xmaximum": -10277138.6125905,
+        "xminimum": -10337248.6916339,
+        "ymaximum": 3886645.40678194,
+        "yminimum": 3838276.05528309
+      },
+      "geometry": {
+        "x": -92.7797959285503,
+        "y": 32.77159514809699
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 2,
+        "id": null,
+        "numpeople": 57,
+        "objectid": 70105204,
+        "xmaximum": -10036698.2964167,
+        "xminimum": -10096808.3754601,
+        "ymaximum": 3886645.40678194,
+        "yminimum": 3838276.05528309
+      },
+      "geometry": {
+        "x": -90.37514680331105,
+        "y": 32.75195786665746
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 2,
+        "id": null,
+        "numpeople": 2,
+        "objectid": 70105207,
+        "xmaximum": -10036698.2964167,
+        "xminimum": -10096808.3754601,
+        "ymaximum": 3838276.05528309,
+        "yminimum": 3789906.70378425
+      },
+      "geometry": {
+        "x": -90.20395065922067,
+        "y": 32.30268267946605
+      }
+    },
+    {
+      "attributes": {
         "clustercount": 1,
         "id": "7391731",
         "numpeople": 8,
-        "objectid": 70100069,
+        "objectid": 70104712,
         "xmaximum": -10217028.533547,
         "xminimum": -10277138.6125905,
         "ymaximum": 3886645.40678194,
@@ -36,218 +84,10 @@
     },
     {
       "attributes": {
-        "clustercount": 1,
-        "id": "7391610",
-        "numpeople": 1,
-        "objectid": 70098103,
-        "xmaximum": -10096808.3754601,
-        "xminimum": -10156918.4545036,
-        "ymaximum": 3789906.70378425,
-        "yminimum": 3741537.3522854
-      },
-      "geometry": {
-        "x": -90.93897343606623,
-        "y": 32.18270979768419
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 8,
-        "id": null,
-        "numpeople": 107,
-        "objectid": 70100799,
-        "xmaximum": -10096808.3754601,
-        "xminimum": -10156918.4545036,
-        "ymaximum": 3596429.29778886,
-        "yminimum": 3548059.94629001
-      },
-      "geometry": {
-        "x": -91.12157681590344,
-        "y": 30.454166747661855
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 1,
-        "id": "7391036",
-        "numpeople": 1,
-        "objectid": 70098399,
-        "xmaximum": -9976588.21737324,
-        "xminimum": -10036698.2964167,
-        "ymaximum": 3789906.70378425,
-        "yminimum": 3741537.3522854
-      },
-      "geometry": {
-        "x": -90.13711031863811,
-        "y": 31.8753008167938
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 1,
-        "id": "7391446",
-        "numpeople": 26,
-        "objectid": 70095961,
-        "xmaximum": -10036698.2964167,
-        "xminimum": -10096808.3754601,
-        "ymaximum": 3596429.29778886,
-        "yminimum": 3548059.94629001
-      },
-      "geometry": {
-        "x": -90.34216180621249,
-        "y": 30.45646541477111
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 3,
-        "id": null,
-        "numpeople": 6,
-        "objectid": 70100582,
-        "xmaximum": -9976588.21737324,
-        "xminimum": -10036698.2964167,
-        "ymaximum": 3499690.59479117,
-        "yminimum": 3451321.24329232
-      },
-      "geometry": {
-        "x": -90.08940678647257,
-        "y": 29.90879815652093
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 5,
-        "id": null,
-        "numpeople": 41,
-        "objectid": 70099519,
-        "xmaximum": -10036698.2964167,
-        "xminimum": -10096808.3754601,
-        "ymaximum": 3838276.05528309,
-        "yminimum": 3789906.70378425
-      },
-      "geometry": {
-        "x": -90.25139058841017,
-        "y": 32.30196046467773
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 1,
-        "id": "7391086",
-        "numpeople": 17,
-        "objectid": 70091450,
-        "xmaximum": -10337248.6916339,
-        "xminimum": -10397358.7706774,
-        "ymaximum": 3741537.3522854,
-        "yminimum": 3693168.00078655
-      },
-      "geometry": {
-        "x": -93.07436721387134,
-        "y": 31.797705802820055
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 3,
-        "id": null,
-        "numpeople": 140,
-        "objectid": 70100860,
-        "xmaximum": -10096808.3754601,
-        "xminimum": -10156918.4545036,
-        "ymaximum": 3548059.94629001,
-        "yminimum": 3499690.59479117
-      },
-      "geometry": {
-        "x": -91.03635366576077,
-        "y": 30.233451920425466
-      }
-    },
-    {
-      "attributes": {
         "clustercount": 2,
         "id": null,
-        "numpeople": 3,
-        "objectid": 70100405,
-        "xmaximum": -10156918.4545036,
-        "xminimum": -10217028.533547,
-        "ymaximum": 3741537.3522854,
-        "yminimum": 3693168.00078655
-      },
-      "geometry": {
-        "x": -91.33944679038292,
-        "y": 31.56523686170717
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 1,
-        "id": "7391671",
-        "numpeople": 2,
-        "objectid": 70100162,
-        "xmaximum": -9916478.13832979,
-        "xminimum": -9976588.21737324,
-        "ymaximum": 3451321.24329232,
-        "yminimum": 3402951.89179347
-      },
-      "geometry": {
-        "x": -89.51588668186983,
-        "y": 29.344710808676826
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 2,
-        "id": null,
-        "numpeople": 27,
-        "objectid": 70099547,
-        "xmaximum": -9976588.21737324,
-        "xminimum": -10036698.2964167,
-        "ymaximum": 3886645.40678194,
-        "yminimum": 3838276.05528309
-      },
-      "geometry": {
-        "x": -89.90422024617011,
-        "y": 32.77365255912623
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 5,
-        "id": null,
-        "numpeople": 16,
-        "objectid": 70100938,
-        "xmaximum": -10217028.533547,
-        "xminimum": -10277138.6125905,
-        "ymaximum": 3838276.05528309,
-        "yminimum": 3789906.70378425
-      },
-      "geometry": {
-        "x": -92.08529903634447,
-        "y": 32.47203546852667
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 2,
-        "id": null,
-        "numpeople": 2,
-        "objectid": 70100019,
-        "xmaximum": -9976588.21737324,
-        "xminimum": -10036698.2964167,
-        "ymaximum": 3838276.05528309,
-        "yminimum": 3789906.70378425
-      },
-      "geometry": {
-        "x": -90.05579992827938,
-        "y": 32.46759022229572
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 2,
-        "id": null,
-        "numpeople": 36,
-        "objectid": 70100020,
+        "numpeople": 44,
+        "objectid": 70103363,
         "xmaximum": -9976588.21737324,
         "xminimum": -10036698.2964167,
         "ymaximum": 3548059.94629001,
@@ -262,80 +102,256 @@
       "attributes": {
         "clustercount": 4,
         "id": null,
-        "numpeople": 35,
-        "objectid": 70100687,
-        "xmaximum": -10036698.2964167,
-        "xminimum": -10096808.3754601,
-        "ymaximum": 3548059.94629001,
-        "yminimum": 3499690.59479117
+        "numpeople": 6,
+        "objectid": 70104574,
+        "xmaximum": -10217028.533547,
+        "xminimum": -10277138.6125905,
+        "ymaximum": 3838276.05528309,
+        "yminimum": 3789906.70378425
       },
       "geometry": {
-        "x": -90.19055064152577,
-        "y": 30.00457012468268
+        "x": -92.07240370099917,
+        "y": 32.46002835774584
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 5,
+        "id": null,
+        "numpeople": 435,
+        "objectid": 70105258,
+        "xmaximum": -10156918.4545036,
+        "xminimum": -10217028.533547,
+        "ymaximum": 3886645.40678194,
+        "yminimum": 3838276.05528309
+      },
+      "geometry": {
+        "x": -91.66979365639,
+        "y": 32.87991238190507
       }
     },
     {
       "attributes": {
         "clustercount": 1,
-        "id": "7391621",
-        "numpeople": 23,
-        "objectid": 70098259,
+        "id": "7392120",
+        "numpeople": 1,
+        "objectid": 70105260,
+        "xmaximum": -10096808.3754601,
+        "xminimum": -10156918.4545036,
+        "ymaximum": 3838276.05528309,
+        "yminimum": 3789906.70378425
+      },
+      "geometry": {
+        "x": -91.18422346995813,
+        "y": 32.41253334443216
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 1,
+        "id": "7392039",
+        "numpeople": 5,
+        "objectid": 70105261,
         "xmaximum": -10156918.4545036,
         "xminimum": -10217028.533547,
         "ymaximum": 3644798.64928771,
         "yminimum": 3596429.29778886
       },
       "geometry": {
-        "x": -91.38477420316795,
-        "y": 30.796590178739812
+        "x": -91.38678416035805,
+        "y": 30.796052555520767
       }
     },
     {
       "attributes": {
         "clustercount": 1,
-        "id": "7391670",
+        "id": "7392118",
         "numpeople": 1,
-        "objectid": 70098968,
+        "objectid": 70105262,
+        "xmaximum": -10217028.533547,
+        "xminimum": -10277138.6125905,
+        "ymaximum": 3693168.00078655,
+        "yminimum": 3644798.64928771
+      },
+      "geometry": {
+        "x": -92.02904361588887,
+        "y": 31.198435918648602
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 1,
+        "id": "7392119",
+        "numpeople": 1,
+        "objectid": 70105265,
+        "xmaximum": -10096808.3754601,
+        "xminimum": -10156918.4545036,
+        "ymaximum": 3499690.59479117,
+        "yminimum": 3451321.24329232
+      },
+      "geometry": {
+        "x": -90.80645502399233,
+        "y": 29.78947783045526
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 1,
+        "id": "7391958",
+        "numpeople": 1,
+        "objectid": 70103448,
+        "xmaximum": -10036698.2964167,
+        "xminimum": -10096808.3754601,
+        "ymaximum": 3596429.29778886,
+        "yminimum": 3548059.94629001
+      },
+      "geometry": {
+        "x": -90.47216583209529,
+        "y": 30.528512657104656
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 4,
+        "id": null,
+        "numpeople": 75,
+        "objectid": 70105023,
+        "xmaximum": -10036698.2964167,
+        "xminimum": -10096808.3754601,
+        "ymaximum": 3548059.94629001,
+        "yminimum": 3499690.59479117
+      },
+      "geometry": {
+        "x": -90.19057012268208,
+        "y": 30.004586596414352
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 1,
+        "id": "7391799",
+        "numpeople": 7,
+        "objectid": 70101105,
+        "xmaximum": -10096808.3754601,
+        "xminimum": -10156918.4545036,
+        "ymaximum": 3644798.64928771,
+        "yminimum": 3596429.29778886
+      },
+      "geometry": {
+        "x": -91.1495207455843,
+        "y": 30.89701791971117
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 6,
+        "id": null,
+        "numpeople": 67,
+        "objectid": 70105361,
+        "xmaximum": -9976588.21737324,
+        "xminimum": -10036698.2964167,
+        "ymaximum": 3838276.05528309,
+        "yminimum": 3789906.70378425
+      },
+      "geometry": {
+        "x": -89.87798921780475,
+        "y": 32.4410851499696
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 13,
+        "id": null,
+        "numpeople": 101,
+        "objectid": 70105071,
+        "xmaximum": -10096808.3754601,
+        "xminimum": -10156918.4545036,
+        "ymaximum": 3596429.29778886,
+        "yminimum": 3548059.94629001
+      },
+      "geometry": {
+        "x": -91.12491835638312,
+        "y": 30.433678599273897
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 4,
+        "id": null,
+        "numpeople": 4,
+        "objectid": 70104072,
+        "xmaximum": -9976588.21737324,
+        "xminimum": -10036698.2964167,
+        "ymaximum": 3499690.59479117,
+        "yminimum": 3451321.24329232
+      },
+      "geometry": {
+        "x": -90.03893484247808,
+        "y": 29.897875294336753
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 1,
+        "id": "7392105",
+        "numpeople": 15,
+        "objectid": 70105074,
+        "xmaximum": -10337248.6916339,
+        "xminimum": -10397358.7706774,
+        "ymaximum": 3886645.40678194,
+        "yminimum": 3838276.05528309
+      },
+      "geometry": {
+        "x": -93.04826959489205,
+        "y": 32.79215768897172
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 4,
+        "id": null,
+        "numpeople": 149,
+        "objectid": 70104074,
+        "xmaximum": -10096808.3754601,
+        "xminimum": -10156918.4545036,
+        "ymaximum": 3548059.94629001,
+        "yminimum": 3499690.59479117
+      },
+      "geometry": {
+        "x": -91.05221887914233,
+        "y": 30.25496357622606
+      }
+    },
+    {
+      "attributes": {
+        "clustercount": 2,
+        "id": null,
+        "numpeople": 7,
+        "objectid": 70101326,
         "xmaximum": -10156918.4545036,
         "xminimum": -10217028.533547,
         "ymaximum": 3789906.70378425,
         "yminimum": 3741537.3522854
       },
       "geometry": {
-        "x": -91.6679111119406,
-        "y": 32.184769756085934
+        "x": -91.68260716905918,
+        "y": 32.07412672574101
       }
     },
     {
       "attributes": {
         "clustercount": 1,
-        "id": "7391550",
-        "numpeople": 34,
-        "objectid": 70097354,
-        "xmaximum": -10036698.2964167,
-        "xminimum": -10096808.3754601,
-        "ymaximum": 3693168.00078655,
-        "yminimum": 3644798.64928771
+        "id": "7391696",
+        "numpeople": 9,
+        "objectid": 70103553,
+        "xmaximum": -9976588.21737324,
+        "xminimum": -10036698.2964167,
+        "ymaximum": 3886645.40678194,
+        "yminimum": 3838276.05528309
       },
       "geometry": {
-        "x": -90.45488612178838,
-        "y": 31.22598937440133
-      }
-    },
-    {
-      "attributes": {
-        "clustercount": 1,
-        "id": "7391654",
-        "numpeople": 599,
-        "objectid": 70099867,
-        "xmaximum": -10036698.2964167,
-        "xminimum": -10096808.3754601,
-        "ymaximum": 3789906.70378425,
-        "yminimum": 3741537.3522854
-      },
-      "geometry": {
-        "x": -90.28854672956344,
-        "y": 32.10199379228283
+        "x": -89.80638674434563,
+        "y": 32.85567338920217
       }
     }
   ],
