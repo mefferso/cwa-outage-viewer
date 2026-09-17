@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-09-17T21:39:38.784779+00:00",
+  "cachedAtUtc": "2026-09-17T23:42:25.162017+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -48,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105403978",
-      "lastUpdateTime": "09/17/2026 16:26:36",
+      "lastUpdateTime": "09/17/2026 18:26:37",
       "lat": 30.485103666666664,
       "location": "Hammond Highway",
       "locationType": 5,
@@ -66,52 +66,85 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000158378",
+            "outageDetailAttribute1": "6000036799",
             "outageDetailAttribute2": null
           },
-          "lat": 30.48952,
+          "lat": 30.319333,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.131388,
-          "zipCode": "70433"
+          "lon": -89.753408,
+          "zipCode": "70458"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000119526",
+            "outageDetailAttribute1": "6000265202",
             "outageDetailAttribute2": null
           },
-          "lat": 30.489325,
+          "lat": 30.319126,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.131305,
-          "zipCode": "70433"
+          "lon": -89.753314,
+          "zipCode": "70458"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000106477",
+            "outageDetailAttribute1": "6000210324",
             "outageDetailAttribute2": null
           },
-          "lat": 30.48952,
+          "lat": 30.31941,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.131388,
-          "zipCode": "70433"
+          "lon": -89.753735,
+          "zipCode": "70458"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000146929",
+            "outageDetailAttribute1": "6000131440",
             "outageDetailAttribute2": null
           },
-          "lat": 30.48952,
+          "lat": 30.319452,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.131388,
-          "zipCode": "70433"
+          "lon": -89.753422,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000059082",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319435,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75367,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000210305",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319333,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.753408,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020126",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.319333,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.753408,
+          "zipCode": "70458"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 7,
       "description": null,
-      "endTime": "9/17/2026 6:15:00 PM",
+      "endTime": "9/17/2026 8:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -119,79 +152,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105404339",
-      "lastUpdateTime": "09/17/2026 16:26:36",
-      "lat": 30.48947125,
-      "location": "Hammond Highway",
+      "incidentId": "INC 8105404446",
+      "lastUpdateTime": "09/17/2026 18:26:37",
+      "lat": 30.319346,
+      "location": "Brown Switch Rd.",
       "locationType": 5,
-      "lon": -90.13136725000001,
+      "lon": -89.75348071428571,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:15",
+      "restorationTime": "20:30",
       "serviceType": 1,
-      "startTime": "09/17/2026 10:00:20",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000090608",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.20396,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.535642,
-          "zipCode": "71485"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000088033",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.202648,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.534713,
-          "zipCode": "71485"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000060839",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.199198,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.527057,
-          "zipCode": "71485"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "9/17/2026 5:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105404431",
-      "lastUpdateTime": "09/17/2026 16:26:36",
-      "lat": 31.201935333333335,
-      "location": "Coulee Crossing",
-      "locationType": 5,
-      "lon": -92.53247066666667,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "17:15",
-      "serviceType": 1,
-      "startTime": "09/17/2026 15:11:50",
+      "startTime": "09/17/2026 18:21:13",
       "status": 1,
       "zipCode": null
     }
