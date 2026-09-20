@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-09-20T12:16:53.533670+00:00",
+  "cachedAtUtc": "2026-09-20T16:17:25.660773+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -37,9 +37,9 @@
           "zipCode": "70455"
         }
       ],
-      "affectedCount": 3,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "9/20/2026 8:00:00 AM",
+      "endTime": "9/20/2026 10:06:09 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -48,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105404655",
-      "lastUpdateTime": "09/20/2026 07:06:45",
+      "lastUpdateTime": "09/20/2026 11:06:45",
       "lat": 30.372095333333334,
       "location": "Hwy 434",
       "locationType": 5,
@@ -56,7 +56,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "08:00",
+      "restorationTime": "10:06",
       "serviceType": 1,
       "startTime": "09/20/2026 05:57:11",
       "status": 1,
@@ -66,30 +66,63 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000251560",
+            "outageDetailAttribute1": "6000270055",
             "outageDetailAttribute2": null
           },
-          "lat": 31.053878,
-          "location": "AVOYELLES",
+          "lat": 32.019722,
+          "location": "RED RIVER",
           "locationType": 2,
-          "lon": -92.07293,
-          "zipCode": "71350"
+          "lon": -93.343513,
+          "zipCode": "71019"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000351756",
+            "outageDetailAttribute1": "6000202645",
             "outageDetailAttribute2": null
           },
-          "lat": 31.053848,
-          "location": "AVOYELLES",
+          "lat": 32.01971,
+          "location": "RED RIVER",
           "locationType": 2,
-          "lon": -92.073157,
-          "zipCode": "71350"
+          "lon": -93.343521,
+          "zipCode": "71019"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351695",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.01971,
+          "location": "RED RIVER",
+          "locationType": 2,
+          "lon": -93.343521,
+          "zipCode": "71019"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000148033",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.019763,
+          "location": "RED RIVER",
+          "locationType": 2,
+          "lon": -93.342823,
+          "zipCode": "71019"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000268984",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.01961,
+          "location": "RED RIVER",
+          "locationType": 2,
+          "lon": -93.343003,
+          "zipCode": "71019"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 5,
       "description": null,
-      "endTime": "9/20/2026 9:15:00 AM",
+      "endTime": "9/20/2026 12:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -97,18 +130,57 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105404656",
-      "lastUpdateTime": "09/20/2026 07:06:45",
-      "lat": 31.053863,
-      "location": "Hessmer",
+      "incidentId": "INC 8105404670",
+      "lastUpdateTime": "09/20/2026 11:06:45",
+      "lat": 32.019703,
+      "location": "Carroll",
       "locationType": 5,
-      "lon": -92.0730435,
+      "lon": -93.3432762,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:15",
+      "restorationTime": "12:30",
       "serviceType": 1,
-      "startTime": "09/20/2026 07:04:12",
+      "startTime": "09/20/2026 10:28:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000046881",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.463045,
+          "location": "ACADIA",
+          "locationType": 2,
+          "lon": -92.403124,
+          "zipCode": "70535"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "9/20/2026 1:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105404671",
+      "lastUpdateTime": "09/20/2026 11:06:45",
+      "lat": 30.463045,
+      "location": "St. Louis Street",
+      "locationType": 5,
+      "lon": -92.403124,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "13:00",
+      "serviceType": 1,
+      "startTime": "09/20/2026 10:53:20",
       "status": 1,
       "zipCode": null
     }
