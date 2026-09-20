@@ -1,6 +1,118 @@
 {
-  "cachedAtUtc": "2026-09-20T07:03:17.051381+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-09-20T12:16:53.533670+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000357365",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.372163,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.891368,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000357366",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.372163,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.891368,
+          "zipCode": "70445"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000357568",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.37196,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.891156,
+          "zipCode": "70455"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "9/20/2026 8:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105404655",
+      "lastUpdateTime": "09/20/2026 07:06:45",
+      "lat": 30.372095333333334,
+      "location": "Hwy 434",
+      "locationType": 5,
+      "lon": -89.89129733333334,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:00",
+      "serviceType": 1,
+      "startTime": "09/20/2026 05:57:11",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251560",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.053878,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.07293,
+          "zipCode": "71350"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351756",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.053848,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.073157,
+          "zipCode": "71350"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "9/20/2026 9:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105404656",
+      "lastUpdateTime": "09/20/2026 07:06:45",
+      "lat": 31.053863,
+      "location": "Hessmer",
+      "locationType": 5,
+      "lon": -92.0730435,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:15",
+      "serviceType": 1,
+      "startTime": "09/20/2026 07:04:12",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
