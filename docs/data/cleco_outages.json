@@ -1,6 +1,107 @@
 {
-  "cachedAtUtc": "2026-09-26T11:17:56.998052+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-09-26T15:01:01.497002+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000097424",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.324648,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.16341,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000088755",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.323703,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.161105,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "9/26/2026 11:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105406250",
+      "lastUpdateTime": "09/26/2026 09:47:06",
+      "lat": 31.3241755,
+      "location": "Deville",
+      "locationType": 5,
+      "lon": -92.16225750000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:30",
+      "serviceType": 1,
+      "startTime": "09/26/2026 09:24:42",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000087509",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.58598,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.601683,
+          "zipCode": "71423"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000332843",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.5854,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.6011,
+          "zipCode": "71423"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "9/26/2026 11:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105406252",
+      "lastUpdateTime": "09/26/2026 09:47:06",
+      "lat": 31.58569,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.6013915,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:45",
+      "serviceType": 1,
+      "startTime": "09/26/2026 09:44:43",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
