@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-09-28T23:34:20.749293+00:00",
+  "cachedAtUtc": "2026-09-29T02:43:30.029819+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -149,7 +149,7 @@
       ],
       "affectedCount": 13,
       "description": null,
-      "endTime": "9/28/2026 7:15:00 PM",
+      "endTime": "9/29/2026 1:47:42 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -158,7 +158,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105406735",
-      "lastUpdateTime": "09/28/2026 18:17:14",
+      "lastUpdateTime": "09/28/2026 21:27:14",
       "lat": 31.90543871428571,
       "location": "Clarence",
       "locationType": 5,
@@ -166,7 +166,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "01:47",
       "serviceType": 1,
       "startTime": "09/28/2026 17:05:03",
       "status": 1,
@@ -176,30 +176,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000330034",
+            "outageDetailAttribute1": "6000032756",
             "outageDetailAttribute2": null
           },
-          "lat": 30.10029,
-          "location": "ST. MARTIN",
+          "lat": 30.589673,
+          "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -91.72959,
-          "zipCode": "70582"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000105245",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.102068,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.729862,
-          "zipCode": "70582"
+          "lon": -92.50826,
+          "zipCode": "70554"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "9/28/2026 8:15:00 PM",
+      "endTime": "9/28/2026 11:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -207,18 +196,68 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105406741",
-      "lastUpdateTime": "09/28/2026 18:17:14",
-      "lat": 30.101179000000002,
-      "location": "Coteau Holmes",
+      "incidentId": "INC 8105406753",
+      "lastUpdateTime": "09/28/2026 21:27:14",
+      "lat": 30.589673,
+      "location": "Bieber",
       "locationType": 5,
-      "lon": -91.729726,
+      "lon": -92.50826,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "20:15",
+      "restorationTime": "23:00",
       "serviceType": 1,
-      "startTime": "09/28/2026 18:06:48",
+      "startTime": "09/28/2026 20:47:23",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000230712",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.48999,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.147922,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000001967",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.490425,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.148015,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "9/28/2026 11:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105406754",
+      "lastUpdateTime": "09/28/2026 21:27:14",
+      "lat": 30.490207499999997,
+      "location": "Hammond Highway",
+      "locationType": 5,
+      "lon": -90.14796849999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "23:15",
+      "serviceType": 1,
+      "startTime": "09/28/2026 21:00:09",
       "status": 1,
       "zipCode": null
     }
