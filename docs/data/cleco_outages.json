@@ -1,23 +1,56 @@
 {
-  "cachedAtUtc": "2026-10-04T21:41:46.932667+00:00",
+  "cachedAtUtc": "2026-10-05T00:12:27.754604+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000264662",
+            "outageDetailAttribute1": "6000025250",
             "outageDetailAttribute2": null
           },
-          "lat": 30.45668,
+          "lat": 30.36583,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.13677,
-          "zipCode": "70433"
+          "lon": -90.06272,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251684",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.36674,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.063542,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022908",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.36656,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.06387,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000276365",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.36656,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.06387,
+          "zipCode": "70448"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "10/4/2026 2:35:57 PM",
+      "endTime": "10/4/2026 7:47:35 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,19 +58,19 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105408100",
-      "lastUpdateTime": "10/04/2026 16:32:05",
-      "lat": 30.45668,
-      "location": "Madisonville 230",
+      "incidentId": "INC 8105408162",
+      "lastUpdateTime": "10/04/2026 19:02:05",
+      "lat": 30.366449999999997,
+      "location": "Penn St.",
       "locationType": 5,
-      "lon": -90.13677,
+      "lon": -90.06357440000001,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "14:35",
+      "restorationTime": "19:47",
       "serviceType": 1,
-      "startTime": "10/04/2026 10:12:00",
-      "status": 1,
+      "startTime": "10/04/2026 18:05:05",
+      "status": 0,
       "zipCode": null
     },
     {
@@ -111,7 +144,7 @@
       ],
       "affectedCount": 6,
       "description": null,
-      "endTime": "10/4/2026 5:00:00 PM",
+      "endTime": "10/4/2026 8:16:07 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -120,7 +153,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105408130",
-      "lastUpdateTime": "10/04/2026 16:32:05",
+      "lastUpdateTime": "10/04/2026 19:02:05",
       "lat": 32.07585283333333,
       "location": "Mansfield",
       "locationType": 5,
@@ -128,92 +161,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "20:16",
       "serviceType": 1,
       "startTime": "10/04/2026 14:13:29",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000244720",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.53971,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.08066,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000078256",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.540029,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.0807,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000084222",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.539895,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.080549,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000312064",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.539813,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.080572,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000206652",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.539653,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.080715,
-          "zipCode": "70570"
-        }
-      ],
-      "affectedCount": 5,
-      "description": null,
-      "endTime": "10/4/2026 4:57:32 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105408140",
-      "lastUpdateTime": "10/04/2026 16:32:05",
-      "lat": 30.53982,
-      "location": "Guidry Street",
-      "locationType": 5,
-      "lon": -92.0806392,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:57",
-      "serviceType": 1,
-      "startTime": "10/04/2026 14:28:44",
       "status": 1,
       "zipCode": null
     },
@@ -233,7 +183,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "10/4/2026 5:00:00 PM",
+      "endTime": "10/4/2026 9:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -242,7 +192,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105408143",
-      "lastUpdateTime": "10/04/2026 16:32:05",
+      "lastUpdateTime": "10/04/2026 19:02:05",
       "lat": 32.159748,
       "location": "Water St",
       "locationType": 5,
@@ -250,7 +200,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "21:00",
       "serviceType": 1,
       "startTime": "10/04/2026 14:50:29",
       "status": 1,
@@ -305,7 +255,7 @@
       ],
       "affectedCount": 4,
       "description": null,
-      "endTime": "10/4/2026 5:30:00 PM",
+      "endTime": "10/4/2026 9:22:49 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -314,7 +264,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105408146",
-      "lastUpdateTime": "10/04/2026 16:32:05",
+      "lastUpdateTime": "10/04/2026 19:02:05",
       "lat": 29.765185428571424,
       "location": "Ivanhoe",
       "locationType": 5,
@@ -322,7 +272,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:30",
+      "restorationTime": "21:22",
       "serviceType": 1,
       "startTime": "10/04/2026 15:18:41",
       "status": 1,
@@ -366,7 +316,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "10/4/2026 5:45:00 PM",
+      "endTime": "10/4/2026 7:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -375,7 +325,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105408149",
-      "lastUpdateTime": "10/04/2026 16:32:05",
+      "lastUpdateTime": "10/04/2026 19:02:05",
       "lat": 30.519667333333334,
       "location": "South Park",
       "locationType": 5,
@@ -383,81 +333,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:45",
+      "restorationTime": "19:45",
       "serviceType": 1,
       "startTime": "10/04/2026 15:41:15",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000036665",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.301243,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.501043,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000185091",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.301191,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.501358,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000245226",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.301125,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.50118,
-          "zipCode": "71303"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000301866",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.301201,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.501371,
-          "zipCode": "71303"
-        }
-      ],
-      "affectedCount": 4,
-      "description": null,
-      "endTime": "10/4/2026 6:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105408151",
-      "lastUpdateTime": "10/04/2026 16:32:05",
-      "lat": 31.30119,
-      "location": "Bayou Rapides",
-      "locationType": 5,
-      "lon": -92.501238,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:00",
-      "serviceType": 1,
-      "startTime": "10/04/2026 15:57:31",
       "status": 1,
       "zipCode": null
     },
@@ -620,7 +498,7 @@
       ],
       "affectedCount": 14,
       "description": null,
-      "endTime": "10/4/2026 6:30:00 PM",
+      "endTime": "10/4/2026 9:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -629,183 +507,17 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105408152",
-      "lastUpdateTime": "10/04/2026 16:32:05",
+      "lastUpdateTime": "10/04/2026 19:02:05",
       "lat": 32.07529428571429,
       "location": "Mansfield",
       "locationType": 5,
-      "lon": -93.68811935714287,
+      "lon": -93.68811935714284,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "21:15",
       "serviceType": 1,
       "startTime": "10/04/2026 16:15:46",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000105990",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.524424,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.094744,
-          "zipCode": "70570"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/4/2026 6:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105408154",
-      "lastUpdateTime": "10/04/2026 16:32:05",
-      "lat": 30.524424,
-      "location": "Guidry Street",
-      "locationType": 5,
-      "lon": -92.094744,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:30",
-      "serviceType": 1,
-      "startTime": "10/04/2026 16:21:47",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000229961",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.799345,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811505,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000034072",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.798277,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811638,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000129019",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.79825,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811525,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000262501",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.799868,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811548,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000205080",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.797773,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811197,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000173183",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.798877,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811184,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000012676",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.800534,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.81064,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000347570",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.800376,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.810448,
-          "zipCode": "71419"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000205063",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.799407,
-          "location": "SABINE",
-          "locationType": 2,
-          "lon": -93.811191,
-          "zipCode": "71419"
-        }
-      ],
-      "affectedCount": 9,
-      "description": null,
-      "endTime": "10/4/2026 6:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105408155",
-      "lastUpdateTime": "10/04/2026 16:32:05",
-      "lat": 31.799189666666663,
-      "location": "Zwolle",
-      "locationType": 5,
-      "lon": -93.81120844444445,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:30",
-      "serviceType": 1,
-      "startTime": "10/04/2026 16:24:03",
       "status": 1,
       "zipCode": null
     },
@@ -2662,7 +2374,7 @@
       ],
       "affectedCount": 168,
       "description": null,
-      "endTime": "10/4/2026 6:30:00 PM",
+      "endTime": "10/4/2026 8:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -2671,7 +2383,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105408157",
-      "lastUpdateTime": "10/04/2026 16:32:05",
+      "lastUpdateTime": "10/04/2026 19:02:05",
       "lat": 29.679860429411768,
       "location": "Teche",
       "locationType": 5,
@@ -2679,9 +2391,885 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:30",
+      "restorationTime": "20:30",
       "serviceType": 1,
       "startTime": "10/04/2026 16:26:27",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282543",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.337715,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773018,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000283584",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.337706,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.773024,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/4/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105408166",
+      "lastUpdateTime": "10/04/2026 19:02:05",
+      "lat": 30.3377105,
+      "location": "St. Tammany St.",
+      "locationType": 5,
+      "lon": -89.773021,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "10/04/2026 18:45:50",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224788",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402191,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114315,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000052170",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402352,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114238,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254081",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.4023,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114165,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000091470",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40236,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114257,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254065",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402335,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114155,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224807",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402248,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114162,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055250",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40243,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.115312,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055228",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402403,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114192,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151674",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40234,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114132,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041918",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40243,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.115312,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055203",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402427,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114233,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000284755",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402328,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1141,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151719",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402191,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114315,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000321380",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402287,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114202,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151693",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402191,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114315,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000321399",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.4023,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114188,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000191144",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402295,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114182,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000191107",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402302,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.11411,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254096",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402283,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114162,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000284729",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40227,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114138,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224825",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402253,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114125,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254113",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402337,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114213,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224842",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402293,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114213,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000191161",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402268,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114197,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120602",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.4024,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114185,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000120621",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402278,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114228,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041875",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.402445,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114235,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000091430",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.40228,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.114265,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 28,
+      "description": null,
+      "endTime": "10/4/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105408167",
+      "lastUpdateTime": "10/04/2026 19:02:05",
+      "lat": 30.402314892857138,
+      "location": "Cedarwood",
+      "locationType": 5,
+      "lon": -90.1142802142857,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "10/04/2026 18:47:49",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000119245",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.036008,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683976,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074668",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035159,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682172,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101640",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037357,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682103,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074596",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.036807,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684277,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303672",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037403,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682975,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258342",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037002,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684955,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101735",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037332,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685024,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000240630",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035828,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683785,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303623",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035251,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684029,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000240667",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037258,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683715,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170435",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037772,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684422,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074606",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037179,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.68484,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170366",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035251,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684029,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000143247",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035265,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684028,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000026445",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035156,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682446,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000143207",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.0357,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683994,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101845",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035265,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684028,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074577",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.03655,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683738,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258366",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.038047,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685623,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170463",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035156,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682446,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000143037",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037016,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684958,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000141996",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.03655,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683738,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258571",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.038243,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.68316,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000026515",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.038629,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685262,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054492",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.038635,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685269,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000026464",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.036939,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682486,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000026558",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035152,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683107,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000074676",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035251,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684029,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312166",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035152,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683107,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000224504",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.03517,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.68101,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101600",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035156,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.682462,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170376",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.038791,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.683265,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258527",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.03517,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.68101,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000240612",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035705,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684001,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101822",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037143,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684205,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170386",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037199,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684004,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000200136",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.03701,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684951,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000200157",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.038635,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685269,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006357",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037647,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.685095,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006532",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035259,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684021,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000006332",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.037016,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.684958,
+          "zipCode": "71052"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258506",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.035173,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.680639,
+          "zipCode": "71052"
+        }
+      ],
+      "affectedCount": 42,
+      "description": null,
+      "endTime": "10/4/2026 9:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105408169",
+      "lastUpdateTime": "10/04/2026 19:02:05",
+      "lat": 32.036509214285715,
+      "location": "Mansfield",
+      "locationType": 5,
+      "lon": -93.68372883333333,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "21:00",
+      "serviceType": 1,
+      "startTime": "10/04/2026 18:56:38",
       "status": 1,
       "zipCode": null
     }
