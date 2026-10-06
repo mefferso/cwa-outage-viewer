@@ -1,34 +1,34 @@
 {
-  "cachedAtUtc": "2026-10-06T01:45:05.866033+00:00",
+  "cachedAtUtc": "2026-10-06T08:10:30.773665+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000022413",
+            "outageDetailAttribute1": "6000031455",
             "outageDetailAttribute2": null
           },
-          "lat": 30.031391,
-          "location": "IBERIA",
+          "lat": 30.417555,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.84084,
-          "zipCode": "70560"
+          "lon": -90.135623,
+          "zipCode": "70447"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000217083",
+            "outageDetailAttribute1": "6000014594",
             "outageDetailAttribute2": null
           },
-          "lat": 30.03128,
-          "location": "IBERIA",
+          "lat": 30.417748,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.84114,
-          "zipCode": "70560"
+          "lon": -90.135694,
+          "zipCode": "70433"
         }
       ],
       "affectedCount": 2,
       "description": null,
-      "endTime": "10/5/2026 10:30:00 PM",
+      "endTime": "10/6/2026 4:30:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -36,18 +36,90 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105408441",
-      "lastUpdateTime": "10/05/2026 20:32:09",
-      "lat": 30.031335499999997,
-      "location": "Navy Base (New Iberia)",
+      "incidentId": "INC 8105408448",
+      "lastUpdateTime": "10/06/2026 02:52:10",
+      "lat": 30.417651499999998,
+      "location": "Madisonville",
       "locationType": 5,
-      "lon": -91.84099,
+      "lon": -90.1356585,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "22:30",
+      "restorationTime": "04:30",
       "serviceType": 1,
-      "startTime": "10/05/2026 20:17:09",
+      "startTime": "10/06/2026 00:21:22",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000177657",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.312391,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.777133,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271493",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.312543,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.777618,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000023676",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.312593,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.7776,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252780",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.313971,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.778505,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "10/6/2026 3:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105408449",
+      "lastUpdateTime": "10/06/2026 02:52:10",
+      "lat": 30.3128745,
+      "location": "St. Tammany St.",
+      "locationType": 5,
+      "lon": -89.777714,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "03:45",
+      "serviceType": 1,
+      "startTime": "10/06/2026 01:30:03",
       "status": 1,
       "zipCode": null
     }
