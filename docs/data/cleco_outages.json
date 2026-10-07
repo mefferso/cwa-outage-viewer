@@ -1,6 +1,57 @@
 {
-  "cachedAtUtc": "2026-10-07T05:43:32.799025+00:00",
-  "data": [],
+  "cachedAtUtc": "2026-10-07T12:04:09.409570+00:00",
+  "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000105735",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934633,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.854587,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085874",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934652,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.854742,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/7/2026 8:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105408837",
+      "lastUpdateTime": "10/07/2026 06:52:14",
+      "lat": 29.934642500000002,
+      "location": "Duboin",
+      "locationType": 5,
+      "lon": -91.8546645,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:45",
+      "serviceType": 1,
+      "startTime": "10/07/2026 06:37:14",
+      "status": 1,
+      "zipCode": null
+    }
+  ],
   "sourceName": "Cleco outage map API",
   "status": {
     "code": 200,
