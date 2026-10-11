@@ -1,23 +1,23 @@
 {
-  "cachedAtUtc": "2026-10-11T04:55:13.137426+00:00",
+  "cachedAtUtc": "2026-10-11T11:19:16.567280+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000127122",
+            "outageDetailAttribute1": "6000238214",
             "outageDetailAttribute2": null
           },
-          "lat": 30.39531,
-          "location": "ST. TAMMANY",
+          "lat": 31.157527,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -90.04533,
-          "zipCode": "70471"
+          "lon": -92.71879,
+          "zipCode": "71424"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "10/11/2026 1:45:00 AM",
+      "endTime": "10/11/2026 8:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -25,18 +25,96 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105409740",
-      "lastUpdateTime": "10/10/2026 23:42:25",
-      "lat": 30.39531,
-      "location": "East Street",
+      "incidentId": "INC 8105409744",
+      "lastUpdateTime": "10/11/2026 06:02:26",
+      "lat": 31.157527,
+      "location": "Rapides",
       "locationType": 5,
-      "lon": -90.04533,
+      "lon": -92.71879,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "01:45",
+      "restorationTime": "08:00",
       "serviceType": 1,
-      "startTime": "10/10/2026 23:37:54",
+      "startTime": "10/11/2026 01:54:49",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057229",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.882847,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.68886,
+          "zipCode": "70544"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "10/11/2026 7:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105409819",
+      "lastUpdateTime": "10/11/2026 06:02:26",
+      "lat": 29.882847,
+      "location": "Patoutville",
+      "locationType": 5,
+      "lon": -91.68886,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "07:15",
+      "serviceType": 1,
+      "startTime": "10/11/2026 05:02:43",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005532",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.17319,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.836534,
+          "zipCode": "71030"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "10/11/2026 8:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105409820",
+      "lastUpdateTime": "10/11/2026 06:02:26",
+      "lat": 32.17319,
+      "location": "Water St",
+      "locationType": 5,
+      "lon": -93.836534,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "08:00",
+      "serviceType": 1,
+      "startTime": "10/11/2026 05:46:06",
       "status": 1,
       "zipCode": null
     }
