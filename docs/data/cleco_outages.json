@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-12T13:34:27.186371+00:00",
+  "cachedAtUtc": "2026-10-12T21:51:33.084453+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -13,55 +13,11 @@
           "locationType": 2,
           "lon": -92.665547,
           "zipCode": "71417"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000312524",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.539085,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.667925,
-          "zipCode": "71417"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000208010",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.537413,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.666851,
-          "zipCode": "71417"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000356044",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.538274,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.665793,
-          "zipCode": "71417"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000355894",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.53299,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.679034,
-          "zipCode": "71417"
         }
       ],
-      "affectedCount": 5,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "10/12/2026 9:15:00 AM",
+      "endTime": "10/12/2026 5:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -70,37 +26,37 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105409912",
-      "lastUpdateTime": "10/12/2026 08:22:30",
-      "lat": 31.536210400000005,
+      "lastUpdateTime": "10/12/2026 16:42:31",
+      "lat": 31.53329,
       "location": "Sherwood",
       "locationType": 5,
-      "lon": -92.66902999999999,
+      "lon": -92.665547,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:15",
+      "restorationTime": "17:15",
       "serviceType": 1,
       "startTime": "10/12/2026 07:12:55",
-      "status": 1,
+      "status": 0,
       "zipCode": null
     },
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000094567",
+            "outageDetailAttribute1": "6000204033",
             "outageDetailAttribute2": null
           },
-          "lat": 29.973955,
-          "location": "IBERIA",
+          "lat": 29.793515,
+          "location": "ST. MARY",
           "locationType": 2,
-          "lon": -91.817446,
-          "zipCode": "70560"
+          "lon": -91.502405,
+          "zipCode": "70538"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "10/12/2026 9:45:00 AM",
+      "endTime": "10/12/2026 5:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -108,157 +64,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105409916",
-      "lastUpdateTime": "10/12/2026 08:22:30",
-      "lat": 29.973955,
-      "location": "Duboin",
+      "incidentId": "INC 8105409981",
+      "lastUpdateTime": "10/12/2026 16:42:31",
+      "lat": 29.793515,
+      "location": "Third St. Franklin Diesel",
       "locationType": 5,
-      "lon": -91.817446,
+      "lon": -91.502405,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:45",
+      "restorationTime": "17:00",
       "serviceType": 1,
-      "startTime": "10/12/2026 07:37:40",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000206203",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.547717,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.07975,
-          "zipCode": "70570"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000050843",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.54754,
-          "location": "ST. LANDRY",
-          "locationType": 2,
-          "lon": -92.07948,
-          "zipCode": "70570"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "10/12/2026 10:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105409920",
-      "lastUpdateTime": "10/12/2026 08:22:30",
-      "lat": 30.547628500000002,
-      "location": "Guidry Street",
-      "locationType": 5,
-      "lon": -92.079615,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "10:15",
-      "serviceType": 1,
-      "startTime": "10/12/2026 08:01:42",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000220815",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.413717,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.103807,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/12/2026 10:15:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105409921",
-      "lastUpdateTime": "10/12/2026 08:22:30",
-      "lat": 30.413717,
-      "location": "Ozone Park",
-      "locationType": 5,
-      "lon": -90.103807,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "10:15",
-      "serviceType": 1,
-      "startTime": "10/12/2026 08:12:27",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000013164",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.25819,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.658026,
-          "zipCode": "71301"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000209789",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.259626,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.658087,
-          "zipCode": "71424"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "10/12/2026 10:30:00 AM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105409922",
-      "lastUpdateTime": "10/12/2026 08:22:30",
-      "lat": 31.258907999999998,
-      "location": "Rapides",
-      "locationType": 5,
-      "lon": -92.6580565,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "10:30",
-      "serviceType": 1,
-      "startTime": "10/12/2026 08:15:47",
+      "startTime": "10/12/2026 10:59:33",
       "status": 1,
       "zipCode": null
     }
