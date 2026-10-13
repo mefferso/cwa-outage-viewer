@@ -1,45 +1,6 @@
 {
-  "cachedAtUtc": "2026-10-12T21:51:33.084453+00:00",
+  "cachedAtUtc": "2026-10-13T02:48:38.420958+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000116707",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.53329,
-          "location": "GRANT",
-          "locationType": 2,
-          "lon": -92.665547,
-          "zipCode": "71417"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/12/2026 5:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105409912",
-      "lastUpdateTime": "10/12/2026 16:42:31",
-      "lat": 31.53329,
-      "location": "Sherwood",
-      "locationType": 5,
-      "lon": -92.665547,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "17:15",
-      "serviceType": 1,
-      "startTime": "10/12/2026 07:12:55",
-      "status": 0,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -56,7 +17,7 @@
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "10/12/2026 5:00:00 PM",
+      "endTime": "10/12/2026 11:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -65,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105409981",
-      "lastUpdateTime": "10/12/2026 16:42:31",
+      "lastUpdateTime": "10/12/2026 21:32:32",
       "lat": 29.793515,
       "location": "Third St. Franklin Diesel",
       "locationType": 5,
@@ -73,9 +34,48 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "23:00",
       "serviceType": 1,
       "startTime": "10/12/2026 10:59:33",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000032221",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.995899,
+          "location": "VERNON",
+          "locationType": 2,
+          "lon": -93.525216,
+          "zipCode": "70639"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "10/12/2026 10:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410058",
+      "lastUpdateTime": "10/12/2026 21:32:32",
+      "lat": 30.995899,
+      "location": "Cole",
+      "locationType": 5,
+      "lon": -93.525216,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "22:00",
+      "serviceType": 1,
+      "startTime": "10/12/2026 19:50:21",
       "status": 1,
       "zipCode": null
     }
