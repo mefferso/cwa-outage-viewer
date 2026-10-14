@@ -1,34 +1,23 @@
 {
-  "cachedAtUtc": "2026-10-14T10:37:59.420451+00:00",
+  "cachedAtUtc": "2026-10-14T15:29:39.219003+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000020801",
+            "outageDetailAttribute1": "6000116707",
             "outageDetailAttribute2": null
           },
-          "lat": 30.033615,
-          "location": "IBERIA",
+          "lat": 31.53329,
+          "location": "GRANT",
           "locationType": 2,
-          "lon": -91.73653,
-          "zipCode": "70563"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000070967",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.033162,
-          "location": "IBERIA",
-          "locationType": 2,
-          "lon": -91.736243,
-          "zipCode": "70563"
+          "lon": -92.665547,
+          "zipCode": "71417"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "10/14/2026 5:45:00 AM",
+      "endTime": "10/14/2026 11:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -36,18 +25,240 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105410286",
-      "lastUpdateTime": "10/14/2026 05:25:35",
-      "lat": 30.033464,
-      "location": "Olivier",
+      "incidentId": "INC 8105410290",
+      "lastUpdateTime": "10/14/2026 10:15:36",
+      "lat": 31.53329,
+      "location": "Sherwood",
       "locationType": 5,
-      "lon": -91.73643433333335,
+      "lon": -92.665547,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "05:45",
+      "restorationTime": "11:00",
       "serviceType": 1,
-      "startTime": "10/14/2026 03:36:16",
+      "startTime": "10/14/2026 06:54:02",
+      "status": 0,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.54825,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080748,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246002",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.548277,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080827,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279646",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.548061,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.080311,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "10/14/2026 11:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410313",
+      "lastUpdateTime": "10/14/2026 10:15:36",
+      "lat": 30.548196,
+      "location": "Guidry Street",
+      "locationType": 5,
+      "lon": -92.08062866666667,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:15",
+      "serviceType": 1,
+      "startTime": "10/14/2026 09:00:37",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303986",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.991611,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.095448,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000240180",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.991611,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.095448,
+          "zipCode": "71327"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/14/2026 11:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410314",
+      "lastUpdateTime": "10/14/2026 10:15:36",
+      "lat": 30.991611,
+      "location": "North Cottonport",
+      "locationType": 5,
+      "lon": -92.095448,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:45",
+      "serviceType": 1,
+      "startTime": "10/14/2026 09:30:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000291130",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.993263,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.085831,
+          "zipCode": "71327"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000165923",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.99348,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.08592,
+          "zipCode": "71327"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/14/2026 11:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410315",
+      "lastUpdateTime": "10/14/2026 10:15:36",
+      "lat": 30.993371500000002,
+      "location": "North Cottonport",
+      "locationType": 5,
+      "lon": -92.0858755,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "11:45",
+      "serviceType": 1,
+      "startTime": "10/14/2026 09:31:21",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000047627",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.816183,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.660338,
+          "zipCode": "71463"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100172",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.824386,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.666267,
+          "zipCode": "71463"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300870",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.815968,
+          "location": "ALLEN",
+          "locationType": 2,
+          "lon": -92.660408,
+          "zipCode": "71463"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "10/14/2026 12:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410317",
+      "lastUpdateTime": "10/14/2026 10:15:36",
+      "lat": 30.818845666666665,
+      "location": "Oakdale City Sub",
+      "locationType": 5,
+      "lon": -92.66233766666669,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "12:30",
+      "serviceType": 1,
+      "startTime": "10/14/2026 10:15:19",
       "status": 1,
       "zipCode": null
     }
