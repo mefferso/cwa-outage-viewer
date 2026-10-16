@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-15T22:23:50.473551+00:00",
+  "cachedAtUtc": "2026-10-16T00:35:51.099187+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -39,7 +39,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "10/15/2026 6:45:00 PM",
+      "endTime": "10/15/2026 8:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -48,7 +48,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105410531",
-      "lastUpdateTime": "10/15/2026 17:10:43",
+      "lastUpdateTime": "10/15/2026 19:20:43",
       "lat": 30.311726333333336,
       "location": "Brown Switch Rd.",
       "locationType": 5,
@@ -56,7 +56,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:45",
+      "restorationTime": "20:45",
       "serviceType": 1,
       "startTime": "10/15/2026 10:43:44",
       "status": 1,
@@ -122,7 +122,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "10/15/2026 7:15:00 PM",
+      "endTime": "10/15/2026 9:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -131,7 +131,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105410561",
-      "lastUpdateTime": "10/15/2026 17:10:43",
+      "lastUpdateTime": "10/15/2026 19:20:43",
       "lat": 30.548744399999997,
       "location": "Guidry Street",
       "locationType": 5,
@@ -139,7 +139,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "21:15",
       "serviceType": 1,
       "startTime": "10/15/2026 13:02:16",
       "status": 1,
@@ -149,30 +149,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000347058",
+            "outageDetailAttribute1": "6000045768",
             "outageDetailAttribute2": null
           },
-          "lat": 31.123206,
-          "location": "RAPIDES",
+          "lat": 32.081729,
+          "location": "DESOTO",
           "locationType": 2,
-          "lon": -92.448683,
-          "zipCode": "71346"
+          "lon": -93.809934,
+          "zipCode": "71032"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000344577",
+            "outageDetailAttribute1": "6000118631",
             "outageDetailAttribute2": null
           },
-          "lat": 31.125689,
-          "location": "RAPIDES",
+          "lat": 32.081729,
+          "location": "DESOTO",
           "locationType": 2,
-          "lon": -92.452404,
-          "zipCode": "71346"
+          "lon": -93.809934,
+          "zipCode": "71032"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118655",
+            "outageDetailAttribute2": null
+          },
+          "lat": 32.081752,
+          "location": "DESOTO",
+          "locationType": 2,
+          "lon": -93.810682,
+          "zipCode": "71032"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "10/15/2026 7:15:00 PM",
+      "endTime": "10/15/2026 9:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -180,18 +191,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105410598",
-      "lastUpdateTime": "10/15/2026 17:10:43",
-      "lat": 31.124447500000002,
-      "location": "Chambers",
+      "incidentId": "INC 8105410605",
+      "lastUpdateTime": "10/15/2026 19:20:43",
+      "lat": 32.08173666666667,
+      "location": "Water St",
       "locationType": 5,
-      "lon": -92.45054350000001,
+      "lon": -93.81018333333333,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:15",
+      "restorationTime": "21:00",
       "serviceType": 1,
-      "startTime": "10/15/2026 17:10:24",
+      "startTime": "10/15/2026 18:56:12",
       "status": 1,
       "zipCode": null
     }
