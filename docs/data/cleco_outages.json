@@ -1,67 +1,34 @@
 {
-  "cachedAtUtc": "2026-10-17T19:18:34.608371+00:00",
+  "cachedAtUtc": "2026-10-17T21:32:37.977472+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000056177",
+            "outageDetailAttribute1": "6000271986",
             "outageDetailAttribute2": null
           },
-          "lat": 31.007621,
-          "location": "AVOYELLES",
+          "lat": 31.215034,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.096499,
-          "zipCode": "71327"
+          "lon": -92.241303,
+          "zipCode": "71360"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000102174",
+            "outageDetailAttribute1": "6000088290",
             "outageDetailAttribute2": null
           },
-          "lat": 31.007803,
-          "location": "AVOYELLES",
+          "lat": 31.215622,
+          "location": "RAPIDES",
           "locationType": 2,
-          "lon": -92.096639,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000048801",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.007813,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.096626,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000331840",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.007803,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.096639,
-          "zipCode": "71327"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000339935",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.00775,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.09715,
-          "zipCode": "71327"
+          "lon": -92.240432,
+          "zipCode": "71360"
         }
       ],
-      "affectedCount": 5,
+      "affectedCount": 2,
       "description": null,
-      "endTime": "10/17/2026 3:15:00 PM",
+      "endTime": "10/17/2026 5:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -69,140 +36,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105410858",
-      "lastUpdateTime": "10/17/2026 14:05:52",
-      "lat": 31.007758000000003,
-      "location": "North Cottonport",
+      "incidentId": "INC 8105410928",
+      "lastUpdateTime": "10/17/2026 16:20:52",
+      "lat": 31.215328,
+      "location": "Ruby",
       "locationType": 5,
-      "lon": -92.09671060000001,
+      "lon": -92.24086750000001,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:15",
+      "restorationTime": "17:00",
       "serviceType": 1,
-      "startTime": "10/17/2026 09:09:37",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000212620",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.491313,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.144275,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000299846",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.49105,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.144069,
-          "zipCode": "70433"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000308808",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.491368,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.144383,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "10/17/2026 2:56:36 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105410910",
-      "lastUpdateTime": "10/17/2026 14:05:52",
-      "lat": 30.491243666666666,
-      "location": "Hammond Highway",
-      "locationType": 5,
-      "lon": -90.14424233333334,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "14:56",
-      "serviceType": 1,
-      "startTime": "10/17/2026 12:14:13",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000231544",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.38276,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.088995,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000158953",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382785,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.089007,
-          "zipCode": "70471"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000081308",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.382904,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.089111,
-          "zipCode": "70471"
-        }
-      ],
-      "affectedCount": 3,
-      "description": null,
-      "endTime": "10/17/2026 3:15:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105410917",
-      "lastUpdateTime": "10/17/2026 14:05:52",
-      "lat": 30.382816333333334,
-      "location": "St Ann",
-      "locationType": 5,
-      "lon": -90.08903766666667,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "15:15",
-      "serviceType": 1,
-      "startTime": "10/17/2026 13:13:30",
+      "startTime": "10/17/2026 14:52:03",
       "status": 1,
       "zipCode": null
     },
@@ -552,7 +397,7 @@
       ],
       "affectedCount": 31,
       "description": null,
-      "endTime": "10/17/2026 3:30:00 PM",
+      "endTime": "10/17/2026 5:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -560,8 +405,8 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105410919",
-      "lastUpdateTime": "10/17/2026 14:05:52",
+      "incidentId": "INC 8105410929",
+      "lastUpdateTime": "10/17/2026 16:20:52",
       "lat": 31.31696503225807,
       "location": "Fox Street",
       "locationType": 5,
@@ -569,9 +414,9 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:30",
+      "restorationTime": "17:15",
       "serviceType": 1,
-      "startTime": "10/17/2026 13:22:08",
+      "startTime": "10/17/2026 15:05:34",
       "status": 1,
       "zipCode": null
     },
@@ -579,52 +424,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000025066",
+            "outageDetailAttribute1": "6000125746",
             "outageDetailAttribute2": null
           },
-          "lat": 30.8236,
+          "lat": 30.760627,
           "location": "EVANGELINE",
           "locationType": 2,
-          "lon": -92.279324,
-          "zipCode": "71367"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000140352",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.823607,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.27931,
-          "zipCode": "71322"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000245155",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.8236,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.279324,
-          "zipCode": "70586"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000079547",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.8236,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.279324,
-          "zipCode": "70586"
+          "lon": -92.400338,
+          "zipCode": "70576"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "10/17/2026 3:30:00 PM",
+      "endTime": "10/17/2026 6:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -632,18 +444,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105410921",
-      "lastUpdateTime": "10/17/2026 14:05:52",
-      "lat": 30.823601749999998,
-      "location": "Morrison Corner",
+      "incidentId": "INC 8105410936",
+      "lastUpdateTime": "10/17/2026 16:20:52",
+      "lat": 30.760627,
+      "location": "Pine Prarie",
       "locationType": 5,
-      "lon": -92.27932049999998,
+      "lon": -92.400338,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "15:30",
+      "restorationTime": "18:00",
       "serviceType": 1,
-      "startTime": "10/17/2026 13:25:56",
+      "startTime": "10/17/2026 15:52:49",
       "status": 1,
       "zipCode": null
     }
