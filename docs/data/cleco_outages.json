@@ -1,56 +1,6 @@
 {
-  "cachedAtUtc": "2026-10-17T21:32:37.977472+00:00",
+  "cachedAtUtc": "2026-10-17T23:22:39.150672+00:00",
   "data": [
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000271986",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.215034,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.241303,
-          "zipCode": "71360"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000088290",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.215622,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.240432,
-          "zipCode": "71360"
-        }
-      ],
-      "affectedCount": 2,
-      "description": null,
-      "endTime": "10/17/2026 5:00:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105410928",
-      "lastUpdateTime": "10/17/2026 16:20:52",
-      "lat": 31.215328,
-      "location": "Ruby",
-      "locationType": 5,
-      "lon": -92.24086750000001,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "17:00",
-      "serviceType": 1,
-      "startTime": "10/17/2026 14:52:03",
-      "status": 1,
-      "zipCode": null
-    },
     {
       "affectedAreas": [
         {
@@ -397,7 +347,7 @@
       ],
       "affectedCount": 31,
       "description": null,
-      "endTime": "10/17/2026 5:15:00 PM",
+      "endTime": "10/17/2026 7:15:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -406,7 +356,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105410929",
-      "lastUpdateTime": "10/17/2026 16:20:52",
+      "lastUpdateTime": "10/17/2026 18:10:52",
       "lat": 31.31696503225807,
       "location": "Fox Street",
       "locationType": 5,
@@ -414,7 +364,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:15",
+      "restorationTime": "19:15",
       "serviceType": 1,
       "startTime": "10/17/2026 15:05:34",
       "status": 1,
@@ -424,19 +374,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000125746",
+            "outageDetailAttribute1": "6000149194",
             "outageDetailAttribute2": null
           },
-          "lat": 30.760627,
-          "location": "EVANGELINE",
+          "lat": 29.987312,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.400338,
-          "zipCode": "70576"
+          "lon": -91.952783,
+          "zipCode": "70560"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "10/17/2026 6:00:00 PM",
+      "endTime": "10/17/2026 6:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -444,18 +394,168 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105410936",
-      "lastUpdateTime": "10/17/2026 16:20:52",
-      "lat": 30.760627,
-      "location": "Pine Prarie",
+      "incidentId": "INC 8105410940",
+      "lastUpdateTime": "10/17/2026 18:10:52",
+      "lat": 29.987312,
+      "location": "Hwy. 675 (Hopkins)",
       "locationType": 5,
-      "lon": -92.400338,
+      "lon": -91.952783,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:00",
+      "restorationTime": "18:45",
       "serviceType": 1,
-      "startTime": "10/17/2026 15:52:49",
+      "startTime": "10/17/2026 16:41:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000228063",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.294249,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.785301,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000106146",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.294249,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.785301,
+          "zipCode": "70460"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/17/2026 8:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410941",
+      "lastUpdateTime": "10/17/2026 18:10:52",
+      "lat": 30.294249,
+      "location": "Carnation St.",
+      "locationType": 5,
+      "lon": -89.785301,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:00",
+      "serviceType": 1,
+      "startTime": "10/17/2026 17:45:38",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000294387",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.395033,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.085873,
+          "zipCode": "70448"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000191514",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.395522,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.086313,
+          "zipCode": "70471"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000101187",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.39577,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.08528,
+          "zipCode": "70471"
+        }
+      ],
+      "affectedCount": 3,
+      "description": null,
+      "endTime": "10/17/2026 8:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410942",
+      "lastUpdateTime": "10/17/2026 18:10:52",
+      "lat": 30.395441666666667,
+      "location": "Third St. Mandeville",
+      "locationType": 5,
+      "lon": -90.08582200000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:00",
+      "serviceType": 1,
+      "startTime": "10/17/2026 17:50:08",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000316828",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.308295,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.657023,
+          "zipCode": "71409"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "10/17/2026 8:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105410943",
+      "lastUpdateTime": "10/17/2026 18:10:52",
+      "lat": 31.308295,
+      "location": "Hot Wells",
+      "locationType": 5,
+      "lon": -92.657023,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:00",
+      "serviceType": 1,
+      "startTime": "10/17/2026 17:50:38",
       "status": 1,
       "zipCode": null
     }
