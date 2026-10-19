@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-18T21:54:43.477847+00:00",
+  "cachedAtUtc": "2026-10-18T23:59:59.556152+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105411081",
-      "lastUpdateTime": "10/18/2026 16:40:57",
+      "lastUpdateTime": "10/18/2026 18:45:57",
       "lat": 30.460732,
       "location": "Eighth Avenue",
       "locationType": 5,
@@ -37,45 +37,6 @@
       "restorationTime": "12:18",
       "serviceType": 1,
       "startTime": "10/18/2026 10:33:31",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000257595",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.496679,
-          "location": "ST. TAMMANY",
-          "locationType": 2,
-          "lon": -90.08954,
-          "zipCode": "70433"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/18/2026 6:30:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105411126",
-      "lastUpdateTime": "10/18/2026 16:40:57",
-      "lat": 30.496679,
-      "location": "Covington",
-      "locationType": 5,
-      "lon": -90.08954,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "18:30",
-      "serviceType": 1,
-      "startTime": "10/18/2026 16:19:49",
       "status": 1,
       "zipCode": null
     },
@@ -117,7 +78,7 @@
       ],
       "affectedCount": 3,
       "description": null,
-      "endTime": "10/18/2026 6:45:00 PM",
+      "endTime": "10/18/2026 6:06:46 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -126,7 +87,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105411127",
-      "lastUpdateTime": "10/18/2026 16:40:57",
+      "lastUpdateTime": "10/18/2026 18:45:57",
       "lat": 30.497377333333333,
       "location": "Covington",
       "locationType": 5,
@@ -134,9 +95,142 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "18:45",
+      "restorationTime": "18:06",
       "serviceType": 1,
       "startTime": "10/18/2026 16:30:26",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000188256",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.21538,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75902,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000289287",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.21526,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75859,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000104778",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.21538,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75902,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314316",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.21538,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75902,
+          "zipCode": "70461"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000266456",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.215286,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.75884,
+          "zipCode": "70461"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "10/18/2026 8:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105411136",
+      "lastUpdateTime": "10/18/2026 18:45:57",
+      "lat": 30.2153372,
+      "location": "Lakeshore Villages Pad",
+      "locationType": 5,
+      "lon": -89.75889800000002,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:30",
+      "serviceType": 1,
+      "startTime": "10/18/2026 18:28:54",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000313551",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.001839,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.861521,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000144969",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.00235,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.861808,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/18/2026 8:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105411137",
+      "lastUpdateTime": "10/18/2026 18:45:57",
+      "lat": 30.0020945,
+      "location": "Hwy. 675 (Hopkins)",
+      "locationType": 5,
+      "lon": -91.86166449999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "20:45",
+      "serviceType": 1,
+      "startTime": "10/18/2026 18:31:09",
       "status": 1,
       "zipCode": null
     }
