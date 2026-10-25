@@ -1,112 +1,161 @@
 {
-  "cachedAtUtc": "2026-10-25T19:56:22.539609+00:00",
+  "cachedAtUtc": "2026-10-25T22:25:48.405851+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000207592",
+            "outageDetailAttribute1": "6000303763",
             "outageDetailAttribute2": null
           },
-          "lat": 30.403888,
+          "lat": 30.538892,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.097158,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000112505",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.53907,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.096943,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000303738",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.538703,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.096645,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000144551",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.538907,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.096818,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000216539",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.538907,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.096818,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049503",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.538822,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.097373,
+          "zipCode": "70570"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000233706",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.538909,
+          "location": "ST. LANDRY",
+          "locationType": 2,
+          "lon": -92.096833,
+          "zipCode": "70570"
+        }
+      ],
+      "affectedCount": 7,
+      "description": null,
+      "endTime": "10/25/2026 5:45:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412252",
+      "lastUpdateTime": "10/25/2026 17:16:30",
+      "lat": 30.538887142857146,
+      "location": "Guidry Street",
+      "locationType": 5,
+      "lon": -92.09694114285715,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "17:45",
+      "serviceType": 1,
+      "startTime": "10/25/2026 15:34:05",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107128",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.245551,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -90.120776,
-          "zipCode": "70471"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/25/2026 4:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105412217",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 30.403888,
-      "location": "Sanctuary",
-      "locationType": 5,
-      "lon": -90.120776,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:45",
-      "serviceType": 1,
-      "startTime": "10/25/2026 12:44:49",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334695",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.569119,
-          "location": "EVANGELINE",
-          "locationType": 2,
-          "lon": -92.298578,
-          "zipCode": "70586"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/25/2026 2:39:48 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105412225",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 30.569119,
-      "location": "Oak Street",
-      "locationType": 5,
-      "lon": -92.298578,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "14:39",
-      "serviceType": 1,
-      "startTime": "10/25/2026 12:44:50",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000306541",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.385893,
-          "location": "RAPIDES",
-          "locationType": 2,
-          "lon": -92.355802,
-          "zipCode": "71360"
+          "lon": -89.789893,
+          "zipCode": "70458"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000336420",
+            "outageDetailAttribute1": "6000184492",
             "outageDetailAttribute2": null
           },
-          "lat": 31.38593,
-          "location": "RAPIDES",
+          "lat": 30.24575,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.35501,
-          "zipCode": "71360"
+          "lon": -89.789961,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093722",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.245537,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.790115,
+          "zipCode": "70458"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000007079",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.245622,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.790167,
+          "zipCode": "70458"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 4,
       "description": null,
-      "endTime": "10/25/2026 4:45:00 PM",
+      "endTime": "10/25/2026 6:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -114,18 +163,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105412230",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 31.3859115,
-      "location": "Beaver Creek",
+      "incidentId": "INC 8105412259",
+      "lastUpdateTime": "10/25/2026 17:16:30",
+      "lat": 30.245615,
+      "location": "Berkley Street",
       "locationType": 5,
-      "lon": -92.35540599999999,
+      "lon": -89.790034,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:45",
+      "restorationTime": "18:30",
       "serviceType": 1,
-      "startTime": "10/25/2026 12:44:51",
+      "startTime": "10/25/2026 16:25:51",
       "status": 1,
       "zipCode": null
     },
@@ -133,58 +182,3121 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000088841",
+            "outageDetailAttribute1": "6000045157",
             "outageDetailAttribute2": null
           },
-          "lat": 30.87036,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.79804,
-          "zipCode": "70638"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/25/2026 4:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105412232",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 30.87036,
-      "location": "Hwy 112 (Elizabeth Sub)",
-      "locationType": 5,
-      "lon": -92.79804,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:45",
-      "serviceType": 1,
-      "startTime": "10/25/2026 12:44:52",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000144819",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.081447,
+          "lat": 29.920105,
           "location": "IBERIA",
           "locationType": 2,
-          "lon": -91.724563,
-          "zipCode": "70563"
+          "lon": -91.660433,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000055261",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.928382,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.662181,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020866",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911163,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659324,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000211337",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911163,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659325,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166934",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.910207,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.655703,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000297990",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.942935,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.700832,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020919",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.953454,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713558,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300013",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954415,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717371,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279298",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922552,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667807,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300090",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922868,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667002,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000208039",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920787,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659669,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238157",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91846,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.664211,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000023927",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920156,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658059,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000023892",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.942103,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.694438,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049759",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.942113,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.694475,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000320259",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919295,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660509,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116091",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915699,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661242,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279428",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915945,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660494,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138631",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.951892,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71274,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279105",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952347,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.712503,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166949",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.905842,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.650545,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300039",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.95175,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.708355,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238110",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92288,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668921,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193996",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923583,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667673,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000096919",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92698,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.67421,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279374",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919705,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659187,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920322,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659088,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300241",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917698,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.663348,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000163164",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920633,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658593,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027875",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918034,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.662754,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221219",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950088,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713273,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000086593",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.939573,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.69495,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000089476",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91925,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660793,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279177",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.946217,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.697763,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261107",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91866,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.66079,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251875",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.940472,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.692047,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271615",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955908,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718298,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020934",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.945705,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.698437,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.94559,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.698032,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020926",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.95352,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.716373,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045133",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.914724,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661767,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215068",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.930587,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.678103,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000011087",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934598,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.684228,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050860",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955265,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717531,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184072",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922265,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668572,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244887",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.943595,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.694308,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000309334",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955415,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.716615,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000057861",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.914514,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.661664,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000319310",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91475,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.65981,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044766",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955001,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.719527,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044811",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952812,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.706541,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300060",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.932502,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.680171,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279224",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937067,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.67302,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300078",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923483,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668317,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044923",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.959257,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.710042,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020957",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.925188,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661583,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000103818",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915698,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661231,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000164091",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922985,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667703,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000182740",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915945,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660494,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000277953",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911741,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657357,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280239",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917381,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661831,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193617",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.942097,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.694483,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000242621",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.939953,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.691707,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000236926",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.909746,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.655808,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070665",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.95355,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.716,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070702",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955357,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.714952,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044790",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.960585,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.709599,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020939",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.94094,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.68724,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300050",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.935418,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.685288,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300069",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923461,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668322,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020947",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923359,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667318,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044946",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.941103,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.693171,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044972",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920308,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.65777,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020974",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919044,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660484,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300165",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91839,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66417,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045106",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915307,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661338,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279267",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923218,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668032,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300196",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.914724,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661767,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000148829",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92363,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.66716,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000015855",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.930397,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.677885,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000196003",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922222,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668136,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000282855",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916652,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.655544,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118122",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923289,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.666301,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070886",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916475,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659945,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193949",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.910343,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657299,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000174164",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.95921,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.710149,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302454",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956245,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718023,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070931",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918107,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661357,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.942809,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.695529,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000187776",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955066,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717262,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000177102",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923177,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.669401,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070541",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.910563,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657411,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000191401",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917698,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.663348,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000112841",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.921938,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667358,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044903",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923663,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668439,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107640",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922698,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667986,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000255530",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92079,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.666965,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045042",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917698,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.663348,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000277928",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912268,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657919,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193943",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912268,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657919,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044692",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912115,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659162,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000063971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.924062,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.66774,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020943",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922784,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667575,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070792",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922632,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667852,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020971",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920825,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658701,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279154",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955033,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71829,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000112029",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916334,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.662921,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000049778",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920352,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660445,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271898",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920813,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.666201,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000172577",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.939397,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.693893,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000060474",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955715,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718003,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000081220",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950275,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.703836,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000316564",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.939048,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.694702,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044853",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.933513,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.681778,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000297948",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.909315,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.656161,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070646",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937542,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.691075,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138679",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954307,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71622,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070715",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.939792,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.69143,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070743",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.927623,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.67481,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070757",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923359,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667318,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070833",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918042,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.663725,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118218",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916873,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.662428,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138933",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91628,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659804,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000307648",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.9405,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.692047,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238099",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923653,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66845,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000019364",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955668,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71815,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116774",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911183,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.659335,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020875",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911736,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657351,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118371",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.951893,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.712837,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166999",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950432,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.710698,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168029",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955917,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.719005,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000314221",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956373,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718667,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138655",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954765,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718134,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000128439",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955072,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717936,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118050",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934238,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.682554,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000312295",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.932497,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.680164,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118076",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.924248,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667867,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118098",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.9225,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667855,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168122",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.958795,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.711172,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000089620",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912566,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659774,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138792",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.925896,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.662749,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000220371",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.925177,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.662655,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000284345",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.925885,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.662735,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116895",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.942385,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.710272,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118197",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920858,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659283,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138910",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915899,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66134,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168222",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91657,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.663188,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193961",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.936653,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.689653,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279201",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937447,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.687058,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000146803",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923137,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668658,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000019629",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954302,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71715,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92739,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.67482,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100461",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952549,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.712637,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300174",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917363,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.662555,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300131",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919988,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657577,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020987",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920262,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660505,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118286",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.927409,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661886,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000017657",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.95091,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713361,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279131",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952549,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.712637,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045083",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916732,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661972,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000252314",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.909309,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.656168,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000160668",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.90935,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.65626,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000029917",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.914549,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.6597,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138748",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.921897,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667943,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138768",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.921891,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667944,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070867",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917807,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661475,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168180",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918845,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660378,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000261640",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91933,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66017,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168145",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955532,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718742,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138607",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.93699,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.690238,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166983",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.94627,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.706317,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168014",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954812,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.716567,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168043",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.95959,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71141,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000222279",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.9601,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.709267,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000196020",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.93185,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.678052,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168135",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955265,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717529,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168156",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920355,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658164,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000196030",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919642,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659883,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138863",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918756,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660786,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000196057",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92109,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659134,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238170",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917498,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.663238,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000029852",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.9213,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.65916,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000258229",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954196,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717263,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000280520",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.938137,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.694109,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215012",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.948922,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.71118,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193976",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954958,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717978,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238060",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.951877,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.708342,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168054",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934238,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.682554,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000307859",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919444,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659751,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000196011",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923638,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667033,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168190",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920514,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658755,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238184",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917098,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66235,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138888",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916553,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66303,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238208",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91445,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.662125,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000122592",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92245,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.667161,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251656",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.927216,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.672701,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000232045",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911084,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658455,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000065305",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911294,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658582,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300187",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917025,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661412,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213298",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912756,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659892,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000090604",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956483,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71894,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020990",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920165,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657909,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000256738",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934205,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.68263,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000207830",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.921095,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.655131,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193987",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.936677,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.686098,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238123",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922509,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.666772,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118968",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923097,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66671,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279324",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.945865,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.704888,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279350",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.925928,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660508,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000180765",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91335,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659675,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000100521",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.936677,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.686098,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118240",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91604,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66162,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000275533",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916264,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661758,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168109",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923012,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.666601,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238008",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950307,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.711814,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000118030",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.936484,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.685992,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212317",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.936212,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.685973,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000021715",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917393,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661825,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150927",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91194,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658817,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000325861",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.932681,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.677645,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193969",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.951577,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713071,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300142",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918535,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660676,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000329000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91764,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66186,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000085068",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923177,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.669401,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044566",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91475,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.65981,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000168070",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.932692,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.677635,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000338781",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91475,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.65981,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000024411",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.932992,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.677822,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000342063",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937484,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.691374,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044721",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.939997,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.695125,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279244",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.926992,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.674323,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300121",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956268,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.719503,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000339249",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.916426,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66104,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000247206",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917379,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66183,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138724",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923359,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667318,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138836",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920445,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658928,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000297938",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912903,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658275,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166919",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911842,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658996,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343920",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.9499,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713931,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343921",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.9499,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713931,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000343667",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.930777,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.67821,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238073",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.935204,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.683985,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000232236",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.921162,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.666013,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238133",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.92176,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66663,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020953",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.944845,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.707353,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300004",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.941917,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.710376,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138816",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.924193,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661419,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020961",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950976,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.627598,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000027030",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917787,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.661427,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000045018",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919752,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659853,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349949",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950322,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.711833,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000070775",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.922139,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.667483,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116920",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950306,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.711813,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349948",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.933587,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.679321,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020980",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91758,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661963,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350577",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.949951,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.713883,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020977",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91738,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661834,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349939",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.934028,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.682444,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351041",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.924182,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661428,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000088138",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.91007,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.65569,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000185553",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.940555,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.692598,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020950",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.950305,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.711812,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000193979",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952419,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.706952,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116969",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956087,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.719003,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044874",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.923962,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.668138,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005652",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.919642,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659883,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000332765",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.93221,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.6788,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000138521",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.912051,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.657797,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044741",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955715,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718003,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000325022",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.915298,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.66135,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238019",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.954624,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717114,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000236913",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.911853,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.658986,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000196038",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.918823,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.660373,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356469",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.917234,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.661533,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000238029",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956303,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717988,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000044834",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.935734,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.685131,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000286982",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.93591,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.684895,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000300025",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.956212,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.718125,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116943",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.955545,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.717052,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000357932",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.952826,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.71471,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000215104",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.921046,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.655062,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000020913",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.937118,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.690402,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000325400",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.920998,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.659773,
+          "zipCode": "70544"
         }
       ],
-      "affectedCount": 1,
+      "affectedCount": 283,
       "description": null,
-      "endTime": "10/25/2026 4:45:00 PM",
+      "endTime": "10/25/2026 6:30:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -192,18 +3304,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105412233",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 30.081447,
-      "location": "Coteau Holmes",
+      "incidentId": "INC 8105412268",
+      "lastUpdateTime": "10/25/2026 17:16:30",
+      "lat": 29.930602305263125,
+      "location": "Hubertville",
       "locationType": 5,
-      "lon": -91.724563,
+      "lon": -91.67925920350872,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "16:45",
+      "restorationTime": "18:30",
       "serviceType": 1,
-      "startTime": "10/25/2026 12:44:52",
+      "startTime": "10/25/2026 16:26:53",
       "status": 1,
       "zipCode": null
     },
@@ -211,63 +3323,63 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000075260",
+            "outageDetailAttribute1": "6000142839",
             "outageDetailAttribute2": null
           },
-          "lat": 31.384552,
-          "location": "RAPIDES",
+          "lat": 30.407702,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.157096,
-          "zipCode": "71328"
+          "lon": -90.095385,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000136704",
+            "outageDetailAttribute1": "6000181657",
             "outageDetailAttribute2": null
           },
-          "lat": 31.384319,
-          "location": "RAPIDES",
+          "lat": 30.40778,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.158565,
-          "zipCode": "71328"
+          "lon": -90.095567,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000049714",
+            "outageDetailAttribute1": "6000010143",
             "outageDetailAttribute2": null
           },
-          "lat": 31.38443,
-          "location": "RAPIDES",
+          "lat": 30.407955,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.15977,
-          "zipCode": "71360"
+          "lon": -90.095382,
+          "zipCode": "70471"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000212740",
+            "outageDetailAttribute1": "6000010235",
             "outageDetailAttribute2": null
           },
-          "lat": 31.384449,
-          "location": "RAPIDES",
+          "lat": 30.408398,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.159788,
-          "zipCode": "71328"
+          "lon": -90.095967,
+          "zipCode": "70433"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000253035",
+            "outageDetailAttribute1": "6000218835",
             "outageDetailAttribute2": null
           },
-          "lat": 31.38443,
-          "location": "RAPIDES",
+          "lat": 30.407961,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -92.15977,
-          "zipCode": "71328"
+          "lon": -90.095388,
+          "zipCode": "70471"
         }
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "10/25/2026 5:00:00 PM",
+      "endTime": "10/25/2026 7:00:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -275,57 +3387,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105412240",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 31.384436,
-      "location": "Deville",
+      "incidentId": "INC 8105412272",
+      "lastUpdateTime": "10/25/2026 17:16:30",
+      "lat": 30.4079592,
+      "location": "Third St. Mandeville",
       "locationType": 5,
-      "lon": -92.15899779999998,
+      "lon": -90.0955378,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "17:00",
+      "restorationTime": "19:00",
       "serviceType": 1,
-      "startTime": "10/25/2026 14:06:31",
-      "status": 1,
-      "zipCode": null
-    },
-    {
-      "affectedAreas": [
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000224796",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.026747,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.151919,
-          "zipCode": "71322"
-        }
-      ],
-      "affectedCount": 1,
-      "description": null,
-      "endTime": "10/25/2026 4:45:00 PM",
-      "extension": {
-        "outageAttribute1": "",
-        "outageAttribute2": null,
-        "outageAttribute3": null,
-        "outageAttribute4": null,
-        "outageAttribute5": null
-      },
-      "incidentId": "INC 8105412242",
-      "lastUpdateTime": "10/25/2026 14:46:30",
-      "lat": 31.026747,
-      "location": "Hessmer",
-      "locationType": 5,
-      "lon": -92.151919,
-      "name": null,
-      "notes": "",
-      "outageType": 2,
-      "restorationTime": "16:45",
-      "serviceType": 1,
-      "startTime": "10/25/2026 14:36:03",
+      "startTime": "10/25/2026 16:52:47",
       "status": 1,
       "zipCode": null
     }
