@@ -1,67 +1,45 @@
 {
-  "cachedAtUtc": "2026-10-27T12:13:45.339358+00:00",
+  "cachedAtUtc": "2026-10-27T18:04:34.133001+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000304513",
+            "outageDetailAttribute1": "6000066037",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483424,
-          "location": "ALLEN",
+          "lat": 30.501023,
+          "location": "ACADIA",
           "locationType": 2,
-          "lon": -92.838111,
-          "zipCode": "70648"
+          "lon": -92.43475,
+          "zipCode": "70535"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000183430",
+            "outageDetailAttribute1": "6000165760",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483424,
-          "location": "ALLEN",
+          "lat": 30.501418,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -92.838111,
-          "zipCode": "70648"
+          "lon": -92.428303,
+          "zipCode": "70535"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000098148",
+            "outageDetailAttribute1": "6000198928",
             "outageDetailAttribute2": null
           },
-          "lat": 30.483424,
-          "location": "ALLEN",
+          "lat": 30.503663,
+          "location": "ST. LANDRY",
           "locationType": 2,
-          "lon": -92.838111,
-          "zipCode": "70648"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000338171",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.48343,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.83808,
-          "zipCode": "70648"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000334828",
-            "outageDetailAttribute2": null
-          },
-          "lat": 30.48321,
-          "location": "ALLEN",
-          "locationType": 2,
-          "lon": -92.83793,
-          "zipCode": "70648"
+          "lon": -92.439513,
+          "zipCode": "70535"
         }
       ],
-      "affectedCount": 5,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "10/27/2026 9:00:00 AM",
+      "endTime": "10/27/2026 1:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -69,18 +47,1200 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105412472",
-      "lastUpdateTime": "10/27/2026 07:02:46",
-      "lat": 30.4833824,
-      "location": "Kinder",
+      "incidentId": "INC 8105412476",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.50203466666667,
+      "location": "Eunice",
       "locationType": 5,
-      "lon": -92.8380686,
+      "lon": -92.43418866666667,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "09:00",
+      "restorationTime": "13:45",
       "serviceType": 1,
-      "startTime": "10/27/2026 06:53:18",
+      "startTime": "10/27/2026 07:38:04",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034931",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330573,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392515,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000109433",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33029,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.3925,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183492",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330514,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.393318,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000245367",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330244,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.39267,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000204943",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.331053,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392662,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000245345",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330513,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.393307,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000041215",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330511,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.393305,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000293870",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330455,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.39358,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000015331",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.33233,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.39248,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000254479",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.331908,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392358,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000034906",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330713,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392775,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272610",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330882,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392577,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000109409",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.331011,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.393196,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000131163",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.332032,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392635,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.331978,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392522,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000293885",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330244,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.39267,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000090157",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.332322,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392452,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000245389",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.332305,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392532,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000204966",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.332008,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.392552,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183503",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.330244,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.39267,
+          "zipCode": "71360"
+        }
+      ],
+      "affectedCount": 20,
+      "description": null,
+      "endTime": "10/27/2026 2:15:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412487",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 31.331106499999997,
+      "location": "Pineville",
+      "locationType": 5,
+      "lon": -92.3927638,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:15",
+      "serviceType": 1,
+      "startTime": "10/27/2026 08:01:03",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000005492",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.966016,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.604558,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000284475",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.966697,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.605252,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246658",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.968681,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.605917,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000302960",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.968968,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.606075,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150505",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.22316,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.374916,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000342036",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.966693,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.60456,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000239800",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.966838,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.603248,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000349134",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.96885,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.604316,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.966507,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.604425,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000035498",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.96669,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.604566,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000353602",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.970313,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.603645,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315547",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.970313,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.603645,
+          "zipCode": "71433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000356162",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.968986,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.604436,
+          "zipCode": "71433"
+        }
+      ],
+      "affectedCount": 13,
+      "description": null,
+      "endTime": "10/27/2026 2:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412495",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.987593230769235,
+      "location": "Glenmora",
+      "locationType": 5,
+      "lon": -92.58688915384617,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:30",
+      "serviceType": 1,
+      "startTime": "10/27/2026 08:19:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124179",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.840288,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.267759,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000203295",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.839157,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.267719,
+          "zipCode": "70634"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/27/2026 2:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412496",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.8397225,
+      "location": "DeRidder",
+      "locationType": 5,
+      "lon": -93.267739,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:30",
+      "serviceType": 1,
+      "startTime": "10/27/2026 08:19:09",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000014569",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.628507,
+          "location": "EVANGELINE",
+          "locationType": 2,
+          "lon": -92.434568,
+          "zipCode": "70554"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "10/28/2026 6:01:35 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412568",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.628507,
+      "location": "Bieber",
+      "locationType": 5,
+      "lon": -92.434568,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:01",
+      "serviceType": 1,
+      "startTime": "10/27/2026 11:16:53",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000246545",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.449035,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.231588,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000150496",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.44715,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.23664,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000179152",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.446467,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.236713,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227458",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.44646,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.23675,
+          "zipCode": "71360"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000212412",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.44884,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.233055,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093032",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.446815,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.235643,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000335700",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.44827,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.23434,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000350622",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.447671,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.236807,
+          "zipCode": "71328"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000308576",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.44843,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.235157,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "10/27/2026 2:29:15 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412574",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 31.447682000000004,
+      "location": "Holloway",
+      "locationType": 5,
+      "lon": -92.2351881111111,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "14:29",
+      "serviceType": 1,
+      "startTime": "10/27/2026 11:55:54",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000204132",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.423182,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.430302,
+          "zipCode": "71405"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000011931",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.42197,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.430512,
+          "zipCode": "71405"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183239",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.420582,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.430202,
+          "zipCode": "71405"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272046",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.422417,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.430263,
+          "zipCode": "71405"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000272011",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.423175,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.429857,
+          "zipCode": "71405"
+        }
+      ],
+      "affectedCount": 5,
+      "description": null,
+      "endTime": "10/27/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412582",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 31.4222652,
+      "location": "Sherwood",
+      "locationType": 5,
+      "lon": -92.43022719999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "10/27/2026 12:47:42",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000107804",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.421267,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.430562,
+          "zipCode": "71405"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "10/27/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412583",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 31.421267,
+      "location": "Sherwood",
+      "locationType": 5,
+      "lon": -92.430562,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "10/27/2026 12:48:57",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000004894",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851611,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.29831,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000315172",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851597,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.29831,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000256462",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851662,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.297732,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000026360",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851409,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.298138,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102240",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851767,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.298545,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000102262",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851623,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.298083,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000233769",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851597,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.29831,
+          "zipCode": "70634"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000170941",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.851597,
+          "location": "BEAUREGARD",
+          "locationType": 2,
+          "lon": -93.29831,
+          "zipCode": "70634"
+        }
+      ],
+      "affectedCount": 8,
+      "description": null,
+      "endTime": "10/27/2026 3:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412584",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.851607875,
+      "location": "North Texas Street",
+      "locationType": 5,
+      "lon": -93.29821725000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "15:00",
+      "serviceType": 1,
+      "startTime": "10/27/2026 12:49:56",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000075080",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.03126,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.84246,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000175277",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.032418,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.847105,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184062",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.03074,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.85142,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000110032",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.031975,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.839957,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000184808",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.030548,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.841245,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000080415",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.032372,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.851068,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000244258",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.031573,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.84202,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022413",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.031391,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.84084,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000253582",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.031478,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.852208,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000332622",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.03209,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.85118,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000217083",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.03128,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.84114,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000270567",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.033091,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.847059,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000288139",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.033202,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.847043,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181626",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.033091,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.847059,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000183210",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.03437,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.84657,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181624",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.03413,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.84677,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000156083",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.033797,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.846958,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000213793",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.032822,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.846415,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000050390",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.034479,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.846814,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000054651",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.027405,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.839682,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000351636",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.029902,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.840864,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 21,
+      "description": null,
+      "endTime": "12/31/1899 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412585",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.032067333333334,
+      "location": "Navy Base (New Iberia)",
+      "locationType": 5,
+      "lon": -91.84551795238094,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "10/27/2026 12:52:29",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000122804",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.050568,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.871532,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000181955",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.047377,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.868266,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "12/31/1899 7:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412586",
+      "lastUpdateTime": "10/27/2026 12:52:47",
+      "lat": 30.048972499999998,
+      "location": "Morbihan",
+      "locationType": 5,
+      "lon": -91.869899,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "19:00",
+      "serviceType": 1,
+      "startTime": "10/27/2026 12:52:44",
       "status": 1,
       "zipCode": null
     }
