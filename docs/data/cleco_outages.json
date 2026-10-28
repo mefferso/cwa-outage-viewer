@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-28T01:21:56.106158+00:00",
+  "cachedAtUtc": "2026-10-28T07:04:40.318665+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -820,7 +820,7 @@
       ],
       "affectedCount": 74,
       "description": null,
-      "endTime": "10/27/2026 9:00:00 PM",
+      "endTime": "10/28/2026 3:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -829,7 +829,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105412603",
-      "lastUpdateTime": "10/27/2026 20:12:49",
+      "lastUpdateTime": "10/28/2026 01:52:50",
       "lat": 30.455014378378372,
       "location": "St. Louis Street",
       "locationType": 5,
@@ -837,10 +837,82 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "21:00",
+      "restorationTime": "03:00",
       "serviceType": 1,
       "startTime": "10/27/2026 14:53:31",
       "status": 0,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000051017",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.90934,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.759621,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000022816",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.909835,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.760183,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000151412",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.909326,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.75962,
+          "zipCode": "70544"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000271805",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.90934,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.759621,
+          "zipCode": "70544"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "10/28/2026 2:30:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105412624",
+      "lastUpdateTime": "10/28/2026 01:52:50",
+      "lat": 29.9094334,
+      "location": "Darnall Rd.",
+      "locationType": 5,
+      "lon": -91.759733,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "02:30",
+      "serviceType": 1,
+      "startTime": "10/27/2026 20:15:25",
+      "status": 1,
       "zipCode": null
     }
   ],
