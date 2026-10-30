@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-30T00:51:53.493784+00:00",
+  "cachedAtUtc": "2026-10-30T06:45:21.623697+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105412706",
-      "lastUpdateTime": "10/29/2026 19:42:58",
+      "lastUpdateTime": "10/30/2026 01:38:00",
       "lat": 31.08266,
       "location": "Marksville",
       "locationType": 5,
@@ -44,19 +44,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000279630",
+            "outageDetailAttribute1": "6000160605",
             "outageDetailAttribute2": null
           },
-          "lat": 31.055775,
-          "location": "VERNON",
+          "lat": 30.540187,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -93.252278,
-          "zipCode": "71446"
+          "lon": -90.152768,
+          "zipCode": "70435"
         }
       ],
       "affectedCount": 1,
       "description": null,
-      "endTime": "10/29/2026 9:15:00 PM",
+      "endTime": "10/30/2026 3:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -64,18 +64,90 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105412994",
-      "lastUpdateTime": "10/29/2026 19:42:58",
-      "lat": 31.055775,
-      "location": "Leesville Fort Polk",
+      "incidentId": "INC 8105413010",
+      "lastUpdateTime": "10/30/2026 01:38:00",
+      "lat": 30.540187,
+      "location": "Hwy 25",
       "locationType": 5,
-      "lon": -93.252278,
+      "lon": -90.152768,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "21:15",
+      "restorationTime": "03:45",
       "serviceType": 1,
-      "startTime": "10/29/2026 19:09:36",
+      "startTime": "10/30/2026 01:31:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194840",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.272458,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.797283,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000149296",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.2725,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.797733,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000061927",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.27234,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.797243,
+          "zipCode": "70460"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134747",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.27265,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.797384,
+          "zipCode": "70458"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "10/30/2026 3:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105413011",
+      "lastUpdateTime": "10/30/2026 01:38:00",
+      "lat": 30.272486999999998,
+      "location": "Bayou Liberty",
+      "locationType": 5,
+      "lon": -89.79741075,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "03:45",
+      "serviceType": 1,
+      "startTime": "10/30/2026 01:34:03",
       "status": 1,
       "zipCode": null
     }
