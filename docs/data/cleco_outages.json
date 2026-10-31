@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-31T08:03:22.166568+00:00",
+  "cachedAtUtc": "2026-10-31T14:29:14.957390+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105412706",
-      "lastUpdateTime": "10/31/2026 02:53:05",
+      "lastUpdateTime": "10/31/2026 09:18:06",
       "lat": 31.08266,
       "location": "Marksville",
       "locationType": 5,
@@ -44,30 +44,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000009394",
+            "outageDetailAttribute1": "6000084865",
             "outageDetailAttribute2": null
           },
-          "lat": 31.233848,
-          "location": "AVOYELLES",
+          "lat": 30.06444,
+          "location": "IBERIA",
           "locationType": 2,
-          "lon": -92.148851,
-          "zipCode": "71331"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000116903",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.233848,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -92.148851,
-          "zipCode": "71331"
+          "lon": -91.71554,
+          "zipCode": "70563"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "10/31/2026 3:15:00 AM",
+      "endTime": "10/31/2026 11:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -75,18 +64,68 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8105413098",
-      "lastUpdateTime": "10/31/2026 02:53:05",
-      "lat": 31.233848,
-      "location": "Effie",
+      "incidentId": "INC 8105413109",
+      "lastUpdateTime": "10/31/2026 09:18:06",
+      "lat": 30.06444,
+      "location": "Loreauville",
       "locationType": 5,
-      "lon": -92.148851,
+      "lon": -91.71554,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "03:15",
+      "restorationTime": "11:00",
       "serviceType": 1,
-      "startTime": "10/30/2026 23:02:14",
+      "startTime": "10/31/2026 06:55:14",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000179000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.979122,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.960714,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000348605",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.978923,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.960599,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/31/2026 10:15:03 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105413113",
+      "lastUpdateTime": "10/31/2026 09:18:06",
+      "lat": 29.979055666666667,
+      "location": "Hwy. 675 (Hopkins)",
+      "locationType": 5,
+      "lon": -91.96067566666666,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "10/31/2026 08:19:32",
       "status": 1,
       "zipCode": null
     }
