@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-10-31T01:53:28.030345+00:00",
+  "cachedAtUtc": "2026-10-31T08:03:22.166568+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -26,7 +26,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8105412706",
-      "lastUpdateTime": "10/30/2026 20:43:04",
+      "lastUpdateTime": "10/31/2026 02:53:05",
       "lat": 31.08266,
       "location": "Marksville",
       "locationType": 5,
@@ -37,6 +37,56 @@
       "restorationTime": "18:45",
       "serviceType": 1,
       "startTime": "10/28/2026 10:30:51",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000009394",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.233848,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148851,
+          "zipCode": "71331"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000116903",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.233848,
+          "location": "AVOYELLES",
+          "locationType": 2,
+          "lon": -92.148851,
+          "zipCode": "71331"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "10/31/2026 3:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8105413098",
+      "lastUpdateTime": "10/31/2026 02:53:05",
+      "lat": 31.233848,
+      "location": "Effie",
+      "locationType": 5,
+      "lon": -92.148851,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "03:15",
+      "serviceType": 1,
+      "startTime": "10/30/2026 23:02:14",
       "status": 1,
       "zipCode": null
     }
