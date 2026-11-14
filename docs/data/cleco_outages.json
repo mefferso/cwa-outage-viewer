@@ -1,56 +1,67 @@
 {
-  "cachedAtUtc": "2026-11-14T08:07:38.048109+00:00",
+  "cachedAtUtc": "2026-11-14T15:03:26.739837+00:00",
   "data": [
     {
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000089647",
+            "outageDetailAttribute1": "6000120948",
             "outageDetailAttribute2": null
           },
-          "lat": 29.753272,
-          "location": "ST. MARY",
+          "lat": 30.721357,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -91.422773,
-          "zipCode": "70522"
+          "lon": -90.082825,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000116165",
+            "outageDetailAttribute1": "6000057864",
             "outageDetailAttribute2": null
           },
-          "lat": 29.753628,
-          "location": "ST. MARY",
+          "lat": 30.721968,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -91.42279,
-          "zipCode": "70522"
+          "lon": -90.081377,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000255799",
+            "outageDetailAttribute1": "6000226791",
             "outageDetailAttribute2": null
           },
-          "lat": 29.753318,
-          "location": "ST. MARY",
+          "lat": 30.722968,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -91.422334,
-          "zipCode": "70522"
+          "lon": -90.085187,
+          "zipCode": "70438"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000347613",
+            "outageDetailAttribute1": "6000357989",
             "outageDetailAttribute2": null
           },
-          "lat": 29.753318,
-          "location": "ST. MARY",
+          "lat": 30.722968,
+          "location": "WASHINGTON",
           "locationType": 2,
-          "lon": -91.422334,
-          "zipCode": "70538"
+          "lon": -90.085187,
+          "zipCode": "70438"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000358095",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.721769,
+          "location": "WASHINGTON",
+          "locationType": 2,
+          "lon": -90.082099,
+          "zipCode": "70438"
         }
       ],
-      "affectedCount": 4,
+      "affectedCount": 5,
       "description": null,
-      "endTime": "11/14/2026 3:15:00 AM",
+      "endTime": "11/14/2026 9:34:15 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -58,18 +69,157 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8106072783",
-      "lastUpdateTime": "11/14/2026 01:57:45",
-      "lat": 29.753370800000006,
-      "location": "Wax Lake",
+      "incidentId": "INC 8106072811",
+      "lastUpdateTime": "11/14/2026 08:52:46",
+      "lat": 30.722333000000003,
+      "location": "Pine Clif (Franklinton)",
       "locationType": 5,
-      "lon": -91.42251300000001,
+      "lon": -90.08364366666667,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "03:15",
+      "restorationTime": "09:34",
       "serviceType": 1,
-      "startTime": "11/13/2026 17:12:38",
+      "startTime": "11/14/2026 07:16:01",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000251598",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.42127,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.17432,
+          "zipCode": "70447"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000099311",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.421349,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.174164,
+          "zipCode": "70447"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "11/14/2026 9:45:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106072819",
+      "lastUpdateTime": "11/14/2026 08:52:46",
+      "lat": 30.4213095,
+      "location": "Galatas Rd.",
+      "locationType": 5,
+      "lon": -90.17424199999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "09:45",
+      "serviceType": 1,
+      "startTime": "11/14/2026 07:40:05",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000011440",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.527762,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.647324,
+          "zipCode": "71417"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000093486",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.527768,
+          "location": "GRANT",
+          "locationType": 2,
+          "lon": -92.647331,
+          "zipCode": "71417"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "11/14/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106072823",
+      "lastUpdateTime": "11/14/2026 08:52:46",
+      "lat": 31.527765,
+      "location": "Futrell",
+      "locationType": 5,
+      "lon": -92.64732749999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "11/14/2026 08:04:06",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000204491",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.347372,
+          "location": "RAPIDES",
+          "locationType": 2,
+          "lon": -92.242662,
+          "zipCode": "71328"
+        }
+      ],
+      "affectedCount": 1,
+      "description": null,
+      "endTime": "11/14/2026 10:15:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106072826",
+      "lastUpdateTime": "11/14/2026 08:52:46",
+      "lat": 31.347372,
+      "location": "Shady Oaks",
+      "locationType": 5,
+      "lon": -92.242662,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "10:15",
+      "serviceType": 1,
+      "startTime": "11/14/2026 08:14:37",
       "status": 1,
       "zipCode": null
     }
