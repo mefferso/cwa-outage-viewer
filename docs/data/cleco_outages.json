@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-11-21T03:05:20.031628+00:00",
+  "cachedAtUtc": "2026-11-21T10:55:15.252586+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -125,7 +125,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106073483",
-      "lastUpdateTime": "11/20/2026 20:53:17",
+      "lastUpdateTime": "11/21/2026 04:43:18",
       "lat": 30.84393754545454,
       "location": "Coughlin",
       "locationType": 5,
@@ -210,7 +210,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "11/20/2026 9:45:00 PM",
+      "endTime": "11/21/2026 5:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -219,7 +219,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106074007",
-      "lastUpdateTime": "11/20/2026 20:53:17",
+      "lastUpdateTime": "11/21/2026 04:43:18",
       "lat": 31.394351500000003,
       "location": "Boyce",
       "locationType": 5,
@@ -227,7 +227,7 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "21:45",
+      "restorationTime": "05:45",
       "serviceType": 1,
       "startTime": "11/20/2026 09:33:34",
       "status": 1,
@@ -237,30 +237,41 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000299344",
+            "outageDetailAttribute1": "6000305789",
             "outageDetailAttribute2": null
           },
-          "lat": 30.465567,
+          "lat": 30.486795,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -89.742226,
-          "zipCode": "70452"
+          "lon": -90.069105,
+          "zipCode": "70435"
         },
         {
           "extension": {
-            "outageDetailAttribute1": "6000228744",
+            "outageDetailAttribute1": "6000025944",
             "outageDetailAttribute2": null
           },
-          "lat": 30.466563,
+          "lat": 30.487623,
           "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -89.74084,
-          "zipCode": "70452"
+          "lon": -90.068738,
+          "zipCode": "70435"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000194817",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.487197,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.069239,
+          "zipCode": "70435"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 3,
       "description": null,
-      "endTime": "11/20/2026 10:15:00 PM",
+      "endTime": "11/21/2026 6:00:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -268,18 +279,18 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8106074067",
-      "lastUpdateTime": "11/20/2026 20:53:17",
-      "lat": 30.466065,
-      "location": "South Slidell",
+      "incidentId": "INC 8106074077",
+      "lastUpdateTime": "11/21/2026 04:43:18",
+      "lat": 30.487205,
+      "location": "Covington",
       "locationType": 5,
-      "lon": -89.741533,
+      "lon": -90.06902733333332,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "22:15",
+      "restorationTime": "06:00",
       "serviceType": 1,
-      "startTime": "11/20/2026 20:04:16",
+      "startTime": "11/21/2026 03:48:10",
       "status": 1,
       "zipCode": null
     }
