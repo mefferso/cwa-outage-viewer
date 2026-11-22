@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-11-22T02:56:42.749401+00:00",
+  "cachedAtUtc": "2026-11-22T11:01:14.669055+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -125,7 +125,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106073483",
-      "lastUpdateTime": "11/21/2026 20:43:21",
+      "lastUpdateTime": "11/22/2026 04:53:23",
       "lat": 30.84393754545454,
       "location": "Coughlin",
       "locationType": 5,
@@ -210,7 +210,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "11/21/2026 9:45:00 PM",
+      "endTime": "11/22/2026 5:45:00 AM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -219,7 +219,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106074007",
-      "lastUpdateTime": "11/21/2026 20:43:21",
+      "lastUpdateTime": "11/22/2026 04:53:23",
       "lat": 31.394351500000003,
       "location": "Boyce",
       "locationType": 5,
@@ -227,9 +227,59 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "21:45",
+      "restorationTime": "05:45",
       "serviceType": 1,
       "startTime": "11/20/2026 09:33:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000077657",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.69574,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.319535,
+          "zipCode": "70392"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000024625",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.696262,
+          "location": "ST. MARY",
+          "locationType": 2,
+          "lon": -91.319815,
+          "zipCode": "70392"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "11/22/2026 6:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106074174",
+      "lastUpdateTime": "11/22/2026 04:53:23",
+      "lat": 29.696001000000003,
+      "location": "Wax Lake",
+      "locationType": 5,
+      "lon": -91.319675,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "06:00",
+      "serviceType": 1,
+      "startTime": "11/22/2026 03:53:37",
       "status": 1,
       "zipCode": null
     }
