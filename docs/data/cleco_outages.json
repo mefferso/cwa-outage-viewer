@@ -1,6 +1,78 @@
 {
-  "cachedAtUtc": "2026-11-22T23:45:32.920667+00:00",
+  "cachedAtUtc": "2026-11-23T04:04:57.089867+00:00",
   "data": [
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221839",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.322946,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.725337,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000169669",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.32297,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.725678,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000073304",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.322712,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.724628,
+          "zipCode": "70452"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000124723",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.323001,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -89.725123,
+          "zipCode": "70452"
+        }
+      ],
+      "affectedCount": 4,
+      "description": null,
+      "endTime": "11/22/2026 11:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106074220",
+      "lastUpdateTime": "11/22/2026 21:53:26",
+      "lat": 30.32290725,
+      "location": "Brown Switch Rd.",
+      "locationType": 5,
+      "lon": -89.72519150000001,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "23:00",
+      "serviceType": 1,
+      "startTime": "11/22/2026 18:53:25",
+      "status": 0,
+      "zipCode": null
+    },
     {
       "affectedAreas": [
         {
@@ -125,7 +197,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106073483",
-      "lastUpdateTime": "11/22/2026 17:33:25",
+      "lastUpdateTime": "11/22/2026 21:53:26",
       "lat": 30.84393754545454,
       "location": "Coughlin",
       "locationType": 5,
@@ -210,7 +282,7 @@
       ],
       "affectedCount": 5,
       "description": null,
-      "endTime": "11/22/2026 7:45:00 PM",
+      "endTime": "11/22/2026 11:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -219,7 +291,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106074007",
-      "lastUpdateTime": "11/22/2026 17:33:25",
+      "lastUpdateTime": "11/22/2026 21:53:26",
       "lat": 31.394351500000003,
       "location": "Boyce",
       "locationType": 5,
@@ -227,9 +299,147 @@
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "19:45",
+      "restorationTime": "23:45",
       "serviceType": 1,
       "startTime": "11/20/2026 09:33:34",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000263627",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.784437,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.621437,
+          "zipCode": "71065"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000130516",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.786602,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.62324,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000283610",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.788083,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.625392,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000321490",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.788847,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.627363,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000038315",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.788847,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.627363,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000279251",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.784678,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.623912,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000328126",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.787707,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.624009,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000227718",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.784693,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.62355,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000338173",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.787054,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.623953,
+          "zipCode": "71419"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000285611",
+            "outageDetailAttribute2": null
+          },
+          "lat": 31.786133,
+          "location": "SABINE",
+          "locationType": 2,
+          "lon": -93.622975,
+          "zipCode": "71419"
+        }
+      ],
+      "affectedCount": 10,
+      "description": null,
+      "endTime": "11/23/2026 12:00:00 AM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106074224",
+      "lastUpdateTime": "11/22/2026 21:53:26",
+      "lat": 31.786708100000006,
+      "location": "Pleasant Hill",
+      "locationType": 5,
+      "lon": -93.62431940000002,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "00:00",
+      "serviceType": 1,
+      "startTime": "11/22/2026 19:55:26",
       "status": 1,
       "zipCode": null
     }
