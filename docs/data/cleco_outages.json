@@ -1,5 +1,5 @@
 {
-  "cachedAtUtc": "2026-11-24T11:57:27.618563+00:00",
+  "cachedAtUtc": "2026-11-24T22:17:01.559549+00:00",
   "data": [
     {
       "affectedAreas": [
@@ -125,7 +125,7 @@
         "outageAttribute5": null
       },
       "incidentId": "INC 8106073483",
-      "lastUpdateTime": "11/24/2026 05:46:59",
+      "lastUpdateTime": "11/24/2026 16:02:01",
       "lat": 30.84393754545454,
       "location": "Coughlin",
       "locationType": 5,
@@ -143,30 +143,19 @@
       "affectedAreas": [
         {
           "extension": {
-            "outageDetailAttribute1": "6000097603",
+            "outageDetailAttribute1": "6000350381",
             "outageDetailAttribute2": null
           },
-          "lat": 31.19694,
-          "location": "AVOYELLES",
+          "lat": 30.472424,
+          "location": "ST. TAMMANY",
           "locationType": 2,
-          "lon": -91.73018,
-          "zipCode": "71351"
-        },
-        {
-          "extension": {
-            "outageDetailAttribute1": "6000095700",
-            "outageDetailAttribute2": null
-          },
-          "lat": 31.19691,
-          "location": "AVOYELLES",
-          "locationType": 2,
-          "lon": -91.730657,
-          "zipCode": "71351"
+          "lon": -90.181299,
+          "zipCode": "70433"
         }
       ],
-      "affectedCount": 2,
+      "affectedCount": 1,
       "description": null,
-      "endTime": "11/24/2026 7:30:00 AM",
+      "endTime": "11/24/2026 4:45:00 PM",
       "extension": {
         "outageAttribute1": "",
         "outageAttribute2": null,
@@ -174,18 +163,195 @@
         "outageAttribute4": null,
         "outageAttribute5": null
       },
-      "incidentId": "INC 8106074395",
-      "lastUpdateTime": "11/24/2026 05:46:59",
-      "lat": 31.196925,
-      "location": "Bordelonville",
+      "incidentId": "INC 8106074429",
+      "lastUpdateTime": "11/24/2026 16:02:01",
+      "lat": 30.472424,
+      "location": "Hwy 1077",
       "locationType": 5,
-      "lon": -91.7304185,
+      "lon": -90.181299,
       "name": null,
       "notes": "",
       "outageType": 2,
-      "restorationTime": "07:30",
+      "restorationTime": "16:45",
       "serviceType": 1,
-      "startTime": "11/24/2026 05:29:58",
+      "startTime": "11/24/2026 08:39:58",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000080485",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993596,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831168,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000236750",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993569,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831137,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000275157",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993596,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831168,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000166199",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993515,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831182,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000297875",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993561,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831149,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993878,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831463,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000209000",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993878,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831463,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000016518",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.993561,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831149,
+          "zipCode": "70560"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000134126",
+            "outageDetailAttribute2": null
+          },
+          "lat": 29.994045,
+          "location": "IBERIA",
+          "locationType": 2,
+          "lon": -91.831192,
+          "zipCode": "70560"
+        }
+      ],
+      "affectedCount": 9,
+      "description": null,
+      "endTime": "11/24/2026 5:30:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106074527",
+      "lastUpdateTime": "11/24/2026 16:02:01",
+      "lat": 29.993688777777777,
+      "location": "Dale St.",
+      "locationType": 5,
+      "lon": -91.83123011111111,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "17:30",
+      "serviceType": 1,
+      "startTime": "11/24/2026 15:25:16",
+      "status": 1,
+      "zipCode": null
+    },
+    {
+      "affectedAreas": [
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000290174",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.479697,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.105803,
+          "zipCode": "70433"
+        },
+        {
+          "extension": {
+            "outageDetailAttribute1": "6000221087",
+            "outageDetailAttribute2": null
+          },
+          "lat": 30.479608,
+          "location": "ST. TAMMANY",
+          "locationType": 2,
+          "lon": -90.1062,
+          "zipCode": "70433"
+        }
+      ],
+      "affectedCount": 2,
+      "description": null,
+      "endTime": "11/24/2026 6:00:00 PM",
+      "extension": {
+        "outageAttribute1": "",
+        "outageAttribute2": null,
+        "outageAttribute3": null,
+        "outageAttribute4": null,
+        "outageAttribute5": null
+      },
+      "incidentId": "INC 8106074531",
+      "lastUpdateTime": "11/24/2026 16:02:01",
+      "lat": 30.4796525,
+      "location": "Covington",
+      "locationType": 5,
+      "lon": -90.10600149999999,
+      "name": null,
+      "notes": "",
+      "outageType": 2,
+      "restorationTime": "18:00",
+      "serviceType": 1,
+      "startTime": "11/24/2026 15:49:16",
       "status": 1,
       "zipCode": null
     }
